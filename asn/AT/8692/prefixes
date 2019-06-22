@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Agrarmarkt Austria",
+            "ip": "193.46.188.0",
+            "name": "AMA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.46.188.0",
+                "prefix": "193.46.188.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.46.188.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Peeringpoint BetriebsGmbH",
+            "ip": "84.38.122.0",
+            "name": "PPG",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "84.38.112.0",
+                "prefix": "84.38.112.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "84.38.122.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Bundesrechenzentrum GmbH",
+            "ip": "85.158.224.0",
+            "name": "AT-BRZ-20050127",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "85.158.224.0",
+                "prefix": "85.158.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.158.224.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Bundesrechenzentrum GmbH",
+            "ip": "95.131.192.0",
+            "name": "AT-BRZ-20050127",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "95.131.192.0",
+                "prefix": "95.131.192.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "95.131.192.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Bundesrechenzentrum GmbH",
+            "ip": "95.131.196.0",
+            "name": "AT-BRZ-20050127",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "95.131.192.0",
+                "prefix": "95.131.192.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "95.131.196.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Bundesrechenzentrum GmbH",
+            "ip": "95.131.198.0",
+            "name": "AT-BRZ-20050127",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "95.131.192.0",
+                "prefix": "95.131.192.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "95.131.198.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Bundesrechenzentrum GmbH",
+            "ip": "95.131.199.0",
+            "name": "AT-BRZ-KASSANDRA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "95.131.192.0",
+                "prefix": "95.131.192.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "95.131.199.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Bundesrechenzentrum GmbH",
+            "ip": "2a00:4400::",
+            "name": "AT-BRZ-20101220",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:4400::",
+                "prefix": "2a00:4400::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:4400::/32",
+            "roa_status": "None"
+        }
+    ]
+}
