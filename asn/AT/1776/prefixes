@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 16,
+            "country_code": "AT",
+            "description": "Welthandelsplatz 1",
+            "ip": "137.208.0.0",
+            "name": "WU-WIEN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "137.208.0.0",
+                "prefix": "137.208.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "137.208.0.0/16",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Wirtschaftsuniversitaet Wien",
+            "ip": "2001:628:404::",
+            "name": "wuwien",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:628::",
+                "prefix": "2001:628::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:628:404::/48",
+            "roa_status": "None"
+        }
+    ]
+}
