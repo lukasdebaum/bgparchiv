@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "OMV Aktiengesellschaft",
+            "ip": "193.186.180.0",
+            "name": "OEMV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.186.180.0",
+                "prefix": "193.186.180.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.180.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "OMV Aktiengesellschaft",
+            "ip": "193.186.184.0",
+            "name": "OEMV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.186.180.0",
+                "prefix": "193.186.180.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.184.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "OMV Aktiengesellschaft",
+            "ip": "91.220.210.0",
+            "name": "ECONGAS-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.220.210.0",
+                "prefix": "91.220.210.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.220.210.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
