@@ -1,0 +1,150 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "185.63.0.0",
+            "name": "AT-SELFNET-20140707",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.63.0.0",
+                "prefix": "185.63.0.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.63.0.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "185.63.0.0",
+            "name": "AT-SELFNET-20140707",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.63.0.0",
+                "prefix": "185.63.0.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.63.0.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "37.75.136.0",
+            "name": "AT-SELFNET-20120130",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "37.75.136.0",
+                "prefix": "37.75.136.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "37.75.136.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "91.224.66.0",
+            "name": "SELFNET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.224.66.0",
+                "prefix": "91.224.66.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.224.66.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "2001:67c:2074::",
+            "name": "SELFNET6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2074::",
+                "prefix": "2001:67c:2074::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2074::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "SG Equipment Leasing Austria GmbH",
+            "ip": "2001:67c:2560::",
+            "name": "SGEF-NET6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2560::",
+                "prefix": "2001:67c:2560::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2560::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "HU",
+            "description": "SG Eskoezlizing Magyarorszag Szolgaltato Kft.",
+            "ip": "2001:67c:2c2c::",
+            "name": "SG-HU-IPv6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2c2c::",
+                "prefix": "2001:67c:2c2c::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2c2c::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "2a01:5740::",
+            "name": "AT-SELFNET-20120605",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 31,
+                "ip": "2a01:5740::",
+                "prefix": "2a01:5740::/31",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:5740::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "SelfNet Internet Ges.m.b.H.",
+            "ip": "2a01:5741::",
+            "name": "AT-SELFNET-20120605",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 31,
+                "ip": "2a01:5740::",
+                "prefix": "2a01:5740::/31",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:5741::/32",
+            "roa_status": "None"
+        }
+    ]
+}
