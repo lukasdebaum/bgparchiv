@@ -1,0 +1,150 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Catalysts GmbH",
+            "ip": "185.225.97.0",
+            "name": "CATATLNZ_DATACENTER",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.225.96.0",
+                "prefix": "185.225.96.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.225.97.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "CATATVOE_DATACENTER",
+            "ip": "185.225.98.0",
+            "name": "CATATVOE_DATACENTER",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.225.96.0",
+                "prefix": "185.225.96.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.225.98.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6DATACENTERBLOCK",
+            "ip": "2a0d:ac00:1000::",
+            "name": "CATV6DATACENTERBLOCK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00:1000::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6DATACENTERBLOCK",
+            "ip": "2a0d:ac00:1002::",
+            "name": "CATV6DATACENTERBLOCK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00:1002::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6DATACENTERBLOCK",
+            "ip": "2a0d:ac00:1006::",
+            "name": "CATV6DATACENTERBLOCK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00:1006::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6OFFICEBLOCK",
+            "ip": "2a0d:ac00:2::",
+            "name": "CATV6OFFICEBLOCK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00:2::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6OFFICEBLOCK",
+            "ip": "2a0d:ac00:6::",
+            "name": "CATV6OFFICEBLOCK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00:6::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6OFFICEBLOCK",
+            "ip": "2a0d:ac00::",
+            "name": "CATV6OFFICEBLOCK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "CATV6DATACENTERLOCS",
+            "ip": "2a0d:ac00:dc01::",
+            "name": "CATV6DATACENTERLOCS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:ac00::",
+                "prefix": "2a0d:ac00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ac00:dc01::/48",
+            "roa_status": "None"
+        }
+    ]
+}
