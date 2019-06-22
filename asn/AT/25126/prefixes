@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "TIWAG-Tiroler Wasserkraft AG",
+            "ip": "193.108.212.0",
+            "name": "TIWAG-GROUP-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.108.212.0",
+                "prefix": "193.108.212.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.108.212.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "TIWAG-Tiroler Wasserkraft AG",
+            "ip": "2001:678:528::",
+            "name": "AT-UTA-20170920",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:528::",
+                "prefix": "2001:678:528::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:528::/48",
+            "roa_status": "None"
+        }
+    ]
+}
