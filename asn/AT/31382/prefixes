@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 16,
+            "country_code": "AT",
+            "description": "Telecommunications",
+            "ip": "148.198.0.0",
+            "name": "KAPSCH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "148.198.0.0",
+                "prefix": "148.198.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "148.198.0.0/16",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Kapsch BusinessCom AG",
+            "ip": "185.140.84.0",
+            "name": "AT-KAPSCH-20160224",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.140.84.0",
+                "prefix": "185.140.84.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.140.84.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Am Europlatz 2",
+            "ip": "2001:67c:2248::",
+            "name": "KAPSCH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2248::",
+                "prefix": "2001:67c:2248::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2248::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Kapsch BusinessCom AG",
+            "ip": "2a04:c7c0::",
+            "name": "AT-KAPSCH-20150401",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:c7c0::",
+                "prefix": "2a04:c7c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:c7c0::/29",
+            "roa_status": "None"
+        }
+    ]
+}
