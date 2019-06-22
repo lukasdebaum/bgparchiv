@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Gartner KG",
+            "ip": "80.121.205.0",
+            "name": "GARTNER-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "80.120.0.0",
+                "prefix": "80.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.121.205.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "GARTNER KG",
+            "ip": "2001:678:2d8::",
+            "name": "AT-UTA-20161118",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:2d8::",
+                "prefix": "2001:678:2d8::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:2d8::/48",
+            "roa_status": "None"
+        }
+    ]
+}
