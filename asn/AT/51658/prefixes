@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "lucesem - Patrick Janesch",
+            "ip": "185.202.133.0",
+            "name": "LUCESEM-CORE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.202.132.0",
+                "prefix": "185.202.132.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.202.133.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "lucesem - Patrick Janesch",
+            "ip": "2a0a:d6c0:1::",
+            "name": "LUCESEM-CORE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0a:d6c0::",
+                "prefix": "2a0a:d6c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0a:d6c0:1::/48",
+            "roa_status": "None"
+        }
+    ]
+}
