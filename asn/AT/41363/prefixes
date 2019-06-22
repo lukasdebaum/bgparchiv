@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "DI Gabriele Maria Plutzar",
+            "ip": "185.23.0.0",
+            "name": "AT-ALPHANETWORK-20150302",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.23.0.0",
+                "prefix": "185.23.0.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.23.0.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Vienna, Austria",
+            "ip": "195.234.100.0",
+            "name": "ALPHANETWORK-INFRASTRUCTURE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.234.100.0",
+                "prefix": "195.234.100.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.234.100.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "DI Gabriele Maria Plutzar",
+            "ip": "93.92.160.0",
+            "name": "AT-ALPHANETWORK-20080131",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "93.92.160.0",
+                "prefix": "93.92.160.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "93.92.160.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
