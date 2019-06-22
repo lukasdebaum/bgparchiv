@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 16,
+            "country_code": "AT",
+            "description": "LAN University of Vienna",
+            "ip": "131.130.0.0",
+            "name": "UNIVIE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "131.130.0.0",
+                "prefix": "131.130.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "131.130.0.0/16",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna University Computer Center",
+            "ip": "192.107.232.0",
+            "name": "UNIVIE3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.107.232.0",
+                "prefix": "192.107.232.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.107.232.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna University Computer Center",
+            "ip": "192.174.64.0",
+            "name": "UNIVIE-CANCER",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.174.64.0",
+                "prefix": "192.174.64.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.174.64.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna University Computer Center",
+            "ip": "192.174.65.0",
+            "name": "UNIVIE7",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.174.65.0",
+                "prefix": "192.174.65.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.174.65.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna University Computer Center",
+            "ip": "192.174.66.0",
+            "name": "UNIVIE8",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.174.66.0",
+                "prefix": "192.174.66.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.174.66.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna University Computer Center",
+            "ip": "192.174.67.0",
+            "name": "UNIVIE9",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.174.67.0",
+                "prefix": "192.174.67.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.174.67.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 17,
+            "country_code": "AT",
+            "description": "Universitaetsstrasse 7",
+            "ip": "77.80.0.0",
+            "name": "UNIVIE-II",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "77.80.0.0",
+                "prefix": "77.80.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "77.80.0.0/17",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 31,
+            "country_code": "AT",
+            "description": "IPv6 Network for Vienna University Campus IT Services",
+            "ip": "2001:62a::",
+            "name": "UNIVIE-V6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:628::",
+                "prefix": "2001:628::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:62a::/31",
+            "roa_status": "None"
+        }
+    ]
+}
