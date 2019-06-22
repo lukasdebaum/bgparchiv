@@ -1,0 +1,86 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "A.K.I.S. GmbH",
+            "ip": "185.65.232.0",
+            "name": "AT-AKIS-20140801",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.65.232.0",
+                "prefix": "185.65.232.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.65.232.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "AtNOC Clemens Zauner e.U.",
+            "ip": "193.239.188.0",
+            "name": "CZ-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.239.188.0",
+                "prefix": "193.239.188.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.239.188.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "A.K.I.S. GmbH",
+            "ip": "95.129.200.0",
+            "name": "AT-AKIS-20090223",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "95.129.200.0",
+                "prefix": "95.129.200.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "95.129.200.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Mag. phil. Lorenz Intichar",
+            "ip": "2001:67c:1974::",
+            "name": "INTICHAR-LOCAL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:1974::",
+                "prefix": "2001:67c:1974::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:1974::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "A.K.I.S. GmbH",
+            "ip": "2a02:b18::",
+            "name": "AT-AKIS-20090309",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:b18::",
+                "prefix": "2a02:b18::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:b18::/32",
+            "roa_status": "None"
+        }
+    ]
+}
