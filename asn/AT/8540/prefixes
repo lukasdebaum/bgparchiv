@@ -1,0 +1,86 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "AMA netwoRX GmbH",
+            "ip": "185.211.216.0",
+            "name": "AT-AMANETWORX-20170706",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.211.216.0",
+                "prefix": "185.211.216.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.211.216.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "AMA netwoRX GmbH",
+            "ip": "185.228.32.0",
+            "name": "AT-AMANETWORX-1-20171025",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.228.32.0",
+                "prefix": "185.228.32.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.228.32.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "futurenet.gmbH",
+            "ip": "185.240.60.0",
+            "name": "AT-FUTURENETGMBH-20180108",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.240.60.0",
+                "prefix": "185.240.60.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.240.60.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "AMA netwoRX GmbH",
+            "ip": "2a0b:6c40::",
+            "name": "AT-AMANETWORX-20170706",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:6c40::",
+                "prefix": "2a0b:6c40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:6c40::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "futurenet.gmbH",
+            "ip": "2a0c:7380::",
+            "name": "AT-FUTURENETGMBH-20180108",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0c:7380::",
+                "prefix": "2a0c:7380::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0c:7380::/29",
+            "roa_status": "None"
+        }
+    ]
+}
