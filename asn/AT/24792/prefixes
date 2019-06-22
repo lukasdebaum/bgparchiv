@@ -1,0 +1,85 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kitznet",
+            "ip": "185.105.20.0",
+            "name": "Kitznet",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.105.20.0",
+                "prefix": "185.105.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.105.20.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kitznet",
+            "ip": "185.105.21.0",
+            "name": "Kitznet",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.105.20.0",
+                "prefix": "185.105.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.105.21.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kitznet",
+            "ip": "185.105.22.0",
+            "name": "Kitznet",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.105.20.0",
+                "prefix": "185.105.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.105.22.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kitznet",
+            "ip": "185.105.23.0",
+            "name": "Kitznet",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.105.20.0",
+                "prefix": "185.105.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.105.23.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Stadtwerke Kitzbuehel",
+            "ip": "217.14.224.0",
+            "name": "AT-KITZNET-20000904",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.14.224.0",
+                "prefix": "217.14.224.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.14.224.0/20",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
