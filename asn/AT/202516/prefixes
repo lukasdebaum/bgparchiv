@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "web-crossing GmbH",
+            "ip": "193.58.164.0",
+            "name": "AT-WEB-CROSSING-20180502",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.58.164.0",
+                "prefix": "193.58.164.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.58.164.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "web-crossing GmbH",
+            "ip": "2a0c:9540::",
+            "name": "AT-WEB-CROSSING-20180502",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a0c:9540::",
+                "prefix": "2a0c:9540::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0c:9540::/32",
+            "roa_status": "None"
+        }
+    ]
+}
