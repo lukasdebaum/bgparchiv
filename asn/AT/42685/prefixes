@@ -1,0 +1,86 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Bundeskanzleramt",
+            "ip": "78.41.144.0",
+            "name": "AT-AUSTRIA-20070813",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.41.144.0",
+                "prefix": "78.41.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.41.144.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Bundeskanzleramt Wien",
+            "ip": "78.41.144.0",
+            "name": "BKA-NET-VIE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.41.144.0",
+                "prefix": "78.41.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.41.144.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Bundeskanzleramt Wien",
+            "ip": "78.41.145.0",
+            "name": "BKA-NET-VIE2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.41.144.0",
+                "prefix": "78.41.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.41.145.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Bundeskanzleramt Wien IPv6",
+            "ip": "2a03:f080:1000::",
+            "name": "BKA-NET-IPv6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:f080::",
+                "prefix": "2a03:f080::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:f080:1000::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Bundeskanzleramt",
+            "ip": "2a03:f080::",
+            "name": "AT-AUSTRIA-20111115",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:f080::",
+                "prefix": "2a03:f080::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:f080::/32",
+            "roa_status": "None"
+        }
+    ]
+}
