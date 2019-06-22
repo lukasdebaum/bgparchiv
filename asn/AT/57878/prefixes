@@ -1,0 +1,294 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "185.177.20.0",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.177.20.0",
+                "prefix": "185.177.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.177.20.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "185.238.243.0",
+            "name": "AT-TRANSIT-KING-20180102",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.238.240.0",
+                "prefix": "185.238.240.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.238.243.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Niklas Karoly",
+            "ip": "45.84.104.0",
+            "name": "DE-NIK2-20190531",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.84.104.0",
+                "prefix": "45.84.104.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.84.104.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "My Server Networks Limited",
+            "ip": "79.143.57.0",
+            "name": "My-Server-Networks-Limited",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "79.143.48.0",
+                "prefix": "79.143.48.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.143.57.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a06:2f40::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a06:2f40::",
+                "prefix": "2a06:2f40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a06:2f40::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a06:2f44::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a06:2f40::",
+                "prefix": "2a06:2f40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a06:2f44::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a07:2dc0::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a07:2dc0::",
+                "prefix": "2a07:2dc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a07:2dc0::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a07:2dc4::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a07:2dc0::",
+                "prefix": "2a07:2dc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a07:2dc4::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0a:b500::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0a:b500::",
+                "prefix": "2a0a:b500::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0a:b500::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0a:b504::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0a:b500::",
+                "prefix": "2a0a:b500::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0a:b504::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0b:1901::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:1900::",
+                "prefix": "2a0b:1900::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:1901::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0b:1905::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:1900::",
+                "prefix": "2a0b:1900::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:1905::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 31,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0b:1906::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:1900::",
+                "prefix": "2a0b:1900::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:1906::/31",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0b:2600::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:2600::",
+                "prefix": "2a0b:2600::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:2600::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0b:2604::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:2600::",
+                "prefix": "2a0b:2600::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:2604::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0c:da02::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0c:da00::",
+                "prefix": "2a0c:da00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0c:da02::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0d:740::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:740::",
+                "prefix": "2a0d:740::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:740::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "DE",
+            "description": "Prager Connect GmbH",
+            "ip": "2a0d:744::",
+            "name": "Prager-Connect-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:740::",
+                "prefix": "2a0d:740::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:744::/30",
+            "roa_status": "None"
+        }
+    ]
+}
