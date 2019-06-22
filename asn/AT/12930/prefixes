@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "card complete Service Bank AG",
+            "ip": "128.65.128.0",
+            "name": "AT-CARDCOMPLETE-20111006",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "128.65.128.0",
+                "prefix": "128.65.128.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "128.65.128.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "card complete Service Bank AG",
+            "ip": "185.102.228.0",
+            "name": "AT-CARDCOMPLETE-20150602",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.102.228.0",
+                "prefix": "185.102.228.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.102.228.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "card complete Service Bank AG",
+            "ip": "2a03:8a80::",
+            "name": "AT-CARDCOMPLETE-20111006",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:8a80::",
+                "prefix": "2a03:8a80::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:8a80::/32",
+            "roa_status": "None"
+        }
+    ]
+}
