@@ -1,0 +1,85 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Hopfgartner-Kabelfernseh-Gesellschaft Biedermann KG",
+            "ip": "185.126.210.0",
+            "name": "AT-KTVHOPFGARTEN-20151116",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "185.126.210.0",
+                "prefix": "185.126.210.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.126.210.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Customer_Subnet",
+            "ip": "185.8.184.0",
+            "name": "Cablemodem",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.8.184.0",
+                "prefix": "185.8.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.8.184.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Customer_Subnet",
+            "ip": "185.8.185.0",
+            "name": "Cablemodem",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.8.184.0",
+                "prefix": "185.8.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.8.185.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Hopfgartner-Kabelfernseh-Gesellschaft Biedermann KG",
+            "ip": "185.8.186.0",
+            "name": "AT-KTVHOPFGARTEN-20121108",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.8.184.0",
+                "prefix": "185.8.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.8.186.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Hopfgartner-Kabelfernseh-Gesellschaft Biedermann KG",
+            "ip": "185.8.187.0",
+            "name": "AT-KTVHOPFGARTEN-20121108",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.8.184.0",
+                "prefix": "185.8.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.8.187.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
