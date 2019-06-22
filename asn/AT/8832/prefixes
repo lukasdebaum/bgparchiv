@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Netvoice Data Security GmbH",
+            "ip": "109.69.168.0",
+            "name": "AT-NETVOICE-20091015",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "109.69.168.0",
+                "prefix": "109.69.168.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.69.168.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Netvoice Data Security GmbH",
+            "ip": "2a00:1498::",
+            "name": "AT-NETVOICE-20091009",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:1498::",
+                "prefix": "2a00:1498::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:1498::/32",
+            "roa_status": "None"
+        }
+    ]
+}
