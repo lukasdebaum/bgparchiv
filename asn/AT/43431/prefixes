@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [],
+    "ipv6_prefixes": [
+        {
+            "cidr": 30,
+            "country_code": "AT",
+            "description": "NAV Communications (AT)",
+            "ip": "2a0b:1780::",
+            "name": "NAV-AT-IPV6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:1780::",
+                "prefix": "2a0b:1780::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:1780::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "AT",
+            "description": "NAV Communications (AT)",
+            "ip": "2a0b:1784::",
+            "name": "NAV-AT-IPV6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:1780::",
+                "prefix": "2a0b:1780::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:1784::/30",
+            "roa_status": "None"
+        }
+    ]
+}
