@@ -1,0 +1,246 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "192.164.161.0",
+            "name": "BILLA-C-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "192.164.160.0",
+                "prefix": "192.164.160.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.164.161.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "192.164.164.0",
+            "name": "BILLA-C-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "192.164.160.0",
+                "prefix": "192.164.160.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.164.164.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "192.164.167.0",
+            "name": "BILLA-C-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "192.164.160.0",
+                "prefix": "192.164.160.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.164.167.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "192.164.172.0",
+            "name": "BILLA-C-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "192.164.168.0",
+                "prefix": "192.164.168.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.164.172.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "192.164.173.0",
+            "name": "BILLA-C-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.164.173.0",
+                "prefix": "192.164.173.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.164.173.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "192.164.174.0",
+            "name": "BILLA-C-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "192.164.174.0",
+                "prefix": "192.164.174.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.164.174.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "static.REWE-NET",
+            "ip": "193.83.204.0",
+            "name": "REWE-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.83.0.0",
+                "prefix": "193.83.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.83.204.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "RIAG Stores",
+            "ip": "2a04:62c0::",
+            "name": "RIAG-Stores",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c0::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "RIAG Network",
+            "ip": "2a04:62c1::",
+            "name": "RIAG-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c1::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "REWE International Dienstleistungs GmbH",
+            "ip": "2a04:62c2:1::",
+            "name": "AT-REWE-INTERNATIONAL-20130910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c2:1::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "REWE International Dienstleistungs GmbH",
+            "ip": "2a04:62c2:2::",
+            "name": "AT-REWE-INTERNATIONAL-20130910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c2:2::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "REWE International Dienstleistungs GmbH",
+            "ip": "2a04:62c2:3::",
+            "name": "AT-REWE-INTERNATIONAL-20130910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c2:3::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "REWE International Dienstleistungs GmbH",
+            "ip": "2a04:62c2:4::",
+            "name": "AT-REWE-INTERNATIONAL-20130910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c2:4::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "REWE International Dienstleistungs GmbH",
+            "ip": "2a04:62c2:5::",
+            "name": "AT-REWE-INTERNATIONAL-20130910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c2:5::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "REWE International Dienstleistungs GmbH",
+            "ip": "2a04:62c2:6::",
+            "name": "AT-REWE-INTERNATIONAL-20130910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:62c0::",
+                "prefix": "2a04:62c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:62c2:6::/48",
+            "roa_status": "None"
+        }
+    ]
+}
