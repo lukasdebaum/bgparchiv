@@ -1,0 +1,85 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Greentube Internet Entertainment Solutions GmbH",
+            "ip": "185.16.76.0",
+            "name": "GREENTUBEVIENNA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.16.76.0",
+                "prefix": "185.16.76.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.16.76.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Greentube Internet Entertainment Solutions GmbH",
+            "ip": "185.16.77.0",
+            "name": "GREENTUBEVIENNA2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.16.76.0",
+                "prefix": "185.16.76.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.16.77.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "GREENTUBEVIENNA3",
+            "ip": "94.136.112.0",
+            "name": "GREENTUBEVIENNA3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "94.136.112.0",
+                "prefix": "94.136.112.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.136.112.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "GREENTUBEVIENNA4",
+            "ip": "94.136.114.0",
+            "name": "GREENTUBEVIENNA4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "94.136.112.0",
+                "prefix": "94.136.112.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.136.114.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "HR",
+            "description": "GreentubeCroatia",
+            "ip": "94.136.116.0",
+            "name": "GreentubeCroatia",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "94.136.112.0",
+                "prefix": "94.136.112.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.136.116.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
