@@ -1,0 +1,166 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "DATAplexx IT- und Telekommunikationsloesungen GmbH",
+            "ip": "185.194.144.0",
+            "name": "AT-DATAPLEXX-20170315",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.194.144.0",
+                "prefix": "185.194.144.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.194.144.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "GSS-Media KG",
+            "ip": "185.81.240.0",
+            "name": "AT-GSS-20141219",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.81.240.0",
+                "prefix": "185.81.240.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.81.240.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "ONSTAGE-Online GmbH",
+            "ip": "185.99.80.0",
+            "name": "AT-ONSTAGE-20150507",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.99.80.0",
+                "prefix": "185.99.80.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.99.80.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "ONSTAGE-Online GmbH",
+            "ip": "217.19.32.0",
+            "name": "AT-ONSTAGE-20000919",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.19.32.0",
+                "prefix": "217.19.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.19.32.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "PCS-IT",
+            "ip": "217.19.44.0",
+            "name": "PCS-NET1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.19.32.0",
+                "prefix": "217.19.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.19.44.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "ONSTAGE-Online GmbH",
+            "ip": "80.252.32.0",
+            "name": "AT-ONSTAGE-20011207",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.252.32.0",
+                "prefix": "80.252.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.252.32.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "DATAplexx IT- und Telekommunikationsloesungen GmbH",
+            "ip": "80.252.41.0",
+            "name": "IPV4-DATAPLEXX-NET1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.252.32.0",
+                "prefix": "80.252.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.252.41.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "ONSTAGE-Online GmbH",
+            "ip": "2001:1618::",
+            "name": "AT-ONSTAGE-20031029",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:1610::",
+                "prefix": "2001:1610::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:1618::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "GSS-Media KG",
+            "ip": "2a03:65e0::",
+            "name": "AT-GSS-20141218",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:65e0::",
+                "prefix": "2a03:65e0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:65e0::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "DATAplexx IT- und Telekommunikationsloesungen GmbH",
+            "ip": "2a0a:4740::",
+            "name": "AT-DATAPLEXX-20170314",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0a:4740::",
+                "prefix": "2a0a:4740::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0a:4740::/29",
+            "roa_status": "None"
+        }
+    ]
+}
