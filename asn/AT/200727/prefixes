@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Kommunalbetriebe Rinn GmbH",
+            "ip": "185.98.68.0",
+            "name": "AT-KBRINN-20150428",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.98.68.0",
+                "prefix": "185.98.68.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.98.68.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Kommunalbetriebe Rinn GmbH",
+            "ip": "2a00:7bc0::",
+            "name": "AT-KBRINN-20150428",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:7bc0::",
+                "prefix": "2a00:7bc0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:7bc0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
