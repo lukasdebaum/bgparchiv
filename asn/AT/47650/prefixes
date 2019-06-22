@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "IS-IT-ON GmbH",
+            "ip": "195.34.220.0",
+            "name": "IS-IT-ON-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.34.220.0",
+                "prefix": "195.34.220.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.34.220.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "IS-IT-ON GmbH",
+            "ip": "195.34.223.0",
+            "name": "IS-IT-ON-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.34.220.0",
+                "prefix": "195.34.220.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.34.223.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
