@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Oesterreichisches Rotes Kreuz, Landesverband Oberoesterreich",
+            "ip": "193.26.8.0",
+            "name": "RKOOE-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.26.8.0",
+                "prefix": "193.26.8.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.26.8.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Oesterreichisches Rotes Kreuz, Landesverband Oberoesterreich",
+            "ip": "91.206.102.0",
+            "name": "RKOOE2-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.102.0",
+                "prefix": "91.206.102.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.102.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Oesterreichisches Rotes Kreuz, Landesverband Oberoesterreich",
+            "ip": "91.206.103.0",
+            "name": "RKOOE2-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.102.0",
+                "prefix": "91.206.102.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.103.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
