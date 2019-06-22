@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "MUKI NET",
+            "ip": "185.202.4.0",
+            "name": "MUKI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.202.4.0",
+                "prefix": "185.202.4.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.202.4.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Miscellaneous Network",
+            "ip": "185.202.6.0",
+            "name": "Miscellaneous-Network",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.202.4.0",
+                "prefix": "185.202.4.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.202.6.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "MuKi Versicherungsverein auf Gegenseitigkeit VVaG",
+            "ip": "91.198.148.0",
+            "name": "MUKI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.198.148.0",
+                "prefix": "91.198.148.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.198.148.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "MuKi Versicherungsverein auf Gegenseitigkeit VVaG",
+            "ip": "2a0a:cdc0::",
+            "name": "AT-MUKIVERSICHERUNGSVEREI-20170504",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a0a:cdc0::",
+                "prefix": "2a0a:cdc0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0a:cdc0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
