@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Linetec GmbH",
+            "ip": "193.17.252.0",
+            "name": "LNT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.17.252.0",
+                "prefix": "193.17.252.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.17.252.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Linetec GmbH",
+            "ip": "85.232.64.0",
+            "name": "AT-LINETEC-20050411",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "85.232.64.0",
+                "prefix": "85.232.64.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.232.64.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
