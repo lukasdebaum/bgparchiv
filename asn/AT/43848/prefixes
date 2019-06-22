@@ -1,0 +1,117 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+            "ip": "185.135.16.0",
+            "name": "AT-GAMSJAEGER-20160120",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.135.16.0",
+                "prefix": "185.135.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.135.16.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "PPPoE",
+            "ip": "185.135.17.0",
+            "name": "PPPoE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.135.16.0",
+                "prefix": "185.135.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.135.17.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "OAN",
+            "ip": "185.135.18.0",
+            "name": "OAN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.135.16.0",
+                "prefix": "185.135.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.135.18.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+            "ip": "185.135.19.0",
+            "name": "AT-GAMSJAEGER-20160120",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.135.16.0",
+                "prefix": "185.135.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.135.19.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+            "ip": "85.255.144.0",
+            "name": "GAMSJAEGER1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "85.255.144.0",
+                "prefix": "85.255.144.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.255.144.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+            "ip": "85.255.156.0",
+            "name": "GAMSJAEGER1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "85.255.144.0",
+                "prefix": "85.255.144.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.255.156.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+            "ip": "85.255.157.0",
+            "name": "GAMSJAEGER1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "85.255.144.0",
+                "prefix": "85.255.144.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.255.157.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
