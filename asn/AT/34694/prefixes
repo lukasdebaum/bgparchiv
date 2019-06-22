@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Stadtwerke Woergl GmbH",
+            "ip": "185.106.188.0",
+            "name": "AT-STWW-20150630",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.106.188.0",
+                "prefix": "185.106.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.106.188.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "PROVIDER Local Registry",
+            "ip": "83.219.160.0",
+            "name": "AT-STWW-20040323",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "83.219.160.0",
+                "prefix": "83.219.160.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.219.160.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Stadtwerke Woergl GmbH",
+            "ip": "2a06:3980::",
+            "name": "AT-STWW-20150623",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a06:3980::",
+                "prefix": "2a06:3980::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a06:3980::/29",
+            "roa_status": "None"
+        }
+    ]
+}
