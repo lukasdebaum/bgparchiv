@@ -1,0 +1,118 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AT FIRSTCOLO",
+            "ip": "109.169.80.0",
+            "name": "AT-FIRSTCOLO",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "109.169.64.0",
+                "prefix": "109.169.64.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.169.80.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "DE",
+            "description": "First Colo GmbH",
+            "ip": "159.100.24.0",
+            "name": "DE-FIRSTCOLO",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "159.100.0.0",
+                "prefix": "159.100.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "159.100.24.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "SC",
+            "description": "Unit 117, Orion Mall, Palm Street",
+            "ip": "196.18.175.0",
+            "name": "NITL-BLK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "196.16.0.0",
+                "prefix": "196.16.0.0/14",
+                "rir_name": "AfriNIC"
+            },
+            "prefix": "196.18.175.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AT FIRSTCOLO",
+            "ip": "5.187.28.0",
+            "name": "AT-FIRSTCOLO",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "5.187.16.0",
+                "prefix": "5.187.16.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.187.28.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "DE",
+            "description": "First Colo GmbH",
+            "ip": "79.133.32.0",
+            "name": "DE-FIRSTCOLO-20071004",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "79.133.32.0",
+                "prefix": "79.133.32.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.133.32.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "www.first-colo.net, High Quality Hosting",
+            "ip": "79.133.43.0",
+            "name": "AT-FIRSTCOLO",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "79.133.32.0",
+                "prefix": "79.133.32.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.133.43.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "ANEXIA Internetdienstleistungs GmbH",
+            "ip": "2a00:11c0:38::",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:38::/48",
+            "roa_status": "None"
+        }
+    ]
+}
