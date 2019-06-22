@@ -1,0 +1,63 @@
+{
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS57169_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS57169_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
+            "asn": 3257,
+            "country_code": "DE",
+            "description": "GTT",
+            "name": "GTT-BACKBONE"
+        },
+        {
+            "asn": 8437,
+            "country_code": "AT",
+            "description": "Hutchison Drei Austria GmbH",
+            "name": "UTA-AS"
+        },
+        {
+            "asn": 9293,
+            "country_code": "HK",
+            "description": "NTT Com Asia Limited",
+            "name": "HKNet-vIPNet"
+        },
+        {
+            "asn": 29691,
+            "country_code": "CH",
+            "description": "Nine Internet Solutions AG",
+            "name": "NINE"
+        }
+    ],
+    "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS57169_IPv6.svg",
+    "ipv6_upstreams": [
+        {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
+            "asn": 5580,
+            "country_code": "NL",
+            "description": "Hibernia Networks (Netherlands) BV",
+            "name": "HIBERNIA"
+        },
+        {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        },
+        {
+            "asn": 9293,
+            "country_code": "HK",
+            "description": "NTT Com Asia Limited",
+            "name": "HKNet-vIPNet"
+        }
+    ]
+}
