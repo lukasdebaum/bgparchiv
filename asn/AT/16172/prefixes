@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "JET-ERP Betriebsgesellschaft mbH",
+            "ip": "193.110.94.0",
+            "name": "DSA-PI-C24",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.110.94.0",
+                "prefix": "193.110.94.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.110.94.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "JAF International Services GmbH",
+            "ip": "81.161.115.0",
+            "name": "JAF-INTERNATIONAL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "81.161.115.0",
+                "prefix": "81.161.115.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.161.115.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "CPS - IT GmbH",
+            "ip": "91.236.160.0",
+            "name": "CPS-IT-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.236.160.0",
+                "prefix": "91.236.160.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.236.160.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "JAF International Services GmbH",
+            "ip": "2001:67c:10f4::",
+            "name": "V6-JAF-INTERNATIONAL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:10f4::",
+                "prefix": "2001:67c:10f4::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:10f4::/48",
+            "roa_status": "None"
+        }
+    ]
+}
