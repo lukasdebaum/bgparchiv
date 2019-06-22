@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "PXP/X GmbH",
+            "ip": "194.88.8.0",
+            "name": "PXP-AUSTRIA-VIENNA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.88.8.0",
+                "prefix": "194.88.8.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.88.8.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "PXP/X GmbH",
+            "ip": "77.72.160.0",
+            "name": "AT-PXPAG-20070214",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "77.72.160.0",
+                "prefix": "77.72.160.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "77.72.160.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "wunderman pxp GmbH",
+            "ip": "2a02:af0::",
+            "name": "AT-PXPAG-20090305",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:af0::",
+                "prefix": "2a02:af0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:af0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
