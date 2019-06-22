@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "derStandard.at GmbH",
+            "ip": "194.116.242.0",
+            "name": "DERSTANDARD-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.116.242.0",
+                "prefix": "194.116.242.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.116.242.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "derStandard.at GmbH",
+            "ip": "2001:67c:2b50::",
+            "name": "DERSTANDARD-V6-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2b50::",
+                "prefix": "2001:67c:2b50::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2b50::/48",
+            "roa_status": "None"
+        }
+    ]
+}
