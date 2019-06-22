@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Verein Kabel-TV Gerlos",
+            "ip": "185.69.236.0",
+            "name": "AT-KTVGERLOS-20140912",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.69.236.0",
+                "prefix": "185.69.236.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.69.236.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Verein Kabel-TV Gerlos",
+            "ip": "2a03:3160::",
+            "name": "AT-KTVGERLOS-20140909",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:3160::",
+                "prefix": "2a03:3160::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:3160::/32",
+            "roa_status": "None"
+        }
+    ]
+}
