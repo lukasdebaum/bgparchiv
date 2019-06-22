@@ -1,0 +1,86 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Stadtwerke Hall in Tirol GmbH",
+            "ip": "156.67.192.0",
+            "name": "Citynet-Network4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "156.67.192.0",
+                "prefix": "156.67.192.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "156.67.192.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Stadtwerke Hall in Tirol GmbH",
+            "ip": "185.35.180.0",
+            "name": "AT-CNH-20130919",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.35.180.0",
+                "prefix": "185.35.180.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.35.180.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Stadtwerke Hall in Tirol GmbH",
+            "ip": "195.149.216.0",
+            "name": "CNH-PI",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "195.149.216.0",
+                "prefix": "195.149.216.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.149.216.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Stadtwerke Hall in Tirol GmbH",
+            "ip": "80.92.112.0",
+            "name": "AT-CNH-20050623",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.92.112.0",
+                "prefix": "80.92.112.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.92.112.0/20",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Stadtwerke Hall in Tirol GmbH",
+            "ip": "2a02:28e8::",
+            "name": "AT-CNH-20101109",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:28e8::",
+                "prefix": "2a02:28e8::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:28e8::/32",
+            "roa_status": "None"
+        }
+    ]
+}
