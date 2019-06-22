@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "ACP Business Applications GmbH",
+            "ip": "185.49.54.0",
+            "name": "AT-ACPBAO-20140227",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.49.52.0",
+                "prefix": "185.49.52.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.49.54.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "ACP IT Solutions GmbH",
+            "ip": "194.0.230.0",
+            "name": "ACP-AT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.0.230.0",
+                "prefix": "194.0.230.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.0.230.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
