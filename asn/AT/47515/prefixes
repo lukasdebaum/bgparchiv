@@ -1,0 +1,102 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Einsatzleitsystem der Bundespolizeidirektion Wien",
+            "ip": "193.187.2.0",
+            "name": "BPDION-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.187.2.0",
+                "prefix": "193.187.2.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.2.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Einsatzleitsystem der Bundespolizeidirektion Wien",
+            "ip": "193.187.3.0",
+            "name": "BPDION-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.187.2.0",
+                "prefix": "193.187.2.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.3.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Bundesministerium fuer Inneres, Sektion IV",
+            "ip": "78.41.148.0",
+            "name": "BMI-IV-NET-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.41.144.0",
+                "prefix": "78.41.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.41.148.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Bundesministerium fuer Inneres, Sektion IV",
+            "ip": "78.41.149.0",
+            "name": "BMI-IV-NET-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.41.144.0",
+                "prefix": "78.41.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.41.149.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "BMI IV NET 3",
+            "ip": "78.41.150.0",
+            "name": "BMI-IV-NET-3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.41.144.0",
+                "prefix": "78.41.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.41.150.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Bundesministerium fuer Inneres IPv6",
+            "ip": "2a03:f080:1800::",
+            "name": "BMI-IV-NET-IPv6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:f080::",
+                "prefix": "2a03:f080::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:f080:1800::/48",
+            "roa_status": "None"
+        }
+    ]
+}
