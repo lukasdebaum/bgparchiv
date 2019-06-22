@@ -1,0 +1,262 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Kabel-TV Gmunden, E. Stadlmayr Gesellschaft m.b.H.",
+            "ip": "185.148.236.0",
+            "name": "AT-KABELTVGMUNDEN-20160422",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.148.236.0",
+                "prefix": "185.148.236.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.148.236.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Ebit GmbH",
+            "ip": "185.54.208.0",
+            "name": "LINZNET-CUST-EBIT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.54.208.0",
+                "prefix": "185.54.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.54.208.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "LinzNet Internet Service Provider GmbH",
+            "ip": "185.54.209.0",
+            "name": "AT-LINZNET-20041217",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.54.208.0",
+                "prefix": "185.54.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.54.209.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "LinzNet GmbH Network Frankfurt",
+            "ip": "185.54.210.0",
+            "name": "AT-LINZNET-GER",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.54.208.0",
+                "prefix": "185.54.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.54.210.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Design Center Linz Betriebsgesellschaft m.b.H.",
+            "ip": "193.187.252.0",
+            "name": "DCL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.187.252.0",
+                "prefix": "193.187.252.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.252.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Design Center Linz Betriebsgesellschaft m.b.H.",
+            "ip": "193.187.254.0",
+            "name": "DCL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.187.254.0",
+                "prefix": "193.187.254.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.254.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Design Center Linz Betriebsgesellschaft m.b.H.",
+            "ip": "193.46.100.0",
+            "name": "DCL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.46.100.0",
+                "prefix": "193.46.100.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.46.100.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Design Center Linz Betriebsgesellschaft m.b.H.",
+            "ip": "193.46.101.0",
+            "name": "DCL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.46.100.0",
+                "prefix": "193.46.100.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.46.101.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Design Center Linz Betriebsgesellschaft m.b.H.",
+            "ip": "193.46.102.0",
+            "name": "DCL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.46.100.0",
+                "prefix": "193.46.100.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.46.102.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "LinzNet Internet Service Provider GmbH",
+            "ip": "80.66.32.0",
+            "name": "AT-LINZNET-20010516",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.66.32.0",
+                "prefix": "80.66.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.66.32.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "LinzNet Internet Service Provider GmbH",
+            "ip": "85.193.128.0",
+            "name": "AT-LINZNET-20041217",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "85.193.128.0",
+                "prefix": "85.193.128.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.193.128.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Thomas Dorn",
+            "ip": "91.206.236.0",
+            "name": "XIDEVELOPMENT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.236.0",
+                "prefix": "91.206.236.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.236.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Thomas Dorn",
+            "ip": "91.206.237.0",
+            "name": "XIDEVELOPMENT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.236.0",
+                "prefix": "91.206.236.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.237.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Kabel-TV Gmunden, E. Stadlmayr Gesellschaft m.b.H.",
+            "ip": "91.233.12.0",
+            "name": "CATVGM-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.233.12.0",
+                "prefix": "91.233.12.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.233.12.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kabel-TV Gmunden, E. Stadlmayr Gesellschaft m.b.H.",
+            "ip": "91.233.7.0",
+            "name": "CATVGM-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.233.7.0",
+                "prefix": "91.233.7.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.233.7.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "LinzNet Internet Service Provider GmbH",
+            "ip": "2a00:eb40::",
+            "name": "AT-LINZNET-20120501",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:eb40::",
+                "prefix": "2a00:eb40::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:eb40::/32",
+            "roa_status": "None"
+        }
+    ]
+}
