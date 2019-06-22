@@ -1,0 +1,102 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "GRZ IT Center GmbH",
+            "ip": "193.110.129.0",
+            "name": "GRZ-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.110.129.0",
+                "prefix": "193.110.129.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.110.129.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Raiffeisenverband Salzburg GenmbH",
+            "ip": "193.17.222.0",
+            "name": "RVS-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.17.222.0",
+                "prefix": "193.17.222.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.17.222.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "GRZ IT Center GmbH",
+            "ip": "193.228.16.0",
+            "name": "GRZ-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "193.228.16.0",
+                "prefix": "193.228.16.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.16.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "GRZ IT Center GmbH",
+            "ip": "194.116.224.0",
+            "name": "GRZ-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.116.224.0",
+                "prefix": "194.116.224.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.116.224.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "GRZ IT Center GmbH",
+            "ip": "194.37.240.0",
+            "name": "GRZ-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "194.37.240.0",
+                "prefix": "194.37.240.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.37.240.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "GRZ IT Center Linz GmbH",
+            "ip": "2001:67c:2204::",
+            "name": "GRZ-IPV6-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2204::",
+                "prefix": "2001:67c:2204::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2204::/48",
+            "roa_status": "None"
+        }
+    ]
+}
