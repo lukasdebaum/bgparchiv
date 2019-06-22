@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "SVC Sozialversicherungs-Chipkarten Betriebs- und ErrichtungsGmbH",
+            "ip": "212.183.22.0",
+            "name": "SVC-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "212.183.0.0",
+                "prefix": "212.183.0.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.183.22.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Sozialversicherungs-Chipkarten Betriebs- und Errichtungsgesellschaft m.b.H - SVC",
+            "ip": "2001:67c:252c::",
+            "name": "SVC-IPV6-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:252c::",
+                "prefix": "2001:67c:252c::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:252c::/48",
+            "roa_status": "None"
+        }
+    ]
+}
