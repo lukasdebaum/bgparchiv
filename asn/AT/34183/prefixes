@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Bundesministerium f. Gesundheit",
+            "ip": "185.117.40.0",
+            "name": "AT-BMG-20150914",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.117.40.0",
+                "prefix": "185.117.40.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.117.40.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Bundesministerium f. Gesundheit",
+            "ip": "194.48.236.0",
+            "name": "BMG-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "194.48.236.0",
+                "prefix": "194.48.236.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.48.236.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Bundesministerium f. Gesundheit",
+            "ip": "2a00:1610::",
+            "name": "AT-BMG-20091106",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a00:1610::",
+                "prefix": "2a00:1610::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:1610::/29",
+            "roa_status": "None"
+        }
+    ]
+}
