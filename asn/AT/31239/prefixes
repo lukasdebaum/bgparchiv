@@ -1,0 +1,69 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Johann Baldermann",
+            "ip": "195.225.236.0",
+            "name": "VIENNAWEB",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.225.236.0",
+                "prefix": "195.225.236.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.225.236.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "AZISTA GmbH",
+            "ip": "78.40.208.0",
+            "name": "AC-NETWORKS-2018",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.40.208.0",
+                "prefix": "78.40.208.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.40.208.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AZISTA GmbH",
+            "ip": "78.40.212.0",
+            "name": "AZISTA-VIE23-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "78.40.208.0",
+                "prefix": "78.40.208.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.40.212.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Internet Viennaweb Service GmbH",
+            "ip": "89.31.128.0",
+            "name": "AT-VIENNAWEB-20060908",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "89.31.128.0",
+                "prefix": "89.31.128.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "89.31.128.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
