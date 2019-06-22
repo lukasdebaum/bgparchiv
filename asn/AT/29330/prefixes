@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "next layer Core 2",
+            "ip": "217.175.206.0",
+            "name": "NEXTLAYER-CORE2-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.175.192.0",
+                "prefix": "217.175.192.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.175.206.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "next layer Core 2",
+            "ip": "2a01:190:15e8::",
+            "name": "NEXTLAYER-CORE2-V6-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a01:190::",
+                "prefix": "2a01:190::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:190:15e8::/48",
+            "roa_status": "None"
+        }
+    ]
+}
