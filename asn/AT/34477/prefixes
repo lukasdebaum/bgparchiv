@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "NetMan Network Management and IT Services GmbH",
+            "ip": "185.106.48.0",
+            "name": "AT-NET-MAN-20150625",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.106.48.0",
+                "prefix": "185.106.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.106.48.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "NetMan Network Management and IT Services GmbH",
+            "ip": "193.228.227.0",
+            "name": "NETMAN-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.228.227.0",
+                "prefix": "193.228.227.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.227.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "NetMan Network Management and IT Services GmbH",
+            "ip": "2a06:3c40::",
+            "name": "AT-NET-MAN-20150625",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a06:3c40::",
+                "prefix": "2a06:3c40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a06:3c40::/29",
+            "roa_status": "None"
+        }
+    ]
+}
