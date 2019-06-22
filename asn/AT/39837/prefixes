@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+            "ip": "185.130.252.0",
+            "name": "AT-MUR-20151211",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.130.252.0",
+                "prefix": "185.130.252.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.130.252.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+            "ip": "89.106.208.0",
+            "name": "AT-MUR-20060410",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "89.106.208.0",
+                "prefix": "89.106.208.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "89.106.208.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "mur.at - Verein zur Foerderung von Netzwerkkunst",
+            "ip": "2a02:3e0::",
+            "name": "AT-MUR-20080523",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:3e0::",
+                "prefix": "2a02:3e0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:3e0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
