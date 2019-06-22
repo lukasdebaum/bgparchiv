@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Rechenzentrum",
+            "ip": "193.186.72.0",
+            "name": "AT-STW-19930215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.186.72.0",
+                "prefix": "193.186.72.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.72.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Rechenzentrum",
+            "ip": "193.186.80.0",
+            "name": "AT-STW-19930215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.186.80.0",
+                "prefix": "193.186.80.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.80.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Rechenzentrum",
+            "ip": "193.186.84.0",
+            "name": "AT-STW-19930215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.186.80.0",
+                "prefix": "193.186.80.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.84.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Stadtwerke Klagenfurt AG",
+            "ip": "193.228.112.0",
+            "name": "AT-STW-19950609",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.228.112.0",
+                "prefix": "193.228.112.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.112.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Stadtwerke Klagenfurt AG",
+            "ip": "193.228.120.0",
+            "name": "AT-STW-19950609",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.228.120.0",
+                "prefix": "193.228.120.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.120.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Raiffeisenverband",
+            "ip": "193.228.122.0",
+            "name": "RAIFFEISEN-STW-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.228.122.0",
+                "prefix": "193.228.122.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.122.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Stadtwerke Klagenfurt AG",
+            "ip": "80.80.240.0",
+            "name": "AT-STW-20050404",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.80.240.0",
+                "prefix": "80.80.240.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.80.240.0/20",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Stadtwerke Klagenfurt AG",
+            "ip": "2a01:af80::",
+            "name": "AT-STW-20110705",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:af80::",
+                "prefix": "2a01:af80::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:af80::/32",
+            "roa_status": "None"
+        }
+    ]
+}
