@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "ip": "194.107.140.0",
+            "name": "AT-POWERSPEED",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.107.140.0",
+                "prefix": "194.107.140.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.107.140.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "ip": "195.189.198.0",
+            "name": "EAG-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.189.198.0",
+                "prefix": "195.189.198.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.189.198.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "ip": "195.189.199.0",
+            "name": "EAG-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.189.198.0",
+                "prefix": "195.189.198.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.189.199.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "ip": "2a00:4680::",
+            "name": "AT-ENERGIEAG-20110426",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:4680::",
+                "prefix": "2a00:4680::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:4680::/32",
+            "roa_status": "None"
+        }
+    ]
+}
