@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "CASHPOINT Solutions GmbH",
+            "ip": "185.215.28.0",
+            "name": "AT-CASHPOINT-20170727",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.215.28.0",
+                "prefix": "185.215.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.215.28.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "BE",
+            "description": "CASHPOINT BELGIUM",
+            "ip": "185.215.29.0",
+            "name": "CASHPOINT-BELGIUM",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.215.28.0",
+                "prefix": "185.215.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.215.29.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DK",
+            "description": "CASHPOINT DENMARK",
+            "ip": "185.215.30.0",
+            "name": "CASHPOINT-DENMARK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.215.28.0",
+                "prefix": "185.215.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.215.30.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "ZA",
+            "description": "CASHPOINT AFRIKA",
+            "ip": "185.215.31.0",
+            "name": "CASHPOINT-AFRIKA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.215.28.0",
+                "prefix": "185.215.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.215.31.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "CASHPOINT Solutions GmbH",
+            "ip": "193.105.168.0",
+            "name": "CASHPOINT-FRANKFURT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.105.168.0",
+                "prefix": "193.105.168.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.105.168.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "CASHPOINT Solutions GmbH",
+            "ip": "195.78.98.0",
+            "name": "CASHPOINT-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.78.98.0",
+                "prefix": "195.78.98.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.78.98.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "ZA",
+            "description": "CASHPOINT ZA NET",
+            "ip": "2a0b:a2c0:1000::",
+            "name": "CASHPOINT-ZA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:a2c0::",
+                "prefix": "2a0b:a2c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:a2c0:1000::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Cashpoint Agentur & IT-Service GmbH",
+            "ip": "2a0b:a2c0::",
+            "name": "AT-CASHPOINT-20170727",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:a2c0::",
+                "prefix": "2a0b:a2c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:a2c0::/29",
+            "roa_status": "None"
+        }
+    ]
+}
