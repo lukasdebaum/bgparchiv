@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "yelster digital gmbh",
+            "ip": "81.16.155.0",
+            "name": "YELSTERDIGITAL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.16.144.0",
+                "prefix": "81.16.144.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.16.155.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "yelster digital gmbh",
+            "ip": "81.16.156.0",
+            "name": "YELSTER-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.16.144.0",
+                "prefix": "81.16.144.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.16.156.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "yelster digital gmbh",
+            "ip": "91.206.112.0",
+            "name": "YELSTER-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.112.0",
+                "prefix": "91.206.112.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.112.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
