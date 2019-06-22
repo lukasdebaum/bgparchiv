@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "IT-Services der Sozialversicherung GmbH",
+            "ip": "193.228.100.0",
+            "name": "ITSV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.228.100.0",
+                "prefix": "193.228.100.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.100.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Hauptverband der oesterreichischen Sozialversicherungstraeger",
+            "ip": "194.153.217.0",
+            "name": "SOZVERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.153.217.0",
+                "prefix": "194.153.217.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.153.217.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "IT-Services der Sozialversicherung GmbH",
+            "ip": "2a01:190:15ed::",
+            "name": "ITSV-V6-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a01:190::",
+                "prefix": "2a01:190::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:190:15ed::/48",
+            "roa_status": "None"
+        }
+    ]
+}
