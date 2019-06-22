@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "fonira Telekom GmbH",
+            "ip": "178.251.64.0",
+            "name": "AT-FONIRA-20100621",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.64.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "185.17.12.0",
+            "name": "AT-FONIRA-20130125",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.17.12.0",
+                "prefix": "185.17.12.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.17.12.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "ACW - Netzwerk Produkte & Dienste GmbH",
+            "ip": "217.116.176.0",
+            "name": "AT-ACW-20031216",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.116.176.0",
+                "prefix": "217.116.176.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.116.176.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "91.206.8.0",
+            "name": "AT-FONIRA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.8.0",
+                "prefix": "91.206.8.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.8.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "mediainvent Service GmbH",
+            "ip": "2a02:1748::",
+            "name": "AT-MEDIAINVENT-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL-Customers",
+            "ip": "2a02:2b10:3::",
+            "name": "DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:3::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 37,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4000::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4000::/37",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL-Customers",
+            "ip": "2a02:2b10:5::",
+            "name": "DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:5::/48",
+            "roa_status": "None"
+        }
+    ]
+}
