@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Alpha Medien Service GmbH",
+            "ip": "193.187.10.0",
+            "name": "ALPHA-MEDIEN-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.187.4.0",
+                "prefix": "193.187.4.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.10.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Alpha Medien Service GmbH",
+            "ip": "193.187.4.0",
+            "name": "ALPHA-MEDIEN-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.187.4.0",
+                "prefix": "193.187.4.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.4.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Alpha Medien Service GmbH",
+            "ip": "193.187.9.0",
+            "name": "ALPHA-MEDIEN-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.187.4.0",
+                "prefix": "193.187.4.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.9.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
