@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "crossip communications gmbh",
+            "ip": "89.207.144.0",
+            "name": "AT-XIP-20060626",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "89.207.144.0",
+                "prefix": "89.207.144.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "89.207.144.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "SIPit Kommunikationsmanagement GmbH",
+            "ip": "2001:67c:139c::",
+            "name": "SIPIT-NET6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:139c::",
+                "prefix": "2001:67c:139c::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:139c::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "crossip communications gmbh",
+            "ip": "2a02:2410::",
+            "name": "AT-XIP-20100914",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2410::",
+                "prefix": "2a02:2410::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2410::/32",
+            "roa_status": "None"
+        }
+    ]
+}
