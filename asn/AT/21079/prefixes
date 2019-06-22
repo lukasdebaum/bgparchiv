@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 16,
+            "country_code": "AT",
+            "description": "Oesterreichische Kontrollbank Aktiengesellschaft",
+            "ip": "143.245.0.0",
+            "name": "OEKBLAN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "143.245.0.0",
+                "prefix": "143.245.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "143.245.0.0/16",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AE",
+            "description": "Oxydo-MMS FZ-LLC",
+            "ip": "194.50.183.0",
+            "name": "OXYDO-MMS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.50.183.0",
+                "prefix": "194.50.183.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.50.183.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Oesterreichische Kontrollbank Aktiengesellschaft",
+            "ip": "2001:67c:2208::",
+            "name": "OEKB-V6-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2208::",
+                "prefix": "2001:67c:2208::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2208::/48",
+            "roa_status": "None"
+        }
+    ]
+}
