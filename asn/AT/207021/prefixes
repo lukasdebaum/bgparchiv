@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "ipcom GmbH",
+            "ip": "176.97.158.0",
+            "name": "IPCOM-SERVICE-V4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "176.97.158.0",
+                "prefix": "176.97.158.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "176.97.158.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "SE",
+            "description": "ANYCAST CLOUD_2",
+            "ip": "185.167.176.0",
+            "name": "ANYCAST-CLOUD_2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.167.176.0",
+                "prefix": "185.167.176.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.167.176.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "TLDBOX GmbH",
+            "ip": "185.80.189.0",
+            "name": "AT-TLDBOX-20141209",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.80.188.0",
+                "prefix": "185.80.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.80.189.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "nic.at GmbH",
+            "ip": "194.0.25.0",
+            "name": "NIC-AT-ANYCAST-V4-3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.0.25.0",
+                "prefix": "194.0.25.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.0.25.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "nic.at GmbH",
+            "ip": "2001:678:20::",
+            "name": "NIC-AT-ANYCAST-V6-3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:20::",
+                "prefix": "2001:678:20::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:20::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "ipcom GmbH",
+            "ip": "2001:67c:10b8::",
+            "name": "IPCOM-SERVICE-V6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:10b8::",
+                "prefix": "2001:67c:10b8::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:10b8::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "TLDBOX GmbH",
+            "ip": "2a05:7f00:189::",
+            "name": "AT-TLDBOX-20141209",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:7f00::",
+                "prefix": "2a05:7f00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:7f00:189::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "SE",
+            "description": "AB Name ISP",
+            "ip": "2a0b:8e00:1::",
+            "name": "SE-NAMEISP-20160913",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:8e00::",
+                "prefix": "2a0b:8e00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:8e00:1::/48",
+            "roa_status": "None"
+        }
+    ]
+}
