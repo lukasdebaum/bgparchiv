@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Antares-NetlogiX Netzwerkberatung GmbH",
+            "ip": "185.55.160.0",
+            "name": "AT-ANTARES-NETLOGIX-20180123",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.55.160.0",
+                "prefix": "185.55.160.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.55.160.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Antares-NetlogiX Netzwerkberatung GmbH",
+            "ip": "2a0c:ec80::",
+            "name": "AT-ANTARES-NETLOGIX-20180123",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a0c:ec80::",
+                "prefix": "2a0c:ec80::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0c:ec80::/32",
+            "roa_status": "None"
+        }
+    ]
+}
