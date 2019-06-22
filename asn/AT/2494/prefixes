@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 16,
+            "country_code": "AT",
+            "description": "Spitalgasse 23",
+            "ip": "149.148.0.0",
+            "name": "MUWNET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "149.148.0.0",
+                "prefix": "149.148.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "149.148.0.0/16",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Medical University Vienna",
+            "ip": "2001:67c:27c::",
+            "name": "MUWNET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:27c::",
+                "prefix": "2001:67c:27c::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:27c::/48",
+            "roa_status": "None"
+        }
+    ]
+}
