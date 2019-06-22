@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna International Centre",
+            "ip": "193.138.94.0",
+            "name": "UNOV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.138.94.0",
+                "prefix": "193.138.94.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.138.94.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "United Nations Office at Vienna",
+            "ip": "83.68.138.0",
+            "name": "UNOV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "83.68.128.0",
+                "prefix": "83.68.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.68.138.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "United Nations Office at Vienna",
+            "ip": "2a01:190:15ee::",
+            "name": "UNOV-V6-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a01:190::",
+                "prefix": "2a01:190::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:190:15ee::/48",
+            "roa_status": "None"
+        }
+    ]
+}
