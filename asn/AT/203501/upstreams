@@ -1,0 +1,39 @@
+{
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS203501_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS203501_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
+            "asn": 6461,
+            "country_code": "US",
+            "description": "Zayo Bandwidth",
+            "name": "ZAYO-6461"
+        },
+        {
+            "asn": 199236,
+            "country_code": "AT",
+            "description": "Emarsys eMarketing Systems AG",
+            "name": "EMARSYS-AS"
+        }
+    ],
+    "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS203501_IPv6.svg",
+    "ipv6_upstreams": [
+        {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
+            "asn": 6461,
+            "country_code": "US",
+            "description": "Zayo Bandwidth",
+            "name": "ZAYO-6461"
+        }
+    ]
+}
