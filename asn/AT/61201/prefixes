@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Hohere technische Bundeslehranstalt Klagenfurt",
+            "ip": "193.36.189.0",
+            "name": "HTBLA-KLU",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.36.189.0",
+                "prefix": "193.36.189.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.36.189.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a00:eb0:100::",
+            "name": "AT-OJA-20081114",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:eb0::",
+                "prefix": "2a00:eb0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:eb0:100::/48",
+            "roa_status": "None"
+        }
+    ]
+}
