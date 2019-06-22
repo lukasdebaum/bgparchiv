@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Riepert Informationstechnologie OG",
+            "ip": "185.145.16.0",
+            "name": "AT-RIEPERT1-20190205",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.145.16.0",
+                "prefix": "185.145.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.145.16.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Riepert Informationstechnologie OG",
+            "ip": "185.89.160.0",
+            "name": "AT-RIEPERT-20150225",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.89.160.0",
+                "prefix": "185.89.160.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.89.160.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Riepert Informationstechnologie OG",
+            "ip": "2a05:d9c0::",
+            "name": "AT-RIEPERT-20150225",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:d9c0::",
+                "prefix": "2a05:d9c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:d9c0::/29",
+            "roa_status": "None"
+        }
+    ]
+}
