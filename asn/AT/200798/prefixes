@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Niederoesterreichischer Landesfeuerwehrverband",
+            "ip": "185.95.208.0",
+            "name": "AT-NOE-LFWV-20150413",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.95.208.0",
+                "prefix": "185.95.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.95.208.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "NET NOE LFWV DC1",
+            "ip": "185.95.209.0",
+            "name": "NET-NOE-LFWV-DC1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.95.208.0",
+                "prefix": "185.95.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.95.209.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "NET NOE LFWV DC2",
+            "ip": "185.95.210.0",
+            "name": "NET-NOE-LFWV-DC2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.95.208.0",
+                "prefix": "185.95.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.95.210.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
