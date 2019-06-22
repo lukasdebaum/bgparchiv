@@ -1,0 +1,85 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "ISP4U GmbH",
+            "ip": "46.183.188.0",
+            "name": "AT-ISP4U-20180615",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "46.183.188.0",
+                "prefix": "46.183.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.183.188.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "isp4u",
+            "ip": "46.183.188.0",
+            "name": "isp4u",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "46.183.188.0",
+                "prefix": "46.183.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.183.188.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "isp4u",
+            "ip": "46.183.189.0",
+            "name": "isp4u",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "46.183.188.0",
+                "prefix": "46.183.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.183.189.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "isp4u",
+            "ip": "46.183.190.0",
+            "name": "isp4u",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "46.183.188.0",
+                "prefix": "46.183.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.183.190.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "isp4u",
+            "ip": "46.183.191.0",
+            "name": "isp4u",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "46.183.188.0",
+                "prefix": "46.183.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.183.191.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
