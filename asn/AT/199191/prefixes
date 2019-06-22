@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Klausner Trading International GmbH",
+            "ip": "176.124.249.0",
+            "name": "KLAUSNER-PI",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "176.124.249.0",
+                "prefix": "176.124.249.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "176.124.249.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Klausner Trading International GmbH",
+            "ip": "2001:67c:10bc::",
+            "name": "KLAUSNER-PI",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:10bc::",
+                "prefix": "2001:67c:10bc::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:10bc::/48",
+            "roa_status": "None"
+        }
+    ]
+}
