@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "x-tention Informationstechnologie GmbH",
+            "ip": "193.228.94.0",
+            "name": "XT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.228.94.0",
+                "prefix": "193.228.94.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.94.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "x-tention Informationstechnologie GmbH",
+            "ip": "193.228.96.0",
+            "name": "XT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.228.94.0",
+                "prefix": "193.228.94.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.228.96.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
