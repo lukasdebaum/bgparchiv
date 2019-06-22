@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Skidata AG",
+            "ip": "193.46.190.0",
+            "name": "SKIDATA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.46.190.0",
+                "prefix": "193.46.190.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.46.190.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Skidata AG",
+            "ip": "91.230.3.0",
+            "name": "SKIDATA-IT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.230.2.0",
+                "prefix": "91.230.2.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.230.3.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Skidata AG",
+            "ip": "2001:67c:25e0::",
+            "name": "AT-SKIDATA-20150729",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:25e0::",
+                "prefix": "2001:67c:25e0::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:25e0::/48",
+            "roa_status": "None"
+        }
+    ]
+}
