@@ -1,0 +1,85 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Stadtwerke Kapfenberg",
+            "ip": "185.125.208.0",
+            "name": "AT-STAKA-20151111",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.125.208.0",
+                "prefix": "185.125.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.125.208.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Stadtwerke Kapfenberg",
+            "ip": "5.44.208.0",
+            "name": "AT-STAKA-20120524",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.44.208.0",
+                "prefix": "5.44.208.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.44.208.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "PROVIDER LIR",
+            "ip": "81.28.128.0",
+            "name": "AT-STAKA-20020418",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.28.128.0",
+                "prefix": "81.28.128.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.28.128.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Stadtwerke Kapfenberg",
+            "ip": "85.238.160.0",
+            "name": "AT-STAKA-20050613",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "85.238.160.0",
+                "prefix": "85.238.160.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.238.160.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Stadtwerke Kapfenberg",
+            "ip": "85.238.176.0",
+            "name": "AT-STAKA-20050613",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "85.238.160.0",
+                "prefix": "85.238.160.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.238.176.0/20",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
