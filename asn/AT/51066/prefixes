@@ -1,0 +1,118 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Austro-Control Ges.m.b.H.",
+            "ip": "193.80.132.0",
+            "name": "AT-AUSTROCONTROL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.80.0.0",
+                "prefix": "193.80.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.80.132.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Austro-Control Ges.m.b.H.",
+            "ip": "193.80.136.0",
+            "name": "AT-AUSTROCONTROL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.80.0.0",
+                "prefix": "193.80.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.80.136.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Austro-Control Ges.m.b.H.",
+            "ip": "193.80.144.0",
+            "name": "AT-AUSTROCONTROL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.80.0.0",
+                "prefix": "193.80.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.80.144.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Austro-Control Ges.m.b.H.",
+            "ip": "193.80.160.0",
+            "name": "AT-AUSTROCONTROL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.80.0.0",
+                "prefix": "193.80.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.80.160.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Austro-Control Ges.m.b.H.",
+            "ip": "193.81.1.0",
+            "name": "AT-AUSTROCONTROL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.81.0.0",
+                "prefix": "193.81.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.81.1.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Austro Control Oesterreichische Gesellschaft fuer Zivilluftfahrt mit beschraenkter Haftung",
+            "ip": "195.254.190.0",
+            "name": "ACG-PI-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.254.190.0",
+                "prefix": "195.254.190.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.254.190.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Austro Control Oesterreichische Gesellschaft fuer Zivilluftfahrt mit beschraenkter Haftung",
+            "ip": "2001:67c:210::",
+            "name": "ACG-V6-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:210::",
+                "prefix": "2001:67c:210::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:210::/48",
+            "roa_status": "None"
+        }
+    ]
+}
