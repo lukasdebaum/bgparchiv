@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Med-El Elektromedizinische Geraete GmbH.",
+            "ip": "195.189.166.0",
+            "name": "AT-MED-EL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.189.166.0",
+                "prefix": "195.189.166.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.189.166.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Med-El Elektromedizinische Geraete GmbH.",
+            "ip": "2001:67c:2ff0::",
+            "name": "AT-MED-EL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2ff0::",
+                "prefix": "2001:67c:2ff0::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2ff0::/48",
+            "roa_status": "None"
+        }
+    ]
+}
