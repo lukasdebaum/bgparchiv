@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Frequentis AG",
+            "ip": "195.20.158.0",
+            "name": "FREQUENTIS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "195.20.158.0",
+                "prefix": "195.20.158.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.20.158.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Frequentis AG",
+            "ip": "91.217.54.0",
+            "name": "FREQUENTIS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.217.54.0",
+                "prefix": "91.217.54.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.217.54.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Frequentis AG",
+            "ip": "91.217.55.0",
+            "name": "FREQUENTIS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.217.54.0",
+                "prefix": "91.217.54.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.217.55.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
