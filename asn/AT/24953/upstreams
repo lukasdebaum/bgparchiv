@@ -1,0 +1,39 @@
+{
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS24953_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS24953_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 3257,
+            "country_code": "DE",
+            "description": "GTT",
+            "name": "GTT-BACKBONE"
+        },
+        {
+            "asn": 21385,
+            "country_code": "DE",
+            "description": "Trusted Network GmbH",
+            "name": "TNIB"
+        }
+    ],
+    "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS24953_IPv6.svg",
+    "ipv6_upstreams": [
+        {
+            "asn": 3257,
+            "country_code": "DE",
+            "description": "GTT",
+            "name": "GTT-BACKBONE"
+        },
+        {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        },
+        {
+            "asn": 21385,
+            "country_code": "DE",
+            "description": "Trusted Network GmbH",
+            "name": "TNIB"
+        }
+    ]
+}
