@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Vorarlberger Illwerke AG",
+            "ip": "193.186.88.0",
+            "name": "VKW-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "193.186.88.0",
+                "prefix": "193.186.88.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.88.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Vorarlberger Illwerke AG",
+            "ip": "193.186.96.0",
+            "name": "VKW-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "193.186.88.0",
+                "prefix": "193.186.88.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.96.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Vorarlberger Informatik- und Telekommunikationsdienstleistungsgesellschaft mbH",
+            "ip": "212.51.224.0",
+            "name": "AT-VTG-19991027",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "212.51.224.0",
+                "prefix": "212.51.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.51.224.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
