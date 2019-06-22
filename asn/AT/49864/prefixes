@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "ECS Rockenschaub GmbH",
+            "ip": "185.64.152.0",
+            "name": "AT-ECSNET-20140721",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.64.152.0",
+                "prefix": "185.64.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.64.152.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "ECS Rockenschaub GmbH",
+            "ip": "212.89.160.0",
+            "name": "AT-ECSNET-20090928",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "212.89.160.0",
+                "prefix": "212.89.160.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.89.160.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
