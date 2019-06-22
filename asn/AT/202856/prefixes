@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "H3A_Customer_PA",
+            "ip": "62.218.173.0",
+            "name": "Tele2at-533215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "62.218.0.0",
+                "prefix": "62.218.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.218.173.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "BENE GmbH",
+            "ip": "80.120.145.0",
+            "name": "BENE-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "80.120.0.0",
+                "prefix": "80.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.120.145.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
