@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Bohmann Druck und Verlag GesmbH und CoKG",
+            "ip": "195.88.10.0",
+            "name": "BOHMANN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.88.10.0",
+                "prefix": "195.88.10.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.88.10.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Amaris Technologies GmbH",
+            "ip": "212.9.128.0",
+            "name": "AT-WORKFORCE-980519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "212.9.128.0",
+                "prefix": "212.9.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.9.128.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Bohmann Druck und Verlag GesmbH und CoKG",
+            "ip": "2001:67c:2090::",
+            "name": "AT-WORKFORCE-20150908",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2090::",
+                "prefix": "2001:67c:2090::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2090::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Amaris Technologies GmbH",
+            "ip": "2a03:1f60::",
+            "name": "AT-WORKFORCE-20140805",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:1f60::",
+                "prefix": "2a03:1f60::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:1f60::/32",
+            "roa_status": "None"
+        }
+    ]
+}
