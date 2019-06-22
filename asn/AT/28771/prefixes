@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Flughafen Wien Aktiengesellschaft",
+            "ip": "193.43.158.0",
+            "name": "VIE-AT-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.43.158.0",
+                "prefix": "193.43.158.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.43.158.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+            "ip": "83.68.143.0",
+            "name": "AT-NEXTLAYER-20040514",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "83.68.128.0",
+                "prefix": "83.68.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.68.143.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+            "ip": "83.68.146.0",
+            "name": "AT-NEXTLAYER-20040514",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "83.68.128.0",
+                "prefix": "83.68.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.68.146.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Flughafen Wien AG",
+            "ip": "2001:67c:2b04::",
+            "name": "VIE-AT-PI-NET6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2b04::",
+                "prefix": "2001:67c:2b04::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2b04::/48",
+            "roa_status": "None"
+        }
+    ]
+}
