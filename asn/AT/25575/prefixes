@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "ip": "213.145.224.0",
+            "name": "AT-DOMAINTECHNIK-20030110",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "213.145.224.0",
+                "prefix": "213.145.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.145.224.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "ip": "2a03:1000::",
+            "name": "AT-DOMAINTECHNIK-20101206",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:1000::",
+                "prefix": "2a03:1000::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:1000::/32",
+            "roa_status": "None"
+        }
+    ]
+}
