@@ -1,0 +1,86 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "COSYS DATA GmbH",
+            "ip": "185.159.200.0",
+            "name": "AT-COSYSDATA-20160715",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.159.200.0",
+                "prefix": "185.159.200.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.159.200.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "COSYS DATA GmbH",
+            "ip": "185.246.20.0",
+            "name": "AT-COSYSDATA-20180213",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.246.20.0",
+                "prefix": "185.246.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.246.20.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "CN Consulting GmbH",
+            "ip": "2.57.48.0",
+            "name": "AT-CNCONSULTING-20190318",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "2.57.48.0",
+                "prefix": "2.57.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2.57.48.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Jorj-Catalin Colesnicov trading as COSYS e.U.",
+            "ip": "2a07:b6c0::",
+            "name": "AT-COSYS-20160715",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a07:b6c0::",
+                "prefix": "2a07:b6c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a07:b6c0::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "COSYS DATA GmbH",
+            "ip": "2a0d:6680::",
+            "name": "AT-COSYSDATA-20180209",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:6680::",
+                "prefix": "2a0d:6680::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:6680::/29",
+            "roa_status": "None"
+        }
+    ]
+}

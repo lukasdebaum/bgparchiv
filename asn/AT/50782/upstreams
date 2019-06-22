@@ -1,0 +1,33 @@
+{
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS50782_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS50782_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 174,
+            "country_code": "US",
+            "description": "Cogent Communications",
+            "name": "COGENT-174"
+        },
+        {
+            "asn": 56833,
+            "country_code": "AT",
+            "description": "mieX.at",
+            "name": "MIEX-AS"
+        }
+    ],
+    "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS50782_IPv6.svg",
+    "ipv6_upstreams": [
+        {
+            "asn": 174,
+            "country_code": "US",
+            "description": "Cogent Communications",
+            "name": "COGENT-174"
+        },
+        {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        }
+    ]
+}
