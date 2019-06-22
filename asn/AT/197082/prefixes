@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Zuers.net Betriebs GmbH",
+            "ip": "185.75.216.0",
+            "name": "AT-ZUERSNET-20141104",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.75.216.0",
+                "prefix": "185.75.216.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.75.216.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Zuers.net Betriebs GmbH",
+            "ip": "91.217.225.0",
+            "name": "ZUERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.217.225.0",
+                "prefix": "91.217.225.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.217.225.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
