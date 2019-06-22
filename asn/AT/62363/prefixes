@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Ertl & Gross OG",
+            "ip": "185.38.168.0",
+            "name": "AT-EGW-TELEKOM-20131024",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.38.168.0",
+                "prefix": "185.38.168.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.38.168.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Uniopt Handel mit optischen Waren GmbH",
+            "ip": "193.104.55.0",
+            "name": "uniopt",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.104.55.0",
+                "prefix": "193.104.55.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.104.55.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Ertl & Gross OG",
+            "ip": "2a01:4120::",
+            "name": "AT-EGW-TELEKOM-20131022",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:4120::",
+                "prefix": "2a01:4120::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:4120::/32",
+            "roa_status": "None"
+        }
+    ]
+}
