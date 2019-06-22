@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Innsbruck",
+            "ip": "194.50.109.0",
+            "name": "DVT-NET2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.50.109.0",
+                "prefix": "194.50.109.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.50.109.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "DVT-Daten-Verarbeitung-Tirol GmbH",
+            "ip": "194.8.61.0",
+            "name": "DVT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.8.61.0",
+                "prefix": "194.8.61.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.8.61.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DVT-Daten-Verarbeitung-Tirol GmbH",
+            "ip": "2001:67c:13f8::",
+            "name": "DVT-NET-IPv6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:13f8::",
+                "prefix": "2001:67c:13f8::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:13f8::/48",
+            "roa_status": "None"
+        }
+    ]
+}
