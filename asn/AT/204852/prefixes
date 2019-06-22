@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Niederoesterreichische Versicherung AG",
+            "ip": "194.37.2.0",
+            "name": "ENBV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.37.2.0",
+                "prefix": "194.37.2.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.37.2.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Niederoesterreichische Versicherung AG",
+            "ip": "194.37.2.0",
+            "name": "ENBV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.37.2.0",
+                "prefix": "194.37.2.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.37.2.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Niederoesterreichische Versicherung AG",
+            "ip": "194.37.3.0",
+            "name": "ENBV-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.37.2.0",
+                "prefix": "194.37.2.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.37.3.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
