@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AXIANS ICT Austria GmbH",
+            "ip": "194.0.222.0",
+            "name": "COMNET-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.0.222.0",
+                "prefix": "194.0.222.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.0.222.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "AXIANS ICT Austria GmbH",
+            "ip": "194.107.82.0",
+            "name": "ILS-CONSULT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.107.82.0",
+                "prefix": "194.107.82.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.107.82.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AXIANS ICT Austria GmbH",
+            "ip": "195.177.199.0",
+            "name": "ILS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.177.198.0",
+                "prefix": "195.177.198.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.177.199.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "AXIANS ICT Austria GmbH",
+            "ip": "2001:678:3dc::",
+            "name": "AXIANS-ICT-AUSTRIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:3dc::",
+                "prefix": "2001:678:3dc::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:3dc::/48",
+            "roa_status": "None"
+        }
+    ]
+}
