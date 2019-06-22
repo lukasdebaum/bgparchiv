@@ -1,0 +1,85 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Sony DADC Europe Limited",
+            "ip": "141.255.168.0",
+            "name": "AT-SONYDADCAUSTRIAAG-20110706",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "141.255.168.0",
+                "prefix": "141.255.168.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "141.255.168.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Sony DADC Europe Limited",
+            "ip": "141.255.175.0",
+            "name": "AT-SONYDADCAUSTRIAAG-20110706",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "141.255.168.0",
+                "prefix": "141.255.168.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "141.255.175.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Sony DADC Europe Limited",
+            "ip": "193.178.208.0",
+            "name": "SONYDADC-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.178.208.0",
+                "prefix": "193.178.208.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.178.208.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Sony DADC Europe Limited",
+            "ip": "193.47.155.0",
+            "name": "SONYDADC",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.47.155.0",
+                "prefix": "193.47.155.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.47.155.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "RealNetworks, Inc.",
+            "ip": "66.203.117.0",
+            "name": "REALNETWORKS-IPV4-02",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "66.203.112.0",
+                "prefix": "66.203.112.0/20",
+                "rir_name": "ARIN"
+            },
+            "prefix": "66.203.117.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
