@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "hotze.com GmbH",
+            "ip": "185.74.0.0",
+            "name": "AT-HOTZE-20141021",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.74.0.0",
+                "prefix": "185.74.0.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.74.0.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "hotze.com GmbH",
+            "ip": "82.150.192.0",
+            "name": "AT-HOTZE-20030827",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "82.150.192.0",
+                "prefix": "82.150.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "82.150.192.0/19",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "hotze.com GmbH",
+            "ip": "2a02:5d8::",
+            "name": "AT-HOTZE-20080714",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:5d8::",
+                "prefix": "2a02:5d8::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:5d8::/32",
+            "roa_status": "None"
+        }
+    ]
+}
