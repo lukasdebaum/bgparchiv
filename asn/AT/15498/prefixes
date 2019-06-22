@@ -1,0 +1,181 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "PROVIDER",
+            "ip": "62.13.192.0",
+            "name": "AT-CPSNET-20000704",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.192.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Backbone Routing Segment",
+            "ip": "62.13.192.0",
+            "name": "RTCEU-ATVIE1-VL600A",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.192.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Application Servers *VIE1.AT*",
+            "ip": "62.13.193.0",
+            "name": "RTCEU-ATVIE1-VL603A",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.193.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Application Servers *VIE1.AT*",
+            "ip": "62.13.194.0",
+            "name": "RTCEU-ATVIE1-VL604A",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.194.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "ILO Network RTCnow Servers",
+            "ip": "62.13.196.0",
+            "name": "RTCEU-ATVIE1-VL605A",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.196.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "DSL Pool 001",
+            "ip": "62.13.198.0",
+            "name": "RTCEU-ATVIE2-DSL001",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.198.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Loopback and Linknetworks",
+            "ip": "62.13.199.0",
+            "name": "RTCEU-LOOPBACK001",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.199.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "PROVIDER",
+            "ip": "62.13.205.0",
+            "name": "AT-CPSNET-20000704",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.205.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "IP Pool Frankfurt NET001",
+            "ip": "62.13.210.0",
+            "name": "RTCEU-DEFRA1-NET001",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.210.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Temporary Backbone Pool",
+            "ip": "62.13.220.0",
+            "name": "RTCEU-ATVIE1-TEMP",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.220.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "get.at",
+            "ip": "62.13.223.0",
+            "name": "AT-GET2640-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.13.192.0",
+                "prefix": "62.13.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.13.223.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
