@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "XINON GmbH",
+            "ip": "185.29.88.0",
+            "name": "AT-MYSYS-20130625",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.29.88.0",
+                "prefix": "185.29.88.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.29.88.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "XINON LB 200 151 46 X",
+            "ip": "46.151.200.0",
+            "name": "XINON-LB-200-151-46-X",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "46.151.200.0",
+                "prefix": "46.151.200.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.151.200.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "XINON LARGE BUSINESS230",
+            "ip": "91.227.230.0",
+            "name": "XINON-LARGE-BUSINESS230",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.227.230.0",
+                "prefix": "91.227.230.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.227.230.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "XINON Carrier Network - Core Range",
+            "ip": "2a00:a6a0:1::",
+            "name": "XINON-CORE6-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:a6a0::",
+                "prefix": "2a00:a6a0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:a6a0:1::/48",
+            "roa_status": "None"
+        }
+    ]
+}
