@@ -1,0 +1,102 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "IKT Linz Infrastruktur GmbH",
+            "ip": "185.248.180.0",
+            "name": "AT-IKTLINZ-20180308",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.248.180.0",
+                "prefix": "185.248.180.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.248.180.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "IKT Linz Infrastruktur GmbH",
+            "ip": "193.186.5.0",
+            "name": "IKTL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.186.5.0",
+                "prefix": "193.186.5.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.5.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "IKT Linz Infrastruktur GmbH",
+            "ip": "193.186.6.0",
+            "name": "IKTL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.186.5.0",
+                "prefix": "193.186.5.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.6.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "ip": "195.8.212.0",
+            "name": "AT-LINZAG-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.8.212.0",
+                "prefix": "195.8.212.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.8.212.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "ip": "2001:67c:1d0::",
+            "name": "AT-LINZAG-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:1d0::",
+                "prefix": "2001:67c:1d0::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:1d0::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "IKT Linz Infrastruktur GmbH",
+            "ip": "2a0d:ee80::",
+            "name": "AT-IKTLINZ-20180308",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a0d:ee80::",
+                "prefix": "2a0d:ee80::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:ee80::/32",
+            "roa_status": "None"
+        }
+    ]
+}
