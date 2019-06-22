@@ -1,0 +1,166 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Ventocom GmbH",
+            "ip": "185.81.210.0",
+            "name": "VENTOCOM-AT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.81.208.0",
+                "prefix": "185.81.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.81.210.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "212.67.224.0",
+            "name": "AT-MAXMOBIL-20000531",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "212.67.224.0",
+                "prefix": "212.67.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.67.224.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "212.95.0.0",
+            "name": "AT-MAXMOBIL-981106",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "212.95.0.0",
+                "prefix": "212.95.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.95.0.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "213.142.96.0",
+            "name": "AT-MAXMOBIL-20020702",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "213.142.96.0",
+                "prefix": "213.142.96.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.142.96.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "213.162.64.0",
+            "name": "AT-MAXMOBIL-20000307",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "213.162.64.0",
+                "prefix": "213.162.64.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.162.64.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 15,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "46.124.0.0",
+            "name": "AT-MAXMOBIL-20100531",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "46.124.0.0",
+                "prefix": "46.124.0.0/15",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.124.0.0/15",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "62.140.32.0",
+            "name": "AT-MAXMOBIL-20000515",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.140.32.0",
+                "prefix": "62.140.32.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.140.32.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 17,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "78.132.0.0",
+            "name": "AT-MAXMOBIL-20070530",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "78.132.0.0",
+                "prefix": "78.132.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.132.0.0/17",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "2001:4bc8::",
+            "name": "AT-MAXMOBIL-20050303",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:4bc0::",
+                "prefix": "2001:4bc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4bc8::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "2001:4bc8::",
+            "name": "AT-MAXMOBIL-20050303",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:4bc0::",
+                "prefix": "2001:4bc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4bc8::/32",
+            "roa_status": "None"
+        }
+    ]
+}
