@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Danube Data Center GmbH",
+            "ip": "109.233.24.0",
+            "name": "AT-DANUBEDC-20091215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "109.233.24.0",
+                "prefix": "109.233.24.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.233.24.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Danube Data Center GmbH",
+            "ip": "109.233.24.0",
+            "name": "AT-DANUBEDC-20091215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "109.233.24.0",
+                "prefix": "109.233.24.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.233.24.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "First Assignment",
+            "ip": "109.233.26.0",
+            "name": "AT-DANUBEDC-20091202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "109.233.24.0",
+                "prefix": "109.233.24.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.233.26.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "DANUBEDC_Wien_IPv6",
+            "ip": "2a04:81a0::",
+            "name": "DANUBEDC_Wien_IPv6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:8198::",
+                "prefix": "2a04:8198::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:81a0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
