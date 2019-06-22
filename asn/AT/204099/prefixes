@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Berger Medizintechnik GmbH",
+            "ip": "185.115.124.0",
+            "name": "Berger-Medizintechnik-GmbH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.115.124.0",
+                "prefix": "185.115.124.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.115.124.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "i4a GmbH",
+            "ip": "185.222.44.0",
+            "name": "AT-I4A-20170922",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.222.44.0",
+                "prefix": "185.222.44.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.222.44.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Inet4All Access Gleisdorf/Styria/Austria",
+            "ip": "185.29.90.0",
+            "name": "I4A-NET1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.29.88.0",
+                "prefix": "185.29.88.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.29.90.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
