@@ -1,0 +1,53 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Sozialdemokratische Partei Oesterreichs",
+            "ip": "130.0.64.0",
+            "name": "AT-SPOE-20111014",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "130.0.64.0",
+                "prefix": "130.0.64.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "130.0.64.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "SPOe members",
+            "ip": "193.80.191.0",
+            "name": "MEMBERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "193.80.0.0",
+                "prefix": "193.80.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.80.191.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Sozialdemokratische Partei Oesterreichs",
+            "ip": "194.145.176.0",
+            "name": "SPOE-AT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "194.145.176.0",
+                "prefix": "194.145.176.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.145.176.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
