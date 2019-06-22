@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "DXC Technology Austria GmbH",
+            "ip": "195.78.52.0",
+            "name": "CSCAT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.78.52.0",
+                "prefix": "195.78.52.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.78.52.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "US",
+            "description": "Computer Sciences Corporation",
+            "ip": "20.154.66.0",
+            "name": "CSC",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "20.154.0.0",
+                "prefix": "20.154.0.0/15",
+                "rir_name": "ARIN"
+            },
+            "prefix": "20.154.66.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "CSC Computer Sciences Consulting Austria GmbH",
+            "ip": "2001:4b60::",
+            "name": "AT-CSCAUSTRIA-20050202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2001:4b60::",
+                "prefix": "2001:4b60::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4b60::/32",
+            "roa_status": "None"
+        }
+    ]
+}
