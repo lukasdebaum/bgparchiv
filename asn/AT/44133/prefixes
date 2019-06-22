@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "IPAX OG",
+            "ip": "185.119.116.0",
+            "name": "AT-IPAX-20150930",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.119.116.0",
+                "prefix": "185.119.116.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.119.116.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "IPAX OG",
+            "ip": "37.252.184.0",
+            "name": "AT-IPAX-20120420",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "37.252.184.0",
+                "prefix": "37.252.184.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "37.252.184.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "IPAX OG",
+            "ip": "93.189.24.0",
+            "name": "AT-IPAX-20080423",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "93.189.24.0",
+                "prefix": "93.189.24.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "93.189.24.0/21",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "IPAX OG",
+            "ip": "2a00:63c0::",
+            "name": "AT-IPAX-20111223",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a00:63c0::",
+                "prefix": "2a00:63c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:63c0::/29",
+            "roa_status": "None"
+        }
+    ]
+}
