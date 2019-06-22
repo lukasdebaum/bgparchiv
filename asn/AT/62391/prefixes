@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Comm-IT EDV DienstleistungsgmbH",
+            "ip": "185.37.104.0",
+            "name": "AT-COMM-IT-20131010",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.37.104.0",
+                "prefix": "185.37.104.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.37.104.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Comm-IT EDV DienstleistungsgmbH",
+            "ip": "2a04:7100::",
+            "name": "AT-COMM-IT-20131010",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:7100::",
+                "prefix": "2a04:7100::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:7100::/29",
+            "roa_status": "None"
+        }
+    ]
+}
