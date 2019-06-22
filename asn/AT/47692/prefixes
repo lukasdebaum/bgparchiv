@@ -1,0 +1,918 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "146.255.56.0",
+            "name": "AT-NESSUS-20110719",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "146.255.56.0",
+                "prefix": "146.255.56.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "146.255.56.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Network in Vienna",
+            "ip": "151.236.31.0",
+            "name": "VIE-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "151.236.0.0",
+                "prefix": "151.236.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "151.236.31.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "RTM Business IT GmbH",
+            "ip": "185.175.20.0",
+            "name": "AT-RTMBUSINESSIT-20161026",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.175.20.0",
+                "prefix": "185.175.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.175.20.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "WEBanizer AG",
+            "ip": "185.176.152.0",
+            "name": "DE-WEBANIZER-20161107",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.176.152.0",
+                "prefix": "185.176.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.176.152.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "WEBanizer AG",
+            "ip": "185.176.153.0",
+            "name": "DE-WEBANIZER-20161107",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.176.152.0",
+                "prefix": "185.176.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.176.153.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "WEBanizer AG",
+            "ip": "185.176.154.0",
+            "name": "DE-WEBANIZER-20161107",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.176.152.0",
+                "prefix": "185.176.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.176.154.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "WEBanizer AG",
+            "ip": "185.176.155.0",
+            "name": "DE-WEBANIZER-20161107",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.176.152.0",
+                "prefix": "185.176.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.176.155.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "TRAFFICBLAST SERVER4",
+            "ip": "185.188.75.0",
+            "name": "TRAFFICBLAST-SERVER4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.188.72.0",
+                "prefix": "185.188.72.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.188.75.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Vienna, Austria",
+            "ip": "185.190.48.0",
+            "name": "AT-UNWIRED-VIE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.190.48.0",
+                "prefix": "185.190.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.190.48.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Frankfurt, Germany",
+            "ip": "185.190.49.0",
+            "name": "AT-UNWIRED-FRA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.190.48.0",
+                "prefix": "185.190.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.190.49.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Tassero GmbH",
+            "ip": "185.205.80.0",
+            "name": "DE-TASSERO-20170524",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.205.80.0",
+                "prefix": "185.205.80.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.205.80.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Tassero GmbH",
+            "ip": "185.205.81.0",
+            "name": "DE-TASSERO-20170524",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.205.80.0",
+                "prefix": "185.205.80.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.205.81.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Campaign.Plus GmbH",
+            "ip": "185.245.228.0",
+            "name": "DE-CAMPAIGNPLUS-20180212",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.245.228.0",
+                "prefix": "185.245.228.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.245.228.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Campaign.Plus GmbH",
+            "ip": "185.245.229.0",
+            "name": "DE-CAMPAIGNPLUS-20180212",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.245.228.0",
+                "prefix": "185.245.228.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.245.229.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Campaign.Plus GmbH",
+            "ip": "185.245.230.0",
+            "name": "DE-CAMPAIGNPLUS-20180212",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.245.228.0",
+                "prefix": "185.245.228.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.245.230.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "WEBanizer AG",
+            "ip": "185.245.231.0",
+            "name": "WEBanizer-AG",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.245.228.0",
+                "prefix": "185.245.228.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.245.231.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "WEB-Hosting-Datacenter2",
+            "ip": "185.26.191.0",
+            "name": "AT-WHIT-20150804",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.26.188.0",
+                "prefix": "185.26.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.26.191.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "GM MAIL NET 1",
+            "ip": "185.46.184.0",
+            "name": "GM-MAIL-NET-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.46.184.0",
+                "prefix": "185.46.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.46.184.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "GM MAIL NET 2",
+            "ip": "185.46.185.0",
+            "name": "GM-MAIL-NET-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.46.184.0",
+                "prefix": "185.46.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.46.185.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Geno Media Circle GmbH",
+            "ip": "185.46.186.0",
+            "name": "DE-GMBH-20180309",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.46.184.0",
+                "prefix": "185.46.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.46.186.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "GM HOSTING NET 2",
+            "ip": "185.46.187.0",
+            "name": "GM-HOSTING-NET-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.46.184.0",
+                "prefix": "185.46.184.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.46.187.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "ACP Business Applications GmbH",
+            "ip": "185.49.52.0",
+            "name": "AT-ACPBAO-20140227",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.49.52.0",
+                "prefix": "185.49.52.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.49.52.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "CH",
+            "description": "EASYNAME CH Serverfarm",
+            "ip": "185.51.11.0",
+            "name": "EASYNAME-CH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.51.8.0",
+                "prefix": "185.51.8.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.51.11.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "easyname GmbH",
+            "ip": "185.51.8.0",
+            "name": "AT-EASYNAME-20140320",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.51.8.0",
+                "prefix": "185.51.8.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.51.8.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "easyname GmbH",
+            "ip": "185.51.8.0",
+            "name": "AT-EASYNAME-20140320",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.51.8.0",
+                "prefix": "185.51.8.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.51.8.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Wiener Rotes Kreuz - WRKPB GmbH",
+            "ip": "193.105.181.0",
+            "name": "Wiener-Rotes-Kreuz",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.105.181.0",
+                "prefix": "193.105.181.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.105.181.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "DE",
+            "description": "dialis direct GmbH",
+            "ip": "193.168.252.0",
+            "name": "DE-DIALIS-20181212",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "193.168.252.0",
+                "prefix": "193.168.252.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.168.252.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "ip": "193.19.92.0",
+            "name": "CHILLYDOMAINS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.19.92.0",
+                "prefix": "193.19.92.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.19.92.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Organisation Handle SPKG",
+            "ip": "194.0.201.0",
+            "name": "AT-MAG-DMZ2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.0.201.0",
+                "prefix": "194.0.201.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.0.201.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Anita Skorbier",
+            "ip": "195.2.220.0",
+            "name": "EDV-Skorbier",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.2.220.0",
+                "prefix": "195.2.220.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.2.220.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Anita Skorbier",
+            "ip": "195.2.220.0",
+            "name": "EDV-Skorbier",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.2.220.0",
+                "prefix": "195.2.220.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.2.220.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Anita Skorbier",
+            "ip": "195.2.221.0",
+            "name": "EDV-Skorbier",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.2.220.0",
+                "prefix": "195.2.220.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.2.221.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "212.232.24.0",
+            "name": "AT-NESSUS-20100315",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "212.232.24.0",
+                "prefix": "212.232.24.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.232.24.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "217.74.8.0",
+            "name": "AT-NESSUS-20001215",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "217.74.8.0",
+                "prefix": "217.74.8.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.74.8.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Datacenter Austria - AT",
+            "ip": "5.132.159.0",
+            "name": "AT-GLOBAL-CLOUD-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "5.132.128.0",
+                "prefix": "5.132.128.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.132.159.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Datacenter Austria - AT",
+            "ip": "5.132.191.0",
+            "name": "AT-GLOBAL-CLOUD-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "5.132.128.0",
+                "prefix": "5.132.128.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.132.191.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Koschier IT-Outsourcing GmbH",
+            "ip": "5.183.172.0",
+            "name": "AT-KOSCHIER-20190411",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.183.172.0",
+                "prefix": "5.183.172.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.183.172.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "77.244.240.0",
+            "name": "AT-NESSUS-20070410",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "77.244.240.0",
+                "prefix": "77.244.240.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "77.244.240.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "sendeffect GmbH",
+            "ip": "79.142.188.0",
+            "name": "DE-SENDEFFECT-20180813",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "79.142.188.0",
+                "prefix": "79.142.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.142.188.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "sendeffect GmbH",
+            "ip": "79.142.189.0",
+            "name": "DE-SENDEFFECT-20180813",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "79.142.188.0",
+                "prefix": "79.142.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.142.189.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "sendeffect GmbH",
+            "ip": "79.142.190.0",
+            "name": "DE-SENDEFFECT-20180813",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "79.142.188.0",
+                "prefix": "79.142.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.142.190.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "sendeffect GmbH",
+            "ip": "79.142.191.0",
+            "name": "DE-SENDEFFECT-20180813",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "79.142.188.0",
+                "prefix": "79.142.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "79.142.191.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "83.137.112.0",
+            "name": "AT-NESSUS-20090421",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "83.137.112.0",
+                "prefix": "83.137.112.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.137.112.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "83.137.112.0",
+            "name": "AT-NESSUS-20090421",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "83.137.112.0",
+                "prefix": "83.137.112.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.137.112.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "83.137.116.0",
+            "name": "AT-NESSUS-20090421",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "83.137.112.0",
+                "prefix": "83.137.112.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.137.116.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Organisation Handle MAG",
+            "ip": "91.198.189.0",
+            "name": "AT-MAG-DMZ1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.198.189.0",
+                "prefix": "91.198.189.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.198.189.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "25th-floor GmbH",
+            "ip": "91.221.100.0",
+            "name": "TWENTYFIFTH-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.221.100.0",
+                "prefix": "91.221.100.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.221.100.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "92.42.136.0",
+            "name": "AT-NESSUS-20071217",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "92.42.136.0",
+                "prefix": "92.42.136.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.42.136.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Nessus DE Serverfarm",
+            "ip": "92.42.141.0",
+            "name": "NESSUS-DE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "92.42.136.0",
+                "prefix": "92.42.136.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.42.141.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Anita Skorbier",
+            "ip": "2001:67c:1508::",
+            "name": "EDV-Skorbier-v6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:1508::",
+                "prefix": "2001:67c:1508::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:1508::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "25th-floor GmbH",
+            "ip": "2001:67c:7c::",
+            "name": "AT-NESSUS-20150331",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:7c::",
+                "prefix": "2001:67c:7c::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:7c::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "easyname GmbH",
+            "ip": "2a01:aee0::",
+            "name": "AT-EASYNAME-20140319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aee0::",
+                "prefix": "2a01:aee0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aee0::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "2a02:1b8::",
+            "name": "AT-NESSUS-20080319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a02:1b8::",
+                "prefix": "2a02:1b8::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1b8::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "ip": "2a02:1b8::",
+            "name": "AT-NESSUS-20080319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1b8::",
+                "prefix": "2a02:1b8::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1b8::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "EU",
+            "description": "RIPE NCC",
+            "ip": "2a02:1b9::",
+            "name": "EU-ZZ-2A00",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1b8::",
+                "prefix": "2a02:1b8::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1b9::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Datacenter Austria - AT",
+            "ip": "2a03:3180:f::",
+            "name": "AT-GLOBAL-CLOUD-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:3180::",
+                "prefix": "2a03:3180::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:3180:f::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Vienna, Austria",
+            "ip": "2a0a:441:1::",
+            "name": "AT-UNWIRED-VIE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0a:440::",
+                "prefix": "2a0a:440::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0a:441:1::/48",
+            "roa_status": "None"
+        }
+    ]
+}
