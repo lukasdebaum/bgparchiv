@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Ixolit GmbH",
+            "ip": "185.12.180.0",
+            "name": "AT-IXOLIT-20121210",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.12.180.0",
+                "prefix": "185.12.180.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.12.180.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Ixolit GmbH",
+            "ip": "185.57.48.0",
+            "name": "AT-IXOLIT-20140509",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.57.48.0",
+                "prefix": "185.57.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.57.48.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Ixolit GmbH",
+            "ip": "185.57.50.0",
+            "name": "AT-IXOLIT-20140509",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.57.48.0",
+                "prefix": "185.57.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.57.50.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Ixolit GmbH",
+            "ip": "2a02:57e0::",
+            "name": "AT-IXOLIT-20140509",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a02:57e0::",
+                "prefix": "2a02:57e0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:57e0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
