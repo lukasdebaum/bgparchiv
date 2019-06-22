@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "KTV-GARS Klipso-GmbH NET-01",
+            "ip": "195.62.84.0",
+            "name": "KTV-GARS-Klipso-GmbH-NET-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.62.84.0",
+                "prefix": "195.62.84.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.62.84.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Firma",
+            "ip": "62.93.116.0",
+            "name": "KTVGARS-NET-20070412",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "62.93.64.0",
+                "prefix": "62.93.64.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.93.116.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
