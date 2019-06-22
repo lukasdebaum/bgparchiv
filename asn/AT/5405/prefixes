@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "CSO.net Internet Services GmbH",
+            "ip": "185.93.212.0",
+            "name": "AT-CSO-20150327",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "185.93.212.0",
+                "prefix": "185.93.212.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.93.212.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "CSO.net Internet Services GmbH",
+            "ip": "2a00:d900::",
+            "name": "AT-CSO-20110221",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:d900::",
+                "prefix": "2a00:d900::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:d900::/32",
+            "roa_status": "None"
+        }
+    ]
+}
