@@ -1,0 +1,69 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "AADD GmbH",
+            "ip": "185.33.252.0",
+            "name": "AT-AADD-20130826",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.33.252.0",
+                "prefix": "185.33.252.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.33.252.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "AADD GmbH",
+            "ip": "193.203.216.0",
+            "name": "AADD-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.203.216.0",
+                "prefix": "193.203.216.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.203.216.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Markus Maikis",
+            "ip": "193.47.157.0",
+            "name": "mmedv-net",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.47.157.0",
+                "prefix": "193.47.157.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.47.157.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "DE",
+            "description": "Christoph Schmolmueller",
+            "ip": "195.210.50.0",
+            "name": "SIL-SchMOLMUELLER",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.210.50.0",
+                "prefix": "195.210.50.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.210.50.0/23",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
