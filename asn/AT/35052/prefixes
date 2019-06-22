@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "at.cTLD secDNSnet",
+            "ip": "192.76.243.0",
+            "name": "ACONET-VIX-SERVICES",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.76.243.0",
+                "prefix": "192.76.243.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.76.243.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "at.cTLD DNSservices",
+            "ip": "192.92.125.0",
+            "name": "ACONET-VIX-SERVICES",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.92.125.0",
+                "prefix": "192.92.125.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.92.125.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "nic.at GmbH",
+            "ip": "2001:678:1c::",
+            "name": "NIC_AT-ANYCAST-V6-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:1b::",
+                "prefix": "2001:678:1b::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:1c::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": ".at DNSnet",
+            "ip": "2001:67c:133c::",
+            "name": "ACONET-SERVICES",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:133c::",
+                "prefix": "2001:67c:133c::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:133c::/48",
+            "roa_status": "None"
+        }
+    ]
+}
