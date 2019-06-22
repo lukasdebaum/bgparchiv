@@ -1,0 +1,69 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "MAGNA STEYR Fahrzeugtechnik AG und Co KG",
+            "ip": "193.187.196.0",
+            "name": "MAGNA-STEYR-FAHRZEUGTECHNIK-AT-NET-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "193.187.196.0",
+                "prefix": "193.187.196.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.196.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "MAGNA STEYR Fahrzeugtechnik AG und Co KG",
+            "ip": "193.187.200.0",
+            "name": "MAGNA-STEYR-FAHRZEUGTECHNIK-AT-NET-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "193.187.196.0",
+                "prefix": "193.187.196.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.200.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "MAGNA STEYR Fahrzeugtechnik AG und Co KG",
+            "ip": "193.187.208.0",
+            "name": "MAGNA-STEYR-FAHRZEUGTECHNIK-AT-NET-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "193.187.196.0",
+                "prefix": "193.187.196.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.187.208.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Magna Europe Networks",
+            "ip": "213.150.252.0",
+            "name": "MAGNA-EUROPE-NET01",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "213.150.224.0",
+                "prefix": "213.150.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.150.252.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
