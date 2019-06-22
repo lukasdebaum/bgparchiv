@@ -1,0 +1,198 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AQ",
+            "description": "FuslVZ Customer Anycast (IPv4-5)",
+            "ip": "103.230.141.0",
+            "name": "FUSLVZ-IPV4-5",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "103.230.140.0",
+                "prefix": "103.230.140.0/22",
+                "rir_name": "APNIC"
+            },
+            "prefix": "103.230.141.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "ZA",
+            "description": "FuslVZ OpenNIC Anycast DNS Resolver (IPv4-4) - http://dnsrec.meo.ws/",
+            "ip": "169.239.202.0",
+            "name": "FUSLVZ-IPV4-4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "169.239.200.0",
+                "prefix": "169.239.200.0/22",
+                "rir_name": "AfriNIC"
+            },
+            "prefix": "169.239.202.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "Kevin Holly trading as Silent Ghost e.U.",
+            "ip": "185.121.163.0",
+            "name": "a5cd3997-9f63-4149-a5a0-8f9b8f035bd1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.121.160.0",
+                "prefix": "185.121.160.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.121.163.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AQ",
+            "description": "FuslVZ OpenNIC Anycast DNS Resolver (IPv4-1) - http://dnsrec.meo.ws/",
+            "ip": "185.121.177.0",
+            "name": "FUSLVZ-IPV4-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.121.176.0",
+                "prefix": "185.121.176.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.121.177.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "smc.li",
+            "ip": "185.140.114.0",
+            "name": "SMC-HoneypotLab01",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.140.112.0",
+                "prefix": "185.140.112.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.140.114.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "smc.li",
+            "ip": "185.140.115.0",
+            "name": "SMC-HoneypotLab02",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.140.112.0",
+                "prefix": "185.140.112.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.140.115.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "FuslVZ Ltd.",
+            "ip": "5.253.85.0",
+            "name": "f8710c19-ff0e-41a8-bed6-c1b0fbd2ccd7",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.253.84.0",
+                "prefix": "5.253.84.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.253.85.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AQ",
+            "description": "FuslVZ OpenNIC Anycast DNS Resolver (IPv6-5) - http://dnsrec.meo.ws/",
+            "ip": "2a05:dfc7:5353::",
+            "name": "FUSLVZ-IPV6-5",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:dfc0::",
+                "prefix": "2a05:dfc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:dfc7:5353::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AQ",
+            "description": "FuslVZ OpenNIC Anycast DNS Resolver (IPv6-1) - http://dnsrec.meo.ws/",
+            "ip": "2a05:dfc7:5::",
+            "name": "FUSLVZ-IPV6-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:dfc0::",
+                "prefix": "2a05:dfc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:dfc7:5::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "UA",
+            "description": "FuslVZ VPS UA-IEV-A IPv6",
+            "ip": "2a05:dfc7:dfc7::",
+            "name": "FUSLVZ-IPV6-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:dfc0::",
+                "prefix": "2a05:dfc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:dfc7:dfc7::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 30,
+            "country_code": "NL",
+            "description": "FFF",
+            "ip": "2a06:9f40::",
+            "name": "FF",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a06:9f40::",
+                "prefix": "2a06:9f40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a06:9f40::/30",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "EU",
+            "description": "TestNet",
+            "ip": "2a07:1c43::",
+            "name": "TestNet",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a07:1c40::",
+                "prefix": "2a07:1c40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a07:1c43::/32",
+            "roa_status": "None"
+        }
+    ]
+}
