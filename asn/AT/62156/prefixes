@@ -1,0 +1,118 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "HXS GmbH",
+            "ip": "185.45.232.0",
+            "name": "AT-HXS-20140127",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.45.232.0",
+                "prefix": "185.45.232.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.45.232.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "HXS GmbH",
+            "ip": "193.31.14.0",
+            "name": "AT-HXS-20031201",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.31.14.0",
+                "prefix": "193.31.14.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.31.14.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "HXS GmbH",
+            "ip": "194.6.250.0",
+            "name": "AT-HXS-20040906",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.6.250.0",
+                "prefix": "194.6.250.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.6.250.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "KCO Software GmbH",
+            "ip": "91.208.98.0",
+            "name": "EDI-REAL-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.208.98.0",
+                "prefix": "91.208.98.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.208.98.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "HXS GmbH",
+            "ip": "91.213.234.0",
+            "name": "AT-HXS-20090922",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.213.234.0",
+                "prefix": "91.213.234.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.213.234.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "VOIP Connector GmbH",
+            "ip": "91.213.235.0",
+            "name": "VOIP-CONNECTOR-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.213.235.0",
+                "prefix": "91.213.235.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.213.235.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "HXS GmbH",
+            "ip": "2a01:80a0:1::",
+            "name": "AT-HXS-20140121",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:80a0::",
+                "prefix": "2a01:80a0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:80a0:1::/48",
+            "roa_status": "None"
+        }
+    ]
+}
