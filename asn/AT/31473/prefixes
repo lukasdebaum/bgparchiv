@@ -1,0 +1,54 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Seering 6",
+            "ip": "194.76.210.0",
+            "name": "Infonova2-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.76.210.0",
+                "prefix": "194.76.210.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.76.210.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Seering 6",
+            "ip": "194.76.239.0",
+            "name": "Infonova1-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "194.76.239.0",
+                "prefix": "194.76.239.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.76.239.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "BearingPoint Technology GmbH",
+            "ip": "2001:67c:2328::",
+            "name": "INFONOVA6-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2328::",
+                "prefix": "2001:67c:2328::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2328::/48",
+            "roa_status": "None"
+        }
+    ]
+}
