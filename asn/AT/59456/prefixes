@@ -1,0 +1,38 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Cloud-Brokers IT-Services GmbH",
+            "ip": "185.55.24.0",
+            "name": "AT-CLOUDBROKERS-20140424",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.55.24.0",
+                "prefix": "185.55.24.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.55.24.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Cloud-Brokers IT-Services GmbH",
+            "ip": "2a01:8cc0::",
+            "name": "AT-CLOUDBROKERS-20120716",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:8cc0::",
+                "prefix": "2a01:8cc0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:8cc0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
