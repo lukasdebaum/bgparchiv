@@ -1,0 +1,70 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Innsbrucker Kommunalbetriebe AG",
+            "ip": "156.67.200.0",
+            "name": "AT-IKB-19920327",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "156.67.200.0",
+                "prefix": "156.67.200.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "156.67.200.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Innsbrucker Kommunalbetriebe AG",
+            "ip": "185.72.72.0",
+            "name": "AT-IKB-20141006",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.72.72.0",
+                "prefix": "185.72.72.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.72.72.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 18,
+            "country_code": "AT",
+            "description": "Innsbrucker Kommunalbetriebe AG",
+            "ip": "83.175.64.0",
+            "name": "AT-IKB-20040528",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "83.175.64.0",
+                "prefix": "83.175.64.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "83.175.64.0/18",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Innsbrucker Kommunalbetriebe AG",
+            "ip": "2a02:6180::",
+            "name": "AT-IKB-20110719",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:6180::",
+                "prefix": "2a02:6180::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:6180::/32",
+            "roa_status": "None"
+        }
+    ]
+}
