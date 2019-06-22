@@ -1,0 +1,134 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "144.208.192.0",
+            "name": "TELEMATICA-VULL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "144.208.192.0",
+                "prefix": "144.208.192.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "144.208.192.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "185.50.234.0",
+            "name": "TELEMATICA-DYN-DSL1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.50.232.0",
+                "prefix": "185.50.232.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.50.234.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "2a01:aea0:dd3::",
+            "name": "TELEMATICA-DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aea0::",
+                "prefix": "2a01:aea0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aea0:dd3::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "2a01:aea0:dd4::",
+            "name": "TELEMATICA-DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aea0::",
+                "prefix": "2a01:aea0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aea0:dd4::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "2a01:aea0:dd5::",
+            "name": "AT-TELEMATICA-20140319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aea0::",
+                "prefix": "2a01:aea0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aea0:dd5::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "2a01:aea0:df3::",
+            "name": "AT-TELEMATICA-20140319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aea0::",
+                "prefix": "2a01:aea0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aea0:df3::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "2a01:aea0:df4::",
+            "name": "AT-TELEMATICA-20140319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aea0::",
+                "prefix": "2a01:aea0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aea0:df4::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Telematica Internet Service Provider GmbH",
+            "ip": "2a01:aea0:df5::",
+            "name": "AT-TELEMATICA-20140319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:aea0::",
+                "prefix": "2a01:aea0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:aea0:df5::/48",
+            "roa_status": "None"
+        }
+    ]
+}
