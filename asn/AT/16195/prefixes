@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Michael Orth",
+            "ip": "185.100.144.0",
+            "name": "AT-ORTH-20150518",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.100.144.0",
+                "prefix": "185.100.144.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.100.144.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Michael Orth",
+            "ip": "217.113.96.0",
+            "name": "AT-ORTH-20010116",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.113.96.0",
+                "prefix": "217.113.96.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.113.96.0/20",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
