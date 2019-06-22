@@ -1,0 +1,37 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Internet Viennaweb Service GmbH",
+            "ip": "195.110.192.0",
+            "name": "AT-VIENNAWEB-970424",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.110.192.0",
+                "prefix": "195.110.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.110.192.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "RailNetEurope Association for facilitating traffic on European rail infrastructure",
+            "ip": "91.208.217.0",
+            "name": "RAILNET-EUROPE-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.208.217.0",
+                "prefix": "91.208.217.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.208.217.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": []
+}
