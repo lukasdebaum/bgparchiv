@@ -1,0 +1,102 @@
+{
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Osiatis Computer Services GMBH",
+            "ip": "193.105.153.0",
+            "name": "Osiatis-Net",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.105.153.0",
+                "prefix": "193.105.153.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.105.153.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Entwicklungsagentur Kaernten GmbH",
+            "ip": "193.243.162.0",
+            "name": "TLK-CARINTHIA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.243.162.0",
+                "prefix": "193.243.162.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.243.162.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 19,
+            "country_code": "AT",
+            "description": "Net4You Internet GmbH",
+            "ip": "194.177.128.0",
+            "name": "AT-NET4YOU-960111",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "194.177.128.0",
+                "prefix": "194.177.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.177.128.0/19",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kabel-TV Koetschach-Mauthen Ing. Lipicer - Ing. Winterer KG",
+            "ip": "91.199.70.0",
+            "name": "koemautv",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.199.70.0",
+                "prefix": "91.199.70.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.199.70.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Net4You Internet GmbH",
+            "ip": "94.136.96.0",
+            "name": "AT-NET4YOU-20080718",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "94.136.96.0",
+                "prefix": "94.136.96.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.136.96.0/20",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Net4You Internet GmbH",
+            "ip": "2a00:12e0::",
+            "name": "AT-NET4YOU-20090901",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:12e0::",
+                "prefix": "2a00:12e0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:12e0::/32",
+            "roa_status": "None"
+        }
+    ]
+}
