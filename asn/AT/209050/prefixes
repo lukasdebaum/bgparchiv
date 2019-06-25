@@ -1,4 +1,38 @@
 {
-    "ipv4_prefixes": [],
-    "ipv6_prefixes": []
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Digimagical GmbH",
+            "ip": "5.183.216.0",
+            "name": "AT-DIGIMAGICAL-20190411",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.183.216.0",
+                "prefix": "5.183.216.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.183.216.0/22",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Digimagical GmbH",
+            "ip": "2a0e:a600::",
+            "name": "AT-DIGIMAGICAL-20190416",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0e:a600::",
+                "prefix": "2a0e:a600::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0e:a600::/29",
+            "roa_status": "None"
+        }
+    ]
 }
