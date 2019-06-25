@@ -211,6 +211,38 @@
         {
             "cidr": 17,
             "country_code": "DE",
+            "description": "Unitymedia dynamic customer IP pool",
+            "ip": "109.91.0.0",
+            "name": "UNITYMEDIA-POOL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "109.90.0.0",
+                "prefix": "109.90.0.0/15",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.91.0.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 17,
+            "country_code": "DE",
+            "description": "Unitymedia dynamic customer IP pool",
+            "ip": "109.91.128.0",
+            "name": "UNITYMEDIA-POOL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "109.90.0.0",
+                "prefix": "109.90.0.0/15",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.91.128.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 17,
+            "country_code": "DE",
             "description": "Unitymedia NRW GmbH",
             "ip": "130.180.0.0",
             "name": "DE-KNRW-20111019",
@@ -3283,9 +3315,9 @@
         {
             "cidr": 21,
             "country_code": "EU",
-            "description": "To determine the registration information for a more",
+            "description": "128.0.0.0 - 255.255.255.255",
             "ip": "194.102.248.0",
-            "name": "EU-ZZ-193",
+            "name": "IANA-BLK",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 24,
@@ -7315,7 +7347,7 @@
         {
             "cidr": 18,
             "country_code": "DE",
-            "description": "Kabel BW GmbH",
+            "description": "Unitymedia BW GmbH",
             "ip": "37.49.0.0",
             "name": "KABELBW-14",
             "parent": {
@@ -10211,7 +10243,7 @@
         {
             "cidr": 16,
             "country_code": "HU",
-            "description": "PROVIDER",
+            "description": "UPC Magyarorszag Kft.",
             "ip": "80.99.0.0",
             "name": "HU-SZABINET-20010715",
             "parent": {
