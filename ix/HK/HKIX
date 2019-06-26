@@ -246,15 +246,6 @@
             "speed": 20000
         },
         {
-            "asn": 4635,
-            "country_code": "HK",
-            "description": "Hong Kong Internet Exchange--Route Server 1",
-            "ipv4_address": "123.255.90.144",
-            "ipv6_address": null,
-            "name": "HKIX-RS1",
-            "speed": 20000
-        },
-        {
             "asn": 4637,
             "country_code": "HK",
             "description": "Telstra Global",
@@ -2370,6 +2361,15 @@
             "speed": 1000
         },
         {
+            "asn": 58708,
+            "country_code": "HK",
+            "description": "CRP-HK",
+            "ipv4_address": "123.255.90.144",
+            "ipv6_address": null,
+            "name": "CRP-HK",
+            "speed": 20000
+        },
+        {
             "asn": 58779,
             "country_code": "HK",
             "description": "i4HK Limited",
@@ -2910,7 +2910,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 246,
+    "members_count": 247,
     "name": "HKIX",
     "name_full": "Hong Kong Internet Exchange",
     "policy_email": null,
