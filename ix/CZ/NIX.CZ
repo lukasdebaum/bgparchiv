@@ -36,7 +36,7 @@
             "ipv4_address": "91.210.16.190",
             "ipv6_address": "2001:7f8:14::1:2",
             "name": "CESNET2",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 2852,
@@ -367,7 +367,7 @@
             "country_code": "CZ",
             "description": "Vodafone Czech Republic a.s.",
             "ipv4_address": "91.210.16.95",
-            "ipv6_address": "2001:7f8:14::23:2",
+            "ipv6_address": "2001:7f8:14::23:1",
             "name": "VODAFONE-CZ-AS",
             "speed": 130000
         },
@@ -376,7 +376,7 @@
             "country_code": "CZ",
             "description": "Vodafone Czech Republic a.s.",
             "ipv4_address": "91.210.16.96",
-            "ipv6_address": "2001:7f8:14::23:1",
+            "ipv6_address": "2001:7f8:14::23:2",
             "name": "VODAFONE-CZ-AS",
             "speed": 130000
         },
@@ -646,7 +646,7 @@
             "country_code": "CZ",
             "description": "Ceska Telekomunikacni Infrastruktura a.s",
             "ipv4_address": "91.210.16.229",
-            "ipv6_address": "2001:7f8:14::68:2",
+            "ipv6_address": "2001:7f8:14::68:1",
             "name": "CETIN-AS",
             "speed": 200000
         },
@@ -655,7 +655,7 @@
             "country_code": "CZ",
             "description": "Ceska Telekomunikacni Infrastruktura a.s",
             "ipv4_address": "91.210.16.230",
-            "ipv6_address": "2001:7f8:14::68:1",
+            "ipv6_address": "2001:7f8:14::68:2",
             "name": "CETIN-AS",
             "speed": 200000
         },
@@ -1119,6 +1119,15 @@
             "speed": 2000
         },
         {
+            "asn": 43451,
+            "country_code": "SK",
+            "description": "RadioLAN spol. s r.o.",
+            "ipv4_address": "91.210.16.212",
+            "ipv6_address": "2001:7f8:14::b4:1",
+            "name": "RADIOLAN-SK-AS",
+            "speed": 10000
+        },
+        {
             "asn": 43531,
             "country_code": "GB",
             "description": "IX Reach Ltd",
@@ -1132,7 +1141,7 @@
             "country_code": "CZ",
             "description": "VSHosting s.r.o.",
             "ipv4_address": "91.210.16.151",
-            "ipv6_address": "2001:7f8:14::41:1",
+            "ipv6_address": "2001:7f8:14::41:2",
             "name": "VSHOSTING",
             "speed": 40000
         },
@@ -1141,7 +1150,7 @@
             "country_code": "CZ",
             "description": "VSHosting s.r.o.",
             "ipv4_address": "91.210.16.152",
-            "ipv6_address": "2001:7f8:14::41:2",
+            "ipv6_address": "2001:7f8:14::41:1",
             "name": "VSHOSTING",
             "speed": 40000
         },
@@ -1240,7 +1249,7 @@
             "country_code": "CZ",
             "description": "ISP Alliance a.s.",
             "ipv4_address": "91.210.16.109",
-            "ipv6_address": "2001:7f8:14::33:1",
+            "ipv6_address": "2001:7f8:14::33:2",
             "name": "ISPAlliance",
             "speed": 80000
         },
@@ -1249,7 +1258,7 @@
             "country_code": "CZ",
             "description": "ISP Alliance a.s.",
             "ipv4_address": "91.210.16.143",
-            "ipv6_address": "2001:7f8:14::33:2",
+            "ipv6_address": "2001:7f8:14::33:1",
             "name": "ISPAlliance",
             "speed": 80000
         },
@@ -1393,7 +1402,7 @@
             "country_code": "CZ",
             "description": "AVAST Software s.r.o.",
             "ipv4_address": "91.210.16.198",
-            "ipv6_address": "2001:7f8:14::5a:1",
+            "ipv6_address": "2001:7f8:14::5a:2",
             "name": "AVAST-AS-DC",
             "speed": 20000
         },
@@ -1402,7 +1411,7 @@
             "country_code": "CZ",
             "description": "AVAST Software s.r.o.",
             "ipv4_address": "91.210.16.199",
-            "ipv6_address": "2001:7f8:14::5a:2",
+            "ipv6_address": "2001:7f8:14::5a:1",
             "name": "AVAST-AS-DC",
             "speed": 20000
         },
@@ -1578,7 +1587,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 117,
+    "members_count": 118,
     "name": "NIX.CZ",
     "name_full": "Neutral Internet Exchange in the Czech Republic",
     "policy_email": "ag@nix.cz",
