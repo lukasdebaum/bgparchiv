@@ -1112,7 +1112,7 @@
         {
             "asn": 26788,
             "country_code": "CA",
-            "description": "Rogers Communications Canada Inc.",
+            "description": "ROGERS-COMMUNICATIONS",
             "ipv4_address": "198.32.245.82",
             "ipv6_address": null,
             "name": "ROGERS-COMMUNICATIONS",
@@ -1713,6 +1713,15 @@
             "speed": 10000
         },
         {
+            "asn": 45102,
+            "country_code": "US",
+            "description": "Alibaba (US) Technology Co., Ltd.",
+            "ipv4_address": "206.108.35.132",
+            "ipv6_address": "2001:504:1a::35:132",
+            "name": "CNNIC-ALIBABA-US-NET-AP",
+            "speed": 10000
+        },
+        {
             "asn": 46156,
             "country_code": "CA",
             "description": "Sunlife Assurance Company of Canada",
@@ -2181,7 +2190,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 223,
+    "members_count": 224,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
