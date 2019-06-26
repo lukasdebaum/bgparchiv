@@ -211,38 +211,6 @@
         {
             "cidr": 17,
             "country_code": "DE",
-            "description": "Unitymedia dynamic customer IP pool",
-            "ip": "109.91.0.0",
-            "name": "UNITYMEDIA-POOL-NET",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 15,
-                "ip": "109.90.0.0",
-                "prefix": "109.90.0.0/15",
-                "rir_name": "RIPE"
-            },
-            "prefix": "109.91.0.0/17",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 17,
-            "country_code": "DE",
-            "description": "Unitymedia dynamic customer IP pool",
-            "ip": "109.91.128.0",
-            "name": "UNITYMEDIA-POOL-NET",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 15,
-                "ip": "109.90.0.0",
-                "prefix": "109.90.0.0/15",
-                "rir_name": "RIPE"
-            },
-            "prefix": "109.91.128.0/17",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 17,
-            "country_code": "DE",
             "description": "Unitymedia NRW GmbH",
             "ip": "130.180.0.0",
             "name": "DE-KNRW-20111019",
@@ -9523,9 +9491,9 @@
         {
             "cidr": 17,
             "country_code": "AT",
-            "description": "UPC Austria GmbH",
+            "description": "T-Mobile Austria GmbH",
             "ip": "80.110.128.0",
-            "name": "UPC-VDSL",
+            "name": "AT-TELEKABEL-20010719",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 16,
