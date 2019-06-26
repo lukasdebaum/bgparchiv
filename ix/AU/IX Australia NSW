@@ -1551,6 +1551,15 @@
             "speed": 10000
         },
         {
+            "asn": 134139,
+            "country_code": "AU",
+            "description": "Harbour ISP Pty LTD",
+            "ipv4_address": "218.100.52.61",
+            "ipv6_address": null,
+            "name": "HARBOURISPPTYLTD-AS-AP",
+            "speed": 20000
+        },
+        {
             "asn": 134503,
             "country_code": "AU",
             "description": "Flash Fibres",
@@ -1701,7 +1710,7 @@
             "ipv4_address": "218.100.53.20",
             "ipv6_address": "2001:7fa:11:4:2:170c:0:1",
             "name": "MYPORT1-AS-AP",
-            "speed": 0
+            "speed": 10000
         },
         {
             "asn": 137409,
@@ -1749,7 +1758,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 168,
+    "members_count": 169,
     "name": "IX Australia NSW",
     "name_full": "New South Wales Internet Exchange (NSW-IX)",
     "policy_email": "peering@ix.asn.au",
