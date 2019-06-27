@@ -49,6 +49,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Data Magic Datenservice GmbH",
+            "ip": "45.90.24.0",
+            "name": "AT-DATAMAGIC-20190624",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.90.24.0",
+                "prefix": "45.90.24.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.90.24.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "AT",
             "description": "SelfNet Internet Ges.m.b.H.",
@@ -144,6 +160,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a01:5741::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "GB",
+            "description": "Quonubes Limited",
+            "ip": "2a06:3cc0::",
+            "name": "UK-QUONUBES-20150626",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a06:3cc0::",
+                "prefix": "2a06:3cc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a06:3cc0::/29",
             "roa_status": "None"
         }
     ]
