@@ -129,15 +129,6 @@
             "speed": 4000
         },
         {
-            "asn": 5111,
-            "country_code": "CA",
-            "description": "it.canada",
-            "ipv4_address": "198.32.245.44",
-            "ipv6_address": null,
-            "name": "CABLE-ASN",
-            "speed": 100
-        },
-        {
             "asn": 5645,
             "country_code": "CA",
             "description": "TekSavvy Solutions, Inc.",
@@ -774,7 +765,7 @@
             "ipv4_address": "206.108.34.93",
             "ipv6_address": null,
             "name": "HEAVYCOMPUTING",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 19382,
@@ -2073,6 +2064,15 @@
             "speed": 1000
         },
         {
+            "asn": 393424,
+            "country_code": "CA",
+            "description": "Toronto Internet Exchange Community",
+            "ipv4_address": "206.108.35.1",
+            "ipv6_address": "2001:504:1a::35:1",
+            "name": "AS-TORIX-SVC",
+            "speed": 1000
+        },
+        {
             "asn": 393457,
             "country_code": "CA",
             "description": "Hamilton Community Energy",
@@ -2190,7 +2190,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 224,
+    "members_count": 223,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
