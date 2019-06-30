@@ -1569,6 +1569,15 @@
             "speed": 10000
         },
         {
+            "asn": 30081,
+            "country_code": "US",
+            "description": "CacheNetworks, Inc.",
+            "ipv4_address": "27.111.228.125",
+            "ipv6_address": "2001:de8:4::3:8195:2",
+            "name": "CACHENETWORKS",
+            "speed": 10000
+        },
+        {
             "asn": 31800,
             "country_code": "US",
             "description": "DALnet",
@@ -2134,15 +2143,6 @@
             "ipv6_address": "2001:de8:4::4:5629:2",
             "name": "JASTEL-NETWORK-TH-AP",
             "speed": 100000
-        },
-        {
-            "asn": 45629,
-            "country_code": "TH",
-            "description": "JasTel Network International Gateway",
-            "ipv4_address": "27.111.229.40",
-            "ipv6_address": "2001:de8:4::4:5629:3",
-            "name": "JASTEL-NETWORK-TH-AP",
-            "speed": 10000
         },
         {
             "asn": 45634,
@@ -3189,7 +3189,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 296,
+    "members_count": 297,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
