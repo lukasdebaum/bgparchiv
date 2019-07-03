@@ -306,7 +306,7 @@
             "ipv4_address": "185.6.36.75",
             "ipv6_address": "2001:7f8:18::75",
             "name": "LLNW",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 25441,
@@ -651,6 +651,15 @@
             "speed": 1000
         },
         {
+            "asn": 60501,
+            "country_code": "IT",
+            "description": "Sirius Technology SRL",
+            "ipv4_address": "185.6.36.140",
+            "ipv6_address": "2001:7f8:18::140",
+            "name": "SIRIUSTEC-IT",
+            "speed": 1000
+        },
+        {
             "asn": 61194,
             "country_code": "IE",
             "description": "t/a Another9",
@@ -759,7 +768,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 82,
+    "members_count": 83,
     "name": "INEX LAN1",
     "name_full": "Internet Neutral Exchange Association CLG",
     "policy_email": "manager@inex.ie",
