@@ -81,6 +81,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "T-Mobile Austria GmbH",
+            "ip": "213.162.80.0",
+            "name": "TMA_GPRSINTERNET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "213.162.64.0",
+                "prefix": "213.162.64.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.162.80.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 15,
             "country_code": "AT",
             "description": "T-Mobile Austria GmbH",
