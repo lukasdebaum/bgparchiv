@@ -72,7 +72,7 @@
             "ipv4_address": "193.37.144.1",
             "ipv6_address": "2001:7f8:4a::1",
             "name": "i3B-AS",
-            "speed": 1000
+            "speed": 20000
         },
         {
             "asn": 47147,
@@ -93,6 +93,33 @@
             "speed": 20000
         },
         {
+            "asn": 51658,
+            "country_code": "AT",
+            "description": "Patrick Janesch trading as Lucesem",
+            "ipv4_address": "193.37.144.22",
+            "ipv6_address": "2001:7f8:4a::22",
+            "name": "LUCESEM-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 61423,
+            "country_code": "CH",
+            "description": "JMP Technology Services GmbH",
+            "ipv4_address": "193.37.144.20",
+            "ipv6_address": "2001:7f8:4a::20",
+            "name": "JMP-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 61423,
+            "country_code": "CH",
+            "description": "JMP Technology Services GmbH",
+            "ipv4_address": "193.37.144.21",
+            "ipv6_address": "2001:7f8:4a::21",
+            "name": "JMP-AS",
+            "speed": 10000
+        },
+        {
             "asn": 61438,
             "country_code": "AT",
             "description": "ip-it consult GmbH",
@@ -111,7 +138,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 9,
+    "members_count": 11,
     "name": "AAIX",
     "name_full": "Alpes Adria Internet eXchange",
     "policy_email": "ops@aaix.at",
