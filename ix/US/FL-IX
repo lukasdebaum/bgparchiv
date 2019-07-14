@@ -99,7 +99,7 @@
             "ipv4_address": "206.41.108.23",
             "ipv6_address": "2001:504:40:108::1:23",
             "name": "HURRICANE",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 7363,
@@ -252,15 +252,6 @@
             "ipv4_address": "206.41.108.108",
             "ipv6_address": "2001:504:40:108::1:108",
             "name": "SD-DATA-CENTER",
-            "speed": 10000
-        },
-        {
-            "asn": 14840,
-            "country_code": "BR",
-            "description": "COMMCORP COMUNICACOES LTDA",
-            "ipv4_address": "206.41.108.30",
-            "ipv6_address": "2001:504:40:108::1:30",
-            "name": "COMMCORP COMUNICACOES LTDA",
             "speed": 10000
         },
         {
@@ -489,6 +480,15 @@
             "speed": 10000
         },
         {
+            "asn": 23379,
+            "country_code": "PR",
+            "description": "Blackburn Technologies II, LLC",
+            "ipv4_address": "206.41.108.139",
+            "ipv6_address": "2001:504:40:108::1:139",
+            "name": "AS-BBT",
+            "speed": 10000
+        },
+        {
             "asn": 23393,
             "country_code": "US",
             "description": "NuCDN LLC",
@@ -505,6 +505,15 @@
             "ipv6_address": "2001:504:40:108::1:129",
             "name": "RELIABLESITE",
             "speed": 20000
+        },
+        {
+            "asn": 25837,
+            "country_code": "US",
+            "description": "DATALINK INFORMATION TECHNOLOGIES INC.",
+            "ipv4_address": "206.41.108.138",
+            "ipv6_address": "2001:504:40:108::1:138",
+            "name": "DATALINK-IT",
+            "speed": 10000
         },
         {
             "asn": 25933,
@@ -1164,7 +1173,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 111,
+    "members_count": 112,
     "name": "FL-IX",
     "name_full": "FL-IX - The Florida Internet Exchange / Community IX - Florida",
     "policy_email": "info@fl-ix.net",
