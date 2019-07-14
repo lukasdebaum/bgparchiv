@@ -93,6 +93,24 @@
             "speed": 10000
         },
         {
+            "asn": 3303,
+            "country_code": "CH",
+            "description": "Swisscom (Switzerland) Ltd",
+            "ipv4_address": "212.237.193.11",
+            "ipv6_address": "2001:7f8:d:203::11",
+            "name": "SWISSCOM",
+            "speed": 10000
+        },
+        {
+            "asn": 3303,
+            "country_code": "CH",
+            "description": "Swisscom (Switzerland) Ltd",
+            "ipv4_address": "212.237.192.11",
+            "ipv6_address": "2001:7f8:d:202::11",
+            "name": "SWISSCOM",
+            "speed": 10000
+        },
+        {
             "asn": 6939,
             "country_code": "US",
             "description": "Hurricane Electric LLC",
@@ -663,8 +681,17 @@
             "asn": 61955,
             "country_code": "DE",
             "description": "ColocationIX GmbH",
-            "ipv4_address": "192.168.0.0",
-            "ipv6_address": null,
+            "ipv4_address": "212.237.192.12",
+            "ipv6_address": "2001:7f8:d:202::12",
+            "name": "ColocationIX-AS",
+            "speed": 20000
+        },
+        {
+            "asn": 61955,
+            "country_code": "DE",
+            "description": "ColocationIX GmbH",
+            "ipv4_address": "212.237.193.12",
+            "ipv6_address": "2001:7f8:d:203::12",
             "name": "ColocationIX-AS",
             "speed": 20000
         },
@@ -732,7 +759,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 41,
+    "members_count": 42,
     "name": "Netnod Copenhagen",
     "name_full": "Netnod Internet Exchange i Sverige AB",
     "policy_email": "info@netnod.se",
