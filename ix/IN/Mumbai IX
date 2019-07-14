@@ -12,6 +12,24 @@
             "speed": 1000
         },
         {
+            "asn": 714,
+            "country_code": "US",
+            "description": "Apple Inc.",
+            "ipv4_address": "103.27.170.3",
+            "ipv6_address": "2401:7500:fff6::3",
+            "name": "APPLE-ENGINEERING",
+            "speed": 10000
+        },
+        {
+            "asn": 714,
+            "country_code": "US",
+            "description": "Apple Inc.",
+            "ipv4_address": "103.27.170.4",
+            "ipv6_address": "2401:7500:fff6::4",
+            "name": "APPLE-ENGINEERING",
+            "speed": 10000
+        },
+        {
             "asn": 2906,
             "country_code": "US",
             "description": "Netflix Streaming Services Inc.",
@@ -37,6 +55,15 @@
             "ipv6_address": "2401:7500:fff6::120",
             "name": "PCH-AS",
             "speed": 1000
+        },
+        {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "ipv4_address": "103.27.170.5",
+            "ipv6_address": "2401:7500:fff6::5",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+            "speed": 10000
         },
         {
             "asn": 9583,
@@ -144,6 +171,15 @@
             "ipv4_address": "103.27.170.203",
             "ipv6_address": null,
             "name": "CITYSERV-AS-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 17625,
+            "country_code": "IN",
+            "description": "BlazeNet's Network",
+            "ipv4_address": "103.27.170.50",
+            "ipv6_address": "2401:7500:fff6::50",
+            "name": "BLAZENET-IN-AP",
             "speed": 10000
         },
         {
@@ -259,7 +295,7 @@
             "country_code": "US",
             "description": "Web Werks",
             "ipv4_address": "103.27.170.254",
-            "ipv6_address": "2401:7500:fff6::4",
+            "ipv6_address": "2401:7500:fff6::254",
             "name": "WEBWERKSAS1",
             "speed": 20000
         },
@@ -657,6 +693,15 @@
             "ipv4_address": "103.27.170.65",
             "ipv6_address": "2401:7500:fff6::65",
             "name": "INTERWIRE-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 63949,
+            "country_code": "US",
+            "description": "Linode, LLC",
+            "ipv4_address": "103.27.170.12",
+            "ipv6_address": "2401:7500:fff6::12",
+            "name": "LINODE-AP",
             "speed": 10000
         },
         {
@@ -1072,15 +1117,6 @@
             "ipv6_address": null,
             "name": "SOFTCALLCOC-AS",
             "speed": 2000
-        },
-        {
-            "asn": 133994,
-            "country_code": "IN",
-            "description": "NET ONAIR NETWORKS PVT LTD",
-            "ipv4_address": "103.27.170.124",
-            "ipv6_address": null,
-            "name": "NOANPL-AS",
-            "speed": 1024
         },
         {
             "asn": 134014,
@@ -2001,7 +2037,7 @@
             "speed": 1024
         }
     ],
-    "members_count": 213,
+    "members_count": 216,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
