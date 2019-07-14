@@ -17,7 +17,7 @@
             "description": "Aussie Broadband",
             "ipv4_address": "218.100.78.19",
             "ipv6_address": "2001:7fa:11:1:0:129c:0:1",
-            "name": "wideband-as-au",
+            "name": "WIDEBAND-AS-AP",
             "speed": 30000
         },
         {
@@ -588,6 +588,15 @@
             "speed": 1000
         },
         {
+            "asn": 133120,
+            "country_code": "AU",
+            "description": "Hosted Network Pty. Ltd.",
+            "ipv4_address": "218.100.78.117",
+            "ipv6_address": null,
+            "name": "HNPL-AS-AP",
+            "speed": 10000
+        },
+        {
             "asn": 133480,
             "country_code": "AU",
             "description": "Intergrid Group Pty Ltd",
@@ -714,7 +723,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 72,
+    "members_count": 73,
     "name": "IX Australia VIC",
     "name_full": "Victorian Internet Exchange (VIC-IX)",
     "policy_email": "peering@ix.asn.au",
