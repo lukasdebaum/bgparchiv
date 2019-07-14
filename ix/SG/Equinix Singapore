@@ -278,7 +278,7 @@
             "description": "Aussie Broadband",
             "ipv4_address": "27.111.229.181",
             "ipv6_address": "2001:de8:4::4764:1",
-            "name": "wideband-as-au",
+            "name": "WIDEBAND-AS-AP",
             "speed": 20000
         },
         {
@@ -1350,6 +1350,15 @@
             "ipv4_address": "27.111.229.47",
             "ipv6_address": "2001:de8:4::2:3673:2",
             "name": "ONLINE-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 23889,
+            "country_code": "MU",
+            "description": "MAURITIUS TELECOM",
+            "ipv4_address": "27.111.229.205",
+            "ipv6_address": "2001:de8:4::2:3889:1",
+            "name": "MauritiusTelecom",
             "speed": 10000
         },
         {
@@ -3198,7 +3207,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 298,
+    "members_count": 299,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
