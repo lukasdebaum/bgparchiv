@@ -255,6 +255,15 @@
             "speed": 10000
         },
         {
+            "asn": 1828,
+            "country_code": "US",
+            "description": "Unitas Global LLC",
+            "ipv4_address": "80.81.196.38",
+            "ipv6_address": "2001:7f8::724:0:1",
+            "name": "UNITAS",
+            "speed": 10000
+        },
+        {
             "asn": 1836,
             "country_code": "EU",
             "description": "green.ch AG Autonomous System",
@@ -896,7 +905,7 @@
         {
             "asn": 6682,
             "country_code": "AM",
-            "description": "--Arminco--",
+            "description": "-=Telia=-",
             "ipv4_address": "80.81.194.72",
             "ipv6_address": "2001:7f8::1a1a:0:1",
             "name": "GNC-ALFA",
@@ -2007,7 +2016,7 @@
             "ipv4_address": "80.81.195.191",
             "ipv6_address": "2001:7f8::2453:0:1",
             "name": "IPG-AS-AP",
-            "speed": 2500
+            "speed": 5000
         },
         {
             "asn": 9304,
@@ -2120,7 +2129,7 @@
         {
             "asn": 12301,
             "country_code": "HU",
-            "description": "Invitech ICT Services Kft.",
+            "description": "Invitech Megoldasok Zrt.",
             "ipv4_address": "80.81.192.70",
             "ipv6_address": "2001:7f8::300d:0:1",
             "name": "Invitech",
@@ -2691,7 +2700,7 @@
             "ipv4_address": "80.81.192.203",
             "ipv6_address": "2001:7f8::32fe:0:1",
             "name": "FREINET",
-            "speed": 200
+            "speed": 10000
         },
         {
             "asn": 13101,
@@ -3385,6 +3394,15 @@
             "ipv6_address": "2001:7f8::4cdf:0:1",
             "name": "DROPBOX",
             "speed": 60000
+        },
+        {
+            "asn": 19711,
+            "country_code": "SZ",
+            "description": "Swaziland PTC",
+            "ipv4_address": "80.81.196.36",
+            "ipv6_address": null,
+            "name": "SWAZINET",
+            "speed": 1000
         },
         {
             "asn": 20278,
@@ -7222,7 +7240,7 @@
         },
         {
             "asn": 57695,
-            "country_code": "DE",
+            "country_code": "US",
             "description": "Misaka Network, Inc.",
             "ipv4_address": "80.81.192.231",
             "ipv6_address": "2001:7f8::e15f:0:1",
@@ -7749,7 +7767,7 @@
             "ipv4_address": "80.81.194.128",
             "ipv6_address": "2001:7f8::3:1cf:0:1",
             "name": "ACTIVE-SERVERS",
-            "speed": 0
+            "speed": 10000
         },
         {
             "asn": 197440,
@@ -8299,9 +8317,18 @@
             "ipv6_address": "2001:7f8::4:182b:0:1",
             "name": "LINK BARATO.COM TELECOMUNICACOES EIRELI",
             "speed": 500
+        },
+        {
+            "asn": 268696,
+            "country_code": "BR",
+            "description": "TUDDO INTERNET LTDA",
+            "ipv4_address": "80.81.195.100",
+            "ipv6_address": "2001:7f8::4:1998:0:1",
+            "name": "TUDDO INTERNET LTDA",
+            "speed": 500
         }
     ],
-    "members_count": 794,
+    "members_count": 797,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
