@@ -3411,22 +3411,6 @@
         {
             "cidr": 24,
             "country_code": "AT",
-            "description": "AMC Oesterreich HandelsgesmbH",
-            "ip": "194.107.113.0",
-            "name": "AMC-NET",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 24,
-                "ip": "194.107.113.0",
-                "prefix": "194.107.113.0/24",
-                "rir_name": "RIPE"
-            },
-            "prefix": "194.107.113.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
             "description": "Schrack Technik GmbH",
             "ip": "194.107.224.0",
             "name": "SE-NET",
@@ -5747,9 +5731,9 @@
         {
             "cidr": 17,
             "country_code": "EU",
-            "description": "To determine the registration information for a more",
+            "description": "The whole IPv4 address space",
             "ip": "213.47.128.0",
-            "name": "EU-ZZ-212",
+            "name": "IANA-BLK",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 18,
@@ -8211,7 +8195,7 @@
         {
             "cidr": 21,
             "country_code": "DE",
-            "description": "Kabel BW GmbH",
+            "description": "Unitymedia BW GmbH",
             "ip": "5.56.184.0",
             "name": "KABELBW-16",
             "parent": {
@@ -11571,6 +11555,38 @@
         {
             "cidr": 24,
             "country_code": "RO",
+            "description": "SC SIMLEX SRL",
+            "ip": "85.120.136.0",
+            "name": "SC-SIMLEX-SRL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "85.120.0.0",
+                "prefix": "85.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.120.136.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RO",
+            "description": "STR TRANSILVANIEI,NR 11, BL T4A, AP 1,",
+            "ip": "85.120.138.0",
+            "name": "SC-SIMLEX-SRL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "85.120.0.0",
+                "prefix": "85.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.120.138.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RO",
             "description": "SC BBSC SRL",
             "ip": "85.120.158.0",
             "name": "SC-BBSCNET-SRL",
@@ -11777,6 +11793,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "RO",
+            "description": "SC SIMLEX SRL",
+            "ip": "85.121.191.0",
+            "name": "SC-SIMLEX-SRL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "85.120.0.0",
+                "prefix": "85.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.121.191.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "RO",
             "description": "Emil racovita Nr:10A",
@@ -11790,6 +11822,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "85.121.4.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RO",
+            "description": "SC SIMLEX SRL",
+            "ip": "85.121.57.0",
+            "name": "SC-SIMLEX-SRL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "85.120.0.0",
+                "prefix": "85.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.121.57.0/24",
             "roa_status": "None"
         },
         {
@@ -14640,22 +14688,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2001:67c:1b50::/48",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "NL",
-            "description": "Gemeente Breda",
-            "ip": "2001:67c:1b9c::",
-            "name": "GEMBRD-NET",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 48,
-                "ip": "2001:67c:1b9c::",
-                "prefix": "2001:67c:1b9c::/48",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2001:67c:1b9c::/48",
             "roa_status": "None"
         },
         {
