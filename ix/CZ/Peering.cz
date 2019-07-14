@@ -808,7 +808,7 @@
             "country_code": "CZ",
             "description": "WMS s.r.o.",
             "ipv4_address": "91.213.211.38",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:7f::38",
             "name": "WMS-AS",
             "speed": 20000
         },
@@ -1164,6 +1164,15 @@
             "speed": 10000
         },
         {
+            "asn": 61955,
+            "country_code": "DE",
+            "description": "ColocationIX GmbH",
+            "ipv4_address": "91.213.211.134",
+            "ipv6_address": "2001:7f8:7f::134",
+            "name": "ColocationIX-AS",
+            "speed": 20000
+        },
+        {
             "asn": 62099,
             "country_code": "CZ",
             "description": "JM-Net, z.s.",
@@ -1371,7 +1380,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 112,
+    "members_count": 113,
     "name": "Peering.cz",
     "name_full": "Peering.cz eXchange",
     "policy_email": "support@peering.cz",
