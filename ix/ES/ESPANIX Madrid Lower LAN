@@ -120,6 +120,15 @@
             "speed": 1000
         },
         {
+            "asn": 3352,
+            "country_code": "ES",
+            "description": "TELEFONICA DE ESPANA",
+            "ipv4_address": "193.149.1.23",
+            "ipv6_address": null,
+            "name": "Telefonica_de_Espana",
+            "speed": 0
+        },
+        {
             "asn": 3856,
             "country_code": "US",
             "description": "Packet Clearing House",
@@ -180,7 +189,7 @@
             "ipv4_address": "193.149.1.29",
             "ipv6_address": "2001:7f8:f::70",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 8218,
@@ -564,7 +573,7 @@
             "asn": 30081,
             "country_code": "US",
             "description": "CacheNetworks, Inc.",
-            "ipv4_address": "193.149.2.19",
+            "ipv4_address": "193.149.1.19",
             "ipv6_address": null,
             "name": "CACHENETWORKS",
             "speed": 10000
@@ -984,7 +993,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 104,
+    "members_count": 105,
     "name": "ESPANIX Madrid Lower LAN",
     "name_full": "Espana Internet Exchange Lower LAN",
     "policy_email": "admision@espanix.net",
