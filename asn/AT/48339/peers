@@ -1,6 +1,12 @@
 {
     "ipv4_peers": [
         {
+            "asn": 3257,
+            "country_code": "DE",
+            "description": "GTT",
+            "name": "GTT-BACKBONE"
+        },
+        {
             "asn": 6663,
             "country_code": "RO",
             "description": "Euroweb Romania S.R.L.",
@@ -29,12 +35,6 @@
             "country_code": "AT",
             "description": "Styria IT Solutions GmbH & Co KG",
             "name": "AS8547"
-        },
-        {
-            "asn": 8928,
-            "country_code": "GB",
-            "description": "25 Canada Square, Canary Wharf, 31st Floor",
-            "name": "INTEROUTE"
         },
         {
             "asn": 13237,
@@ -77,12 +77,6 @@
             "country_code": "AT",
             "description": "Stadtwerke Feldkirch",
             "name": "TKSWF-AS"
-        },
-        {
-            "asn": 55002,
-            "country_code": "US",
-            "description": "Defense.Net, Inc",
-            "name": "DEFENSE-NET"
         }
     ],
     "ipv6_peers": [
