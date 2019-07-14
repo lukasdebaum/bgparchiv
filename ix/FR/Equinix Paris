@@ -21,6 +21,15 @@
             "speed": 1000
         },
         {
+            "asn": 286,
+            "country_code": "NL",
+            "description": "KPN Internet Solutions",
+            "ipv4_address": "195.42.144.35",
+            "ipv6_address": "2001:7f8:43::286:1",
+            "name": "KPN",
+            "speed": 10000
+        },
+        {
             "asn": 714,
             "country_code": "US",
             "description": "Apple Inc.",
@@ -662,7 +671,7 @@
         {
             "asn": 20900,
             "country_code": "FR",
-            "description": "Network operating in the South Western France (Toulouse-Castres)",
+            "description": "IMSNETWORKS",
             "ipv4_address": "195.42.145.128",
             "ipv6_address": null,
             "name": "MAN-CASTRES-AS",
@@ -1295,6 +1304,15 @@
             "description": "NetActuate, Inc",
             "ipv4_address": "195.42.145.214",
             "ipv6_address": "2001:7f8:43::3:6236:1",
+            "name": "NETACTUATE",
+            "speed": 10000
+        },
+        {
+            "asn": 36236,
+            "country_code": "US",
+            "description": "NetActuate, Inc",
+            "ipv4_address": "195.42.145.40",
+            "ipv6_address": "2001:7f8:43::3:6236:2",
             "name": "NETACTUATE",
             "speed": 10000
         },
@@ -2532,7 +2550,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 266,
+    "members_count": 267,
     "name": "Equinix Paris",
     "name_full": "Equinix Internet Exchange Paris",
     "policy_email": null,
