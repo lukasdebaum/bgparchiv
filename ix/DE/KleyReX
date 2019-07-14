@@ -3,6 +3,15 @@
     "country_code": "DE",
     "members": [
         {
+            "asn": 1820,
+            "country_code": "US",
+            "description": "WNET TELECOM USA Corp.",
+            "ipv4_address": "193.189.82.12",
+            "ipv6_address": "2001:7f8:33::a100:1820:1",
+            "name": "WNET",
+            "speed": 10000
+        },
+        {
             "asn": 4842,
             "country_code": "CN",
             "description": "Tianhai InfoTech",
@@ -333,7 +342,7 @@
             "ipv4_address": "193.189.82.116",
             "ipv6_address": "2001:7f8:33::a103:9912:1",
             "name": "i3B-AS",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 41139,
@@ -837,7 +846,7 @@
             "ipv4_address": "193.189.82.163",
             "ipv6_address": "2001:7f8:33::a119:7071:1",
             "name": "ACTIVE-SERVERS",
-            "speed": 0
+            "speed": 10000
         },
         {
             "asn": 197890,
@@ -1317,6 +1326,15 @@
             "speed": 1000
         },
         {
+            "asn": 208624,
+            "country_code": "GB",
+            "description": "Billy-George Jerome Price-Sprackland",
+            "ipv4_address": "193.189.82.3",
+            "ipv6_address": "2001:7f8:33::a120:8624:1",
+            "name": "BILLY-AS",
+            "speed": 100
+        },
+        {
             "asn": 208753,
             "country_code": "IT",
             "description": "NETSIX",
@@ -1425,6 +1443,15 @@
             "speed": 100
         },
         {
+            "asn": 210020,
+            "country_code": "DE",
+            "description": "IT Stall",
+            "ipv4_address": "193.189.82.67",
+            "ipv6_address": "2001:7f8:33::a121:20:1",
+            "name": "ITSTALL",
+            "speed": 100
+        },
+        {
             "asn": 210025,
             "country_code": "NL",
             "description": "XXSL Network",
@@ -1497,7 +1524,7 @@
             "speed": 100
         }
     ],
-    "members_count": 165,
+    "members_count": 168,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
