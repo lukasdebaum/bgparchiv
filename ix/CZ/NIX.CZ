@@ -700,7 +700,7 @@
             "country_code": "SK",
             "description": "Dial Telecom a.s.",
             "ipv4_address": "91.210.16.9",
-            "ipv6_address": "2001:7f8:14::c:1",
+            "ipv6_address": "2001:7f8:14::c:2",
             "name": "DIALTELECOM-AS",
             "speed": 40000
         },
@@ -709,7 +709,7 @@
             "country_code": "SK",
             "description": "Dial Telecom a.s.",
             "ipv4_address": "91.210.16.99",
-            "ipv6_address": "2001:7f8:14::c:2",
+            "ipv6_address": "2001:7f8:14::c:1",
             "name": "DIALTELECOM-AS",
             "speed": 40000
         },
@@ -1038,6 +1038,15 @@
             "speed": 10000
         },
         {
+            "asn": 42473,
+            "country_code": "AT",
+            "description": "ANEXIA Internetdienstleistungs GmbH",
+            "ipv4_address": "91.210.16.105",
+            "ipv6_address": "2001:7f8:14::a6:1",
+            "name": "AS-ANEXIA",
+            "speed": 1000
+        },
+        {
             "asn": 42477,
             "country_code": "CZ",
             "description": "Cerberos s.r.o.",
@@ -1108,15 +1117,6 @@
             "ipv6_address": "2001:7f8:14::3d:1",
             "name": "JAW-AS",
             "speed": 2000
-        },
-        {
-            "asn": 43451,
-            "country_code": "SK",
-            "description": "RadioLAN spol. s r.o.",
-            "ipv4_address": "91.210.16.212",
-            "ipv6_address": "2001:7f8:14::b4:1",
-            "name": "RADIOLAN-SK-AS",
-            "speed": 10000
         },
         {
             "asn": 43531,
@@ -1306,6 +1306,15 @@
             "ipv6_address": "2001:7f8:14::61:2",
             "name": "TETA",
             "speed": 10000
+        },
+        {
+            "asn": 51248,
+            "country_code": "CZ",
+            "description": "Host-Telecom.com s.r.o.",
+            "ipv4_address": "91.210.16.177",
+            "ipv6_address": "2001:7f8:14::69:1",
+            "name": "HOST-TELECOM",
+            "speed": 1000
         },
         {
             "asn": 57463,
@@ -1578,7 +1587,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 117,
+    "members_count": 118,
     "name": "NIX.CZ",
     "name_full": "Neutral Internet Exchange in the Czech Republic",
     "policy_email": "ag@nix.cz",
