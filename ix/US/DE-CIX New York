@@ -93,6 +93,15 @@
             "speed": 10000
         },
         {
+            "asn": 1828,
+            "country_code": "US",
+            "description": "Unitas Global LLC",
+            "ipv4_address": "206.82.104.86",
+            "ipv6_address": "2001:504:36::724:0:1",
+            "name": "UNITAS",
+            "speed": 10000
+        },
+        {
             "asn": 2635,
             "country_code": "US",
             "description": "Automattic, Inc",
@@ -306,7 +315,7 @@
             "ipv4_address": "206.82.104.8",
             "ipv6_address": "2001:504:36::1b1b:0:1",
             "name": "HURRICANE",
-            "speed": 40000
+            "speed": 100000
         },
         {
             "asn": 7029,
@@ -892,6 +901,15 @@
             "ipv6_address": null,
             "name": "MST-AS",
             "speed": 10000
+        },
+        {
+            "asn": 19711,
+            "country_code": "SZ",
+            "description": "Swaziland PTC",
+            "ipv4_address": "206.82.104.253",
+            "ipv6_address": null,
+            "name": "SWAZINET",
+            "speed": 100
         },
         {
             "asn": 20278,
@@ -1497,15 +1515,6 @@
             "speed": 10000
         },
         {
-            "asn": 42456,
-            "country_code": "FR",
-            "description": "Phibee Telecom SAS",
-            "ipv4_address": "206.82.104.86",
-            "ipv6_address": "2001:504:36::a5d8:0:1",
-            "name": "CHMURTZ-AS",
-            "speed": 200
-        },
-        {
             "asn": 42473,
             "country_code": "AT",
             "description": "ANEXIA Internetdienstleistungs GmbH",
@@ -2001,7 +2010,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 207,
+    "members_count": 208,
     "name": "DE-CIX New York",
     "name_full": "Deutscher Commercial Internet Exchange New York",
     "policy_email": "sales@de-cix.net",
