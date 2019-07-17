@@ -3,6 +3,12 @@
     "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS3330_IPv4.svg",
     "ipv4_upstreams": [
         {
+            "asn": 3257,
+            "country_code": "DE",
+            "description": "GTT",
+            "name": "GTT-BACKBONE"
+        },
+        {
             "asn": 3320,
             "country_code": "DE",
             "description": "Internet service provider operations",
@@ -15,12 +21,6 @@
             "name": "NEO-ASN"
         },
         {
-            "asn": 8928,
-            "country_code": "GB",
-            "description": "25 Canada Square, Canary Wharf, 31st Floor",
-            "name": "INTEROUTE"
-        },
-        {
             "asn": 21013,
             "country_code": "AT",
             "description": "Wels, AT",
@@ -29,6 +29,12 @@
     ],
     "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS3330_IPv6.svg",
     "ipv6_upstreams": [
+        {
+            "asn": 3257,
+            "country_code": "DE",
+            "description": "GTT",
+            "name": "GTT-BACKBONE"
+        },
         {
             "asn": 6939,
             "country_code": "US",
@@ -40,12 +46,6 @@
             "country_code": "FR",
             "description": "legacy Neotelecoms",
             "name": "NEO-ASN"
-        },
-        {
-            "asn": 8928,
-            "country_code": "GB",
-            "description": "25 Canada Square, Canary Wharf, 31st Floor",
-            "name": "INTEROUTE"
         }
     ]
 }
