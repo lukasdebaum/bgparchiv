@@ -1503,7 +1503,7 @@
             "ipv4_address": "195.66.224.34",
             "ipv6_address": "2001:7f8:4::22ef:1",
             "name": "JUMP",
-            "speed": 1000
+            "speed": 1700
         },
         {
             "asn": 8943,
@@ -2098,15 +2098,6 @@
             "ipv6_address": "2001:7f8:4::33b5:1",
             "name": "LAMBDANET-AS",
             "speed": 20000
-        },
-        {
-            "asn": 13238,
-            "country_code": "RU",
-            "description": "YANDEX LLC",
-            "ipv4_address": "195.66.226.69",
-            "ipv6_address": "2001:7f8:4::33b6:1",
-            "name": "YANDEX",
-            "speed": 10000
         },
         {
             "asn": 13285,
@@ -2817,7 +2808,7 @@
             "ipv4_address": "195.66.226.161",
             "ipv6_address": "2001:7f8:4::5348:1",
             "name": "GEANT_IAS_VRF",
-            "speed": 50000
+            "speed": 100000
         },
         {
             "asn": 21345,
@@ -3351,6 +3342,15 @@
             "speed": 10000
         },
         {
+            "asn": 29446,
+            "country_code": "GB",
+            "description": "ChunkyChips.net Limited",
+            "ipv4_address": "195.66.225.112",
+            "ipv6_address": "2001:7f8:4::7306:1",
+            "name": "CHUNKYCHIPS-AS",
+            "speed": 1000
+        },
+        {
             "asn": 29452,
             "country_code": "GB",
             "description": "http://www.securahosting.com",
@@ -3528,7 +3528,7 @@
             "ipv4_address": "195.66.225.141",
             "ipv6_address": "2001:7f8:4::7942:1",
             "name": "SERBIA-BROADBAND-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 31059,
@@ -3609,7 +3609,7 @@
             "ipv4_address": "195.66.225.165",
             "ipv6_address": "2001:7f8:4::7af0:1",
             "name": "VOICEHOST",
-            "speed": 3000
+            "speed": 10000
         },
         {
             "asn": 31500,
@@ -4725,15 +4725,6 @@
             "ipv4_address": "195.66.227.170",
             "ipv6_address": null,
             "name": "W3Z",
-            "speed": 1000
-        },
-        {
-            "asn": 39905,
-            "country_code": "FR",
-            "description": "SMARTFOCUS FRANCE SASAU",
-            "ipv4_address": "195.66.225.197",
-            "ipv6_address": "2001:7f8:4::9be1:1",
-            "name": "EMAILVISION",
             "speed": 1000
         },
         {
@@ -6996,6 +6987,15 @@
             "speed": 1000
         },
         {
+            "asn": 201508,
+            "country_code": "GB",
+            "description": "Pure Broadband Ltd",
+            "ipv4_address": "195.66.225.117",
+            "ipv6_address": "2001:7f8:4::3:1324:1",
+            "name": "Purebroadband",
+            "speed": 1000
+        },
+        {
             "asn": 201838,
             "country_code": "GB",
             "description": "Community Fibre Limited",
@@ -7167,6 +7167,15 @@
             "speed": 10000
         },
         {
+            "asn": 203582,
+            "country_code": "GB",
+            "description": "M-Tech Systems Ltd",
+            "ipv4_address": "195.66.225.144",
+            "ipv6_address": null,
+            "name": "mts",
+            "speed": 0
+        },
+        {
             "asn": 203724,
             "country_code": "DE",
             "description": "Intel Deutschland GmbH",
@@ -7329,6 +7338,15 @@
             "speed": 10000
         },
         {
+            "asn": 208722,
+            "country_code": "FI",
+            "description": "Yandex Oy",
+            "ipv4_address": "195.66.226.69",
+            "ipv6_address": "2001:7f8:4::33b6:1",
+            "name": "yndx",
+            "speed": 10000
+        },
+        {
             "asn": 262632,
             "country_code": "BR",
             "description": "Grajaunet Telecomunicacoes Eireli",
@@ -7401,7 +7419,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 741,
+    "members_count": 743,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
