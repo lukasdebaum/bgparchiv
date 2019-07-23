@@ -747,7 +747,7 @@
             "ipv4_address": "217.29.66.89",
             "ipv6_address": null,
             "name": "SISTEMIUNO-AS",
-            "speed": 100
+            "speed": 1000
         },
         {
             "asn": 21176,
@@ -1162,6 +1162,15 @@
             "ipv6_address": "2001:7f8:b:100:1d1:a5d3:6692:41",
             "name": "OPENDNS",
             "speed": 10000
+        },
+        {
+            "asn": 37492,
+            "country_code": "TN",
+            "description": "Orange  Tunisie",
+            "ipv4_address": "217.29.67.92",
+            "ipv6_address": "2001:7f8:b:100:1d1:a5d3:7492:92",
+            "name": "ORANGE-TN",
+            "speed": 50
         },
         {
             "asn": 39120,
@@ -2253,6 +2262,15 @@
             "speed": 10000
         },
         {
+            "asn": 206460,
+            "country_code": "IT",
+            "description": "SIM INFORMATICA SRL",
+            "ipv4_address": "217.29.67.90",
+            "ipv6_address": "2001:7f8:b:100:1d1:a520:6460:90",
+            "name": "SIMINFORMATICA",
+            "speed": 0
+        },
+        {
             "asn": 206693,
             "country_code": "IT",
             "description": "TEAMSYSTEM S.P.A.",
@@ -2278,6 +2296,15 @@
             "ipv6_address": "2001:7f8:b:100:1d1:a520:7013:252",
             "name": "BVNETWORKS-AS",
             "speed": 1000
+        },
+        {
+            "asn": 209222,
+            "country_code": "IT",
+            "description": "Melita Italia SRL",
+            "ipv4_address": "217.29.67.89",
+            "ipv6_address": "2001:7f8:b:100:1d1:a520:9222:89",
+            "name": "MELITAITALIA",
+            "speed": 100000
         },
         {
             "asn": 209408,
@@ -2307,7 +2334,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 222,
+    "members_count": 225,
     "name": "MIX-IT",
     "name_full": "Milan Internet eXchange",
     "policy_email": "info@mix-it.net",
