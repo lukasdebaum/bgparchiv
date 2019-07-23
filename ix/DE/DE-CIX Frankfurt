@@ -2055,15 +2055,6 @@
             "speed": 200000
         },
         {
-            "asn": 9583,
-            "country_code": "IN",
-            "description": "Sify Limited",
-            "ipv4_address": "80.81.194.243",
-            "ipv6_address": "2001:7f8::256f:0:1",
-            "name": "SIFY-AS-IN",
-            "speed": 10000
-        },
-        {
             "asn": 10026,
             "country_code": "JP",
             "description": "Pacnet Global Ltd",
@@ -2802,15 +2793,6 @@
             "speed": 20000
         },
         {
-            "asn": 13238,
-            "country_code": "RU",
-            "description": "YANDEX LLC",
-            "ipv4_address": "80.81.192.251",
-            "ipv6_address": "2001:7f8::33b6:0:1",
-            "name": "YANDEX",
-            "speed": 40000
-        },
-        {
             "asn": 13249,
             "country_code": "UA",
             "description": "IT Systems LLC",
@@ -3456,7 +3438,7 @@
             "ipv4_address": "80.81.195.84",
             "ipv6_address": "2001:7f8::5042:0:1",
             "name": "SOPRADO-ANY",
-            "speed": 0
+            "speed": 20000
         },
         {
             "asn": 20562,
@@ -3907,6 +3889,15 @@
             "ipv6_address": "2001:7f8::5ea8:0:1",
             "name": "VIRTELA-AS-AP-3",
             "speed": 200
+        },
+        {
+            "asn": 24429,
+            "country_code": "CN",
+            "description": "Zhejiang Taobao Network Co.,Ltd",
+            "ipv4_address": "80.81.195.184",
+            "ipv6_address": "2001:7f8::5f6d:0:1",
+            "name": "Taobao",
+            "speed": 20000
         },
         {
             "asn": 24482,
@@ -5930,7 +5921,7 @@
             "description": "Fiber Optics Bulgaria OOD",
             "ipv4_address": "80.81.194.252",
             "ipv6_address": "2001:7f8::a5db:0:1",
-            "name": "FOBUL-AS",
+            "name": "FOBUL",
             "speed": 2500
         },
         {
@@ -7797,6 +7788,15 @@
             "speed": 10000
         },
         {
+            "asn": 197790,
+            "country_code": "PL",
+            "description": "Actus S.A.",
+            "ipv4_address": "80.81.194.243",
+            "ipv6_address": "2001:7f8::3:49e:0:1",
+            "name": "AS-ACTUS",
+            "speed": 10000
+        },
+        {
             "asn": 197915,
             "country_code": "DE",
             "description": "All for One Midmarket AG",
@@ -8247,6 +8247,15 @@
             "speed": 1000
         },
         {
+            "asn": 208722,
+            "country_code": "FI",
+            "description": "Yandex Oy",
+            "ipv4_address": "80.81.192.251",
+            "ipv6_address": "2001:7f8::33b6:0:1",
+            "name": "yndx",
+            "speed": 40000
+        },
+        {
             "asn": 262589,
             "country_code": "BR",
             "description": "INTERNEXA BRASIL OPERADORA DE TELECOMUNICACOES S.A",
@@ -8328,7 +8337,7 @@
             "speed": 500
         }
     ],
-    "members_count": 797,
+    "members_count": 798,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
