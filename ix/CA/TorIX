@@ -1089,7 +1089,7 @@
             "ipv4_address": "206.108.34.57",
             "ipv6_address": "2001:504:1a::34:57",
             "name": "NEXUSDS",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 26677,
@@ -1177,7 +1177,7 @@
             "country_code": "CA",
             "description": "MetroOptic, Inc.",
             "ipv4_address": "206.108.35.82",
-            "ipv6_address": null,
+            "ipv6_address": "2001:504:1a::35:82",
             "name": "LESSE",
             "speed": 10000
         },
@@ -1414,6 +1414,15 @@
             "ipv6_address": "2001:504:1a::35:50",
             "name": "HIGHWINDS2",
             "speed": 100000
+        },
+        {
+            "asn": 33541,
+            "country_code": "CA",
+            "description": "Cable Cable Inc",
+            "ipv4_address": "206.108.34.103",
+            "ipv6_address": "2001:504:1a::34:103",
+            "name": "CCROUTE",
+            "speed": 10000
         },
         {
             "asn": 33554,
@@ -1893,6 +1902,15 @@
             "speed": 10000
         },
         {
+            "asn": 54198,
+            "country_code": "CA",
+            "description": "ViaNetTV Inc",
+            "ipv4_address": "206.108.34.235",
+            "ipv6_address": null,
+            "name": "VIANET",
+            "speed": 20000
+        },
+        {
             "asn": 54235,
             "country_code": "CA",
             "description": "Watch Tower Bible and Tract Society of Canada",
@@ -2190,7 +2208,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 223,
+    "members_count": 225,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
