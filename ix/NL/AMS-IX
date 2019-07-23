@@ -3060,7 +3060,7 @@
             "ipv4_address": "80.249.213.81",
             "ipv6_address": "2001:7f8:1::a502:546:1",
             "name": "SOPRADO-ANY",
-            "speed": 0
+            "speed": 10000
         },
         {
             "asn": 20559,
@@ -3475,6 +3475,15 @@
             "ipv6_address": "2001:7f8:1::a502:4482:1",
             "name": "SGGS-AS-AP",
             "speed": 10000
+        },
+        {
+            "asn": 24516,
+            "country_code": "AU",
+            "description": "Virtutel Pty Ltd",
+            "ipv4_address": "80.249.210.199",
+            "ipv6_address": "2001:7f8:1::a502:4516:1",
+            "name": "VIRTUTEL-AS-AP",
+            "speed": 1000
         },
         {
             "asn": 24586,
@@ -6816,15 +6825,6 @@
             "speed": 250
         },
         {
-            "asn": 52965,
-            "country_code": "BR",
-            "description": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
-            "ipv4_address": "80.249.213.176",
-            "ipv6_address": "2001:7f8:1::a505:2965:1",
-            "name": "1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA",
-            "speed": 1000
-        },
-        {
             "asn": 53264,
             "country_code": "US",
             "description": "New Continuum Holdings Corporation",
@@ -6839,7 +6839,7 @@
             "description": "X Plus One Solutions, Inc.",
             "ipv4_address": "80.249.211.52",
             "ipv6_address": null,
-            "name": "XPLUSONE",
+            "name": "ZETA-XPLUS1",
             "speed": 1000
         },
         {
@@ -6913,6 +6913,15 @@
             "ipv6_address": "2001:7f8:1::a505:5195:1",
             "name": "CIRA-DNS",
             "speed": 100
+        },
+        {
+            "asn": 55799,
+            "country_code": "HK",
+            "description": "IPTELECOM ASIA",
+            "ipv4_address": "80.249.210.98",
+            "ipv6_address": "2001:7f8:1::a505:5799:1",
+            "name": "IPTELECOM-AP",
+            "speed": 1000
         },
         {
             "asn": 55818,
@@ -8328,7 +8337,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 820,
+    "members_count": 821,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
