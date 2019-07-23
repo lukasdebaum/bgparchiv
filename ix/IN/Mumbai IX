@@ -372,6 +372,15 @@
             "speed": 1000
         },
         {
+            "asn": 45102,
+            "country_code": "US",
+            "description": "Alibaba (US) Technology Co., Ltd.",
+            "ipv4_address": "103.27.170.225",
+            "ipv6_address": "2401:7500:fff6::2e",
+            "name": "CNNIC-ALIBABA-US-NET-AP",
+            "speed": 10000
+        },
+        {
             "asn": 45184,
             "country_code": "IN",
             "description": "Den Digital Entertainment Pvt. Ltd. AS ISP india",
@@ -1728,7 +1737,7 @@
             "ipv4_address": "103.27.170.94",
             "ipv6_address": "2401:7500:fff6::94",
             "name": "DEENET-AS",
-            "speed": 2024
+            "speed": 10000
         },
         {
             "asn": 136330,
@@ -1893,6 +1902,15 @@
             "speed": 1024
         },
         {
+            "asn": 137154,
+            "country_code": "IN",
+            "description": "Skyonline Technosystem Private Limited",
+            "ipv4_address": "103.27.170.253",
+            "ipv6_address": null,
+            "name": "SKYONLIN-AS",
+            "speed": 1000
+        },
+        {
             "asn": 137164,
             "country_code": "IN",
             "description": "Rudra Technosurf Private Limited",
@@ -1917,7 +1935,7 @@
             "ipv4_address": "103.27.170.43",
             "ipv6_address": null,
             "name": "SICIPL-AS",
-            "speed": 2500
+            "speed": 2000
         },
         {
             "asn": 137181,
@@ -2046,7 +2064,7 @@
             "speed": 1024
         }
     ],
-    "members_count": 217,
+    "members_count": 219,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
