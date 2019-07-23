@@ -1083,15 +1083,6 @@
             "speed": 10000
         },
         {
-            "asn": 13238,
-            "country_code": "RU",
-            "description": "YANDEX LLC",
-            "ipv4_address": "206.126.237.94",
-            "ipv6_address": "2001:504:0:2:0:1:3238:2",
-            "name": "YANDEX",
-            "speed": 10000
-        },
-        {
             "asn": 13285,
             "country_code": "GB",
             "description": "TalkTalk Communications Limited",
@@ -1864,6 +1855,15 @@
             "ipv6_address": "2001:504:0:2:0:2:2925:1",
             "name": "ALLIED-TELECOM",
             "speed": 20000
+        },
+        {
+            "asn": 22987,
+            "country_code": "US",
+            "description": "BrightRidge",
+            "ipv4_address": "206.126.238.75",
+            "ipv6_address": "2001:504:0:2:0:2:2987:1",
+            "name": "BRIGHTRIDGE",
+            "speed": 10000
         },
         {
             "asn": 23148,
@@ -2880,7 +2880,7 @@
             "ipv4_address": "206.126.237.194",
             "ipv6_address": "2001:504:0:2:0:5:5219:1",
             "name": "SOURCEFIRE-LABS",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 55219,
@@ -3153,6 +3153,15 @@
             "speed": 10000
         },
         {
+            "asn": 208722,
+            "country_code": "FI",
+            "description": "Yandex Oy",
+            "ipv4_address": "206.126.237.94",
+            "ipv6_address": "2001:504:0:2:0:1:3238:2",
+            "name": "yndx",
+            "speed": 10000
+        },
+        {
             "asn": 209453,
             "country_code": "FR",
             "description": "AS for LiveDNS Anycast servers",
@@ -3351,7 +3360,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 311,
+    "members_count": 312,
     "name": "Equinix Ashburn",
     "name_full": "Equinix Ashburn Exchange",
     "policy_email": "support@equinix.com",
