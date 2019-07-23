@@ -4403,7 +4403,7 @@
         {
             "cidr": 19,
             "country_code": "AT",
-            "description": "UPC Austria GmbH",
+            "description": "T-Mobile Austria GmbH",
             "ip": "212.17.64.0",
             "name": "AT-TELEKABEL-980716",
             "parent": {
@@ -8513,6 +8513,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "Liberty Global Infrastructure NA4",
+            "ip": "62.179.161.0",
+            "name": "LGI-NA4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "62.179.0.0",
+                "prefix": "62.179.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.179.161.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 15,
             "country_code": "NL",
             "description": "Ziggo Services B.V.",
@@ -10787,7 +10803,7 @@
         {
             "cidr": 19,
             "country_code": "RO",
-            "description": "UPC Romania SRL",
+            "description": "UPC Romania S.A.",
             "ip": "82.208.160.0",
             "name": "RO-DNT-20030918",
             "parent": {
@@ -11907,7 +11923,7 @@
         {
             "cidr": 15,
             "country_code": "AT",
-            "description": "UPC Austria GmbH",
+            "description": "T-Mobile Austria GmbH",
             "ip": "85.126.0.0",
             "name": "AT-INODE-20050223",
             "parent": {
@@ -14094,6 +14110,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "93.99.128.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "CZ",
+            "description": "Nubium Development SE",
+            "ip": "93.99.2.0",
+            "name": "CZ-Nubium-Development",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "93.99.0.0",
+                "prefix": "93.99.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "93.99.2.0/24",
             "roa_status": "None"
         },
         {
