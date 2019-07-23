@@ -70,7 +70,7 @@
             "country_code": "EU",
             "description": "Electricite de France Service National",
             "ipv4_address": "37.49.236.47",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:54::47",
             "name": "FR-EDFDPT3",
             "speed": 10000
         },
@@ -1319,7 +1319,7 @@
         {
             "asn": 30972,
             "country_code": "FR",
-            "description": "M6 WEB SAS",
+            "description": "M6 Digital Services",
             "ipv4_address": "37.49.236.182",
             "ipv6_address": "2001:7f8:54::182",
             "name": "M6WEB",
@@ -1350,7 +1350,7 @@
             "ipv4_address": "37.49.236.150",
             "ipv6_address": "2001:7f8:54::150",
             "name": "SERBIA-BROADBAND-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 31167,
@@ -1616,7 +1616,7 @@
         {
             "asn": 34993,
             "country_code": "FR",
-            "description": "M6 WEB SAS",
+            "description": "M6 Digital Services",
             "ipv4_address": "37.49.236.149",
             "ipv6_address": "2001:7f8:54::149",
             "name": "ODISO-AS",
@@ -1926,15 +1926,6 @@
             "ipv4_address": "37.49.237.173",
             "ipv6_address": "2001:7f8:54::1:173",
             "name": "DIABOLOCOM",
-            "speed": 1000
-        },
-        {
-            "asn": 39905,
-            "country_code": "FR",
-            "description": "SMARTFOCUS FRANCE SASAU",
-            "ipv4_address": "193.105.232.47",
-            "ipv6_address": "2001:7f8:54::47",
-            "name": "EMAILVISION",
             "speed": 1000
         },
         {
@@ -3441,7 +3432,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 346,
+    "members_count": 345,
     "name": "France-IX Paris",
     "name_full": "FranceIX Paris",
     "policy_email": "info@franceix.net",
