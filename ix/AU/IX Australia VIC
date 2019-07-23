@@ -237,15 +237,6 @@
             "speed": 0
         },
         {
-            "asn": 24516,
-            "country_code": "AU",
-            "description": "Virtutel Pty Ltd",
-            "ipv4_address": "218.100.78.24",
-            "ipv6_address": "2001:7fa:11:1:0:5fc4:0:1",
-            "name": "VIRTUTEL-AS-AP",
-            "speed": 10000
-        },
-        {
             "asn": 30081,
             "country_code": "US",
             "description": "CacheNetworks, Inc.",
@@ -558,7 +549,7 @@
             "ipv4_address": "218.100.78.49",
             "ipv6_address": "2001:7fa:11:1:2:535:0:1",
             "name": "SUMMITINTERNET-AS-AP",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 132627,
@@ -669,15 +660,6 @@
             "speed": 10000
         },
         {
-            "asn": 136001,
-            "country_code": "AU",
-            "description": "Christie Networks - BACKBONE AS",
-            "ipv4_address": "218.100.78.97",
-            "ipv6_address": "2001:7fa:11:1:2:1341:0:1",
-            "name": "CHRISTIE-AS-AP",
-            "speed": 10000
-        },
-        {
             "asn": 136557,
             "country_code": "AU",
             "description": "Host Universal Pty Ltd",
@@ -715,15 +697,15 @@
         },
         {
             "asn": 396071,
-            "country_code": "US",
-            "description": "PacketGG USA Inc",
+            "country_code": "",
+            "description": null,
             "ipv4_address": "218.100.78.112",
             "ipv6_address": "2001:7fa:11:1:6:b27:0:1",
-            "name": "PACKETGG",
+            "name": null,
             "speed": 10000
         }
     ],
-    "members_count": 73,
+    "members_count": 71,
     "name": "IX Australia VIC",
     "name_full": "Victorian Internet Exchange (VIC-IX)",
     "policy_email": "peering@ix.asn.au",
