@@ -9105,6 +9105,38 @@
             "roa_status": "None"
         },
         {
+            "cidr": 17,
+            "country_code": "CZ",
+            "description": "UPC Ceska Republica, s.r.o.",
+            "ip": "78.102.0.0",
+            "name": "CZ-DATTELKABEL-20070604",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "78.102.0.0",
+                "prefix": "78.102.0.0/15",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.102.0.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 17,
+            "country_code": "CZ",
+            "description": "UPC Ceska republika, a.s.",
+            "ip": "78.102.128.0",
+            "name": "UPC-BROADBAND-XXXII",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "78.102.0.0",
+                "prefix": "78.102.0.0/15",
+                "rir_name": "RIPE"
+            },
+            "prefix": "78.102.128.0/17",
+            "roa_status": "None"
+        },
+        {
             "cidr": 16,
             "country_code": "CZ",
             "description": "UPC CZ",
