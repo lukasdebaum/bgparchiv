@@ -2898,6 +2898,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "DE",
+            "description": "SSP Europe IT GmbH",
+            "ip": "94.16.100.0",
+            "name": "DE-APE-20150304",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "94.16.96.0",
+                "prefix": "94.16.96.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.16.100.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "AT",
             "description": "SSP Europe GmbH",
             "ip": "94.16.127.0",
@@ -3888,6 +3904,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a00:11c0:45::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "US",
+            "description": "Dedicated servers in US",
+            "ip": "2a00:11c0:46::",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:46::/48",
             "roa_status": "None"
         },
         {
