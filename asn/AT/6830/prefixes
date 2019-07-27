@@ -4099,7 +4099,7 @@
         {
             "cidr": 19,
             "country_code": "EU",
-            "description": "128.0.0.0 - 255.255.255.255",
+            "description": "The whole IPv4 address space",
             "ip": "195.34.128.0",
             "name": "IANA-BLK",
             "parent": {
@@ -8510,22 +8510,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "62.179.0.0/17",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "NL",
-            "description": "Liberty Global Infrastructure NA4",
-            "ip": "62.179.161.0",
-            "name": "LGI-NA4",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 16,
-                "ip": "62.179.0.0",
-                "prefix": "62.179.0.0/16",
-                "rir_name": "RIPE"
-            },
-            "prefix": "62.179.161.0/24",
             "roa_status": "None"
         },
         {
