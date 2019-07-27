@@ -556,7 +556,7 @@
             "country_code": "KR",
             "description": "LG DACOM Corporation",
             "ipv4_address": "80.81.193.16",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8::eca:0:1",
             "name": "LGDACOM",
             "speed": 10000
         },
@@ -842,7 +842,7 @@
         {
             "asn": 6461,
             "country_code": "US",
-            "description": "Zayo Bandwidth",
+            "description": "ZAYO-6461",
             "ipv4_address": "80.81.194.26",
             "ipv6_address": "2001:7f8::193d:0:1",
             "name": "ZAYO-6461",
@@ -3348,6 +3348,24 @@
             "ipv4_address": "80.81.195.252",
             "ipv6_address": "2001:7f8::47e3:0:1",
             "name": "FPT-AS-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 18676,
+            "country_code": "US",
+            "description": "Avaya Inc.",
+            "ipv4_address": "80.81.192.232",
+            "ipv6_address": null,
+            "name": "AVAYA",
+            "speed": 10000
+        },
+        {
+            "asn": 18676,
+            "country_code": "US",
+            "description": "Avaya Inc.",
+            "ipv4_address": "80.81.193.59",
+            "ipv6_address": null,
+            "name": "AVAYA",
             "speed": 10000
         },
         {
@@ -7689,6 +7707,15 @@
             "speed": 1000
         },
         {
+            "asn": 136106,
+            "country_code": "ID",
+            "description": "PT. Mega Akses Persada",
+            "ipv4_address": "80.81.196.9",
+            "ipv6_address": "2001:7f8::2:13aa:0:1",
+            "name": "FIBERSTAR-AS-ID",
+            "speed": 10000
+        },
+        {
             "asn": 196610,
             "country_code": "DE",
             "description": "DE-CIX Academy Educational Network",
@@ -7785,6 +7812,15 @@
             "ipv4_address": "80.81.193.182",
             "ipv6_address": "2001:7f8::3:3a4:0:1",
             "name": "netcup-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 197637,
+            "country_code": "DE",
+            "description": "ropa digital systems",
+            "ipv4_address": "80.81.196.27",
+            "ipv6_address": "2001:7f8::3:405:0:1",
+            "name": "ROPA",
             "speed": 10000
         },
         {
@@ -8337,7 +8373,7 @@
             "speed": 500
         }
     ],
-    "members_count": 798,
+    "members_count": 801,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
