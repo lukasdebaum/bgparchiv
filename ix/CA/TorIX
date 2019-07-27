@@ -75,6 +75,15 @@
             "speed": 10000
         },
         {
+            "asn": 2675,
+            "country_code": "CA",
+            "description": "Shared Services Canada",
+            "ipv4_address": "206.108.35.140",
+            "ipv6_address": "2001:504:1a::35:140",
+            "name": "CDAGOVN",
+            "speed": 10000
+        },
+        {
             "asn": 2685,
             "country_code": "US",
             "description": "AT&T Global Network Services, LLC",
@@ -194,7 +203,7 @@
         {
             "asn": 6461,
             "country_code": "US",
-            "description": "Zayo Bandwidth",
+            "description": "ZAYO-6461",
             "ipv4_address": "206.108.35.76",
             "ipv6_address": "2001:504:1a::35:76",
             "name": "ZAYO-6461",
@@ -2208,7 +2217,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 225,
+    "members_count": 226,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
