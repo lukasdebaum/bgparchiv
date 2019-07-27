@@ -851,7 +851,7 @@
         {
             "asn": 6461,
             "country_code": "US",
-            "description": "Zayo Bandwidth",
+            "description": "ZAYO-6461",
             "ipv4_address": "195.66.224.76",
             "ipv6_address": "2001:7f8:4::193d:1",
             "name": "ZAYO-6461",
@@ -2547,6 +2547,15 @@
             "ipv4_address": "195.66.225.57",
             "ipv6_address": "2001:7f8:4::44fc:1",
             "name": "DRUKNET-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 17978,
+            "country_code": "AU",
+            "description": "SERVCORP AUSTRALIAN HOLDINGS LTD",
+            "ipv4_address": "195.66.227.198",
+            "ipv6_address": null,
+            "name": "SERVCORP",
             "speed": 1000
         },
         {
@@ -6119,7 +6128,7 @@
             "description": "Atende Software sp. z o.o.",
             "ipv4_address": "195.66.226.11",
             "ipv6_address": "2001:7f8:4::e1d3:1",
-            "name": "ATMSOFTWARE",
+            "name": "AtendeSoftware",
             "speed": 100000
         },
         {
@@ -6300,15 +6309,6 @@
             "ipv4_address": "195.66.226.192",
             "ipv6_address": "2001:7f8:4::ea1d:1",
             "name": "SENSICAL",
-            "speed": 1000
-        },
-        {
-            "asn": 60157,
-            "country_code": "GB",
-            "description": "Antheus Telecom Ltd",
-            "ipv4_address": "195.66.226.175",
-            "ipv6_address": "2001:7f8:4::eafd:1",
-            "name": "ANTHEUS",
             "speed": 1000
         },
         {
@@ -6663,6 +6663,15 @@
             "speed": 1000
         },
         {
+            "asn": 136106,
+            "country_code": "ID",
+            "description": "PT. Mega Akses Persada",
+            "ipv4_address": "195.66.227.187",
+            "ipv6_address": "2001:7f8:4::2:13aa:2",
+            "name": "FIBERSTAR-AS-ID",
+            "speed": 10000
+        },
+        {
             "asn": 136620,
             "country_code": "GB",
             "description": "VMHaus Limited",
@@ -6759,7 +6768,7 @@
             "ipv4_address": "195.66.226.198",
             "ipv6_address": "2001:7f8:4::3:728:1",
             "name": "M12Solutions",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 198440,
@@ -7419,7 +7428,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 743,
+    "members_count": 744,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
