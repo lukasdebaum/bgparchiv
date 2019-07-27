@@ -1133,7 +1133,7 @@
             "description": "Atende Software sp. z o.o.",
             "ipv4_address": "89.46.144.19",
             "ipv6_address": "2001:678:3ac::19",
-            "name": "ATMSOFTWARE",
+            "name": "AtendeSoftware",
             "speed": 100000
         },
         {
@@ -1234,6 +1234,15 @@
             "ipv6_address": "2001:678:3ac::159",
             "name": "FIDRO-AS",
             "speed": 200
+        },
+        {
+            "asn": 61955,
+            "country_code": "DE",
+            "description": "ColocationIX GmbH",
+            "ipv4_address": "89.46.145.167",
+            "ipv6_address": "2001:678:3ac::540",
+            "name": "ColocationIX-AS",
+            "speed": 20000
         },
         {
             "asn": 62328,
@@ -2379,7 +2388,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 255,
+    "members_count": 256,
     "name": "EPIX.Warszawa-KIX",
     "name_full": "EPIX",
     "policy_email": "peering@epix.net.pl",
