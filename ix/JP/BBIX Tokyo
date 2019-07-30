@@ -207,7 +207,7 @@
             "ipv4_address": "218.100.6.56",
             "ipv6_address": "2001:de8:c::4694:1",
             "name": "IDCF",
-            "speed": 40000
+            "speed": 50000
         },
         {
             "asn": 4704,
@@ -1713,6 +1713,15 @@
             "speed": 10000
         },
         {
+            "asn": 55394,
+            "country_code": "JP",
+            "description": "GREE, Inc.",
+            "ipv4_address": "218.100.6.64",
+            "ipv6_address": "2001:de8:c::5:5394:1",
+            "name": "GREE-NET",
+            "speed": 10000
+        },
+        {
             "asn": 55569,
             "country_code": "JP",
             "description": "Criteo APAC",
@@ -2091,7 +2100,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 193,
+    "members_count": 194,
     "name": "BBIX Tokyo",
     "name_full": "BroadBand Internet eXchange Tokyo",
     "policy_email": "bbix-sales@bbix.net",
