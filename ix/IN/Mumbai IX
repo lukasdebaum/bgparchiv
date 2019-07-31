@@ -93,6 +93,24 @@
             "speed": 1024
         },
         {
+            "asn": 10310,
+            "country_code": "US",
+            "description": "Oath Holdings Inc.",
+            "ipv4_address": "103.27.170.8",
+            "ipv6_address": "2401:7500:fff6::8",
+            "name": "YAHOO-1",
+            "speed": 10000
+        },
+        {
+            "asn": 10310,
+            "country_code": "US",
+            "description": "Oath Holdings Inc.",
+            "ipv4_address": "103.27.170.9",
+            "ipv6_address": "2401:7500:fff6::9",
+            "name": "YAHOO-1",
+            "speed": 10000
+        },
+        {
             "asn": 13335,
             "country_code": "US",
             "description": "Cloudflare, Inc.",
@@ -747,7 +765,7 @@
             "ipv4_address": "103.27.170.80",
             "ipv6_address": "2401:7500:fff6::80",
             "name": "POWERGRID-IN",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 132220,
@@ -2073,7 +2091,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 220,
+    "members_count": 221,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
