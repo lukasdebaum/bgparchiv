@@ -195,6 +195,22 @@
         {
             "cidr": 24,
             "country_code": "DE",
+            "description": "Tassero GmbH",
+            "ip": "185.205.82.0",
+            "name": "DE-TASSERO-20170524",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.205.80.0",
+                "prefix": "185.205.80.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.205.82.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
             "description": "Campaign.Plus GmbH",
             "ip": "185.245.228.0",
             "name": "DE-CAMPAIGNPLUS-20180212",
