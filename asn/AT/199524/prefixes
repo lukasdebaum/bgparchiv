@@ -258,6 +258,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "LU",
+            "description": "G-Core Innovations S.a r.l.",
+            "ip": "185.105.3.0",
+            "name": "LU-GCORE-20180221",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.105.0.0",
+                "prefix": "185.105.0.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.105.3.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "NL",
             "description": "Wargaming IT AMS Datacenter",
             "ip": "185.12.212.0",
