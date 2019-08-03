@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "GI",
+            "description": "GVC Corporate Services Limited",
+            "ip": "2.58.8.0",
+            "name": "GI-PARTY-20190321",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "2.58.8.0",
+                "prefix": "2.58.8.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2.58.8.0/22",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
