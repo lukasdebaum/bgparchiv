@@ -1633,6 +1633,22 @@
             },
             "prefix": "2a01:aea0:df1::/48",
             "roa_status": "None"
+        },
+        {
+            "cidr": 31,
+            "country_code": "AT",
+            "description": "TMRR NET6",
+            "ip": "2a0e:96c2::",
+            "name": "TMRR-NET6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 26,
+                "ip": "2a0e:96c0::",
+                "prefix": "2a0e:96c0::/26",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0e:96c2::/31",
+            "roa_status": "None"
         }
     ]
 }
