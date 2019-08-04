@@ -149,7 +149,7 @@
         {
             "asn": 57555,
             "country_code": "DE",
-            "description": "Individual Network Berlin e.V.",
+            "description": "Non-Commercial Community Internet Exchange",
             "ipv4_address": "185.1.74.1",
             "ipv6_address": "2001:7f8:a5::5:7555:1",
             "name": "COMMUNITY-IX",
@@ -158,11 +158,20 @@
         {
             "asn": 57555,
             "country_code": "DE",
-            "description": "Individual Network Berlin e.V.",
+            "description": "Non-Commercial Community Internet Exchange",
             "ipv4_address": "185.1.74.2",
             "ipv6_address": "2001:7f8:a5::5:7555:2",
             "name": "COMMUNITY-IX",
             "speed": 1000
+        },
+        {
+            "asn": 64475,
+            "country_code": "DE",
+            "description": "Freifunk Frankfurt am Main e.V.",
+            "ipv4_address": "185.1.74.40",
+            "ipv6_address": "2001:7f8:a5::6:4475:1",
+            "name": "FREIFUNK-FRANKFURT",
+            "speed": 10000
         },
         {
             "asn": 201701,
@@ -237,7 +246,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 18,
+    "members_count": 19,
     "name": "Community-IX",
     "name_full": "Non-commercial Community Exchange",
     "policy_email": "info@community-ix.de",
