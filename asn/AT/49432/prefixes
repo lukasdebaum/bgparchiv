@@ -35,11 +35,11 @@
     ],
     "ipv6_prefixes": [
         {
-            "cidr": 48,
+            "cidr": 32,
             "country_code": "AT",
             "description": "schallert.com e.U.",
             "ip": "2a0b:5cc0::",
-            "name": "AT-SCHALLERT-V6",
+            "name": "AT-SCHALLERT-20170629",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 32,
@@ -47,39 +47,7 @@
                 "prefix": "2a0b:5cc0::/32",
                 "rir_name": "RIPE"
             },
-            "prefix": "2a0b:5cc0::/48",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "AT",
-            "description": "Test Net v6",
-            "ip": "2a0b:5cc0:b33f::",
-            "name": "AT-SCHALLERT-TEST-V6",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a0b:5cc0::",
-                "prefix": "2a0b:5cc0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a0b:5cc0:b33f::/48",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "AT",
-            "description": "HTL Dornbirn Netzwerk-Lab",
-            "ip": "2a0b:5cc0:cafe::",
-            "name": "AT-HTLDO-V6",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a0b:5cc0::",
-                "prefix": "2a0b:5cc0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a0b:5cc0:cafe::/48",
+            "prefix": "2a0b:5cc0::/32",
             "roa_status": "None"
         }
     ]
