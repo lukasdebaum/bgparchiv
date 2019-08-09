@@ -31,6 +31,54 @@
             },
             "prefix": "44.190.28.0/24",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "schallert.com e.U.",
+            "ip": "45.138.168.0",
+            "name": "AT-SCHALLERT-V4-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 12,
+                "ip": "45.138.164.0",
+                "prefix": "45.138.164.0/12",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.138.168.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "schallert.com e.U.",
+            "ip": "45.138.169.0",
+            "name": "AT-SCHALLERT-V4-3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 12,
+                "ip": "45.138.164.0",
+                "prefix": "45.138.164.0/12",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.138.169.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "schallert.com e.U.",
+            "ip": "45.138.170.0",
+            "name": "AT-SCHALLERT-V4-4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 12,
+                "ip": "45.138.164.0",
+                "prefix": "45.138.164.0/12",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.138.170.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
