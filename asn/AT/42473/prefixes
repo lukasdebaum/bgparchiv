@@ -483,6 +483,22 @@
         {
             "cidr": 23,
             "country_code": "AT",
+            "description": "schoeller network control Datenverarbeitung GmbH",
+            "ip": "185.245.66.0",
+            "name": "AT-SCHOELLER-20180207",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.245.64.0",
+                "prefix": "185.245.64.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.245.66.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
             "description": "Telematica Internet Service Provider GmbH",
             "ip": "185.50.232.0",
             "name": "AT-TELEMATICA-20140319",
