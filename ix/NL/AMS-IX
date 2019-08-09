@@ -6933,6 +6933,15 @@
             "speed": 100
         },
         {
+            "asn": 55536,
+            "country_code": "HK",
+            "description": "PACSWITCH IP NETWORK",
+            "ipv4_address": "80.249.211.43",
+            "ipv6_address": "2001:7f8:1::a505:5536:1",
+            "name": "PSWITCH-HK",
+            "speed": 1000
+        },
+        {
             "asn": 55799,
             "country_code": "HK",
             "description": "IPTELECOM ASIA",
@@ -8199,7 +8208,7 @@
             "ipv4_address": "80.249.213.187",
             "ipv6_address": "2001:7f8:1:0:a500:20:4995:1",
             "name": "RTB-HOUSE-AMS",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 205668,
@@ -8279,7 +8288,7 @@
             "description": "Yandex Oy",
             "ipv4_address": "80.249.211.200",
             "ipv6_address": "2001:7f8:1::a501:3238:1",
-            "name": "yndx",
+            "name": "YNDX",
             "speed": 40000
         },
         {
@@ -8382,7 +8391,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 826,
+    "members_count": 827,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
