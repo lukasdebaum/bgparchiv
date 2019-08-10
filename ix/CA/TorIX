@@ -1788,10 +1788,10 @@
             "asn": 46609,
             "country_code": "CA",
             "description": "Technologie Optic.ca",
-            "ipv4_address": "198.32.245.149",
-            "ipv6_address": "2001:478:245:1::149",
+            "ipv4_address": "206.108.34.149",
+            "ipv6_address": "2001:504:1a::34:149",
             "name": "OPTIC",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 47027,
@@ -1945,6 +1945,15 @@
             "ipv6_address": "2001:504:1a::34:219",
             "name": "CIRA-DNS",
             "speed": 1000
+        },
+        {
+            "asn": 55256,
+            "country_code": "US",
+            "description": "Netskope Inc",
+            "ipv4_address": "206.108.35.136",
+            "ipv6_address": "2001:504:1a::35:136",
+            "name": "NETSKOPE",
+            "speed": 10000
         },
         {
             "asn": 58453,
@@ -2235,7 +2244,7 @@
             "speed": 2000
         }
     ],
-    "members_count": 226,
+    "members_count": 227,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
