@@ -15,6 +15,22 @@
             },
             "prefix": "44.190.2.0/24",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "VLBGIT Friesenecker e.U.",
+            "ip": "45.138.171.0",
+            "name": "AT-VLBGIT-V4",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.138.168.0",
+                "prefix": "45.138.168.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.138.171.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
