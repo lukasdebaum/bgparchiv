@@ -5274,7 +5274,7 @@
             "ipv4_address": "80.81.193.10",
             "ipv6_address": "2001:7f8::89d0:0:1",
             "name": "ACORUS",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 35297,
@@ -7617,6 +7617,15 @@
             "speed": 10000
         },
         {
+            "asn": 64271,
+            "country_code": "US",
+            "description": "rixCloud",
+            "ipv4_address": "80.81.196.42",
+            "ipv6_address": "2001:7f8::fb0f:0:1",
+            "name": "RIXCLOUD-INC",
+            "speed": 100
+        },
+        {
             "asn": 64475,
             "country_code": "DE",
             "description": "Freifunk Frankfurt am Main e.V.",
@@ -8328,7 +8337,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 796,
+    "members_count": 797,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
