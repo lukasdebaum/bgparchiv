@@ -876,6 +876,15 @@
             "speed": 5000
         },
         {
+            "asn": 38583,
+            "country_code": "AU",
+            "description": "Andrew Sjoquist Enterprises Pty Ltd",
+            "ipv4_address": "103.26.68.64",
+            "ipv6_address": null,
+            "name": "ASEIT-AS-AP",
+            "speed": 10000
+        },
+        {
             "asn": 38595,
             "country_code": "AU",
             "description": "RED DIRT COMMUNICATIONS PTY. LTD.",
@@ -1197,7 +1206,7 @@
             "ipv4_address": "103.26.69.71",
             "ipv6_address": "2001:dea:0:10::147",
             "name": "NETSKOPE",
-            "speed": 0
+            "speed": 10000
         },
         {
             "asn": 55555,
@@ -1215,7 +1224,7 @@
             "ipv4_address": "103.26.68.83",
             "ipv6_address": "2001:dea:0:10::53",
             "name": "BINARY-AU",
-            "speed": 100
+            "speed": 200
         },
         {
             "asn": 55581,
@@ -1414,6 +1423,15 @@
             "ipv6_address": "2001:dea:0:10::b3",
             "name": "VOSTRO-AS-AP",
             "speed": 10000
+        },
+        {
+            "asn": 63920,
+            "country_code": "AU",
+            "description": "VostroNet",
+            "ipv4_address": "103.26.68.169",
+            "ipv6_address": "2001:dea:0:10::a9",
+            "name": "VOSTRO-AS-AP",
+            "speed": 0
         },
         {
             "asn": 63931,
@@ -2073,7 +2091,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 200,
+    "members_count": 201,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
