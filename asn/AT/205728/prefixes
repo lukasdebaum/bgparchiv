@@ -35,6 +35,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Cream Finance IT Austria GmbH",
+            "ip": "2a0b:37c0:1::",
+            "name": "AT-CREAMFINANCEIT-20170615",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:37c0::",
+                "prefix": "2a0b:37c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:37c0:1::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 29,
             "country_code": "AT",
             "description": "Cream Finance IT Austria GmbH",
