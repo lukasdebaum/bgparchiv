@@ -9347,7 +9347,7 @@
         {
             "cidr": 16,
             "country_code": "RO",
-            "description": "UPC Romania SRL",
+            "description": "UPC Romania S.A.",
             "ip": "78.97.0.0",
             "name": "RO-DNT-20070425",
             "parent": {
@@ -12979,22 +12979,6 @@
         {
             "cidr": 24,
             "country_code": "RO",
-            "description": "UPC Romania S.A.",
-            "ip": "89.44.78.0",
-            "name": "RO-DNT-20051129",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 23,
-                "ip": "89.44.78.0",
-                "prefix": "89.44.78.0/23",
-                "rir_name": "RIPE"
-            },
-            "prefix": "89.44.78.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "RO",
             "description": "IPv4 Management SRL",
             "ip": "89.45.228.0",
             "name": "RO-IPV4-20051129",
@@ -14110,6 +14094,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "93.99.128.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "CZ",
+            "description": "Nubium Development SE",
+            "ip": "93.99.2.0",
+            "name": "CZ-Nubium-Development",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "93.99.0.0",
+                "prefix": "93.99.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "93.99.2.0/24",
             "roa_status": "None"
         },
         {
