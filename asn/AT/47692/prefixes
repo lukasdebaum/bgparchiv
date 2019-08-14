@@ -466,6 +466,38 @@
         },
         {
             "cidr": 24,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "ip": "193.19.92.0",
+            "name": "CHILLYDOMAINS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.19.92.0",
+                "prefix": "193.19.92.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.19.92.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "ip": "193.19.93.0",
+            "name": "CHILLYDOMAINS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.19.92.0",
+                "prefix": "193.19.92.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.19.93.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "DE",
             "description": "Organisation Handle SPKG",
             "ip": "194.0.201.0",
