@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 23,
+            "country_code": "HK",
+            "description": "Unit 04, 7/F BRIGHT WAY TOWER",
+            "ip": "103.102.4.0",
+            "name": "RIXLTD-HK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "103.102.4.0",
+                "prefix": "103.102.4.0/22",
+                "rir_name": "APNIC"
+            },
+            "prefix": "103.102.4.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "RU",
             "description": "Huajuan Enterprise Network - Khabarovsk, RU",
@@ -414,6 +430,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "185.12.243.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "HK",
+            "description": "Shanghai Huajuan Information Technology Co., Ltd.",
+            "ip": "185.255.152.0",
+            "name": "Shanghai-Huajuan-Information-Technology-Co-Ltd",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.255.152.0",
+                "prefix": "185.255.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.255.152.0/23",
             "roa_status": "None"
         },
         {
@@ -3459,6 +3491,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 48,
+            "country_code": "CN",
+            "description": "Shanghai Qiangxin Network Technology Co., Ltd",
+            "ip": "2400:ba41:2::",
+            "name": "RIXCLOUDCHINA-CN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2400:ba41::",
+                "prefix": "2400:ba41::/32",
+                "rir_name": "APNIC"
+            },
+            "prefix": "2400:ba41:2::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 44,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
@@ -3523,22 +3571,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 48,
-            "country_code": "LU",
-            "description": "G-Core Labs S.A.",
-            "ip": "2a03:90c0:124::",
-            "name": "LU-GCORELABS-20121207",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:124::/48",
-            "roa_status": "None"
-        },
-        {
             "cidr": 44,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
@@ -3571,22 +3603,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 48,
-            "country_code": "NL",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:14::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:14::/48",
-            "roa_status": "None"
-        },
-        {
             "cidr": 44,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
@@ -3600,22 +3616,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:150::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "NL",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:15::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:15::/48",
             "roa_status": "None"
         },
         {
@@ -3664,22 +3664,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:180::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "BR",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:184::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:184::/48",
             "roa_status": "None"
         },
         {
@@ -3891,22 +3875,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 48,
-            "country_code": "US",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:34::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:34::/48",
-            "roa_status": "None"
-        },
-        {
             "cidr": 44,
             "country_code": "DE",
             "description": "GCORE CUSTOMER ALLOCATION",
@@ -3936,22 +3904,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:50::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "RU",
-            "description": "ISPSYS MOW",
-            "ip": "2a03:90c0:54::",
-            "name": "ISPSYS-MOW",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:54::/48",
             "roa_status": "None"
         },
         {
@@ -3987,22 +3939,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 48,
-            "country_code": "RU",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:57::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:57::/48",
-            "roa_status": "None"
-        },
-        {
             "cidr": 44,
             "country_code": "SG",
             "description": "GCORE CUSTOMER ALLOCATION",
@@ -4016,22 +3952,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:60::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "SG",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:64::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:64::/48",
             "roa_status": "None"
         },
         {
@@ -4080,22 +4000,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:80::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "LU",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:84::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:84::/48",
             "roa_status": "None"
         },
         {
@@ -4262,22 +4166,6 @@
             "cidr": 48,
             "country_code": "RU",
             "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:a4::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:a4::/48",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "RU",
-            "description": "GCORE CUSTOMER ALLOCATION",
             "ip": "2a03:90c0:a5::",
             "name": "GCORE-CUSTOMER-ALLOCATION",
             "parent": {
@@ -4339,38 +4227,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 48,
-            "country_code": "US",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:c5::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:c5::/48",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "US",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:c6::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:c6::/48",
-            "roa_status": "None"
-        },
-        {
             "cidr": 44,
             "country_code": "PL",
             "description": "GCORE CUSTOMER ALLOCATION",
@@ -4416,6 +4272,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:f0::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "RU",
+            "description": "Huajuan Enterprise Solutions - Khabarovsk",
+            "ip": "2a0b:4340:500::",
+            "name": "HUAJUAN-KHV",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:4340::",
+                "prefix": "2a0b:4340::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:4340:500::/44",
             "roa_status": "None"
         }
     ]
