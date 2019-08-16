@@ -405,7 +405,7 @@
             "ipv4_address": "80.81.192.117",
             "ipv6_address": "2001:7f8::c89:0:3",
             "name": "VODANET",
-            "speed": 300000
+            "speed": 600000
         },
         {
             "asn": 3209,
@@ -414,7 +414,7 @@
             "ipv4_address": "80.81.193.117",
             "ipv6_address": "2001:7f8::c89:0:4",
             "name": "VODANET",
-            "speed": 300000
+            "speed": 600000
         },
         {
             "asn": 3214,
@@ -6474,6 +6474,15 @@
             "speed": 10000
         },
         {
+            "asn": 47895,
+            "country_code": "RU",
+            "description": "LTD \"Erline\"",
+            "ipv4_address": "80.81.196.44",
+            "ipv6_address": null,
+            "name": "R-LINE-AS",
+            "speed": 30000
+        },
+        {
             "asn": 47950,
             "country_code": "RO",
             "description": "LNK SYSTEMS MUNTENIA SRL",
@@ -8346,7 +8355,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 798,
+    "members_count": 799,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
