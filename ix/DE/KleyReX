@@ -342,7 +342,7 @@
             "ipv4_address": "193.189.82.8",
             "ipv6_address": "2001:7f8:33::a103:8527:1",
             "name": "MLINK-AS-ID",
-            "speed": 1000
+            "speed": 100
         },
         {
             "asn": 39192,
@@ -1407,6 +1407,15 @@
             "speed": 100
         },
         {
+            "asn": 209626,
+            "country_code": "NL",
+            "description": "HYBULA ROUTING",
+            "ipv4_address": "193.189.82.49",
+            "ipv6_address": "2001:7f8:33::a120:9626:1",
+            "name": "HYBULA",
+            "speed": 100
+        },
+        {
             "asn": 209718,
             "country_code": "NL",
             "description": "Vanguard Networks Holding",
@@ -1542,7 +1551,7 @@
             "speed": 100
         }
     ],
-    "members_count": 170,
+    "members_count": 171,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
