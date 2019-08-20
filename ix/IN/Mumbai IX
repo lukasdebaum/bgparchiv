@@ -1440,7 +1440,7 @@
             "ipv4_address": "103.27.170.54",
             "ipv6_address": null,
             "name": "Jlinkindia-AS",
-            "speed": 1024
+            "speed": 10240
         },
         {
             "asn": 134883,
@@ -1549,6 +1549,15 @@
             "ipv6_address": "2401:7500:fff6::66",
             "name": "FOXCELL-AS",
             "speed": 1024
+        },
+        {
+            "asn": 135244,
+            "country_code": "IN",
+            "description": "Kedia Internet Private Limited",
+            "ipv4_address": "103.27.170.210",
+            "ipv6_address": "2401:7500:fff6::210",
+            "name": "KNET-AS",
+            "speed": 1000
         },
         {
             "asn": 135253,
@@ -2118,7 +2127,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 223,
+    "members_count": 224,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
