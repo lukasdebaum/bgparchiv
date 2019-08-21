@@ -873,7 +873,7 @@
             "ipv4_address": "206.108.34.24",
             "ipv6_address": "2001:504:1a::34:24",
             "name": "AKAMAI-ASN1",
-            "speed": 50000
+            "speed": 100000
         },
         {
             "asn": 21513,
@@ -2046,6 +2046,15 @@
             "speed": 10000
         },
         {
+            "asn": 63290,
+            "country_code": "US",
+            "description": "QCSTelecom, Inc.",
+            "ipv4_address": "206.108.35.133",
+            "ipv6_address": "2001:504:1a::35:133",
+            "name": "QCSTE-AS",
+            "speed": 10000
+        },
+        {
             "asn": 63440,
             "country_code": "US",
             "description": "TELNYX LLC",
@@ -2244,7 +2253,7 @@
             "speed": 2000
         }
     ],
-    "members_count": 227,
+    "members_count": 228,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
