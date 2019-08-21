@@ -257,6 +257,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 19,
+            "country_code": "US",
+            "description": "Virginia Information Technologies Agency (VITA)",
+            "ip": "166.67.160.0",
+            "name": "COVA-BLK-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "166.67.0.0",
+                "prefix": "166.67.0.0/16",
+                "rir_name": "ARIN"
+            },
+            "prefix": "166.67.160.0/19",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "AT",
             "description": "Telematica Internet Service Provider GmbH",
