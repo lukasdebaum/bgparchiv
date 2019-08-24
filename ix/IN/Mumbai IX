@@ -357,7 +357,7 @@
             "asn": 38457,
             "country_code": "IN",
             "description": "Honesty Net Solution (I) Pvt Ltd",
-            "ipv4_address": "103.27.170.217",
+            "ipv4_address": "103.27.170.123",
             "ipv6_address": null,
             "name": "HNS-AS-AP",
             "speed": 1024
@@ -831,15 +831,6 @@
             "speed": 1024
         },
         {
-            "asn": 132568,
-            "country_code": "IN",
-            "description": "Infinet Communictions",
-            "ipv4_address": "103.27.170.74",
-            "ipv6_address": "2401:7500:fff6::74",
-            "name": "INFINET-AS",
-            "speed": 1024
-        },
-        {
             "asn": 132572,
             "country_code": "IN",
             "description": "Fasthook Networks Pvt Ltd",
@@ -1099,15 +1090,6 @@
             "ipv6_address": "2401:7500:fff6::223",
             "name": "MAXTECH-AS",
             "speed": 10000
-        },
-        {
-            "asn": 133589,
-            "country_code": "IN",
-            "description": "DECO MEDIA AND COMMUNICATIONS PVT LTD",
-            "ipv4_address": "103.27.170.197",
-            "ipv6_address": "2401:7500:fff6::197",
-            "name": "DECO-AS",
-            "speed": 1024
         },
         {
             "asn": 133597,
@@ -1722,15 +1704,6 @@
             "speed": 1024
         },
         {
-            "asn": 135848,
-            "country_code": "IN",
-            "description": "Digitax India Communications Pvt Ltd.",
-            "ipv4_address": "103.27.170.184",
-            "ipv6_address": "2401:7500:fff6::184",
-            "name": "DIGITAX-AS",
-            "speed": 1000
-        },
-        {
             "asn": 135850,
             "country_code": "IN",
             "description": "Net Sathi Networks Pvt. Ltd",
@@ -2019,6 +1992,15 @@
             "speed": 1024
         },
         {
+            "asn": 137622,
+            "country_code": "IN",
+            "description": "Royal Connect Solutions Pvt Ltd",
+            "ipv4_address": "103.27.170.230",
+            "ipv6_address": "2401:7500:fff6::230",
+            "name": "ROYALCON-AS-IN",
+            "speed": 1024
+        },
+        {
             "asn": 137658,
             "country_code": "IN",
             "description": "Jinus Net Private Limited",
@@ -2113,7 +2095,7 @@
             "country_code": "IN",
             "description": "Winmax Telecommunication India Private Limited",
             "ipv4_address": "103.27.170.7",
-            "ipv6_address": null,
+            "ipv6_address": "2401:7500:fff6::7",
             "name": "WMTIPL-AS-IN",
             "speed": 10000
         },
@@ -2127,7 +2109,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 224,
+    "members_count": 222,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
