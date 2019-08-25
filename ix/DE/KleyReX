@@ -342,7 +342,7 @@
             "ipv4_address": "193.189.82.8",
             "ipv6_address": "2001:7f8:33::a103:8527:1",
             "name": "MLINK-AS-ID",
-            "speed": 100
+            "speed": 1000
         },
         {
             "asn": 39192,
@@ -1380,6 +1380,15 @@
             "speed": 100
         },
         {
+            "asn": 208976,
+            "country_code": "NL",
+            "description": "VNP DIGITAL Inc.",
+            "ipv4_address": "193.189.82.10",
+            "ipv6_address": "2001:7f8:33::a120:8976:1",
+            "name": "VNP-DIGITAL",
+            "speed": 100
+        },
+        {
             "asn": 209022,
             "country_code": "GB",
             "description": "Tschajera Limited",
@@ -1551,7 +1560,7 @@
             "speed": 100
         }
     ],
-    "members_count": 171,
+    "members_count": 172,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
