@@ -2187,7 +2187,7 @@
             "ipv4_address": "80.81.192.88",
             "ipv6_address": "2001:7f8::3031:0:1",
             "name": "NORIS-NETWORK",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 12337,
@@ -2196,7 +2196,7 @@
             "ipv4_address": "80.81.193.88",
             "ipv6_address": "2001:7f8::3031:0:2",
             "name": "NORIS-NETWORK",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 12348,
@@ -5034,15 +5034,6 @@
             "speed": 10000
         },
         {
-            "asn": 33873,
-            "country_code": "DE",
-            "description": "Transit Provider IPv4",
-            "ipv4_address": "80.81.192.216",
-            "ipv6_address": "2001:7f8::8451:0:1",
-            "name": "arvato-systems-AS",
-            "speed": 10000
-        },
-        {
             "asn": 33891,
             "country_code": "DE",
             "description": "CORE-BACKBONE GMBH GLOBAL NETWORK",
@@ -5356,6 +5347,15 @@
             "ipv6_address": "2001:7f8::8af6:0:1",
             "name": "GTECH",
             "speed": 1000
+        },
+        {
+            "asn": 35710,
+            "country_code": "DE",
+            "description": "Weber eBusiness Services GmbH",
+            "ipv4_address": "80.81.195.35",
+            "ipv6_address": "2001:7f8::8b7e:0:1",
+            "name": "WEBERCLOUD",
+            "speed": 0
         },
         {
             "asn": 35753,
@@ -8060,7 +8060,7 @@
         {
             "asn": 200278,
             "country_code": "DE",
-            "description": "Kai Rottleb trading as KNT Internet",
+            "description": "Kai Rottleb",
             "ipv4_address": "80.81.195.110",
             "ipv6_address": "2001:7f8::3:e56:0:1",
             "name": "KNTINTERNET",
