@@ -4584,15 +4584,6 @@
             "speed": 10000
         },
         {
-            "asn": 33873,
-            "country_code": "DE",
-            "description": "Transit Provider IPv4",
-            "ipv4_address": "80.249.208.178",
-            "ipv6_address": "2001:7f8:1::a503:3873:1",
-            "name": "arvato-systems-AS",
-            "speed": 10000
-        },
-        {
             "asn": 33891,
             "country_code": "DE",
             "description": "CORE-BACKBONE GMBH GLOBAL NETWORK",
@@ -5131,6 +5122,15 @@
             "ipv6_address": "2001:7f8:1::a503:7662:1",
             "name": "WIOCC-AS",
             "speed": 10000
+        },
+        {
+            "asn": 37721,
+            "country_code": "BF",
+            "description": "Virtual Technologies & Solutions SA",
+            "ipv4_address": "80.249.210.189",
+            "ipv6_address": "2001:7f8:1::a503:7721:1",
+            "name": "Virtual-Technologies-Solutions-SA",
+            "speed": 1000
         },
         {
             "asn": 38001,
@@ -8391,6 +8391,15 @@
             "speed": 10000
         },
         {
+            "asn": 263528,
+            "country_code": "BR",
+            "description": "VIACOM NEXT GENERATION COMUNICACAO LTDA",
+            "ipv4_address": "80.249.210.148",
+            "ipv6_address": "2001:7f8:1:0:a500:26:3528:1",
+            "name": "VIACOM NEXT GENERATION COMUNICACAO LTDA",
+            "speed": 1000
+        },
+        {
             "asn": 265187,
             "country_code": "BR",
             "description": "STEEL WEB PROVEDORES DE ACESSO LTDA",
@@ -8427,7 +8436,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 831,
+    "members_count": 832,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
