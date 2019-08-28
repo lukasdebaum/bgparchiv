@@ -79,6 +79,22 @@
             },
             "prefix": "91.213.234.0/24",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "VOIP Connector GmbH",
+            "ip": "91.213.235.0",
+            "name": "VOIP-CONNECTOR-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.213.235.0",
+                "prefix": "91.213.235.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.213.235.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
@@ -96,6 +112,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a01:80a0:1::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "HXS GmbH",
+            "ip": "2a01:80a0:ffff::",
+            "name": "AT-HXS-20140121",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:80a0::",
+                "prefix": "2a01:80a0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:80a0:ffff::/48",
             "roa_status": "None"
         }
     ]
