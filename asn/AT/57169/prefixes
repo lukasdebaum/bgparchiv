@@ -803,10 +803,10 @@
             "roa_status": "None"
         },
         {
-            "cidr": 32,
+            "cidr": 48,
             "country_code": "DE",
             "description": "EDIS GmbH",
-            "ip": "2a03:f81::",
+            "ip": "2a03:f87:ffff::",
             "name": "AT-EDISGMBH-20110811",
             "parent": {
                 "allocation_status": "unknown",
@@ -815,39 +815,7 @@
                 "prefix": "2a03:f80::/29",
                 "rir_name": "RIPE"
             },
-            "prefix": "2a03:f81::/32",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 32,
-            "country_code": "DE",
-            "description": "EDIS GmbH",
-            "ip": "2a03:f83::",
-            "name": "AT-EDISGMBH-20110811",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 29,
-                "ip": "2a03:f80::",
-                "prefix": "2a03:f80::/29",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:f83::/32",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 32,
-            "country_code": "DE",
-            "description": "EDIS GmbH",
-            "ip": "2a03:f84::",
-            "name": "AT-EDISGMBH-20110811",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 29,
-                "ip": "2a03:f80::",
-                "prefix": "2a03:f80::/29",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:f84::/32",
+            "prefix": "2a03:f87:ffff::/48",
             "roa_status": "None"
         }
     ]
