@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "IODAT Informationstechnologie und Organisationsmanagement GmbH",
+            "ip": "45.139.60.0",
+            "name": "AT-IODAT-20190808",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.139.60.0",
+                "prefix": "45.139.60.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.139.60.0/22",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
