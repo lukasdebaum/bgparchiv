@@ -2354,6 +2354,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "LU",
+            "description": "G-Core Labs S.A.",
+            "ip": "92.223.70.0",
+            "name": "LU-GCORELABS-20071017",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "92.223.0.0",
+                "prefix": "92.223.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.223.70.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "RU",
             "description": "G-Core Labs Customer assignment",
             "ip": "92.223.72.0",
@@ -3872,22 +3888,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:30::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "US",
-            "description": "GCORE CUSTOMER ALLOCATION",
-            "ip": "2a03:90c0:34::",
-            "name": "GCORE-CUSTOMER-ALLOCATION",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:34::/48",
             "roa_status": "None"
         },
         {
