@@ -1868,7 +1868,7 @@
         {
             "asn": 12301,
             "country_code": "HU",
-            "description": "Invitech Megoldasok Zrt.",
+            "description": "Invitech ICT Services Kft.",
             "ipv4_address": "80.249.210.49",
             "ipv6_address": "2001:7f8:1::a501:2301:1",
             "name": "Invitech",
@@ -3481,7 +3481,7 @@
             "country_code": "CN",
             "description": "Zhejiang Taobao Network Co.,Ltd",
             "ipv4_address": "80.249.211.9",
-            "ipv6_address": "2001:7f8:1::a502:4429:1",
+            "ipv6_address": null,
             "name": "Taobao",
             "speed": 10000
         },
@@ -6825,6 +6825,15 @@
             "speed": 1000
         },
         {
+            "asn": 52091,
+            "country_code": "RU",
+            "description": "Level-MSK Ltd.",
+            "ipv4_address": "80.249.211.11",
+            "ipv6_address": null,
+            "name": "LEVEL-MSK-AS",
+            "speed": 10000
+        },
+        {
             "asn": 52320,
             "country_code": "CO",
             "description": "GlobeNet Cabos Submarinos Colombia, S.A.S.",
@@ -8436,7 +8445,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 834,
+    "members_count": 835,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
