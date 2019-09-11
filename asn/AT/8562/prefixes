@@ -211,6 +211,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Herold Business Data GmbH",
+            "ip": "2001:67c:2af4::",
+            "name": "HEROLD-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:2af4::",
+                "prefix": "2001:67c:2af4::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:2af4::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 34,
             "country_code": "AT",
             "description": "A1 Telekom Austria AG",
