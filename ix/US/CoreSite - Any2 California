@@ -2574,7 +2574,7 @@
             "ipv4_address": "206.72.211.164",
             "ipv6_address": "2001:504:13::211:164",
             "name": "TRUSTPOWERLTD-AS-AP",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 55900,
@@ -2883,6 +2883,15 @@
             "speed": 1000
         },
         {
+            "asn": 394497,
+            "country_code": "US",
+            "description": "Ting Fiber Inc.",
+            "ipv4_address": "206.72.210.78",
+            "ipv6_address": "2001:504:13::210:78",
+            "name": "TF-178-ASH",
+            "speed": 10000
+        },
+        {
             "asn": 394738,
             "country_code": "US",
             "description": "Denetron LLC",
@@ -2919,7 +2928,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 292,
+    "members_count": 293,
     "name": "CoreSite - Any2 California",
     "name_full": "CoreSite - Any2 Los Angeles",
     "policy_email": "any2@coresite.com",
