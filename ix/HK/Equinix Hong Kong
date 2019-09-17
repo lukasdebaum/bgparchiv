@@ -320,28 +320,28 @@
         {
             "asn": 9381,
             "country_code": "HK",
-            "description": "WTT HK Limited",
+            "description": "HKBN Enterprise Solutions HK Limited",
             "ipv4_address": "36.255.56.32",
             "ipv6_address": "2001:de8:7::9381:1",
-            "name": "WTT-AS-AP",
+            "name": "HKBNES-AS-AP",
             "speed": 1000
         },
         {
             "asn": 9381,
             "country_code": "HK",
-            "description": "WTT HK Limited",
+            "description": "HKBN Enterprise Solutions HK Limited",
             "ipv4_address": "36.255.56.80",
             "ipv6_address": "2001:de8:7::9381:3",
-            "name": "WTT-AS-AP",
+            "name": "HKBNES-AS-AP",
             "speed": 20000
         },
         {
             "asn": 9381,
             "country_code": "HK",
-            "description": "WTT HK Limited",
+            "description": "HKBN Enterprise Solutions HK Limited",
             "ipv4_address": "36.255.56.113",
             "ipv6_address": "2001:de8:7::9381:4",
-            "name": "WTT-AS-AP",
+            "name": "HKBNES-AS-AP",
             "speed": 10000
         },
         {
@@ -792,6 +792,15 @@
             "ipv4_address": "36.255.56.63",
             "ipv6_address": "2001:de8:7::2:4043:1",
             "name": "DATAPIPE-HK-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 24088,
+            "country_code": "VN",
+            "description": "Hanoi Telecom Joint Stock Company - HCMC Branch",
+            "ipv4_address": "36.255.56.226",
+            "ipv6_address": "2001:de8:7::2:4088:1",
+            "name": "HTCHCMC-AS-VN",
             "speed": 10000
         },
         {
@@ -1362,6 +1371,15 @@
             "speed": 10000
         },
         {
+            "asn": 63199,
+            "country_code": "US",
+            "description": "Capitalonline Data Service Co.,LTD",
+            "ipv4_address": "36.255.56.222",
+            "ipv6_address": "2001:de8:7::6:3199:2",
+            "name": "CDSC-AS1",
+            "speed": 10000
+        },
+        {
             "asn": 63541,
             "country_code": "CN",
             "description": "Beijing Blue I.T Technologies Co.,Ltd.",
@@ -1596,7 +1614,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 145,
+    "members_count": 146,
     "name": "Equinix Hong Kong",
     "name_full": "Equinix Hong Kong",
     "policy_email": "peering@ap.equinix.com",
