@@ -162,6 +162,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "CH",
+            "description": "Zurich, Switzerland",
+            "ip": "185.190.50.0",
+            "name": "AT-UNWIRED-ZRH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.190.48.0",
+                "prefix": "185.190.48.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.190.50.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "DE",
             "description": "Tassero GmbH",
             "ip": "185.205.80.0",
