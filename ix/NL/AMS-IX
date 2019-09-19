@@ -804,15 +804,6 @@
             "speed": 10000
         },
         {
-            "asn": 5713,
-            "country_code": "ZA",
-            "description": "SAIX-NET",
-            "ipv4_address": "80.249.210.18",
-            "ipv6_address": "2001:7f8:1::a500:5713:1",
-            "name": "SAIX-NET",
-            "speed": 10000
-        },
-        {
             "asn": 6233,
             "country_code": "US",
             "description": "xTom",
@@ -1422,6 +1413,15 @@
             "ipv4_address": "80.249.210.124",
             "ipv6_address": "2001:7f8:1::a500:8632:1",
             "name": "LOL-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 8647,
+            "country_code": "UA",
+            "description": "Ukrainian network",
+            "ipv4_address": "80.249.211.143",
+            "ipv6_address": "2001:7f8:1::a500:8647:1",
+            "name": "AS-T2012",
             "speed": 10000
         },
         {
@@ -6026,7 +6026,7 @@
         {
             "asn": 47195,
             "country_code": "DE",
-            "description": "Gameforge Productions GmbH",
+            "description": "Gameforge 4D GmbH",
             "ipv4_address": "80.249.208.92",
             "ipv6_address": "2001:7f8:1::a504:7195:1",
             "name": "GAMEFORGE-AS",
@@ -6256,6 +6256,15 @@
             "ipv6_address": "2001:7f8:1::a504:8345:3",
             "name": "AS-ABAVIA",
             "speed": 100000
+        },
+        {
+            "asn": 48362,
+            "country_code": "AT",
+            "description": "Stadtwerke Feldkirch",
+            "ipv4_address": "80.249.211.166",
+            "ipv6_address": "2001:7f8:1::a504:8362:1",
+            "name": "TKSWF-AS",
+            "speed": 1000
         },
         {
             "asn": 48399,
@@ -6724,15 +6733,6 @@
             "ipv6_address": "2001:7f8:1::a505:1167:1",
             "name": "CONTABO",
             "speed": 20000
-        },
-        {
-            "asn": 51185,
-            "country_code": "GB",
-            "description": "Onecom Global Communications LTD",
-            "ipv4_address": "80.249.210.163",
-            "ipv6_address": "2001:7f8:1::a505:1185:1",
-            "name": "ONECOM-AS",
-            "speed": 0
         },
         {
             "asn": 51254,
@@ -7363,6 +7363,24 @@
             "ipv6_address": "2001:7f8:1::a506:890:1",
             "name": "CENTRALNIC-ANYCAST-B",
             "speed": 1000
+        },
+        {
+            "asn": 60893,
+            "country_code": "NL",
+            "description": "Art of Automation B.V.",
+            "ipv4_address": "80.249.213.154",
+            "ipv6_address": "2001:7f8:1::a506:893:2",
+            "name": "ARTOFAUTOMATION-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 60893,
+            "country_code": "NL",
+            "description": "Art of Automation B.V.",
+            "ipv4_address": "80.249.210.227",
+            "ipv6_address": "2001:7f8:1::a506:893:1",
+            "name": "ARTOFAUTOMATION-AS",
+            "speed": 10000
         },
         {
             "asn": 60924,
@@ -8445,7 +8463,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 835,
+    "members_count": 836,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
