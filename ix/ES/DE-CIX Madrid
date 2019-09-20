@@ -504,7 +504,7 @@
             "ipv4_address": "185.1.68.133",
             "ipv6_address": "2001:7f8:a0::8463:0:1",
             "name": "CORE-BACKBONE",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 34471,
@@ -903,6 +903,15 @@
             "speed": 1000
         },
         {
+            "asn": 199976,
+            "country_code": "ES",
+            "description": "DUNE TECHNOLOGY SPICED AS",
+            "ipv4_address": "185.1.68.173",
+            "ipv6_address": null,
+            "name": "AS_DUNE",
+            "speed": 1000
+        },
+        {
             "asn": 200738,
             "country_code": "ES",
             "description": "Interfibra Telecomunicaciones, S.L.",
@@ -1128,7 +1137,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 115,
+    "members_count": 116,
     "name": "DE-CIX Madrid",
     "name_full": "Deutscher Commercial Internet Exchange Madrid",
     "policy_email": null,
