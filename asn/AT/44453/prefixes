@@ -163,6 +163,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 36,
+            "country_code": "AT",
+            "description": "interneX GmbH",
+            "ip": "2a03:3180:4000::",
+            "name": "AT-INTERNEX-20110824",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:3180::",
+                "prefix": "2a03:3180::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:3180:4000::/36",
+            "roa_status": "None"
+        },
+        {
             "cidr": 32,
             "country_code": "AT",
             "description": "interneX GmbH",
