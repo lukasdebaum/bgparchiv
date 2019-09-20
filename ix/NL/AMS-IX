@@ -4854,15 +4854,6 @@
             "speed": 1000
         },
         {
-            "asn": 35176,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
-            "ipv4_address": null,
-            "ipv6_address": null,
-            "name": "RIPE NCC ASN block",
-            "speed": 10000
-        },
-        {
             "asn": 35280,
             "country_code": "FR",
             "description": "ACORUS NETWORKS SAS",
@@ -5374,6 +5365,15 @@
             "ipv6_address": "2001:7f8:1::a503:9832:2",
             "name": "NO-OPERA",
             "speed": 50000
+        },
+        {
+            "asn": 39832,
+            "country_code": "NO",
+            "description": "Opera Software AS",
+            "ipv4_address": "80.249.209.45",
+            "ipv6_address": "2001:7f8:1::a503:9832:3",
+            "name": "NO-OPERA",
+            "speed": 100000
         },
         {
             "asn": 39923,
@@ -7482,15 +7482,6 @@
             "speed": 250
         },
         {
-            "asn": 62267,
-            "country_code": "GB",
-            "description": "Net365 Ltd",
-            "ipv4_address": "80.249.211.38",
-            "ipv6_address": null,
-            "name": "NET365",
-            "speed": 1000
-        },
-        {
             "asn": 62597,
             "country_code": "US",
             "description": "NSONE Inc",
@@ -8409,6 +8400,15 @@
             "speed": 10000
         },
         {
+            "asn": 263276,
+            "country_code": "BR",
+            "description": "BBG TELECOM",
+            "ipv4_address": "80.249.211.243",
+            "ipv6_address": "2001:7f8:1:0:a500:26:3276:1",
+            "name": "BBG TELECOM",
+            "speed": 0
+        },
+        {
             "asn": 263324,
             "country_code": "BR",
             "description": "Net&Com Servicos de Informatica e Telecomunicacoes",
@@ -8463,7 +8463,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 836,
+    "members_count": 835,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
