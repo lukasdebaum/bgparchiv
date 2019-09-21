@@ -161,6 +161,134 @@
             "roa_status": "None"
         },
         {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.16.224.0",
+            "name": "AT-OJA-971112",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.224.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.16.232.0",
+            "name": "AT-OJA-971112",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.232.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.16.236.0",
+            "name": "AT-OJA-971112",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.236.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "c-works-design edv & internet gmbh",
+            "ip": "195.16.238.0",
+            "name": "C-WORKS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.238.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "linea7.com ges. m. b. H.",
+            "ip": "195.16.241.0",
+            "name": "LINE7BACKBONE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.241.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.16.242.0",
+            "name": "AT-OJA-971112",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.242.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.16.246.0",
+            "name": "AT-OJA-971112",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.246.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.16.254.0",
+            "name": "AT-OJA-971112",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.16.224.0",
+                "prefix": "195.16.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.254.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "KELAG-Karntner Elektrizitats - Aktiengesellschaft",
@@ -542,6 +670,70 @@
                 "rir_name": "RIPE"
             },
             "prefix": "81.94.48.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "81.94.48.0",
+            "name": "AT-OJA-20060512",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.94.48.0",
+                "prefix": "81.94.48.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.94.48.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "81.94.52.0",
+            "name": "AT-OJA-20060512",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.94.48.0",
+                "prefix": "81.94.48.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.94.52.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "81.94.54.0",
+            "name": "AT-OJA-20060512",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.94.48.0",
+                "prefix": "81.94.48.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.94.54.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "81.94.56.0",
+            "name": "AT-OJA-20060512",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.94.48.0",
+                "prefix": "81.94.48.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.94.56.0/21",
             "roa_status": "None"
         },
         {
