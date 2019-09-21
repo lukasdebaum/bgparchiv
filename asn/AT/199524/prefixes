@@ -244,6 +244,22 @@
             "cidr": 24,
             "country_code": "US",
             "description": "G-Core Labs S.A.",
+            "ip": "185.101.136.0",
+            "name": "LU-GCORELABS-20150522",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.101.136.0",
+                "prefix": "185.101.136.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.101.136.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "G-Core Labs S.A.",
             "ip": "185.101.139.0",
             "name": "LU-GCORELABS-20150522",
             "parent": {
@@ -526,6 +542,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.188.121.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "G-Core Labs S.A.",
+            "ip": "5.188.125.0",
+            "name": "LU-GCORELABS-20120809",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.120.0",
+                "prefix": "5.188.120.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.125.0/24",
             "roa_status": "None"
         },
         {
@@ -3840,6 +3872,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:240::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "LU",
+            "description": "G-Core Labs S.A.",
+            "ip": "2a03:90c0:250::",
+            "name": "LU-GCORELABS-20121207",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:90c0::",
+                "prefix": "2a03:90c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:90c0:250::/44",
             "roa_status": "None"
         },
         {
