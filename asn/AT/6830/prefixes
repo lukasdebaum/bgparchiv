@@ -401,6 +401,38 @@
             "roa_status": "None"
         },
         {
+            "cidr": 21,
+            "country_code": "NL",
+            "description": "Gemeente Zoetermeer",
+            "ip": "148.200.0.0",
+            "name": "GEM-ZOETERM",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "148.200.0.0",
+                "prefix": "148.200.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "148.200.0.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "NL",
+            "description": "Gemeente Zoetermeer",
+            "ip": "148.200.140.0",
+            "name": "GEM-ZOETERM",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "148.200.0.0",
+                "prefix": "148.200.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "148.200.140.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 16,
             "country_code": "DE",
             "description": "Unitymedia BW GmbH",
