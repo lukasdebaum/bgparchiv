@@ -259,7 +259,7 @@
             "country_code": "US",
             "description": "WNET TELECOM USA Corp.",
             "ipv4_address": "80.249.211.12",
-            "ipv6_address": "2001:7f8:1::a501:5772:1",
+            "ipv6_address": "2001:7f8:1::a500:1820:1",
             "name": "WNET",
             "speed": 10000
         },
@@ -2026,6 +2026,15 @@
             "ipv6_address": "2001:7f8:1::a501:2637:1",
             "name": "SEEWEB",
             "speed": 5000
+        },
+        {
+            "asn": 12637,
+            "country_code": "IT",
+            "description": "Web hosting, colocation and cloud services",
+            "ipv4_address": "80.249.212.11",
+            "ipv6_address": "2001:7f8:1::a501:2637:2",
+            "name": "SEEWEB",
+            "speed": 1000
         },
         {
             "asn": 12654,
@@ -5610,6 +5619,15 @@
             "speed": 20000
         },
         {
+            "asn": 42739,
+            "country_code": "PL",
+            "description": "Hawe Telekom Sp. z.o.o.",
+            "ipv4_address": "80.249.208.25",
+            "ipv6_address": "2001:7f8:1::a504:2739:1",
+            "name": "FONE-ASN",
+            "speed": 10000
+        },
+        {
             "asn": 42841,
             "country_code": "SK",
             "description": "ANTIK Telecom s.r.o",
@@ -8472,7 +8490,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 836,
+    "members_count": 837,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
