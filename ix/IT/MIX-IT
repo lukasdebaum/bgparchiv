@@ -108,7 +108,7 @@
             "ipv4_address": "217.29.66.11",
             "ipv6_address": "2001:7f8:b:100:1d1:a5d0:3302:11",
             "name": "AS-IRIDEOS-IN-NETAPP",
-            "speed": 10000
+            "speed": 40000
         },
         {
             "asn": 3303,
@@ -1245,6 +1245,15 @@
             "speed": 10000
         },
         {
+            "asn": 41327,
+            "country_code": "IT",
+            "description": "Fiber Telecom S.p.A.",
+            "ipv4_address": "217.29.67.42",
+            "ipv6_address": "2001:7f8:b:100:1d1:a519:6753:42",
+            "name": "FIBERTELECOM-AS",
+            "speed": 10000
+        },
+        {
             "asn": 41497,
             "country_code": "IT",
             "description": "Qcom spa",
@@ -1860,15 +1869,6 @@
             "asn": 196753,
             "country_code": "IT",
             "description": "Fiber Telecom S.p.A.",
-            "ipv4_address": "217.29.67.42",
-            "ipv6_address": "2001:7f8:b:100:1d1:a519:6753:42",
-            "name": "FIBERTELECOM-AS",
-            "speed": 10000
-        },
-        {
-            "asn": 196753,
-            "country_code": "IT",
-            "description": "Fiber Telecom S.p.A.",
             "ipv4_address": "217.29.67.51",
             "ipv6_address": "2001:7f8:b:100:1d1:a519:6753:51",
             "name": "FIBERTELECOM-AS",
@@ -2406,7 +2406,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 233,
+    "members_count": 234,
     "name": "MIX-IT",
     "name_full": "Milan Internet eXchange",
     "policy_email": "info@mix-it.net",
