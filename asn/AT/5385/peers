@@ -1,6 +1,18 @@
 {
     "ipv4_peers": [
         {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        },
+        {
             "asn": 8447,
             "country_code": "AT",
             "description": "A1 Telekom Austria AG",
@@ -63,6 +75,12 @@
     ],
     "ipv6_peers": [
         {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
             "asn": 8447,
             "country_code": "AT",
             "description": "A1 Telekom Austria AG",
@@ -107,8 +125,8 @@
         {
             "asn": 65049,
             "country_code": "AT",
-            "description": "schallert.com e.U.",
-            "name": "SCHALLERT-AS"
+            "description": "Stadtwerke Feldkirch",
+            "name": "TKSWF-AS"
         }
     ]
 }
