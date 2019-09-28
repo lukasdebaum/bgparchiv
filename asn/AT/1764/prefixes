@@ -1,22 +1,6 @@
 {
     "ipv4_prefixes": [
         {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
-            "ip": "109.70.100.0",
-            "name": "AT-NEXTLAYER-20091102",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 21,
-                "ip": "109.70.96.0",
-                "prefix": "109.70.96.0/21",
-                "rir_name": "RIPE"
-            },
-            "prefix": "109.70.100.0/24",
-            "roa_status": "None"
-        },
-        {
             "cidr": 21,
             "country_code": "AT",
             "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
@@ -1072,22 +1056,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a01:190::/32",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 48,
-            "country_code": "AT",
-            "description": "ZVR: 1254016365",
-            "ip": "2a03:e600:100::",
-            "name": "FOUNDATION-FOR-APPLIED-PRIVACY",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:e600::",
-                "prefix": "2a03:e600::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:e600:100::/48",
             "roa_status": "None"
         },
         {
