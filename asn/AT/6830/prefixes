@@ -9889,6 +9889,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "RO",
+            "description": "SC SATLINE FL SRL",
+            "ip": "80.96.129.0",
+            "name": "SC-SATLINE-FL-SRL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 15,
+                "ip": "80.96.0.0",
+                "prefix": "80.96.0.0/15",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.96.129.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "RO",
             "description": "SC Minisat srl",
@@ -10579,7 +10595,7 @@
         {
             "cidr": 17,
             "country_code": "AT",
-            "description": "UPC Austria GmbH",
+            "description": "T-Mobile Austria GmbH",
             "ip": "81.223.128.0",
             "name": "AT-INODE-20021202",
             "parent": {
