@@ -3612,6 +3612,15 @@
             "speed": 1000
         },
         {
+            "asn": 25133,
+            "country_code": "UA",
+            "description": "LLC \"McLaut-Invest\"",
+            "ipv4_address": "80.249.209.246",
+            "ipv6_address": null,
+            "name": "MCLAUT-AS",
+            "speed": 5000
+        },
+        {
             "asn": 25148,
             "country_code": "NO",
             "description": "Oslo - Norway",
@@ -6303,15 +6312,6 @@
             "speed": 100
         },
         {
-            "asn": 48526,
-            "country_code": "LU",
-            "description": "Proximus Luxembourg S.A.",
-            "ipv4_address": "80.249.211.94",
-            "ipv6_address": "2001:7f8:1::a504:8526:1",
-            "name": "TANGO-TELINDUS",
-            "speed": 3000
-        },
-        {
             "asn": 48539,
             "country_code": "NL",
             "description": "Oxilion B.V.",
@@ -7039,6 +7039,15 @@
             "ipv6_address": "2001:7f8:1::a505:6654:1",
             "name": "AS56654",
             "speed": 1000
+        },
+        {
+            "asn": 56665,
+            "country_code": "LU",
+            "description": "Proximus Luxembourg S.A.",
+            "ipv4_address": "80.249.211.94",
+            "ipv6_address": "2001:7f8:1::a505:6665:1",
+            "name": "TANGO-TELINDUS",
+            "speed": 3000
         },
         {
             "asn": 56704,
@@ -8490,7 +8499,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 837,
+    "members_count": 838,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
