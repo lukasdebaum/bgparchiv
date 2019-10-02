@@ -151,15 +151,6 @@
             "country_code": "US",
             "description": "Rice University",
             "ipv4_address": "206.223.118.20",
-            "ipv6_address": "2001:504:0:5:0:4:557:1",
-            "name": "SOUTHEAST-TEXAS-GIGAPOP",
-            "speed": 10000
-        },
-        {
-            "asn": 4557,
-            "country_code": "US",
-            "description": "Rice University",
-            "ipv4_address": null,
             "ipv6_address": "2001:504:0:5::4557:1",
             "name": "SOUTHEAST-TEXAS-GIGAPOP",
             "speed": 10000
@@ -1650,6 +1641,15 @@
             "speed": 10000
         },
         {
+            "asn": 393950,
+            "country_code": "US",
+            "description": "FiberIndy",
+            "ipv4_address": "206.223.118.38",
+            "ipv6_address": "2001:504:0:5:0:39:3950:1",
+            "name": "XIBER-LLC",
+            "speed": 10000
+        },
+        {
             "asn": 394749,
             "country_code": "US",
             "description": "Equinix, Inc.",
@@ -1695,7 +1695,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 159,
+    "members_count": 160,
     "name": "Equinix Dallas",
     "name_full": "Equinix Dallas Exchange",
     "policy_email": "support@equinix.com",
