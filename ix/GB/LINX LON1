@@ -3036,6 +3036,15 @@
             "speed": 1000
         },
         {
+            "asn": 25133,
+            "country_code": "UA",
+            "description": "LLC \"McLaut-Invest\"",
+            "ipv4_address": "195.66.224.14",
+            "ipv6_address": null,
+            "name": "MCLAUT-AS",
+            "speed": 2000
+        },
+        {
             "asn": 25152,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
@@ -5502,15 +5511,6 @@
             "speed": 100
         },
         {
-            "asn": 48526,
-            "country_code": "LU",
-            "description": "Proximus Luxembourg S.A.",
-            "ipv4_address": "195.66.227.16",
-            "ipv6_address": "2001:7f8:4::bd8e:1",
-            "name": "TANGO-TELINDUS",
-            "speed": 2000
-        },
-        {
             "asn": 48620,
             "country_code": "GB",
             "description": "Beaming Ltd",
@@ -6022,6 +6022,15 @@
             "ipv6_address": "2001:7f8:4::dd13:1",
             "name": "FLUENCY",
             "speed": 10000
+        },
+        {
+            "asn": 56665,
+            "country_code": "LU",
+            "description": "Proximus Luxembourg S.A.",
+            "ipv4_address": "195.66.227.16",
+            "ipv6_address": "2001:7f8:4::dd59:1",
+            "name": "TANGO-TELINDUS",
+            "speed": 2000
         },
         {
             "asn": 56704,
@@ -7446,7 +7455,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 748,
+    "members_count": 749,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
