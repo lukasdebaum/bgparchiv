@@ -1791,7 +1791,7 @@
             "ipv4_address": "27.111.228.150",
             "ipv6_address": "2001:de8:4::3:8040:2",
             "name": "GLOBAL-TRANSIT-TOT-IIG-TH",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 38082,
@@ -3198,6 +3198,15 @@
             "speed": 10000
         },
         {
+            "asn": 138128,
+            "country_code": "ID",
+            "description": "PT Solnet Indonesia",
+            "ipv4_address": "27.111.229.218",
+            "ipv6_address": "2001:de8:4::13:8128:1",
+            "name": "SOLNET-ID",
+            "speed": 10000
+        },
+        {
             "asn": 138132,
             "country_code": "ID",
             "description": "PT. FASTEL SARANA INDONESIA",
@@ -3261,7 +3270,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 302,
+    "members_count": 303,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
