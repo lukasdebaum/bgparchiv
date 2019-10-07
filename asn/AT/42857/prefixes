@@ -1,4 +1,38 @@
 {
-    "ipv4_prefixes": [],
-    "ipv6_prefixes": []
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "THEO NET",
+            "ip": "45.135.188.0",
+            "name": "THEO-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.135.188.0",
+                "prefix": "45.135.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.135.188.0/24",
+            "roa_status": "None"
+        }
+    ],
+    "ipv6_prefixes": [
+        {
+            "cidr": 31,
+            "country_code": "AT",
+            "description": "Theo Voss",
+            "ip": "2a0e:96c0::",
+            "name": "AT-ROUTING-20190801",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0e:96c0::",
+                "prefix": "2a0e:96c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0e:96c0::/31",
+            "roa_status": "None"
+        }
+    ]
 }
