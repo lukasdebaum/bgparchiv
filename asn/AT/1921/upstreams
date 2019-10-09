@@ -3,6 +3,12 @@
     "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS1921_IPv4.svg",
     "ipv4_upstreams": [
         {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
             "asn": 5459,
             "country_code": "GB",
             "description": "London interconnection point",
@@ -33,16 +39,16 @@
             "name": "ARPNET"
         },
         {
+            "asn": 29222,
+            "country_code": "CH",
+            "description": "abuse@infomaniak.ch",
+            "name": "Infomaniak-AS"
+        },
+        {
             "asn": 29838,
             "country_code": "US",
             "description": "Atlantic Metro Communications II, Inc.",
             "name": "AMC"
-        },
-        {
-            "asn": 30971,
-            "country_code": "AT",
-            "description": "Jakob-Haringer-Strasse 8",
-            "name": "NICAT-CORE-AS"
         },
         {
             "asn": 38001,
@@ -71,6 +77,12 @@
     ],
     "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS1921_IPv6.svg",
     "ipv6_upstreams": [
+        {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
         {
             "asn": 5459,
             "country_code": "GB",
@@ -108,6 +120,12 @@
             "name": "ARPNET"
         },
         {
+            "asn": 29222,
+            "country_code": "CH",
+            "description": "abuse@infomaniak.ch",
+            "name": "Infomaniak-AS"
+        },
+        {
             "asn": 29838,
             "country_code": "US",
             "description": "Atlantic Metro Communications II, Inc.",
@@ -118,6 +136,12 @@
             "country_code": "SG",
             "description": "NewMedia Express Pte Ltd",
             "name": "NEWMEDIAEXPRESS-AS-AP"
+        },
+        {
+            "asn": 42310,
+            "country_code": "IE",
+            "description": "IE Domain Registry Ltd",
+            "name": "IEDR"
         },
         {
             "asn": 42473,
