@@ -1722,6 +1722,15 @@
             "speed": 0
         },
         {
+            "asn": 51069,
+            "country_code": "UA",
+            "description": "Dnepronet Ltd.",
+            "ipv4_address": "178.18.230.153",
+            "ipv6_address": null,
+            "name": "ASDNEPRONET",
+            "speed": 10000
+        },
+        {
             "asn": 51092,
             "country_code": "RU",
             "description": "TVIP Media LLC",
@@ -1932,8 +1941,17 @@
             "asn": 57695,
             "country_code": "US",
             "description": "Misaka Network, Inc.",
-            "ipv4_address": "178.18.225.161",
-            "ipv6_address": "2a03:5f80:4::225:161",
+            "ipv4_address": "178.18.225.248",
+            "ipv6_address": "2a03:5f80:4::225:248",
+            "name": "MISAKA",
+            "speed": 10000
+        },
+        {
+            "asn": 57695,
+            "country_code": "US",
+            "description": "Misaka Network, Inc.",
+            "ipv4_address": "178.18.225.250",
+            "ipv6_address": "2a03:5f80:4::225:250",
             "name": "MISAKA",
             "speed": 10000
         },
@@ -2352,7 +2370,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 202,
+    "members_count": 203,
     "name": "DATAIX",
     "name_full": "Global Network Managment Ltd",
     "policy_email": "noc@dataix.ru",
