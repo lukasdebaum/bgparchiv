@@ -378,7 +378,7 @@
             "ipv4_address": "196.60.8.166",
             "ipv6_address": "2001:43f8:6d0::a",
             "name": "GOOGLE",
-            "speed": 80000
+            "speed": 100000
         },
         {
             "asn": 15169,
@@ -2016,6 +2016,15 @@
             "ipv4_address": "196.60.9.96",
             "ipv6_address": "2001:43f8:6d0::9:96",
             "name": "QUANTILNETWORKS",
+            "speed": 10000
+        },
+        {
+            "asn": 55256,
+            "country_code": "US",
+            "description": "Netskope Inc",
+            "ipv4_address": "196.60.9.176",
+            "ipv6_address": "2001:43f8:6d0::9:176",
+            "name": "NETSKOPE",
             "speed": 10000
         },
         {
@@ -3729,6 +3738,15 @@
             "speed": 1000
         },
         {
+            "asn": 328524,
+            "country_code": "ZA",
+            "description": "Trackmatic Solutions (Pty) Ltd",
+            "ipv4_address": "196.60.8.107",
+            "ipv6_address": null,
+            "name": "Trackmatic-Solutions",
+            "speed": 1000
+        },
+        {
             "asn": 328526,
             "country_code": "ZA",
             "description": "CloudFace Pty Ltd",
@@ -3747,7 +3765,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 331,
+    "members_count": 333,
     "name": "NAPAfrica IX Johannesburg",
     "name_full": "NAPAfrica IX Johannesburg",
     "policy_email": "nap@teraco.co.za",
