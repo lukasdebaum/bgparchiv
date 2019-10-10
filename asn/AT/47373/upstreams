@@ -1,7 +1,20 @@
 {
-    "combined_graph": null,
-    "ipv4_graph": null,
-    "ipv4_upstreams": [],
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS47373_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS47373_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 8437,
+            "country_code": "AT",
+            "description": "Hutchison Drei Austria GmbH",
+            "name": "UTA-AS"
+        },
+        {
+            "asn": 48362,
+            "country_code": "AT",
+            "description": "Stadtwerke Feldkirch",
+            "name": "TKSWF-AS"
+        }
+    ],
     "ipv6_graph": null,
     "ipv6_upstreams": []
 }

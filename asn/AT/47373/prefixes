@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Getzner Werkstoffe GmbH",
+            "ip": "45.134.244.0",
+            "name": "AT-GETZNER-20190729",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.134.244.0",
+                "prefix": "45.134.244.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.134.244.0/22",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
