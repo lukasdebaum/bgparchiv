@@ -81,5 +81,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "RTCnow Streaming Services GmbH",
+            "ip": "2a00:d88::",
+            "name": "AT-RTCNOW-20081031",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a00:d80::",
+                "prefix": "2a00:d80::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:d88::/32",
+            "roa_status": "None"
+        }
+    ]
 }
