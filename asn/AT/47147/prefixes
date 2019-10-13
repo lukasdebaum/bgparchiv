@@ -1315,6 +1315,22 @@
         {
             "cidr": 24,
             "country_code": "DE",
+            "description": "Network powered by ANX",
+            "ip": "94.16.17.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "94.16.0.0",
+                "prefix": "94.16.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.16.17.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
             "description": "SSP Europe GmbH",
             "ip": "94.16.98.0",
             "name": "DE-APE-20150304",
