@@ -1,7 +1,14 @@
 {
     "combined_graph": "https://api.bgpview.io/assets/graphs/AS20537_Combined.svg",
     "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS20537_IPv4.svg",
-    "ipv4_upstreams": [],
+    "ipv4_upstreams": [
+        {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        }
+    ],
     "ipv6_graph": null,
     "ipv6_upstreams": []
 }
