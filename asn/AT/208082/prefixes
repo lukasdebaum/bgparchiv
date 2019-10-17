@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "GANTNER AT",
+            "ip": "213.33.8.0",
+            "name": "GANTNER-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "213.33.0.0",
+                "prefix": "213.33.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.33.8.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
