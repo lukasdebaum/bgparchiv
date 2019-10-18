@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Vorarlberger Informatik- und Telekommunikationsdienstleistungsgesellschaft mbH",
+            "ip": "185.210.12.0",
+            "name": "AT-VTG-20170626",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.210.12.0",
+                "prefix": "185.210.12.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.210.12.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 21,
             "country_code": "AT",
             "description": "Vorarlberger Illwerke AG",
