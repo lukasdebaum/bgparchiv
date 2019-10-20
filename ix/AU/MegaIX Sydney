@@ -846,7 +846,7 @@
             "ipv4_address": "103.26.68.68",
             "ipv6_address": null,
             "name": "ETHAN-AU-AP",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 38195,
@@ -1614,6 +1614,15 @@
             "speed": 10000
         },
         {
+            "asn": 133324,
+            "country_code": "AU",
+            "description": "Ezi-Web",
+            "ipv4_address": "103.26.68.19",
+            "ipv6_address": "2001:dea:0:10::13",
+            "name": "WEBTRAFPTYLTD-AS-AP",
+            "speed": 0
+        },
+        {
             "asn": 133389,
             "country_code": "AU",
             "description": "ACURUS NETWORKS PTY LTD",
@@ -2145,7 +2154,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 207,
+    "members_count": 208,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
