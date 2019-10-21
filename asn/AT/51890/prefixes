@@ -19,6 +19,38 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "AT MAYRMELNHOF OPS",
+            "ip": "185.145.20.0",
+            "name": "AT-MAYRMELNHOF-OPS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.145.20.0",
+                "prefix": "185.145.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.145.20.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Mayr-Melnhof Karton GmbH",
+            "ip": "185.145.21.0",
+            "name": "AT-MAYRMELNHOF-20160330",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.145.20.0",
+                "prefix": "185.145.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.145.21.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "Mayr-Melnhof Karton GmbH",
             "ip": "91.213.54.0",
             "name": "MAYRMELNHOF",
