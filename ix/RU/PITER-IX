@@ -516,6 +516,24 @@
             "speed": 10000
         },
         {
+            "asn": 42861,
+            "country_code": "RU",
+            "description": "FOTONTELECOM ISP",
+            "ipv4_address": "31.44.186.226",
+            "ipv6_address": null,
+            "name": "FOTONTELECOM-TRANSIT-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 42861,
+            "country_code": "RU",
+            "description": "FOTONTELECOM ISP",
+            "ipv4_address": "31.44.187.221",
+            "ipv6_address": null,
+            "name": "FOTONTELECOM-TRANSIT-AS",
+            "speed": 10000
+        },
+        {
             "asn": 43045,
             "country_code": "RU",
             "description": "Svyaz-Holding Ltd.",
@@ -702,6 +720,15 @@
             "ipv4_address": "31.44.187.56",
             "ipv6_address": null,
             "name": "MTW-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 48422,
+            "country_code": "UA",
+            "description": "http://www.itstarcom.net",
+            "ipv4_address": "31.44.187.212",
+            "ipv6_address": null,
+            "name": "IT-STARCOM-AS",
             "speed": 10000
         },
         {
@@ -1335,7 +1362,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 103,
+    "members_count": 104,
     "name": "PITER-IX",
     "name_full": "PITER-IX",
     "policy_email": "noc@piter-ix.ru",
