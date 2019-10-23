@@ -3058,6 +3058,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "US",
+            "description": "Network powered by ANX",
+            "ip": "94.16.21.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "94.16.0.0",
+                "prefix": "94.16.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.16.21.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "CL",
             "description": "Dedicated servers in CL",
             "ip": "94.16.5.0",
