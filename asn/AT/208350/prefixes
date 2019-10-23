@@ -31,6 +31,22 @@
             },
             "prefix": "185.135.19.0/24",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Gamsjaeger Kabel-TV & ISP Betriebs GmbH",
+            "ip": "85.255.152.0",
+            "name": "GAMSJAEGER1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "85.255.144.0",
+                "prefix": "85.255.144.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "85.255.152.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": []
