@@ -18,6 +18,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "RU",
+            "description": "Huajuan Enterprise Network - Khabarovsk, RU",
+            "ip": "103.102.4.0",
+            "name": "HUAJUAN-KHV",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "103.102.4.0",
+                "prefix": "103.102.4.0/22",
+                "rir_name": "APNIC"
+            },
+            "prefix": "103.102.4.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
             "ip": "146.185.218.0",
@@ -254,6 +270,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "185.101.136.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "G-Core Labs S.A.",
+            "ip": "185.101.137.0",
+            "name": "LU-GCORELABS-20150522",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.101.136.0",
+                "prefix": "185.101.136.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.101.137.0/24",
             "roa_status": "None"
         },
         {
