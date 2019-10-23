@@ -240,8 +240,8 @@
             "asn": 7342,
             "country_code": "US",
             "description": "VeriSign Infrastructure & Operations",
-            "ipv4_address": "198.32.124.166",
-            "ipv6_address": "2001:478:124::166",
+            "ipv4_address": "198.32.242.166",
+            "ipv6_address": "2001:504:0:6::7342:1",
             "name": "VERISIGN-AS",
             "speed": 100000
         },
@@ -348,8 +348,8 @@
             "asn": 11096,
             "country_code": "US",
             "description": "FloridaNet",
-            "ipv4_address": "198.32.124.143",
-            "ipv6_address": "2001:478:124::143",
+            "ipv4_address": "198.32.242.143",
+            "ipv6_address": "2001:504:0:6:0:1:1096:1",
             "name": "FLORIDANET",
             "speed": 10000
         },
@@ -411,8 +411,8 @@
             "asn": 13030,
             "country_code": "CH",
             "description": "Init7 (Switzerland) Ltd.",
-            "ipv4_address": "198.32.124.169",
-            "ipv6_address": "2001:478:124::169",
+            "ipv4_address": "198.32.242.169",
+            "ipv6_address": "2001:504:0:6:0:1:3030:1",
             "name": "INIT7",
             "speed": 10000
         },
@@ -442,15 +442,6 @@
             "ipv6_address": "2001:478:124::1114",
             "name": "TWITTER",
             "speed": 20000
-        },
-        {
-            "asn": 13445,
-            "country_code": "US",
-            "description": "Cisco Webex LLC",
-            "ipv4_address": "198.32.125.169",
-            "ipv6_address": "2001:478:124::1169",
-            "name": "13445",
-            "speed": 1000
         },
         {
             "asn": 13489,
@@ -888,8 +879,8 @@
             "asn": 27887,
             "country_code": "DO",
             "description": "WIND Telecom S.A.",
-            "ipv4_address": "198.32.125.65",
-            "ipv6_address": "2001:478:124::1065",
+            "ipv4_address": "198.32.243.65",
+            "ipv6_address": "2001:504:0:6:0:2:7887:1",
             "name": "WIND Telecom S.A.",
             "speed": 10000
         },
@@ -978,8 +969,8 @@
             "asn": 29838,
             "country_code": "US",
             "description": "Atlantic Metro Communications II, Inc.",
-            "ipv4_address": "198.32.125.242",
-            "ipv6_address": "2001:478:124::1242",
+            "ipv4_address": "198.32.243.242",
+            "ipv6_address": "2001:504:0:6:0:2:9838:1",
             "name": "AMC",
             "speed": 10000
         },
@@ -1017,15 +1008,6 @@
             "ipv4_address": "198.32.124.156",
             "ipv6_address": "2001:478:124::156",
             "name": "DENIC-ANYCAST-AS",
-            "speed": 1000
-        },
-        {
-            "asn": 31800,
-            "country_code": "US",
-            "description": "DALnet",
-            "ipv4_address": "198.32.124.111",
-            "ipv6_address": null,
-            "name": "DALNET",
             "speed": 1000
         },
         {
@@ -1218,6 +1200,15 @@
             "speed": 10000
         },
         {
+            "asn": 46489,
+            "country_code": "US",
+            "description": "Twitch Interactive Inc.",
+            "ipv4_address": "198.32.125.220",
+            "ipv6_address": "2001:478:124::1220",
+            "name": "JUSTINTV",
+            "speed": 10000
+        },
+        {
             "asn": 52320,
             "country_code": "CO",
             "description": "GlobeNet Cabos Submarinos Colombia, S.A.S.",
@@ -1329,8 +1320,8 @@
             "asn": 61832,
             "country_code": "BR",
             "description": "Fortel Fortaleza Telecomunicacoes Ltda",
-            "ipv4_address": "198.32.125.142",
-            "ipv6_address": "2001:478:124::1142",
+            "ipv4_address": "198.32.243.142",
+            "ipv6_address": "2001:504:0:6:0:6:1832:1",
             "name": "Fortel Fortaleza Telecomunicacoes Ltda",
             "speed": 10000
         },
@@ -1497,7 +1488,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 142,
+    "members_count": 141,
     "name": "Equinix Miami (formerly NOTA)",
     "name_full": "Equinix Miami (formerly NOTA)",
     "policy_email": "support@equinix.com",
