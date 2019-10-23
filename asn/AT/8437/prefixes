@@ -321,6 +321,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "UTA Housing Area",
+            "ip": "195.70.241.0",
+            "name": "UTA-AT-SERVER-01",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "195.70.224.0",
+                "prefix": "195.70.224.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.70.241.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 19,
             "country_code": "AT",
             "description": "Hutchison Drei Austria GmbH",
@@ -462,6 +478,38 @@
                 "rir_name": "RIPE"
             },
             "prefix": "213.90.0.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "TELE2 Telecommunication GmbH",
+            "ip": "213.90.2.0",
+            "name": "NWY",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "213.90.0.0",
+                "prefix": "213.90.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.90.2.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "TELE2 Telecommunication GmbH",
+            "ip": "213.90.34.0",
+            "name": "NWY",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "213.90.0.0",
+                "prefix": "213.90.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.90.34.0/24",
             "roa_status": "None"
         },
         {
