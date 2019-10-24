@@ -353,6 +353,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "CZ",
+            "description": "Nubium Development SE",
+            "ip": "141.170.158.0",
+            "name": "CZ-Nubium-Development",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "141.170.128.0",
+                "prefix": "141.170.128.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "141.170.158.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 19,
             "country_code": "CZ",
             "description": "UPC Ceska Republica, s.r.o.",
@@ -510,6 +526,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "149.172.128.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "NL",
+            "description": "Regionale ICT Dienst Utrecht",
+            "ip": "160.20.148.0",
+            "name": "NL-RID-UTRECHT-20180831",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "160.20.148.0",
+                "prefix": "160.20.148.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "160.20.148.0/22",
             "roa_status": "None"
         },
         {
