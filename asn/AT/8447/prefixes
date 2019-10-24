@@ -1041,6 +1041,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "WOLF THEISS Rechtsanwaelte GmbH & Co KG",
+            "ip": "80.120.143.0",
+            "name": "WOLFTHEISS-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "80.120.0.0",
+                "prefix": "80.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.120.143.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 20,
             "country_code": "AT",
             "description": "A1 Telekom Austria AG",
