@@ -1,6 +1,134 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "Domain Licenses Limited",
+            "ip": "185.86.24.0",
+            "name": "DOMAIN-LICENSES-LIMITED-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.86.24.0",
+                "prefix": "185.86.24.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.86.24.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "Domain Licenses Limited",
+            "ip": "185.86.25.0",
+            "name": "DOMAIN-LICENSES-LIMITED-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.86.24.0",
+                "prefix": "185.86.24.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.86.25.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "Domain Licenses Limited",
+            "ip": "185.86.26.0",
+            "name": "DOMAIN-LICENSES-LIMITED-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.86.24.0",
+                "prefix": "185.86.24.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.86.26.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "Domain Licenses Limited",
+            "ip": "185.86.27.0",
+            "name": "DOMAIN-LICENSES-LIMITED-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.86.24.0",
+                "prefix": "185.86.24.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.86.27.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "bwin.party services (Austria) GmbH",
+            "ip": "195.72.132.0",
+            "name": "BETANDWIN3-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.72.132.0",
+                "prefix": "195.72.132.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.72.132.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "bwin.party services (Austria) GmbH",
+            "ip": "195.72.133.0",
+            "name": "BETANDWIN3-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.72.132.0",
+                "prefix": "195.72.132.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.72.133.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "bwin.party services (Austria) GmbH",
+            "ip": "195.72.134.0",
+            "name": "BETANDWIN3-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.72.132.0",
+                "prefix": "195.72.132.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.72.134.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "bwin.party services (Austria) GmbH",
+            "ip": "195.72.135.0",
+            "name": "BETANDWIN3-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.72.132.0",
+                "prefix": "195.72.132.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.72.135.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "GI",
             "description": "GVC Corporate Services Limited",
@@ -15,7 +143,56 @@
             },
             "prefix": "2.58.8.0/22",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "Domain Licenses Limited",
+            "ip": "217.175.204.0",
+            "name": "DOMAIN-LICENSES-LIMITED-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.175.192.0",
+                "prefix": "217.175.192.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.175.204.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "GB",
+            "description": "Domain Licenses Limited",
+            "ip": "217.175.205.0",
+            "name": "DOMAIN-LICENSES-LIMITED-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.175.192.0",
+                "prefix": "217.175.192.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.175.205.0/24",
+            "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "bwin.party services (Austria) GmbH",
+            "ip": "2001:67c:404::",
+            "name": "BWINPARTY-PI-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:404::",
+                "prefix": "2001:67c:404::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:404::/48",
+            "roa_status": "None"
+        }
+    ]
 }
