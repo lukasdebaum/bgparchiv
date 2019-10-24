@@ -3240,7 +3240,7 @@
             "ipv4_address": "80.81.193.246",
             "ipv6_address": "2001:7f8::3f89:0:2",
             "name": "LEASEWEB-NETWORK",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 16276,
@@ -5498,7 +5498,7 @@
             "description": "Mobile Telecommunications, Ltd.",
             "ipv4_address": "80.81.195.226",
             "ipv6_address": "2001:7f8::9091:0:1",
-            "name": null,
+            "name": "MTCASN",
             "speed": 10000
         },
         {
@@ -8109,7 +8109,7 @@
             "ipv4_address": "80.81.193.144",
             "ipv6_address": null,
             "name": "IPTelecomBulgaria-AS",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 200052,
@@ -8490,6 +8490,15 @@
             "speed": 500
         },
         {
+            "asn": 267056,
+            "country_code": "BR",
+            "description": "EVEREST RIDGE CONSULTORIA EM REDES DE COM LTDA",
+            "ipv4_address": "80.81.196.40",
+            "ipv6_address": "2001:7f8::4:1330:0:1",
+            "name": "EVEREST RIDGE CONSULTORIA EM REDES DE COM LTDA",
+            "speed": 10000
+        },
+        {
             "asn": 267613,
             "country_code": "BR",
             "description": "ELETRONET S.A.",
@@ -8513,7 +8522,7 @@
             "description": "Sombha Solutions Store Limited",
             "ipv4_address": "80.81.196.45",
             "ipv6_address": null,
-            "name": null,
+            "name": "Sombha-Solutions",
             "speed": 1024
         },
         {
@@ -8526,7 +8535,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 814,
+    "members_count": 815,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
