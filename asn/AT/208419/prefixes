@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Eisenberger & Herzog Rechtsanwalts GmbH",
+            "ip": "45.138.20.0",
+            "name": "AT-EISENBERGER-20190807",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.138.20.0",
+                "prefix": "45.138.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.138.20.0/22",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
