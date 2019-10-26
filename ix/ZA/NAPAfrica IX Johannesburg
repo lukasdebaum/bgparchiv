@@ -188,7 +188,7 @@
             "description": "ZA Central Registry",
             "ipv4_address": "196.60.8.194",
             "ipv6_address": "2001:43f8:6d0::16",
-            "name": null,
+            "name": "ZACR",
             "speed": 1000
         },
         {
@@ -477,7 +477,7 @@
             "ipv4_address": "196.60.8.212",
             "ipv6_address": "2001:43f8:6d0::212",
             "name": "AKAMAI-ASN1",
-            "speed": 200000
+            "speed": 300000
         },
         {
             "asn": 21351,
@@ -566,7 +566,7 @@
             "description": "MAURITIUS TELECOM",
             "ipv4_address": "196.60.8.3",
             "ipv6_address": "2001:43f8:6d0::3889",
-            "name": null,
+            "name": "MauritiusTelecom",
             "speed": 40000
         },
         {
@@ -1205,7 +1205,7 @@
             "description": "Telone PVT Ltd",
             "ipv4_address": "196.60.9.97",
             "ipv6_address": "2001:43f8:6d0::9:97",
-            "name": null,
+            "name": "TELONE",
             "speed": 10000
         },
         {
@@ -1214,7 +1214,7 @@
             "description": "Telone PVT Ltd",
             "ipv4_address": "196.60.9.245",
             "ipv6_address": "2001:43f8:6d0::9:245",
-            "name": null,
+            "name": "TELONE",
             "speed": 10000
         },
         {
@@ -1340,7 +1340,7 @@
             "description": "Clickatell Pty(Ltd)",
             "ipv4_address": "196.60.8.140",
             "ipv6_address": null,
-            "name": null,
+            "name": "Clickatell",
             "speed": 1000
         },
         {
@@ -2285,7 +2285,7 @@
             "description": "Ultimate Linux Solutions CC",
             "ipv4_address": "196.60.9.86",
             "ipv6_address": "2001:43f8:6d0::9:86",
-            "name": null,
+            "name": "ULTIMATE-LINUX",
             "speed": 10000
         },
         {
@@ -2294,7 +2294,7 @@
             "description": "Ultimate Linux Solutions CC",
             "ipv4_address": "196.60.9.158",
             "ipv6_address": "2001:43f8:6d0::9:158",
-            "name": null,
+            "name": "ULTIMATE-LINUX",
             "speed": 10000
         },
         {
@@ -2807,7 +2807,7 @@
             "description": "Satsoft cc",
             "ipv4_address": "196.60.8.49",
             "ipv6_address": null,
-            "name": null,
+            "name": "SATSOFT",
             "speed": 10000
         },
         {
@@ -2825,7 +2825,7 @@
             "description": "BEONLINE TWENTY FOUR SEVEN INTERNET GROUP",
             "ipv4_address": "196.60.9.25",
             "ipv6_address": null,
-            "name": null,
+            "name": "BEONLINE",
             "speed": 1000
         },
         {
@@ -2852,7 +2852,7 @@
             "description": "JACQCO MANAGEMENT CC",
             "ipv4_address": "196.60.8.26",
             "ipv6_address": null,
-            "name": null,
+            "name": "JACQCO-MANAGEMENT",
             "speed": 1000
         },
         {
@@ -2906,7 +2906,7 @@
             "description": "Multichoice Support Services (Pty) Ltd",
             "ipv4_address": "196.60.9.52",
             "ipv6_address": null,
-            "name": null,
+            "name": "Multichoice-Support-Services-AS",
             "speed": 100000
         },
         {
@@ -2915,7 +2915,7 @@
             "description": "Multichoice Support Services (Pty) Ltd",
             "ipv4_address": "196.60.9.152",
             "ipv6_address": null,
-            "name": null,
+            "name": "Multichoice-Support-Services-AS",
             "speed": 100000
         },
         {
@@ -3185,7 +3185,7 @@
             "description": "Johannesburg Area Wireless User Group (JAWUG)",
             "ipv4_address": "196.60.9.66",
             "ipv6_address": "2001:43f8:6d0::9:66",
-            "name": null,
+            "name": "JAWUG",
             "speed": 10000
         },
         {
@@ -3401,7 +3401,7 @@
             "description": "ASAP Internet (Pty) LTD",
             "ipv4_address": "196.60.9.106",
             "ipv6_address": null,
-            "name": null,
+            "name": "ASAP-AS",
             "speed": 10000
         },
         {
@@ -3617,7 +3617,7 @@
             "description": "Netovate (PTY) LTD",
             "ipv4_address": "196.60.9.203",
             "ipv6_address": "2001:43f8:6d0::9:203",
-            "name": null,
+            "name": "Netovate-Ltd-AS",
             "speed": 1000
         },
         {
@@ -3752,7 +3752,7 @@
             "description": "GT Cellular (Pty) Ltd",
             "ipv4_address": "196.60.8.95",
             "ipv6_address": "2001:43f8:6d0::95",
-            "name": null,
+            "name": "GT-Cellular-AS",
             "speed": 1000
         },
         {
@@ -3781,9 +3781,18 @@
             "ipv6_address": null,
             "name": "Attix5-Africa-Ltd",
             "speed": 10000
+        },
+        {
+            "asn": 328560,
+            "country_code": "ZA",
+            "description": "Jemstep Incorporated (In State of Delaware) External Profit Company",
+            "ipv4_address": "196.60.8.106",
+            "ipv6_address": "2001:43f8:6d0::106",
+            "name": "Jemstep-Incorporated",
+            "speed": 1000
         }
     ],
-    "members_count": 335,
+    "members_count": 336,
     "name": "NAPAfrica IX Johannesburg",
     "name_full": "NAPAfrica IX Johannesburg",
     "policy_email": "nap@teraco.co.za",
