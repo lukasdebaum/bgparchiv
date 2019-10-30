@@ -385,22 +385,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 24,
-            "country_code": "NL",
-            "description": "Tata Steel  IJmuiden BV",
-            "ip": "145.8.180.0",
-            "name": "TATASTEEL",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 14,
-                "ip": "145.8.0.0",
-                "prefix": "145.8.0.0/14",
-                "rir_name": "RIPE"
-            },
-            "prefix": "145.8.180.0/24",
-            "roa_status": "None"
-        },
-        {
             "cidr": 21,
             "country_code": "NL",
             "description": "Gemeente Zoetermeer",
@@ -1102,6 +1086,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "185.2.140.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "DE",
+            "description": "Unitymedia BW GmbH",
+            "ip": "185.2.142.0",
+            "name": "DE-KABELBW-20120918",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.2.140.0",
+                "prefix": "185.2.140.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.2.142.0/23",
             "roa_status": "None"
         },
         {
@@ -12526,22 +12526,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "88.146.192.0/18",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 22,
-            "country_code": "CZ",
-            "description": "UPC Ceska Republica, s.r.o.",
-            "ip": "88.146.192.0",
-            "name": "CZ-DATTELKABEL-20051222",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 17,
-                "ip": "88.146.128.0",
-                "prefix": "88.146.128.0/17",
-                "rir_name": "RIPE"
-            },
-            "prefix": "88.146.192.0/22",
             "roa_status": "None"
         },
         {
