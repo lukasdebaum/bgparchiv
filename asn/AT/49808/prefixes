@@ -34,6 +34,38 @@
         },
         {
             "cidr": 22,
+            "country_code": "US",
+            "description": "IPStrada",
+            "ip": "162.211.104.0",
+            "name": "IPS2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "162.211.104.0",
+                "prefix": "162.211.104.0/22",
+                "rir_name": "ARIN"
+            },
+            "prefix": "162.211.104.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "US",
+            "description": "IPStrada",
+            "ip": "162.213.160.0",
+            "name": "IPS3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "162.213.160.0",
+                "prefix": "162.213.160.0/22",
+                "rir_name": "ARIN"
+            },
+            "prefix": "162.213.160.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
             "country_code": "AT",
             "description": "Costa Gesellschaft m.b.H. & Co. KG",
             "ip": "185.11.84.0",
@@ -274,6 +306,22 @@
         },
         {
             "cidr": 21,
+            "country_code": "US",
+            "description": "IPStrada",
+            "ip": "198.89.232.0",
+            "name": "IPS1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "198.89.232.0",
+                "prefix": "198.89.232.0/21",
+                "rir_name": "ARIN"
+            },
+            "prefix": "198.89.232.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
             "country_code": "AT",
             "description": "Energie AG Oberoesterreich Telekom GmbH",
             "ip": "31.193.160.0",
@@ -318,6 +366,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.159.4.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "US",
+            "description": "Data 102, LLC",
+            "ip": "63.247.208.0",
+            "name": "ONS-NET-03",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "63.247.208.0",
+                "prefix": "63.247.208.0/20",
+                "rir_name": "ARIN"
+            },
+            "prefix": "63.247.208.0/20",
             "roa_status": "None"
         },
         {
