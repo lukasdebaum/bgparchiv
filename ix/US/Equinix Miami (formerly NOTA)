@@ -114,8 +114,8 @@
             "asn": 3303,
             "country_code": "CH",
             "description": "Swisscom (Switzerland) Ltd",
-            "ipv4_address": "198.32.125.77",
-            "ipv6_address": "2001:478:124::1077",
+            "ipv4_address": "198.32.243.77",
+            "ipv6_address": "2001:504:0:6::3303:1",
             "name": "SWISSCOM",
             "speed": 1000
         },
@@ -613,15 +613,6 @@
             "ipv6_address": "2001:504:0:6:0:1:9679:1",
             "name": "DROPBOX",
             "speed": 40000
-        },
-        {
-            "asn": 20080,
-            "country_code": "US",
-            "description": "Florida International University",
-            "ipv4_address": "198.32.124.55",
-            "ipv6_address": "2001:478:124::241",
-            "name": "AMPATH",
-            "speed": 10000
         },
         {
             "asn": 20940,
@@ -1290,6 +1281,15 @@
             "speed": 10000
         },
         {
+            "asn": 54994,
+            "country_code": "US",
+            "description": "QUANTIL NETWORKS INC",
+            "ipv4_address": "198.32.243.162",
+            "ipv6_address": "2001:504:0:6:0:5:4994:1",
+            "name": "QUANTILNETWORKS",
+            "speed": 10000
+        },
+        {
             "asn": 55195,
             "country_code": "CA",
             "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
@@ -1416,6 +1416,24 @@
             "speed": 100000
         },
         {
+            "asn": 262206,
+            "country_code": "GT",
+            "description": "COMCEL GUATEMALA S.A.",
+            "ipv4_address": "198.32.243.161",
+            "ipv6_address": "2001:504:0:6:0:26:2206:1",
+            "name": "COMCEL GUATEMALA S.A.",
+            "speed": 100000
+        },
+        {
+            "asn": 262206,
+            "country_code": "GT",
+            "description": "COMCEL GUATEMALA S.A.",
+            "ipv4_address": "198.32.243.209",
+            "ipv6_address": "2001:504:0:6:0:26:2206:2",
+            "name": "COMCEL GUATEMALA S.A.",
+            "speed": 100000
+        },
+        {
             "asn": 262546,
             "country_code": "BR",
             "description": "NetCintra Telecomunicacoes Ltda.",
@@ -1506,7 +1524,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 141,
+    "members_count": 140,
     "name": "Equinix Miami (formerly NOTA)",
     "name_full": "Equinix Miami (formerly NOTA)",
     "policy_email": "support@equinix.com",
