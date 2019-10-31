@@ -1485,7 +1485,7 @@
             "ipv4_address": "80.81.195.135",
             "ipv6_address": "2001:7f8::21c1:0:1",
             "name": "NAUKANET-AS",
-            "speed": 2000
+            "speed": 5000
         },
         {
             "asn": 8647,
@@ -3672,7 +3672,7 @@
             "ipv4_address": "80.81.192.168",
             "ipv6_address": "2001:7f8::51cc:0:168",
             "name": "AKAMAI-ASN1",
-            "speed": 300000
+            "speed": 400000
         },
         {
             "asn": 20940,
@@ -3681,7 +3681,7 @@
             "ipv4_address": "80.81.195.168",
             "ipv6_address": "2001:7f8::51cc:1:168",
             "name": "AKAMAI-ASN1",
-            "speed": 300000
+            "speed": 400000
         },
         {
             "asn": 21013,
@@ -6031,6 +6031,15 @@
             "ipv6_address": "2001:7f8::a69c:0:1",
             "name": "DELUNET",
             "speed": 20000
+        },
+        {
+            "asn": 42705,
+            "country_code": "GB",
+            "description": "Talia provides VSAT network and hosting services worldwide.",
+            "ipv4_address": "80.81.196.77",
+            "ipv6_address": null,
+            "name": "Talia",
+            "speed": 10000
         },
         {
             "asn": 42708,
@@ -8535,7 +8544,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 815,
+    "members_count": 816,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
