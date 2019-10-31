@@ -2,38 +2,6 @@
     "ipv4_prefixes": [
         {
             "cidr": 24,
-            "country_code": "DE",
-            "description": "DE-CIX Dusseldorf IPv4 Peering LAN",
-            "ip": "185.1.58.0",
-            "name": "DE-CIX-DUS-IXP-IPv4",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 24,
-                "ip": "185.1.58.0",
-                "prefix": "185.1.58.0/24",
-                "rir_name": "RIPE"
-            },
-            "prefix": "185.1.58.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 23,
-            "country_code": "AT",
-            "description": "ACONET",
-            "ip": "193.203.0.0",
-            "name": "VIX",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 23,
-                "ip": "193.203.0.0",
-                "prefix": "193.203.0.0/23",
-                "rir_name": "RIPE"
-            },
-            "prefix": "193.203.0.0/23",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
             "country_code": "AT",
             "description": "oja.at GmbH",
             "ip": "193.37.144.0",
@@ -561,22 +529,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 24,
-            "country_code": "DE",
-            "description": "DE-CIX Management GmbH",
-            "ip": "80.81.202.0",
-            "name": "DE-CIX-MUC-IXP-IPv4",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 20,
-                "ip": "80.81.192.0",
-                "prefix": "80.81.192.0/20",
-                "rir_name": "RIPE"
-            },
-            "prefix": "80.81.202.0/24",
-            "roa_status": "None"
-        },
-        {
             "cidr": 22,
             "country_code": "AT",
             "description": "oja.at GmbH",
@@ -832,22 +784,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a00:e98::/32",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 32,
-            "country_code": "AT",
-            "description": "oja.at GmbH",
-            "ip": "2a00:eb0::",
-            "name": "AT-OJA-20081114",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a00:eb0::",
-                "prefix": "2a00:eb0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a00:eb0::/32",
             "roa_status": "None"
         },
         {
