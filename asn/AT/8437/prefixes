@@ -67,6 +67,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "BEKO Engineering und Informatik AG",
+            "ip": "193.164.15.0",
+            "name": "BEKO-PI-AT-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.164.15.0",
+                "prefix": "193.164.15.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.164.15.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "Oberoesterreichische Gesundheits- und Spitals AG",
             "ip": "193.186.45.0",
             "name": "AT-GESPAG-PI-NET",
@@ -387,7 +403,7 @@
         {
             "cidr": 19,
             "country_code": "AT",
-            "description": "Hutchison Drei Austria GmbH",
+            "description": "Network of Hutchison Drei Austria GmbH",
             "ip": "213.129.224.0",
             "name": "AT-ONE-20020704",
             "parent": {
