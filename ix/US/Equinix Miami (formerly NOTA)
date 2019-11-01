@@ -393,8 +393,8 @@
             "asn": 12654,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
-            "ipv4_address": "198.32.124.171",
-            "ipv6_address": "2001:478:124::171",
+            "ipv4_address": "198.32.242.171",
+            "ipv6_address": "2001:504:0:6:0:1:2654:1",
             "name": "RIPE-NCC-RIS-AS",
             "speed": 100
         },
@@ -453,6 +453,15 @@
             "speed": 100000
         },
         {
+            "asn": 13489,
+            "country_code": "CO",
+            "description": "EPM Telecomunicaciones S.A. E.S.P.",
+            "ipv4_address": "198.32.242.172",
+            "ipv6_address": "2001:504:0:6:0:1:3489:1",
+            "name": "EPM Telecomunicaciones S.A. E.S.P.",
+            "speed": 100000
+        },
+        {
             "asn": 13680,
             "country_code": "US",
             "description": "City-Guide Internet Services Inc.",
@@ -464,7 +473,7 @@
         {
             "asn": 13768,
             "country_code": "CA",
-            "description": "Cogeco Peer 1",
+            "description": "Aptum Technologies",
             "ipv4_address": "198.32.124.125",
             "ipv6_address": "2001:478:124::125",
             "name": "COGECO-PEER1",
@@ -501,8 +510,8 @@
             "asn": 15133,
             "country_code": "US",
             "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
-            "ipv4_address": "198.32.124.236",
-            "ipv6_address": "2001:478:124::236",
+            "ipv4_address": "198.32.242.236",
+            "ipv6_address": "2001:504:0:6:0:1:5133:1",
             "name": "EDGECAST",
             "speed": 100000
         },
@@ -510,8 +519,8 @@
             "asn": 15133,
             "country_code": "US",
             "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
-            "ipv4_address": "198.32.125.183",
-            "ipv6_address": "2001:478:124::1183",
+            "ipv4_address": "198.32.243.183",
+            "ipv6_address": "2001:504:0:6:0:1:5133:2",
             "name": "EDGECAST",
             "speed": 100000
         },
@@ -613,6 +622,24 @@
             "ipv6_address": "2001:504:0:6:0:1:9679:1",
             "name": "DROPBOX",
             "speed": 40000
+        },
+        {
+            "asn": 20080,
+            "country_code": "US",
+            "description": "Florida International University",
+            "ipv4_address": "198.32.124.55",
+            "ipv6_address": "2001:478:124::241",
+            "name": "AMPATH",
+            "speed": 10000
+        },
+        {
+            "asn": 20080,
+            "country_code": "US",
+            "description": "Florida International University",
+            "ipv4_address": "198.32.242.241",
+            "ipv6_address": "2001:504:0:6:0:2:80:1",
+            "name": "AMPATH",
+            "speed": 10000
         },
         {
             "asn": 20940,
@@ -834,8 +861,8 @@
             "asn": 25152,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
-            "ipv4_address": "198.32.124.146",
-            "ipv6_address": "2001:478:124::146",
+            "ipv4_address": "198.32.242.146",
+            "ipv6_address": "2001:504:0:6:0:2:5152:1",
             "name": "K-ROOT-SERVER",
             "speed": 1000
         },
@@ -996,8 +1023,8 @@
             "asn": 30447,
             "country_code": "US",
             "description": "InternetNamesForBusiness.com",
-            "ipv4_address": "198.32.124.109",
-            "ipv6_address": "2001:478:124::109",
+            "ipv4_address": "198.32.242.109",
+            "ipv6_address": "2001:504:0:6:0:3:447:1",
             "name": "INFB2-AS",
             "speed": 10
         },
@@ -1005,8 +1032,8 @@
             "asn": 31529,
             "country_code": "DE",
             "description": "DNS anycast AS object for .DE DNS service",
-            "ipv4_address": "198.32.124.156",
-            "ipv6_address": "2001:478:124::156",
+            "ipv4_address": "198.32.242.156",
+            "ipv6_address": "2001:504:0:6:0:3:1529:1",
             "name": "DENIC-ANYCAST-AS",
             "speed": 1000
         },
@@ -1045,6 +1072,24 @@
             "ipv6_address": "2001:478:124::1125",
             "name": "FACEBOOK",
             "speed": 60000
+        },
+        {
+            "asn": 32934,
+            "country_code": "US",
+            "description": "Facebook, Inc.",
+            "ipv4_address": "198.32.242.200",
+            "ipv6_address": "2001:504:0:6:0:3:2934:1",
+            "name": "FACEBOOK",
+            "speed": 30000
+        },
+        {
+            "asn": 32934,
+            "country_code": "US",
+            "description": "Facebook, Inc.",
+            "ipv4_address": "198.32.243.125",
+            "ipv6_address": "2001:504:0:6:0:3:2934:2",
+            "name": "FACEBOOK",
+            "speed": 30000
         },
         {
             "asn": 33047,
@@ -1401,24 +1446,6 @@
             "asn": 262206,
             "country_code": "GT",
             "description": "COMCEL GUATEMALA S.A.",
-            "ipv4_address": "198.32.125.161",
-            "ipv6_address": "2001:478:124::1161",
-            "name": "COMCEL GUATEMALA S.A.",
-            "speed": 100000
-        },
-        {
-            "asn": 262206,
-            "country_code": "GT",
-            "description": "COMCEL GUATEMALA S.A.",
-            "ipv4_address": "198.32.125.209",
-            "ipv6_address": "2001:478:124::1209",
-            "name": "COMCEL GUATEMALA S.A.",
-            "speed": 100000
-        },
-        {
-            "asn": 262206,
-            "country_code": "GT",
-            "description": "COMCEL GUATEMALA S.A.",
             "ipv4_address": "198.32.243.161",
             "ipv6_address": "2001:504:0:6:0:26:2206:1",
             "name": "COMCEL GUATEMALA S.A.",
@@ -1524,7 +1551,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 140,
+    "members_count": 141,
     "name": "Equinix Miami (formerly NOTA)",
     "name_full": "Equinix Miami (formerly NOTA)",
     "policy_email": "support@equinix.com",
