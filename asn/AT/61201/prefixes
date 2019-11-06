@@ -17,5 +17,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a00:eb0:100::",
+            "name": "AT-OJA-20081114",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:eb0::",
+                "prefix": "2a00:eb0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:eb0:100::/48",
+            "roa_status": "None"
+        }
+    ]
 }
