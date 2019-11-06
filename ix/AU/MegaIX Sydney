@@ -207,7 +207,7 @@
             "ipv4_address": "103.26.68.7",
             "ipv6_address": "2001:dea:0:10::7",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 9268,
@@ -1452,6 +1452,15 @@
             "speed": 10000
         },
         {
+            "asn": 63953,
+            "country_code": "AU",
+            "description": "CommSol",
+            "ipv4_address": "103.26.68.146",
+            "ipv6_address": "2001:dea:0:10::92",
+            "name": "COMMSOL-AS-AP",
+            "speed": 10000
+        },
+        {
             "asn": 63956,
             "country_code": "AU",
             "description": "Colocation Australia Pty Ltd",
@@ -2154,7 +2163,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 208,
+    "members_count": 209,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
