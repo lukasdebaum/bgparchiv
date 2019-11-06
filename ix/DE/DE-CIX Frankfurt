@@ -558,7 +558,7 @@
             "ipv4_address": "80.81.193.16",
             "ipv6_address": "2001:7f8::eca:0:1",
             "name": "LGDACOM",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 3856,
@@ -1107,7 +1107,7 @@
             "ipv4_address": "80.81.194.52",
             "ipv6_address": "2001:7f8::1f8b:0:1",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 8075,
@@ -1116,7 +1116,7 @@
             "ipv4_address": "80.81.195.11",
             "ipv6_address": "2001:7f8::1f8b:0:2",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 8218,
@@ -4564,6 +4564,15 @@
             "ipv6_address": "2001:7f8::7401:0:1",
             "name": "CNS",
             "speed": 1000
+        },
+        {
+            "asn": 29802,
+            "country_code": "US",
+            "description": "HIVELOCITY, Inc.",
+            "ipv4_address": "80.81.196.57",
+            "ipv6_address": "2001:7f8::746a:0:1",
+            "name": "HVC-AS",
+            "speed": 10000
         },
         {
             "asn": 29838,
@@ -8544,7 +8553,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 816,
+    "members_count": 817,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
