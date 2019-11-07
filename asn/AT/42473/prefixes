@@ -2881,6 +2881,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "FR",
+            "description": "Network powered by ANX",
+            "ip": "45.84.252.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.84.252.0",
+                "prefix": "45.84.252.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.84.252.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "CA",
             "description": "ISQ Solutions Inc.",
