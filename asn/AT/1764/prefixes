@@ -259,6 +259,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "NEXTLAYER CUSTOMER",
+            "ip": "185.81.214.0",
+            "name": "NEXTLAYER-CUSTOMER",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.81.212.0",
+                "prefix": "185.81.212.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.81.214.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "Alpha Medien Service GmbH",
             "ip": "193.187.8.0",
             "name": "ALPHA-MEDIEN-NET",
