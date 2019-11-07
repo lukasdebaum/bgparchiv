@@ -1,7 +1,21 @@
 {
-    "combined_graph": null,
-    "ipv4_graph": null,
-    "ipv4_upstreams": [],
-    "ipv6_graph": null,
-    "ipv6_upstreams": []
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS208315_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS208315_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 28760,
+            "country_code": "AT",
+            "description": "Schaerdingerstr. 35",
+            "name": "INFOTECH-AT-AS"
+        }
+    ],
+    "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS208315_IPv6.svg",
+    "ipv6_upstreams": [
+        {
+            "asn": 28760,
+            "country_code": "AT",
+            "description": "Schaerdingerstr. 35",
+            "name": "INFOTECH-AT-AS"
+        }
+    ]
 }
