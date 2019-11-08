@@ -15,6 +15,22 @@
             },
             "prefix": "185.55.24.0/22",
             "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "HMB Telecom GmbH",
+            "ip": "45.152.40.0",
+            "name": "AT-HMB-TELECOM11-20190911",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.152.40.0",
+                "prefix": "45.152.40.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.152.40.0/22",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
