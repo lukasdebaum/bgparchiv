@@ -977,6 +977,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "USC / UFMG PEERING Research Testbed",
+            "ip": "184.164.246.0",
+            "name": "PEERING-RESEARCH-TESTBED-USC-UFMG",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "184.164.224.0",
+                "prefix": "184.164.224.0/19",
+                "rir_name": "ARIN"
+            },
+            "prefix": "184.164.246.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "CH",
             "description": "Nettrust IT-Services AG",
@@ -8478,22 +8494,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "62.179.0.0/17",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 17,
-            "country_code": "NL",
-            "description": "Liberty Global Infrastructure NA4",
-            "ip": "62.179.128.0",
-            "name": "LGI-NA4",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 16,
-                "ip": "62.179.0.0",
-                "prefix": "62.179.0.0/16",
-                "rir_name": "RIPE"
-            },
-            "prefix": "62.179.128.0/17",
             "roa_status": "None"
         },
         {
