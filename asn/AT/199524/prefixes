@@ -2370,6 +2370,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "JP",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "92.223.65.0",
+            "name": "GCL-CUSTOMER-JP",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "92.223.0.0",
+                "prefix": "92.223.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.223.65.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "US",
             "description": "G-Core Labs Customer assignment",
             "ip": "92.223.66.0",
