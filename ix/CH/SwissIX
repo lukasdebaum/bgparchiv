@@ -579,6 +579,24 @@
             "speed": 100
         },
         {
+            "asn": 15796,
+            "country_code": "CH",
+            "description": "Salt Mobile SA",
+            "ipv4_address": "91.206.52.26",
+            "ipv6_address": "2001:7f8:24::1a",
+            "name": "SALT-CH",
+            "speed": 20000
+        },
+        {
+            "asn": 15796,
+            "country_code": "CH",
+            "description": "Salt Mobile SA",
+            "ipv4_address": "91.206.52.16",
+            "ipv6_address": "2001:7f8:24::10",
+            "name": "SALT-CH",
+            "speed": 20000
+        },
+        {
             "asn": 16265,
             "country_code": "NL",
             "description": "LeaseWeb Network B.V.",
@@ -1108,6 +1126,15 @@
             "ipv6_address": "2001:7f8:24::dc",
             "name": "NETACTUATE",
             "speed": 1000
+        },
+        {
+            "asn": 39351,
+            "country_code": "SE",
+            "description": "31173 Services AB",
+            "ipv4_address": "91.206.52.230",
+            "ipv6_address": "2001:7f8:24::e6",
+            "name": "ESAB-AS",
+            "speed": 10000
         },
         {
             "asn": 39419,
@@ -1776,7 +1803,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 172,
+    "members_count": 174,
     "name": "SwissIX",
     "name_full": "SwissIX Internet Exchange",
     "policy_email": "info@swissix.ch",
