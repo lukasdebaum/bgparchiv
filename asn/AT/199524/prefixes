@@ -3044,6 +3044,22 @@
             "cidr": 24,
             "country_code": "RU",
             "description": "G-Core Labs Customer assignment",
+            "ip": "92.38.136.0",
+            "name": "GCL-CUSTOMER-RU",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "92.38.128.0",
+                "prefix": "92.38.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.38.136.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "G-Core Labs Customer assignment",
             "ip": "92.38.137.0",
             "name": "GCL-CUSTOMER-RU",
             "parent": {
