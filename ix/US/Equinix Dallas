@@ -939,15 +939,6 @@
             "speed": 100000
         },
         {
-            "asn": 23148,
-            "country_code": "US",
-            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
-            "ipv4_address": "206.223.118.68",
-            "ipv6_address": "2001:504:0:5:0:2:3148:1",
-            "name": "TERRENAP",
-            "speed": 1000
-        },
-        {
             "asn": 23393,
             "country_code": "US",
             "description": "NuCDN LLC",
@@ -1009,6 +1000,15 @@
             "ipv6_address": "2001:504:0:5:ffff:ffff:ffff:2",
             "name": "ASN-EQIX-MLPE",
             "speed": 1000
+        },
+        {
+            "asn": 26744,
+            "country_code": "US",
+            "description": "Planters Communications, LLC",
+            "ipv4_address": "206.223.118.124",
+            "ipv6_address": "2001:504:0:5:0:2:6744:1",
+            "name": "PCL",
+            "speed": 10000
         },
         {
             "asn": 27294,
@@ -1333,6 +1333,15 @@
             "ipv6_address": "2001:504:0:5:0:4:581:1",
             "name": "AREON-AS",
             "speed": 10000
+        },
+        {
+            "asn": 40627,
+            "country_code": "US",
+            "description": "RingCentral Inc",
+            "ipv4_address": "206.223.118.136",
+            "ipv6_address": null,
+            "name": "RC-COLO1",
+            "speed": 1000
         },
         {
             "asn": 41095,
@@ -1722,7 +1731,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 163,
+    "members_count": 164,
     "name": "Equinix Dallas",
     "name_full": "Equinix Dallas Exchange",
     "policy_email": "support@equinix.com",
