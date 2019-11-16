@@ -723,15 +723,6 @@
             "speed": 20000
         },
         {
-            "asn": 23148,
-            "country_code": "US",
-            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
-            "ipv4_address": "198.32.176.45",
-            "ipv6_address": "2001:504:d::2d",
-            "name": "TERRENAP",
-            "speed": 1000
-        },
-        {
             "asn": 23393,
             "country_code": "US",
             "description": "NuCDN LLC",
@@ -999,7 +990,7 @@
             "ipv4_address": "198.32.176.37",
             "ipv6_address": "2001:504:d::25",
             "name": "IPTRANSIT",
-            "speed": 20000
+            "speed": 10000
         },
         {
             "asn": 54113,
@@ -1083,7 +1074,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 106,
+    "members_count": 105,
     "name": "Equinix Palo Alto",
     "name_full": "Equinix Internet Exchange Palo Alto",
     "policy_email": "servicesupport@equinix.com",
