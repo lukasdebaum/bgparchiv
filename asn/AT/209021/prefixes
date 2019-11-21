@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "PBS-Logitek Dienstleistungen GmbH",
+            "ip": "91.198.25.0",
+            "name": "PBS-Logitek-AT-NET-01",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.198.25.0",
+                "prefix": "91.198.25.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.198.25.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
