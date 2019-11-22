@@ -1566,7 +1566,7 @@
             "ipv4_address": "37.49.236.71",
             "ipv6_address": "2001:7f8:54::71",
             "name": "HIVANE",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 34021,
@@ -2298,6 +2298,15 @@
             "speed": 10000
         },
         {
+            "asn": 45899,
+            "country_code": "VN",
+            "description": "VNPT Corp",
+            "ipv4_address": "37.49.236.9",
+            "ipv6_address": "2001:7f8:54::9",
+            "name": "VNPT-AS-VN",
+            "speed": 5000
+        },
+        {
             "asn": 46489,
             "country_code": "US",
             "description": "Twitch Interactive Inc.",
@@ -2795,7 +2804,7 @@
         {
             "asn": 57752,
             "country_code": "FR",
-            "description": "NORMHOST SARL",
+            "description": "NORMHOST SAS",
             "ipv4_address": "37.49.237.206",
             "ipv6_address": "2001:7f8:54::1:206",
             "name": "NORMHOST-ASN",
@@ -3540,7 +3549,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 356,
+    "members_count": 357,
     "name": "France-IX Paris",
     "name_full": "FranceIX Paris",
     "policy_email": "info@franceix.net",
