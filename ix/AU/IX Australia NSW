@@ -36,7 +36,7 @@
             "ipv4_address": "218.100.53.9",
             "ipv6_address": "2001:7fa:11:4:0:d1c:0:1",
             "name": "LEVEL3",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 4648,
@@ -1398,6 +1398,15 @@
             "speed": 10000
         },
         {
+            "asn": 63949,
+            "country_code": "US",
+            "description": "Linode, LLC",
+            "ipv4_address": "218.100.53.46",
+            "ipv6_address": "2001:7fa:11:4:0:f9cd:0:1",
+            "name": "LINODE-AP",
+            "speed": 20000
+        },
+        {
             "asn": 63956,
             "country_code": "AU",
             "description": "Colocation Australia Pty Ltd",
@@ -1911,7 +1920,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 181,
+    "members_count": 182,
     "name": "IX Australia NSW",
     "name_full": "New South Wales Internet Exchange (NSW-IX)",
     "policy_email": "peering@ix.asn.au",
