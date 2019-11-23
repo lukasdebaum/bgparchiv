@@ -1,12 +1,6 @@
 {
     "ipv4_peers": [
         {
-            "asn": 553,
-            "country_code": "EU",
-            "description": "BelWue-Koordination",
-            "name": "BELWUE"
-        },
-        {
             "asn": 1299,
             "country_code": "EU",
             "description": "Telia Carrier",
@@ -25,6 +19,12 @@
             "name": "SWISSCOM"
         },
         {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
+        },
+        {
             "asn": 6939,
             "country_code": "US",
             "description": "Hurricane Electric LLC",
@@ -35,12 +35,6 @@
             "country_code": "FR",
             "description": "legacy Neotelecoms",
             "name": "NEO-ASN"
-        },
-        {
-            "asn": 8222,
-            "country_code": "DE",
-            "description": "Munich, Germany",
-            "name": "NORIS"
         },
         {
             "asn": 8447,
@@ -55,12 +49,6 @@
             "name": "OBIT-AS"
         },
         {
-            "asn": 8732,
-            "country_code": "RU",
-            "description": "Moscow",
-            "name": "COMCOR-AS"
-        },
-        {
             "asn": 12779,
             "country_code": "IT",
             "description": "IT.Gate S.p.A.",
@@ -71,6 +59,12 @@
             "country_code": "DE",
             "description": "TNG Stadtnetz GmbH",
             "name": "TNG-AS"
+        },
+        {
+            "asn": 13237,
+            "country_code": "DE",
+            "description": "European Backbone of AS13237",
+            "name": "LAMBDANET-AS"
         },
         {
             "asn": 15547,
@@ -85,6 +79,12 @@
             "name": "NTS"
         },
         {
+            "asn": 15605,
+            "country_code": "IT",
+            "description": "Connesi s.p.a.",
+            "name": "CONNESI"
+        },
+        {
             "asn": 15704,
             "country_code": "ES",
             "description": "XTRA TELECOM S.A.",
@@ -95,12 +95,6 @@
             "country_code": "PH",
             "description": "Converge ICT Solutions Inc.",
             "name": "CONVERGE-AS"
-        },
-        {
-            "asn": 20485,
-            "country_code": "RU",
-            "description": "Moscow, Russia",
-            "name": "TRANSTELECOM"
         },
         {
             "asn": 20562,
@@ -119,6 +113,12 @@
             "country_code": "IT",
             "description": "Brennercom S.p.A.",
             "name": "BRENNERCOM-AS"
+        },
+        {
+            "asn": 20932,
+            "country_code": "CH",
+            "description": "Service Telecom",
+            "name": "SIG-ST"
         },
         {
             "asn": 22356,
@@ -151,12 +151,6 @@
             "name": "IP-MAX"
         },
         {
-            "asn": 25220,
-            "country_code": "DE",
-            "description": "equada network GmbH",
-            "name": "GLOBALNOC-AS"
-        },
-        {
             "asn": 28186,
             "country_code": "BR",
             "description": "ITS TELECOMUNICACOES LTDA",
@@ -173,12 +167,6 @@
             "country_code": "FR",
             "description": "IELO Main Network",
             "name": "IELO"
-        },
-        {
-            "asn": 29140,
-            "country_code": "DE",
-            "description": "Hostserver GmbH",
-            "name": "HOSTSERVER-AS"
         },
         {
             "asn": 29467,
@@ -205,10 +193,10 @@
             "name": "NETERRA-AS"
         },
         {
-            "asn": 34288,
-            "country_code": "CH",
-            "description": "EDU-ZG-CH - Public Schools in the Canton of Zug",
-            "name": "AS34288"
+            "asn": 35369,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "name": "LINZAG-TELEKOM-AS"
         },
         {
             "asn": 37100,
@@ -227,6 +215,18 @@
             "country_code": "ZA",
             "description": "Network Platforms Pty Ltd",
             "name": "Network-Platforms"
+        },
+        {
+            "asn": 37640,
+            "country_code": "ZA",
+            "description": "Cape Connect Internet",
+            "name": "CAPE-CONNECT-AS"
+        },
+        {
+            "asn": 39122,
+            "country_code": "IE",
+            "description": "Blacknight Internet Solutions Limited",
+            "name": "BLACKNIGHT-AS"
         },
         {
             "asn": 39351,
@@ -289,12 +289,6 @@
             "name": "LWLCOM"
         },
         {
-            "asn": 51907,
-            "country_code": "RU",
-            "description": "Frontier Network LLC",
-            "name": "FRONTIERNETWORK-AS"
-        },
-        {
             "asn": 52873,
             "country_code": "BR",
             "description": "SOFTDADOS CONECTIVIDADE",
@@ -331,22 +325,10 @@
             "name": "ZAINGP-AS"
         },
         {
-            "asn": 64475,
-            "country_code": "DE",
-            "description": "Freifunk Frankfurt am Main e.V.",
-            "name": "FREIFUNK-FRANKFURT"
-        },
-        {
             "asn": 206313,
             "country_code": "DE",
             "description": "Freifunk Nordwest e.V.",
             "name": "FFNW-AS"
-        },
-        {
-            "asn": 206356,
-            "country_code": "DE",
-            "description": "Freifunk Essen e.V.",
-            "name": "Freifunk-Essen"
         }
     ],
     "ipv6_peers": [
