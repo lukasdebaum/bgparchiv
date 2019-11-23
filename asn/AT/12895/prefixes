@@ -17,5 +17,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "s IT Solutions AT Spardat GmbH",
+            "ip": "2001:4b40::",
+            "name": "AT-ITAUSTRIA-20050120",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2001:4b40::",
+                "prefix": "2001:4b40::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4b40::/32",
+            "roa_status": "None"
+        }
+    ]
 }
