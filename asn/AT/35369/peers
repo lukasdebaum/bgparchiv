@@ -1,10 +1,52 @@
 {
     "ipv4_peers": [
         {
+            "asn": 42,
+            "country_code": "US",
+            "description": "WoodyNet",
+            "name": "WOODYNET-1"
+        },
+        {
+            "asn": 1120,
+            "country_code": "EU",
+            "description": "ACOnet Services @ Vienna Internet eXchange",
+            "name": "ACOnet_Services"
+        },
+        {
             "asn": 1764,
             "country_code": "AT",
             "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
             "name": "NEXTLAYER-AS"
+        },
+        {
+            "asn": 1820,
+            "country_code": "US",
+            "description": "WNET TELECOM USA Corp.",
+            "name": "WNET"
+        },
+        {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        },
+        {
+            "asn": 2635,
+            "country_code": "US",
+            "description": "Automattic, Inc",
+            "name": "AUTOMATTIC"
+        },
+        {
+            "asn": 2686,
+            "country_code": "US",
+            "description": "AT&T Global Network Services, LLC",
+            "name": "ATGS-MMD-AS"
+        },
+        {
+            "asn": 2906,
+            "country_code": "US",
+            "description": "Netflix Streaming Services Inc.",
+            "name": "AS-SSI"
         },
         {
             "asn": 2914,
@@ -13,10 +55,76 @@
             "name": "NTT-COMMUNICATIONS-2914"
         },
         {
+            "asn": 3212,
+            "country_code": "SI",
+            "description": "Broadband Access & Carrier Services",
+            "name": "TELEMACH"
+        },
+        {
+            "asn": 3223,
+            "country_code": "GB",
+            "description": "Voxility LLP",
+            "name": "VOXILITY"
+        },
+        {
             "asn": 3303,
             "country_code": "CH",
             "description": "Swisscom (Switzerland) Ltd",
             "name": "SWISSCOM"
+        },
+        {
+            "asn": 3856,
+            "country_code": "US",
+            "description": "Packet Clearing House",
+            "name": "PCH-AS"
+        },
+        {
+            "asn": 5403,
+            "country_code": "AT",
+            "description": "APA-IT Informations Technologie G.m.b.H",
+            "name": "AS5403"
+        },
+        {
+            "asn": 5404,
+            "country_code": "AT",
+            "description": "ASN conova communications GmbH",
+            "name": "conova-as"
+        },
+        {
+            "asn": 5578,
+            "country_code": "SK",
+            "description": "Bratislava, Slovak Republic",
+            "name": "AS-BENESTRA"
+        },
+        {
+            "asn": 5588,
+            "country_code": "CZ",
+            "description": "GTS Central Europe / Antel Germany",
+            "name": "GTSCE"
+        },
+        {
+            "asn": 5610,
+            "country_code": "CZ",
+            "description": "O2 Czech Republic, a.s.",
+            "name": "O2-CZECH-REPUBLIC"
+        },
+        {
+            "asn": 6663,
+            "country_code": "RO",
+            "description": "Euroweb Romania S.R.L.",
+            "name": "TTI-NET"
+        },
+        {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
+        },
+        {
+            "asn": 6798,
+            "country_code": "AT",
+            "description": "Net4You Internet GmbH",
+            "name": "NET4YOU-AS"
         },
         {
             "asn": 6939,
@@ -25,10 +133,34 @@
             "name": "HURRICANE"
         },
         {
+            "asn": 7713,
+            "country_code": "ID",
+            "description": "PT Telekomunikasi Indonesia",
+            "name": "telkomnet-as-ap"
+        },
+        {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK"
+        },
+        {
             "asn": 8218,
             "country_code": "FR",
             "description": "legacy Neotelecoms",
             "name": "NEO-ASN"
+        },
+        {
+            "asn": 8245,
+            "country_code": "AT",
+            "description": "Video-Broadcast GmbH",
+            "name": "VIDEOBROADCAST-AS"
+        },
+        {
+            "asn": 8339,
+            "country_code": "AT",
+            "description": "kabelplus GmbH",
+            "name": "KABSI-AS"
         },
         {
             "asn": 8387,
@@ -37,10 +169,214 @@
             "name": "T-SYSTEMS-AT"
         },
         {
+            "asn": 8400,
+            "country_code": "RS",
+            "description": "TELEKOM SRBIJA a.d.",
+            "name": "TELEKOM-AS"
+        },
+        {
+            "asn": 8412,
+            "country_code": "AT",
+            "description": "Rennweg 97-99",
+            "name": "TMA"
+        },
+        {
+            "asn": 8422,
+            "country_code": "DE",
+            "description": "NetCologne Gesellschaft fur Telekommunikation mbH",
+            "name": "NETCOLOGNE"
+        },
+        {
+            "asn": 8445,
+            "country_code": "AT",
+            "description": "SALZBURG AG fur Energie, Verkehr und Telekommunikation",
+            "name": "SALZBURG-AG-AS"
+        },
+        {
+            "asn": 8447,
+            "country_code": "AT",
+            "description": "A1 Telekom Austria AG",
+            "name": "TELEKOM-AT"
+        },
+        {
+            "asn": 8529,
+            "country_code": "OM",
+            "description": "Sultanate of Oman",
+            "name": "OMANTEL-AS"
+        },
+        {
+            "asn": 8596,
+            "country_code": "AT",
+            "description": "hotze.com GmbH",
+            "name": "HOTZE-AS"
+        },
+        {
+            "asn": 8646,
+            "country_code": "CZ",
+            "description": "cloudinfrastack, s.r.o.",
+            "name": "cloudinfrastack"
+        },
+        {
+            "asn": 8778,
+            "country_code": "SK",
+            "description": "http://www.slovanet.net/",
+            "name": "SLOVANET"
+        },
+        {
+            "asn": 8881,
+            "country_code": "DE",
+            "description": "1&1 Versatel Deutschland GmbH",
+            "name": "VERSATEL"
+        },
+        {
+            "asn": 8953,
+            "country_code": "RO",
+            "description": "Orange Romania S.A.",
+            "name": "ASN-ORANGE-ROMANIA"
+        },
+        {
+            "asn": 9009,
+            "country_code": "GB",
+            "description": "M247 Ltd",
+            "name": "M247"
+        },
+        {
+            "asn": 9080,
+            "country_code": "CZ",
+            "description": "Czech Republic, EU",
+            "name": "GIN"
+        },
+        {
+            "asn": 9119,
+            "country_code": "SI",
+            "description": "Internet Service Provider in Slovenia and South Europe region",
+            "name": "SOFTNET-AS"
+        },
+        {
+            "asn": 10310,
+            "country_code": "US",
+            "description": "Oath Holdings Inc.",
+            "name": "YAHOO-1"
+        },
+        {
+            "asn": 12401,
+            "country_code": "AT",
+            "description": "Puchsbaumplatz 2 / 7-8",
+            "name": "INTERNIC-AS12401"
+        },
+        {
+            "asn": 12453,
+            "country_code": "AT",
+            "description": "Bernhard Kraft",
+            "name": "KRAFTCOM-AS"
+        },
+        {
+            "asn": 12570,
+            "country_code": "CZ",
+            "description": "Network and internet service provider.",
+            "name": "ITSELF"
+        },
+        {
+            "asn": 12577,
+            "country_code": "AT",
+            "description": "Muehlgasse 14E",
+            "name": "MMC-AT-AS"
+        },
+        {
+            "asn": 12605,
+            "country_code": "AT",
+            "description": "Linz, Austria",
+            "name": "LIWEST-AT"
+        },
+        {
+            "asn": 12654,
+            "country_code": "EU",
+            "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+            "name": "RIPE-NCC-RIS-AS"
+        },
+        {
+            "asn": 12895,
+            "country_code": "AT",
+            "description": "Vienna, Austria",
+            "name": "IT-AUSTRIA"
+        },
+        {
+            "asn": 12971,
+            "country_code": "AT",
+            "description": "Perfektastrasse 19",
+            "name": "BIOS-AT"
+        },
+        {
+            "asn": 13004,
+            "country_code": "RS",
+            "description": "Serbian Open Exchange DOO",
+            "name": "SOX"
+        },
+        {
+            "asn": 13030,
+            "country_code": "CH",
+            "description": "Init7 (Switzerland) Ltd.",
+            "name": "INIT7"
+        },
+        {
+            "asn": 13046,
+            "country_code": "HR",
+            "description": "HEP",
+            "name": "ASN-ISKON"
+        },
+        {
+            "asn": 13101,
+            "country_code": "DE",
+            "description": "TNG Stadtnetz GmbH",
+            "name": "TNG-AS"
+        },
+        {
+            "asn": 13237,
+            "country_code": "DE",
+            "description": "European Backbone of AS13237",
+            "name": "LAMBDANET-AS"
+        },
+        {
+            "asn": 13335,
+            "country_code": "US",
+            "description": "Cloudflare, Inc.",
+            "name": "CLOUDFLARENET"
+        },
+        {
+            "asn": 14061,
+            "country_code": "US",
+            "description": "DigitalOcean, LLC",
+            "name": "DIGITALOCEAN-ASN"
+        },
+        {
+            "asn": 15133,
+            "country_code": "US",
+            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+            "name": "EDGECAST"
+        },
+        {
+            "asn": 15169,
+            "country_code": "US",
+            "description": "Google LLC",
+            "name": "GOOGLE"
+        },
+        {
             "asn": 15576,
             "country_code": "CH",
             "description": "NTS workspace AG",
             "name": "NTS"
+        },
+        {
+            "asn": 15614,
+            "country_code": "CZ",
+            "description": "Dragon Internet a.s.",
+            "name": "Dragon"
+        },
+        {
+            "asn": 15702,
+            "country_code": "AT",
+            "description": "Onstage Online GmbH",
+            "name": "ONSTAGENET"
         },
         {
             "asn": 15910,
@@ -49,10 +385,64 @@
             "name": "FABASOFT-AT-AS"
         },
         {
+            "asn": 15943,
+            "country_code": "DE",
+            "description": "wilhelm.tel GmbH",
+            "name": "WTNET-AS"
+        },
+        {
+            "asn": 15962,
+            "country_code": "SK",
+            "description": "Slovakia",
+            "name": "OSK-DNI"
+        },
+        {
+            "asn": 16246,
+            "country_code": "CZ",
+            "description": "Internet Provider",
+            "name": "AS16246"
+        },
+        {
+            "asn": 16276,
+            "country_code": "FR",
+            "description": "OVH SAS",
+            "name": "OVH"
+        },
+        {
+            "asn": 16314,
+            "country_code": "AT",
+            "description": "Stadlauer Strasse 54",
+            "name": "WIENKAV"
+        },
+        {
+            "asn": 16509,
+            "country_code": "US",
+            "description": "Amazon.com, Inc.",
+            "name": "AMAZON-02"
+        },
+        {
+            "asn": 20546,
+            "country_code": "DE",
+            "description": "SOPRADO GmbH",
+            "name": "SOPRADO-ANY"
+        },
+        {
             "asn": 20562,
             "country_code": "NL",
             "description": "Open Peering Initiative, Amsterdam, The Netherlands",
             "name": "OPEN-PEERING-AS"
+        },
+        {
+            "asn": 20704,
+            "country_code": "AT",
+            "description": "Hirschstettnerstr. 19-21 L1",
+            "name": "FUNKNETZ-AS"
+        },
+        {
+            "asn": 20751,
+            "country_code": "AT",
+            "description": "AZISTA GmbH",
+            "name": "ASN-AZISTA"
         },
         {
             "asn": 20764,
@@ -61,10 +451,124 @@
             "name": "RASCOM-AS"
         },
         {
+            "asn": 20940,
+            "country_code": "EU",
+            "description": "Akamai International B.V.",
+            "name": "AKAMAI-ASN1"
+        },
+        {
+            "asn": 21013,
+            "country_code": "AT",
+            "description": "Wels, AT",
+            "name": "ITANDTEL-AS"
+        },
+        {
+            "asn": 21360,
+            "country_code": "AT",
+            "description": "Horneckgasse 8",
+            "name": "Empirion"
+        },
+        {
+            "asn": 21385,
+            "country_code": "DE",
+            "description": "Trusted Network GmbH",
+            "name": "TNIB"
+        },
+        {
+            "asn": 21430,
+            "country_code": "CZ",
+            "description": "WIA spol. s.r.o.",
+            "name": "WIA-AS"
+        },
+        {
+            "asn": 21859,
+            "country_code": "US",
+            "description": "Zenlayer Inc",
+            "name": "ZNET"
+        },
+        {
+            "asn": 22822,
+            "country_code": "US",
+            "description": "Limelight Networks, Inc.",
+            "name": "LLNW"
+        },
+        {
+            "asn": 24641,
+            "country_code": "CZ",
+            "description": "FASTER CZ spol. s r.o.",
+            "name": "FASTER-AS"
+        },
+        {
+            "asn": 24864,
+            "country_code": "AT",
+            "description": "Raiffeisen Informatik GmbH",
+            "name": "R-IT-AS"
+        },
+        {
+            "asn": 24940,
+            "country_code": "DE",
+            "description": "Hetzner Online GmbH",
+            "name": "HETZNER-AS"
+        },
+        {
+            "asn": 24953,
+            "country_code": "AT",
+            "description": "AS MACRO: AS-24953 (customers)",
+            "name": "ASN-NETPLANET"
+        },
+        {
+            "asn": 24971,
+            "country_code": "CZ",
+            "description": "Czech Republic / www.master.cz",
+            "name": "MASTER-AS"
+        },
+        {
+            "asn": 25152,
+            "country_code": "EU",
+            "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+            "name": "K-ROOT-SERVER"
+        },
+        {
             "asn": 25255,
             "country_code": "AT",
             "description": "==> TELE2 AUSTRIA <==",
             "name": "H3G-Austria-AS"
+        },
+        {
+            "asn": 25447,
+            "country_code": "AT",
+            "description": "Hackl-Str. 1, Object 2, OG2",
+            "name": "JM-DATA"
+        },
+        {
+            "asn": 25467,
+            "country_code": "SI",
+            "description": "Akton Autonomous System",
+            "name": "AKTON-AS"
+        },
+        {
+            "asn": 25575,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "name": "DOMAINTECHNIK"
+        },
+        {
+            "asn": 26415,
+            "country_code": "US",
+            "description": "VeriSign Global Registry Services",
+            "name": "VERISIGN-INC"
+        },
+        {
+            "asn": 28760,
+            "country_code": "AT",
+            "description": "Schaerdingerstr. 35",
+            "name": "INFOTECH-AT-AS"
+        },
+        {
+            "asn": 28857,
+            "country_code": "AT",
+            "description": "DXC Technology Austria GmbH",
+            "name": "CSC-AS"
         },
         {
             "asn": 28889,
@@ -73,10 +577,154 @@
             "name": "LINZNET-AS"
         },
         {
+            "asn": 29056,
+            "country_code": "AT",
+            "description": "Citycom Telekommunikation GmbH",
+            "name": "GSTW-AS"
+        },
+        {
+            "asn": 29081,
+            "country_code": "AT",
+            "description": "WVNET Information und Kommunikation GmbH",
+            "name": "WVNET-AT-AS"
+        },
+        {
+            "asn": 29208,
+            "country_code": "SK",
+            "description": "Dial Telecom a.s.",
+            "name": "DIALTELECOM-AS"
+        },
+        {
+            "asn": 29287,
+            "country_code": "AT",
+            "description": "Blizznet",
+            "name": "AT-WZN-AS"
+        },
+        {
+            "asn": 29401,
+            "country_code": "SK",
+            "description": "SuperNetwork s.r.o.",
+            "name": "SUPERNETWORKSK-AS"
+        },
+        {
             "asn": 29504,
             "country_code": "CZ",
             "description": "Freenet Liberec, z.s.",
             "name": "LBCFREE"
+        },
+        {
+            "asn": 29545,
+            "country_code": "AT",
+            "description": "Ringstrasse 5",
+            "name": "IPLACE"
+        },
+        {
+            "asn": 29583,
+            "country_code": "CZ",
+            "description": "Spinoco Czech Republic, a.s.",
+            "name": "UNIENT-AS"
+        },
+        {
+            "asn": 30764,
+            "country_code": "CZ",
+            "description": "PODA a.s.",
+            "name": "PODA-AS"
+        },
+        {
+            "asn": 30929,
+            "country_code": "SK",
+            "description": "GOLEM TECH s.r.o.",
+            "name": "GOLEMTECH-AS"
+        },
+        {
+            "asn": 30971,
+            "country_code": "AT",
+            "description": "Jakob-Haringer-Strasse 8",
+            "name": "NICAT-CORE-AS"
+        },
+        {
+            "asn": 31042,
+            "country_code": "RS",
+            "description": "Serbia BroadBand-Srpske Kablovske mreze d.o.o.",
+            "name": "SERBIA-BROADBAND-AS"
+        },
+        {
+            "asn": 31117,
+            "country_code": "SK",
+            "description": "ENERGOTEL a.s.",
+            "name": "ENERGOTEL-AS"
+        },
+        {
+            "asn": 31127,
+            "country_code": "SK",
+            "description": "SATRO s.r.o.",
+            "name": "SATRO"
+        },
+        {
+            "asn": 31246,
+            "country_code": "CZ",
+            "description": "NETBOX Autonomous system",
+            "name": "NETBOX-AS"
+        },
+        {
+            "asn": 31317,
+            "country_code": "DE",
+            "description": "AnschlussWerk GmbH",
+            "name": "ANSCHLUSSWERK"
+        },
+        {
+            "asn": 31374,
+            "country_code": "AT",
+            "description": "EBE-EDV-Beratungs- und Entwicklungs-Gesm.b.H.",
+            "name": "EBE-EDV-AS"
+        },
+        {
+            "asn": 31510,
+            "country_code": "AT",
+            "description": "Innsbrucker Kommunalbetriebe AG",
+            "name": "IKB-AS"
+        },
+        {
+            "asn": 31529,
+            "country_code": "DE",
+            "description": "DNS anycast AS object for .DE DNS service",
+            "name": "DENIC-ANYCAST-AS"
+        },
+        {
+            "asn": 31543,
+            "country_code": "AT",
+            "description": "myNET gmbh",
+            "name": "MYNET-AS"
+        },
+        {
+            "asn": 32590,
+            "country_code": "US",
+            "description": "Valve Corporation",
+            "name": "VALVE-CORPORATION"
+        },
+        {
+            "asn": 32934,
+            "country_code": "US",
+            "description": "Facebook, Inc.",
+            "name": "FACEBOOK"
+        },
+        {
+            "asn": 33438,
+            "country_code": "US",
+            "description": "Highwinds Network Group, Inc.",
+            "name": "HIGHWINDS2"
+        },
+        {
+            "asn": 34093,
+            "country_code": "CZ",
+            "description": "Libli s.r.o.",
+            "name": "PLUSLINE-AS"
+        },
+        {
+            "asn": 34183,
+            "country_code": "AT",
+            "description": "AUSTRIA",
+            "name": "BMG"
         },
         {
             "asn": 34288,
@@ -85,10 +733,226 @@
             "name": "AS34288"
         },
         {
+            "asn": 34347,
+            "country_code": "AT",
+            "description": "HALLAG Kommunal GmbH",
+            "name": "CITYNET-AT-AS"
+        },
+        {
+            "asn": 34502,
+            "country_code": "AT",
+            "description": "Xklink",
+            "name": "xlink-as"
+        },
+        {
+            "asn": 34772,
+            "country_code": "MK",
+            "description": "NEOTEL DOO export-import Skopje",
+            "name": "NEOTEL-AS-MK"
+        },
+        {
+            "asn": 34779,
+            "country_code": "SI",
+            "description": "AS set propagated by T-2, d.o.o.",
+            "name": "T-2-AS"
+        },
+        {
+            "asn": 34820,
+            "country_code": "SK",
+            "description": "http://www.dol.sk",
+            "name": "DANNAX-SK-AS"
+        },
+        {
+            "asn": 34885,
+            "country_code": "AT",
+            "description": "Erzdioezese Salzburg",
+            "name": "EDSBG-AS"
+        },
+        {
+            "asn": 34911,
+            "country_code": "CZ",
+            "description": "ELDATA prazska s.r.o.",
+            "name": "ASELDATA"
+        },
+        {
+            "asn": 34955,
+            "country_code": "CZ",
+            "description": "Martin Vicenik",
+            "name": "ASVICENIK"
+        },
+        {
+            "asn": 35339,
+            "country_code": "AT",
+            "description": "AtNOC Clemens Zauner e.U.",
+            "name": "CZ-AS"
+        },
+        {
+            "asn": 39392,
+            "country_code": "CZ",
+            "description": "SuperNetwork",
+            "name": "SuperNetwork"
+        },
+        {
+            "asn": 39394,
+            "country_code": "AT",
+            "description": "NeoTel Telefonservice GmbH & Co KG",
+            "name": "NEOTELAT-AS"
+        },
+        {
+            "asn": 39478,
+            "country_code": "AT",
+            "description": "ASFINAG",
+            "name": "ASFINAG"
+        },
+        {
+            "asn": 39560,
+            "country_code": "AT",
+            "description": "KT-NET Communications GmbH",
+            "name": "KT-NET"
+        },
+        {
+            "asn": 39878,
+            "country_code": "AT",
+            "description": "Peter Rauter GmbH",
+            "name": "RAUTER-AS"
+        },
+        {
+            "asn": 39896,
+            "country_code": "CZ",
+            "description": "Angel Systems s.r.o.",
+            "name": "XHOSTING"
+        },
+        {
+            "asn": 39912,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "name": "i3B-AS"
+        },
+        {
+            "asn": 41046,
+            "country_code": "CZ",
+            "description": "Nej.cz s.r.o.",
+            "name": "NEJTV-AS"
+        },
+        {
+            "asn": 41491,
+            "country_code": "AT",
+            "description": "Stadtwerke Kapfenberg",
+            "name": "STAKA-AS"
+        },
+        {
+            "asn": 41779,
+            "country_code": "CZ",
+            "description": "LajsiNET s.r.o.",
+            "name": "LAJSINET"
+        },
+        {
+            "asn": 42000,
+            "country_code": "CZ",
+            "description": "Czech Republic",
+            "name": "KAORA"
+        },
+        {
+            "asn": 42005,
+            "country_code": "SK",
+            "description": "Peerings",
+            "name": "LIGHTSTORM-COMMUNICATIONS-SRO-SK-AS"
+        },
+        {
             "asn": 42061,
             "country_code": "AT",
             "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
             "name": "LINZAG-AS"
+        },
+        {
+            "asn": 42306,
+            "country_code": "CZ",
+            "description": "Edera Group a.s.",
+            "name": "EDERA_Group"
+        },
+        {
+            "asn": 42477,
+            "country_code": "CZ",
+            "description": "Cerberos s.r.o.",
+            "name": "CERBEROS"
+        },
+        {
+            "asn": 42841,
+            "country_code": "SK",
+            "description": "ANTIK Telecom s.r.o",
+            "name": "ANTIK"
+        },
+        {
+            "asn": 42908,
+            "country_code": "CZ",
+            "description": "Nordic Telecom s.r.o",
+            "name": "NordicTelecom-AS"
+        },
+        {
+            "asn": 43061,
+            "country_code": "SI",
+            "description": "Stelkom d.o.o.",
+            "name": "SI-STELKOM"
+        },
+        {
+            "asn": 43070,
+            "country_code": "CZ",
+            "description": "JAW.cz s.r.o.",
+            "name": "JAW-AS"
+        },
+        {
+            "asn": 43248,
+            "country_code": "SK",
+            "description": "ISPER, s.r.o.",
+            "name": "ISPER-ASN"
+        },
+        {
+            "asn": 43451,
+            "country_code": "SK",
+            "description": "RadioLAN spol. s r.o.",
+            "name": "RADIOLAN-SK-AS"
+        },
+        {
+            "asn": 43708,
+            "country_code": "CZ",
+            "description": "METRONET s.r.o.",
+            "name": "METRONET"
+        },
+        {
+            "asn": 43848,
+            "country_code": "AT",
+            "description": "Unterauerstrasse 7",
+            "name": "GAMSJAEGER"
+        },
+        {
+            "asn": 43957,
+            "country_code": "AT",
+            "description": "WNT Telecommunication GmbH",
+            "name": "ASN-WNTNEWMEDIA"
+        },
+        {
+            "asn": 44002,
+            "country_code": "CZ",
+            "description": "Czech Republic",
+            "name": "SYS-DATACOM"
+        },
+        {
+            "asn": 44065,
+            "country_code": "CZ",
+            "description": "NETAIR s.r.o.",
+            "name": "NETAIR-AS"
+        },
+        {
+            "asn": 44306,
+            "country_code": "HR",
+            "description": "OMONIA d.o.o.",
+            "name": "Omonia"
+        },
+        {
+            "asn": 44392,
+            "country_code": "AT",
+            "description": "Salzburger Flughafen GmbH",
+            "name": "AIRPORT-SBG-AS"
         },
         {
             "asn": 44399,
@@ -97,10 +961,52 @@
             "name": "FHOOE-AS"
         },
         {
+            "asn": 44430,
+            "country_code": "CZ",
+            "description": "MaRcom-Eko s.r.o.",
+            "name": "MaRcom-Eko-AS"
+        },
+        {
+            "asn": 44489,
+            "country_code": "CZ",
+            "description": "STARNET, s.r.o.",
+            "name": "Starnet"
+        },
+        {
+            "asn": 44765,
+            "country_code": "AT",
+            "description": "MakeNewMedia Communications GmbH",
+            "name": "MAKENEWMEDIA-AS"
+        },
+        {
+            "asn": 44865,
+            "country_code": "AT",
+            "description": "derStandard.at GmbH",
+            "name": "DERSTANDARD-AS"
+        },
+        {
+            "asn": 46489,
+            "country_code": "US",
+            "description": "Twitch Interactive Inc.",
+            "name": "JUSTINTV"
+        },
+        {
+            "asn": 47114,
+            "country_code": "CZ",
+            "description": "SychrovNET s.r.o",
+            "name": "ISPgroup"
+        },
+        {
             "asn": 47147,
             "country_code": "AT",
             "description": "ANEXIA Internetdienstleistungs GmbH",
             "name": "AS-ANX"
+        },
+        {
+            "asn": 47232,
+            "country_code": "CZ",
+            "description": "ISP Alliance a.s.",
+            "name": "ISPAlliance"
         },
         {
             "asn": 47692,
@@ -109,10 +1015,94 @@
             "name": "NESSUS"
         },
         {
+            "asn": 47727,
+            "country_code": "CZ",
+            "description": "Warnet.cz s.r.o.",
+            "name": "WARNETCZ-AS"
+        },
+        {
+            "asn": 47868,
+            "country_code": "CZ",
+            "description": "AS SUPRO-NET",
+            "name": "SUPRO-AS"
+        },
+        {
+            "asn": 47949,
+            "country_code": "CZ",
+            "description": "Czech Republic",
+            "name": "GSNETCZ"
+        },
+        {
+            "asn": 48151,
+            "country_code": "AT",
+            "description": "A-5330 Fuschl am See , Austria",
+            "name": "REDBULL-AS"
+        },
+        {
+            "asn": 48326,
+            "country_code": "SK",
+            "description": "DataNetworks s.r.o.",
+            "name": "datanetworks"
+        },
+        {
+            "asn": 48339,
+            "country_code": "AT",
+            "description": "Raiffeisen Rechenzentrum GmbH",
+            "name": "RRZ_Sued_AS"
+        },
+        {
             "asn": 48362,
             "country_code": "AT",
             "description": "Stadtwerke Feldkirch",
             "name": "TKSWF-AS"
+        },
+        {
+            "asn": 48474,
+            "country_code": "CZ",
+            "description": "Libli s.r.o.",
+            "name": "FOFRNET-AS"
+        },
+        {
+            "asn": 48602,
+            "country_code": "CZ",
+            "description": "Connect plus s.r.o.",
+            "name": "CONNECTPLUS"
+        },
+        {
+            "asn": 48943,
+            "country_code": "AT",
+            "description": "KAPPER NETWORK-COMMUNICATIONS GmbH",
+            "name": "KAPPERNET"
+        },
+        {
+            "asn": 49013,
+            "country_code": "CZ",
+            "description": "Fusion Media, s.r.o.",
+            "name": "Fusion_Media"
+        },
+        {
+            "asn": 49025,
+            "country_code": "CZ",
+            "description": "PRO-ZETA a.s.",
+            "name": "PROZETA-NET"
+        },
+        {
+            "asn": 49115,
+            "country_code": "SK",
+            "description": "http://www.e-max.sk",
+            "name": "EMAX_AS1"
+        },
+        {
+            "asn": 49206,
+            "country_code": "NL",
+            "description": "PeakFactory, a MSP on IPTV, OTT and VOD with it's own CDN,",
+            "name": "PeakFactory"
+        },
+        {
+            "asn": 49808,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "name": "POWERSPEED-AS"
         },
         {
             "asn": 49864,
@@ -121,10 +1111,292 @@
             "name": "ECSNET-AS"
         },
         {
+            "asn": 49981,
+            "country_code": "NL",
+            "description": "WorldStream B.V.",
+            "name": "WorldStream"
+        },
+        {
+            "asn": 49985,
+            "country_code": "CZ",
+            "description": "IP4ISP z.s.p.o",
+            "name": "IP4ISP"
+        },
+        {
+            "asn": 50507,
+            "country_code": "IT",
+            "description": "Accademia Europea di Bolzano",
+            "name": "EURAC-AS"
+        },
+        {
+            "asn": 50629,
+            "country_code": "DE",
+            "description": "LWLcom GmbH",
+            "name": "LWLCOM"
+        },
+        {
+            "asn": 51184,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "name": "FONIRA-AT"
+        },
+        {
+            "asn": 51265,
+            "country_code": "AT",
+            "description": "Mass Response Service GmbH",
+            "name": "MASSRESPONSE-AS2"
+        },
+        {
+            "asn": 51331,
+            "country_code": "CZ",
+            "description": "SychrovNET s.r.o",
+            "name": "ModernTV"
+        },
+        {
+            "asn": 51577,
+            "country_code": "HR",
+            "description": "Styria IT Solutions d.o.o.",
+            "name": "STYRIA_AS"
+        },
+        {
+            "asn": 51744,
+            "country_code": "CZ",
+            "description": "Non-profit organization Jablonka.cz",
+            "name": "ASJABLONKA"
+        },
+        {
+            "asn": 52092,
+            "country_code": "CZ",
+            "description": "UPC",
+            "name": "ALFSERVIS-AS"
+        },
+        {
+            "asn": 56349,
+            "country_code": "SK",
+            "description": "IP-Net s.r.o.",
+            "name": "IP-Net"
+        },
+        {
+            "asn": 56656,
+            "country_code": "SK",
+            "description": "http://www.detronics.sk",
+            "name": "DETRONICS"
+        },
+        {
+            "asn": 56800,
+            "country_code": "SK",
+            "description": "LAST MILE spol. s r.o.",
+            "name": "LastMile"
+        },
+        {
+            "asn": 56859,
+            "country_code": "AT",
+            "description": "BNP PARIBAS S.A.",
+            "name": "Hellobank"
+        },
+        {
+            "asn": 57007,
+            "country_code": "CZ",
+            "description": "NITEX ISP s.r.o.",
+            "name": "ASNITEX"
+        },
+        {
+            "asn": 57169,
+            "country_code": "AT",
+            "description": "EDIS GmbH",
+            "name": "EDIS-AS-EU"
+        },
+        {
+            "asn": 57260,
+            "country_code": "CH",
+            "description": "feratel Schweiz AG",
+            "name": "FERATEL-CH-AS"
+        },
+        {
+            "asn": 57287,
+            "country_code": "CZ",
+            "description": "OtavaNet s.r.o.",
+            "name": "OTAVANET-AS"
+        },
+        {
             "asn": 57463,
             "country_code": "BG",
             "description": "NetIX Communications Ltd.",
             "name": "NetIX"
+        },
+        {
+            "asn": 57976,
+            "country_code": "EU",
+            "description": "Blizzard Entertainment, Inc",
+            "name": "BLIZZARD"
+        },
+        {
+            "asn": 59871,
+            "country_code": "CZ",
+            "description": "Heureka group a.s.",
+            "name": "HEUREKA_GROUP"
+        },
+        {
+            "asn": 59890,
+            "country_code": "AT",
+            "description": "Kabel-TV Lampert GmbH & Co KG",
+            "name": "Kabel-TV-Lampert"
+        },
+        {
+            "asn": 59959,
+            "country_code": "CZ",
+            "description": "SferiaNET.cz s.r.o.",
+            "name": "SFERIA"
+        },
+        {
+            "asn": 59970,
+            "country_code": "CZ",
+            "description": "AmigoNet s.r.o.",
+            "name": "AMIGONET"
+        },
+        {
+            "asn": 60068,
+            "country_code": "GB",
+            "description": "Datacamp Limited",
+            "name": "CDN77"
+        },
+        {
+            "asn": 60517,
+            "country_code": "AT",
+            "description": "Adolf Noehmer Gesellschaft m.b.H. & Co KG",
+            "name": "AS-CABLEVISION"
+        },
+        {
+            "asn": 61296,
+            "country_code": "CZ",
+            "description": "TechCom s.r.o.",
+            "name": "TechCom-AS"
+        },
+        {
+            "asn": 61425,
+            "country_code": "CZ",
+            "description": "Mlada fronta a.s.",
+            "name": "MLADAFRONTA"
+        },
+        {
+            "asn": 61955,
+            "country_code": "DE",
+            "description": "ColocationIX GmbH",
+            "name": "ColocationIX-AS"
+        },
+        {
+            "asn": 62011,
+            "country_code": "CZ",
+            "description": "UNHfree.net z.s.",
+            "name": "ASUNHFREE"
+        },
+        {
+            "asn": 62099,
+            "country_code": "CZ",
+            "description": "JM-Net, z.s.",
+            "name": "JMNET"
+        },
+        {
+            "asn": 62149,
+            "country_code": "AT",
+            "description": "Verein Kabel-TV Gerlos",
+            "name": "KTVGERLOS-AS"
+        },
+        {
+            "asn": 62160,
+            "country_code": "CZ",
+            "description": "Hosting management company",
+            "name": "GM-AS"
+        },
+        {
+            "asn": 62363,
+            "country_code": "AT",
+            "description": "Ertl & Gross OG",
+            "name": "EGW-AS"
+        },
+        {
+            "asn": 196735,
+            "country_code": "CZ",
+            "description": "jakub@jon.cz",
+            "name": "AS-JONCZ"
+        },
+        {
+            "asn": 196843,
+            "country_code": "CZ",
+            "description": "KHnet.info, z.s.",
+            "name": "KHNET"
+        },
+        {
+            "asn": 197013,
+            "country_code": "CZ",
+            "description": "Sprintel s.r.o.",
+            "name": "SPRINTEL-SRO"
+        },
+        {
+            "asn": 197029,
+            "country_code": "CZ",
+            "description": "LAM plus s.r.o.",
+            "name": "LAM-AS"
+        },
+        {
+            "asn": 197046,
+            "country_code": "CZ",
+            "description": "FIXnet s.r.o.",
+            "name": "AS_FIXNET"
+        },
+        {
+            "asn": 197197,
+            "country_code": "CZ",
+            "description": "M.NET STUDENKA s. r. o.",
+            "name": "M-NET"
+        },
+        {
+            "asn": 197307,
+            "country_code": "CZ",
+            "description": "Core4Net, s.r.o.",
+            "name": "bnet-internet_cz"
+        },
+        {
+            "asn": 197698,
+            "country_code": "CZ",
+            "description": "D-H-T SYSTEMS s.r.o.",
+            "name": "DHT_Systems"
+        },
+        {
+            "asn": 199298,
+            "country_code": "CZ",
+            "description": "Jan Stetina",
+            "name": "GIGANETcz"
+        },
+        {
+            "asn": 199490,
+            "country_code": "CZ",
+            "description": "INTERCONNECT s.r.o.",
+            "name": "INTERCONNECT"
+        },
+        {
+            "asn": 199524,
+            "country_code": "AT",
+            "description": "G-Core Labs S.A.",
+            "name": "GCORE"
+        },
+        {
+            "asn": 199665,
+            "country_code": "CZ",
+            "description": "RADIOLINKplus.cz",
+            "name": "RADIOLINKplus1-NETWORK"
+        },
+        {
+            "asn": 200070,
+            "country_code": "CZ",
+            "description": "CZ.NIC, z.s.p.o.",
+            "name": "CZNIC-AS2"
+        },
+        {
+            "asn": 200155,
+            "country_code": "CZ",
+            "description": "Technologicke centrum Pisek s.r.o.",
+            "name": "AS-TCPISEK-CZ"
         },
         {
             "asn": 200932,
@@ -139,10 +1411,52 @@
             "name": "RIEPERT"
         },
         {
+            "asn": 201053,
+            "country_code": "PL",
+            "description": "Stowarzyszenie e-Poludnie",
+            "name": "EPIX-KRPM"
+        },
+        {
+            "asn": 201962,
+            "country_code": "DE",
+            "description": "RSM Connect",
+            "name": "RSM-CONNECT-AS"
+        },
+        {
             "asn": 202453,
             "country_code": "AT",
             "description": "EREMA Group GmbH",
             "name": "EREMA"
+        },
+        {
+            "asn": 202719,
+            "country_code": "CZ",
+            "description": "Pranet s.r.o.",
+            "name": "PRANET"
+        },
+        {
+            "asn": 202895,
+            "country_code": "CZ",
+            "description": "TFnet s.r.o.",
+            "name": "TFnet"
+        },
+        {
+            "asn": 203072,
+            "country_code": "CZ",
+            "description": "DomaTV s.r.o.",
+            "name": "DomaTV"
+        },
+        {
+            "asn": 204409,
+            "country_code": "CZ",
+            "description": "Komunikacni stroje s.r.o.",
+            "name": "cz-Prestonet"
+        },
+        {
+            "asn": 205243,
+            "country_code": "AT",
+            "description": "CloudNow GmbH",
+            "name": "CLOUDNOW-AS"
         },
         {
             "asn": 205302,
@@ -157,6 +1471,24 @@
             "name": "HAUSER-AS"
         },
         {
+            "asn": 207187,
+            "country_code": "CZ",
+            "description": "TKR Jasek, s.r.o.",
+            "name": "TKRJASEK"
+        },
+        {
+            "asn": 207203,
+            "country_code": "AT",
+            "description": "TIMEWARP IT Consulting GmbH",
+            "name": "TIMEWARP-AS"
+        },
+        {
+            "asn": 210283,
+            "country_code": "GB",
+            "description": "PitCom Limited",
+            "name": "PITCOM"
+        },
+        {
             "asn": 267613,
             "country_code": "BR",
             "description": "ELETRONET S.A.",
@@ -165,10 +1497,46 @@
     ],
     "ipv6_peers": [
         {
+            "asn": 42,
+            "country_code": "US",
+            "description": "WoodyNet",
+            "name": "WOODYNET-1"
+        },
+        {
             "asn": 1764,
             "country_code": "AT",
             "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
             "name": "NEXTLAYER-AS"
+        },
+        {
+            "asn": 1820,
+            "country_code": "US",
+            "description": "WNET TELECOM USA Corp.",
+            "name": "WNET"
+        },
+        {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        },
+        {
+            "asn": 2635,
+            "country_code": "US",
+            "description": "Automattic, Inc",
+            "name": "AUTOMATTIC"
+        },
+        {
+            "asn": 2686,
+            "country_code": "US",
+            "description": "AT&T Global Network Services, LLC",
+            "name": "ATGS-MMD-AS"
+        },
+        {
+            "asn": 2906,
+            "country_code": "US",
+            "description": "Netflix Streaming Services Inc.",
+            "name": "AS-SSI"
         },
         {
             "asn": 2914,
@@ -177,16 +1545,430 @@
             "name": "NTT-COMMUNICATIONS-2914"
         },
         {
+            "asn": 3212,
+            "country_code": "SI",
+            "description": "Broadband Access & Carrier Services",
+            "name": "TELEMACH"
+        },
+        {
+            "asn": 3303,
+            "country_code": "CH",
+            "description": "Swisscom (Switzerland) Ltd",
+            "name": "SWISSCOM"
+        },
+        {
+            "asn": 3330,
+            "country_code": "AT",
+            "description": "Vienna, Austria",
+            "name": "PROFINET-AT"
+        },
+        {
+            "asn": 3856,
+            "country_code": "US",
+            "description": "Packet Clearing House",
+            "name": "PCH-AS"
+        },
+        {
+            "asn": 5403,
+            "country_code": "AT",
+            "description": "APA-IT Informations Technologie G.m.b.H",
+            "name": "AS5403"
+        },
+        {
+            "asn": 5404,
+            "country_code": "AT",
+            "description": "ASN conova communications GmbH",
+            "name": "conova-as"
+        },
+        {
+            "asn": 5578,
+            "country_code": "SK",
+            "description": "Bratislava, Slovak Republic",
+            "name": "AS-BENESTRA"
+        },
+        {
+            "asn": 5588,
+            "country_code": "CZ",
+            "description": "GTS Central Europe / Antel Germany",
+            "name": "GTSCE"
+        },
+        {
+            "asn": 6663,
+            "country_code": "RO",
+            "description": "Euroweb Romania S.R.L.",
+            "name": "TTI-NET"
+        },
+        {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
+        },
+        {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        },
+        {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK"
+        },
+        {
             "asn": 8218,
             "country_code": "FR",
             "description": "legacy Neotelecoms",
             "name": "NEO-ASN"
         },
         {
+            "asn": 8220,
+            "country_code": "GB",
+            "description": "COLT Technology Services Group Limited",
+            "name": "COLT"
+        },
+        {
+            "asn": 8339,
+            "country_code": "AT",
+            "description": "kabelplus GmbH",
+            "name": "KABSI-AS"
+        },
+        {
+            "asn": 8387,
+            "country_code": "AT",
+            "description": "Rennweg 97-99",
+            "name": "T-SYSTEMS-AT"
+        },
+        {
+            "asn": 8400,
+            "country_code": "RS",
+            "description": "TELEKOM SRBIJA a.d.",
+            "name": "TELEKOM-AS"
+        },
+        {
+            "asn": 8412,
+            "country_code": "AT",
+            "description": "Rennweg 97-99",
+            "name": "TMA"
+        },
+        {
+            "asn": 8422,
+            "country_code": "DE",
+            "description": "NetCologne Gesellschaft fur Telekommunikation mbH",
+            "name": "NETCOLOGNE"
+        },
+        {
+            "asn": 8447,
+            "country_code": "AT",
+            "description": "A1 Telekom Austria AG",
+            "name": "TELEKOM-AT"
+        },
+        {
+            "asn": 8529,
+            "country_code": "OM",
+            "description": "Sultanate of Oman",
+            "name": "OMANTEL-AS"
+        },
+        {
+            "asn": 8596,
+            "country_code": "AT",
+            "description": "hotze.com GmbH",
+            "name": "HOTZE-AS"
+        },
+        {
+            "asn": 8778,
+            "country_code": "SK",
+            "description": "http://www.slovanet.net/",
+            "name": "SLOVANET"
+        },
+        {
+            "asn": 8881,
+            "country_code": "DE",
+            "description": "1&1 Versatel Deutschland GmbH",
+            "name": "VERSATEL"
+        },
+        {
+            "asn": 8953,
+            "country_code": "RO",
+            "description": "Orange Romania S.A.",
+            "name": "ASN-ORANGE-ROMANIA"
+        },
+        {
+            "asn": 9009,
+            "country_code": "GB",
+            "description": "M247 Ltd",
+            "name": "M247"
+        },
+        {
+            "asn": 9119,
+            "country_code": "SI",
+            "description": "Internet Service Provider in Slovenia and South Europe region",
+            "name": "SOFTNET-AS"
+        },
+        {
+            "asn": 10310,
+            "country_code": "US",
+            "description": "Oath Holdings Inc.",
+            "name": "YAHOO-1"
+        },
+        {
+            "asn": 12401,
+            "country_code": "AT",
+            "description": "Puchsbaumplatz 2 / 7-8",
+            "name": "INTERNIC-AS12401"
+        },
+        {
+            "asn": 12577,
+            "country_code": "AT",
+            "description": "Muehlgasse 14E",
+            "name": "MMC-AT-AS"
+        },
+        {
+            "asn": 12654,
+            "country_code": "EU",
+            "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+            "name": "RIPE-NCC-RIS-AS"
+        },
+        {
+            "asn": 13004,
+            "country_code": "RS",
+            "description": "Serbian Open Exchange DOO",
+            "name": "SOX"
+        },
+        {
             "asn": 13030,
             "country_code": "CH",
             "description": "Init7 (Switzerland) Ltd.",
             "name": "INIT7"
+        },
+        {
+            "asn": 13046,
+            "country_code": "HR",
+            "description": "HEP",
+            "name": "ASN-ISKON"
+        },
+        {
+            "asn": 13101,
+            "country_code": "DE",
+            "description": "TNG Stadtnetz GmbH",
+            "name": "TNG-AS"
+        },
+        {
+            "asn": 13237,
+            "country_code": "DE",
+            "description": "European Backbone of AS13237",
+            "name": "LAMBDANET-AS"
+        },
+        {
+            "asn": 13335,
+            "country_code": "US",
+            "description": "Cloudflare, Inc.",
+            "name": "CLOUDFLARENET"
+        },
+        {
+            "asn": 14061,
+            "country_code": "US",
+            "description": "DigitalOcean, LLC",
+            "name": "DIGITALOCEAN-ASN"
+        },
+        {
+            "asn": 15133,
+            "country_code": "US",
+            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+            "name": "EDGECAST"
+        },
+        {
+            "asn": 15169,
+            "country_code": "US",
+            "description": "Google LLC",
+            "name": "GOOGLE"
+        },
+        {
+            "asn": 15614,
+            "country_code": "CZ",
+            "description": "Dragon Internet a.s.",
+            "name": "Dragon"
+        },
+        {
+            "asn": 15702,
+            "country_code": "AT",
+            "description": "Onstage Online GmbH",
+            "name": "ONSTAGENET"
+        },
+        {
+            "asn": 15943,
+            "country_code": "DE",
+            "description": "wilhelm.tel GmbH",
+            "name": "WTNET-AS"
+        },
+        {
+            "asn": 15962,
+            "country_code": "SK",
+            "description": "Slovakia",
+            "name": "OSK-DNI"
+        },
+        {
+            "asn": 16246,
+            "country_code": "CZ",
+            "description": "Internet Provider",
+            "name": "AS16246"
+        },
+        {
+            "asn": 16276,
+            "country_code": "FR",
+            "description": "OVH SAS",
+            "name": "OVH"
+        },
+        {
+            "asn": 16509,
+            "country_code": "US",
+            "description": "Amazon.com, Inc.",
+            "name": "AMAZON-02"
+        },
+        {
+            "asn": 20546,
+            "country_code": "DE",
+            "description": "SOPRADO GmbH",
+            "name": "SOPRADO-ANY"
+        },
+        {
+            "asn": 20562,
+            "country_code": "NL",
+            "description": "Open Peering Initiative, Amsterdam, The Netherlands",
+            "name": "OPEN-PEERING-AS"
+        },
+        {
+            "asn": 20704,
+            "country_code": "AT",
+            "description": "Hirschstettnerstr. 19-21 L1",
+            "name": "FUNKNETZ-AS"
+        },
+        {
+            "asn": 20940,
+            "country_code": "EU",
+            "description": "Akamai International B.V.",
+            "name": "AKAMAI-ASN1"
+        },
+        {
+            "asn": 21013,
+            "country_code": "AT",
+            "description": "Wels, AT",
+            "name": "ITANDTEL-AS"
+        },
+        {
+            "asn": 21360,
+            "country_code": "AT",
+            "description": "Horneckgasse 8",
+            "name": "Empirion"
+        },
+        {
+            "asn": 21385,
+            "country_code": "DE",
+            "description": "Trusted Network GmbH",
+            "name": "TNIB"
+        },
+        {
+            "asn": 21430,
+            "country_code": "CZ",
+            "description": "WIA spol. s.r.o.",
+            "name": "WIA-AS"
+        },
+        {
+            "asn": 21859,
+            "country_code": "US",
+            "description": "Zenlayer Inc",
+            "name": "ZNET"
+        },
+        {
+            "asn": 22822,
+            "country_code": "US",
+            "description": "Limelight Networks, Inc.",
+            "name": "LLNW"
+        },
+        {
+            "asn": 24641,
+            "country_code": "CZ",
+            "description": "FASTER CZ spol. s r.o.",
+            "name": "FASTER-AS"
+        },
+        {
+            "asn": 24864,
+            "country_code": "AT",
+            "description": "Raiffeisen Informatik GmbH",
+            "name": "R-IT-AS"
+        },
+        {
+            "asn": 24940,
+            "country_code": "DE",
+            "description": "Hetzner Online GmbH",
+            "name": "HETZNER-AS"
+        },
+        {
+            "asn": 24953,
+            "country_code": "AT",
+            "description": "AS MACRO: AS-24953 (customers)",
+            "name": "ASN-NETPLANET"
+        },
+        {
+            "asn": 24971,
+            "country_code": "CZ",
+            "description": "Czech Republic / www.master.cz",
+            "name": "MASTER-AS"
+        },
+        {
+            "asn": 25152,
+            "country_code": "EU",
+            "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+            "name": "K-ROOT-SERVER"
+        },
+        {
+            "asn": 25575,
+            "country_code": "AT",
+            "description": "Ledl.net GmbH",
+            "name": "DOMAINTECHNIK"
+        },
+        {
+            "asn": 26415,
+            "country_code": "US",
+            "description": "VeriSign Global Registry Services",
+            "name": "VERISIGN-INC"
+        },
+        {
+            "asn": 28760,
+            "country_code": "AT",
+            "description": "Schaerdingerstr. 35",
+            "name": "INFOTECH-AT-AS"
+        },
+        {
+            "asn": 28857,
+            "country_code": "AT",
+            "description": "DXC Technology Austria GmbH",
+            "name": "CSC-AS"
+        },
+        {
+            "asn": 28889,
+            "country_code": "AT",
+            "description": "LinzNet Internet Service Provider GmbH",
+            "name": "LINZNET-AS"
+        },
+        {
+            "asn": 29056,
+            "country_code": "AT",
+            "description": "Citycom Telekommunikation GmbH",
+            "name": "GSTW-AS"
+        },
+        {
+            "asn": 29208,
+            "country_code": "SK",
+            "description": "Dial Telecom a.s.",
+            "name": "DIALTELECOM-AS"
+        },
+        {
+            "asn": 29287,
+            "country_code": "AT",
+            "description": "Blizznet",
+            "name": "AT-WZN-AS"
         },
         {
             "asn": 29504,
@@ -201,10 +1983,154 @@
             "name": "ILL-AS"
         },
         {
+            "asn": 30764,
+            "country_code": "CZ",
+            "description": "PODA a.s.",
+            "name": "PODA-AS"
+        },
+        {
+            "asn": 30929,
+            "country_code": "SK",
+            "description": "GOLEM TECH s.r.o.",
+            "name": "GOLEMTECH-AS"
+        },
+        {
+            "asn": 30971,
+            "country_code": "AT",
+            "description": "Jakob-Haringer-Strasse 8",
+            "name": "NICAT-CORE-AS"
+        },
+        {
+            "asn": 31117,
+            "country_code": "SK",
+            "description": "ENERGOTEL a.s.",
+            "name": "ENERGOTEL-AS"
+        },
+        {
+            "asn": 31127,
+            "country_code": "SK",
+            "description": "SATRO s.r.o.",
+            "name": "SATRO"
+        },
+        {
+            "asn": 31246,
+            "country_code": "CZ",
+            "description": "NETBOX Autonomous system",
+            "name": "NETBOX-AS"
+        },
+        {
+            "asn": 31510,
+            "country_code": "AT",
+            "description": "Innsbrucker Kommunalbetriebe AG",
+            "name": "IKB-AS"
+        },
+        {
+            "asn": 31529,
+            "country_code": "DE",
+            "description": "DNS anycast AS object for .DE DNS service",
+            "name": "DENIC-ANYCAST-AS"
+        },
+        {
+            "asn": 31543,
+            "country_code": "AT",
+            "description": "myNET gmbh",
+            "name": "MYNET-AS"
+        },
+        {
+            "asn": 32590,
+            "country_code": "US",
+            "description": "Valve Corporation",
+            "name": "VALVE-CORPORATION"
+        },
+        {
+            "asn": 32934,
+            "country_code": "US",
+            "description": "Facebook, Inc.",
+            "name": "FACEBOOK"
+        },
+        {
+            "asn": 33438,
+            "country_code": "US",
+            "description": "Highwinds Network Group, Inc.",
+            "name": "HIGHWINDS2"
+        },
+        {
+            "asn": 34183,
+            "country_code": "AT",
+            "description": "AUSTRIA",
+            "name": "BMG"
+        },
+        {
             "asn": 34288,
             "country_code": "CH",
             "description": "EDU-ZG-CH - Public Schools in the Canton of Zug",
             "name": "AS34288"
+        },
+        {
+            "asn": 34347,
+            "country_code": "AT",
+            "description": "HALLAG Kommunal GmbH",
+            "name": "CITYNET-AT-AS"
+        },
+        {
+            "asn": 34772,
+            "country_code": "MK",
+            "description": "NEOTEL DOO export-import Skopje",
+            "name": "NEOTEL-AS-MK"
+        },
+        {
+            "asn": 34779,
+            "country_code": "SI",
+            "description": "AS set propagated by T-2, d.o.o.",
+            "name": "T-2-AS"
+        },
+        {
+            "asn": 35339,
+            "country_code": "AT",
+            "description": "AtNOC Clemens Zauner e.U.",
+            "name": "CZ-AS"
+        },
+        {
+            "asn": 39392,
+            "country_code": "CZ",
+            "description": "SuperNetwork",
+            "name": "SuperNetwork"
+        },
+        {
+            "asn": 39560,
+            "country_code": "AT",
+            "description": "KT-NET Communications GmbH",
+            "name": "KT-NET"
+        },
+        {
+            "asn": 39878,
+            "country_code": "AT",
+            "description": "Peter Rauter GmbH",
+            "name": "RAUTER-AS"
+        },
+        {
+            "asn": 39912,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "name": "i3B-AS"
+        },
+        {
+            "asn": 41779,
+            "country_code": "CZ",
+            "description": "LajsiNET s.r.o.",
+            "name": "LAJSINET"
+        },
+        {
+            "asn": 42000,
+            "country_code": "CZ",
+            "description": "Czech Republic",
+            "name": "KAORA"
+        },
+        {
+            "asn": 42005,
+            "country_code": "SK",
+            "description": "Peerings",
+            "name": "LIGHTSTORM-COMMUNICATIONS-SRO-SK-AS"
         },
         {
             "asn": 42061,
@@ -213,10 +2139,94 @@
             "name": "LINZAG-AS"
         },
         {
+            "asn": 42477,
+            "country_code": "CZ",
+            "description": "Cerberos s.r.o.",
+            "name": "CERBEROS"
+        },
+        {
+            "asn": 42841,
+            "country_code": "SK",
+            "description": "ANTIK Telecom s.r.o",
+            "name": "ANTIK"
+        },
+        {
+            "asn": 42908,
+            "country_code": "CZ",
+            "description": "Nordic Telecom s.r.o",
+            "name": "NordicTelecom-AS"
+        },
+        {
+            "asn": 43061,
+            "country_code": "SI",
+            "description": "Stelkom d.o.o.",
+            "name": "SI-STELKOM"
+        },
+        {
+            "asn": 43070,
+            "country_code": "CZ",
+            "description": "JAW.cz s.r.o.",
+            "name": "JAW-AS"
+        },
+        {
+            "asn": 43451,
+            "country_code": "SK",
+            "description": "RadioLAN spol. s r.o.",
+            "name": "RADIOLAN-SK-AS"
+        },
+        {
+            "asn": 43708,
+            "country_code": "CZ",
+            "description": "METRONET s.r.o.",
+            "name": "METRONET"
+        },
+        {
+            "asn": 43957,
+            "country_code": "AT",
+            "description": "WNT Telecommunication GmbH",
+            "name": "ASN-WNTNEWMEDIA"
+        },
+        {
+            "asn": 44002,
+            "country_code": "CZ",
+            "description": "Czech Republic",
+            "name": "SYS-DATACOM"
+        },
+        {
+            "asn": 44065,
+            "country_code": "CZ",
+            "description": "NETAIR s.r.o.",
+            "name": "NETAIR-AS"
+        },
+        {
+            "asn": 44306,
+            "country_code": "HR",
+            "description": "OMONIA d.o.o.",
+            "name": "Omonia"
+        },
+        {
             "asn": 44399,
             "country_code": "AT",
             "description": "FH OOe Studienbetriebs GmbH",
             "name": "FHOOE-AS"
+        },
+        {
+            "asn": 44489,
+            "country_code": "CZ",
+            "description": "STARNET, s.r.o.",
+            "name": "Starnet"
+        },
+        {
+            "asn": 44865,
+            "country_code": "AT",
+            "description": "derStandard.at GmbH",
+            "name": "DERSTANDARD-AS"
+        },
+        {
+            "asn": 47114,
+            "country_code": "CZ",
+            "description": "SychrovNET s.r.o",
+            "name": "ISPgroup"
         },
         {
             "asn": 47147,
@@ -225,10 +2235,310 @@
             "name": "AS-ANX"
         },
         {
+            "asn": 47493,
+            "country_code": "CZ",
+            "description": "WMS s.r.o.",
+            "name": "WMS-AS"
+        },
+        {
             "asn": 47692,
             "country_code": "AT",
             "description": "Nessus GmbH",
             "name": "NESSUS"
+        },
+        {
+            "asn": 47727,
+            "country_code": "CZ",
+            "description": "Warnet.cz s.r.o.",
+            "name": "WARNETCZ-AS"
+        },
+        {
+            "asn": 47868,
+            "country_code": "CZ",
+            "description": "AS SUPRO-NET",
+            "name": "SUPRO-AS"
+        },
+        {
+            "asn": 47949,
+            "country_code": "CZ",
+            "description": "Czech Republic",
+            "name": "GSNETCZ"
+        },
+        {
+            "asn": 48326,
+            "country_code": "SK",
+            "description": "DataNetworks s.r.o.",
+            "name": "datanetworks"
+        },
+        {
+            "asn": 48339,
+            "country_code": "AT",
+            "description": "Raiffeisen Rechenzentrum GmbH",
+            "name": "RRZ_Sued_AS"
+        },
+        {
+            "asn": 48362,
+            "country_code": "AT",
+            "description": "Stadtwerke Feldkirch",
+            "name": "TKSWF-AS"
+        },
+        {
+            "asn": 48602,
+            "country_code": "CZ",
+            "description": "Connect plus s.r.o.",
+            "name": "CONNECTPLUS"
+        },
+        {
+            "asn": 48943,
+            "country_code": "AT",
+            "description": "KAPPER NETWORK-COMMUNICATIONS GmbH",
+            "name": "KAPPERNET"
+        },
+        {
+            "asn": 49115,
+            "country_code": "SK",
+            "description": "http://www.e-max.sk",
+            "name": "EMAX_AS1"
+        },
+        {
+            "asn": 49206,
+            "country_code": "NL",
+            "description": "PeakFactory, a MSP on IPTV, OTT and VOD with it's own CDN,",
+            "name": "PeakFactory"
+        },
+        {
+            "asn": 49808,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "name": "POWERSPEED-AS"
+        },
+        {
+            "asn": 49985,
+            "country_code": "CZ",
+            "description": "IP4ISP z.s.p.o",
+            "name": "IP4ISP"
+        },
+        {
+            "asn": 50226,
+            "country_code": "AT",
+            "description": "NETcompany Internet Provider - NC GmbH",
+            "name": "NETCOMPANY1-AS"
+        },
+        {
+            "asn": 50629,
+            "country_code": "DE",
+            "description": "LWLcom GmbH",
+            "name": "LWLCOM"
+        },
+        {
+            "asn": 50782,
+            "country_code": "AT",
+            "description": "COSYS DATA GmbH",
+            "name": "COSYS"
+        },
+        {
+            "asn": 51184,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "name": "FONIRA-AT"
+        },
+        {
+            "asn": 51265,
+            "country_code": "AT",
+            "description": "Mass Response Service GmbH",
+            "name": "MASSRESPONSE-AS2"
+        },
+        {
+            "asn": 51331,
+            "country_code": "CZ",
+            "description": "SychrovNET s.r.o",
+            "name": "ModernTV"
+        },
+        {
+            "asn": 51744,
+            "country_code": "CZ",
+            "description": "Non-profit organization Jablonka.cz",
+            "name": "ASJABLONKA"
+        },
+        {
+            "asn": 52092,
+            "country_code": "CZ",
+            "description": "UPC",
+            "name": "ALFSERVIS-AS"
+        },
+        {
+            "asn": 56349,
+            "country_code": "SK",
+            "description": "IP-Net s.r.o.",
+            "name": "IP-Net"
+        },
+        {
+            "asn": 56800,
+            "country_code": "SK",
+            "description": "LAST MILE spol. s r.o.",
+            "name": "LastMile"
+        },
+        {
+            "asn": 57007,
+            "country_code": "CZ",
+            "description": "NITEX ISP s.r.o.",
+            "name": "ASNITEX"
+        },
+        {
+            "asn": 57169,
+            "country_code": "AT",
+            "description": "EDIS GmbH",
+            "name": "EDIS-AS-EU"
+        },
+        {
+            "asn": 57260,
+            "country_code": "CH",
+            "description": "feratel Schweiz AG",
+            "name": "FERATEL-CH-AS"
+        },
+        {
+            "asn": 57287,
+            "country_code": "CZ",
+            "description": "OtavaNet s.r.o.",
+            "name": "OTAVANET-AS"
+        },
+        {
+            "asn": 57463,
+            "country_code": "BG",
+            "description": "NetIX Communications Ltd.",
+            "name": "NetIX"
+        },
+        {
+            "asn": 57976,
+            "country_code": "EU",
+            "description": "Blizzard Entertainment, Inc",
+            "name": "BLIZZARD"
+        },
+        {
+            "asn": 59871,
+            "country_code": "CZ",
+            "description": "Heureka group a.s.",
+            "name": "HEUREKA_GROUP"
+        },
+        {
+            "asn": 59890,
+            "country_code": "AT",
+            "description": "Kabel-TV Lampert GmbH & Co KG",
+            "name": "Kabel-TV-Lampert"
+        },
+        {
+            "asn": 59959,
+            "country_code": "CZ",
+            "description": "SferiaNET.cz s.r.o.",
+            "name": "SFERIA"
+        },
+        {
+            "asn": 59970,
+            "country_code": "CZ",
+            "description": "AmigoNet s.r.o.",
+            "name": "AMIGONET"
+        },
+        {
+            "asn": 60068,
+            "country_code": "GB",
+            "description": "Datacamp Limited",
+            "name": "CDN77"
+        },
+        {
+            "asn": 60517,
+            "country_code": "AT",
+            "description": "Adolf Noehmer Gesellschaft m.b.H. & Co KG",
+            "name": "AS-CABLEVISION"
+        },
+        {
+            "asn": 61296,
+            "country_code": "CZ",
+            "description": "TechCom s.r.o.",
+            "name": "TechCom-AS"
+        },
+        {
+            "asn": 62099,
+            "country_code": "CZ",
+            "description": "JM-Net, z.s.",
+            "name": "JMNET"
+        },
+        {
+            "asn": 62160,
+            "country_code": "CZ",
+            "description": "Hosting management company",
+            "name": "GM-AS"
+        },
+        {
+            "asn": 62363,
+            "country_code": "AT",
+            "description": "Ertl & Gross OG",
+            "name": "EGW-AS"
+        },
+        {
+            "asn": 196843,
+            "country_code": "CZ",
+            "description": "KHnet.info, z.s.",
+            "name": "KHNET"
+        },
+        {
+            "asn": 197029,
+            "country_code": "CZ",
+            "description": "LAM plus s.r.o.",
+            "name": "LAM-AS"
+        },
+        {
+            "asn": 197046,
+            "country_code": "CZ",
+            "description": "FIXnet s.r.o.",
+            "name": "AS_FIXNET"
+        },
+        {
+            "asn": 197197,
+            "country_code": "CZ",
+            "description": "M.NET STUDENKA s. r. o.",
+            "name": "M-NET"
+        },
+        {
+            "asn": 197307,
+            "country_code": "CZ",
+            "description": "Core4Net, s.r.o.",
+            "name": "bnet-internet_cz"
+        },
+        {
+            "asn": 199298,
+            "country_code": "CZ",
+            "description": "Jan Stetina",
+            "name": "GIGANETcz"
+        },
+        {
+            "asn": 199490,
+            "country_code": "CZ",
+            "description": "INTERCONNECT s.r.o.",
+            "name": "INTERCONNECT"
+        },
+        {
+            "asn": 199524,
+            "country_code": "AT",
+            "description": "G-Core Labs S.A.",
+            "name": "GCORE"
+        },
+        {
+            "asn": 199665,
+            "country_code": "CZ",
+            "description": "RADIOLINKplus.cz",
+            "name": "RADIOLINKplus1-NETWORK"
+        },
+        {
+            "asn": 200070,
+            "country_code": "CZ",
+            "description": "CZ.NIC, z.s.p.o.",
+            "name": "CZNIC-AS2"
+        },
+        {
+            "asn": 200155,
+            "country_code": "CZ",
+            "description": "Technologicke centrum Pisek s.r.o.",
+            "name": "AS-TCPISEK-CZ"
         },
         {
             "asn": 200932,
@@ -241,6 +2551,48 @@
             "country_code": "AT",
             "description": "Riepert Informationstechnologie OG",
             "name": "RIEPERT"
+        },
+        {
+            "asn": 202895,
+            "country_code": "CZ",
+            "description": "TFnet s.r.o.",
+            "name": "TFnet"
+        },
+        {
+            "asn": 202928,
+            "country_code": "AT",
+            "description": "z-ix.net",
+            "name": "Z-IX-AS"
+        },
+        {
+            "asn": 203072,
+            "country_code": "CZ",
+            "description": "DomaTV s.r.o.",
+            "name": "DomaTV"
+        },
+        {
+            "asn": 205243,
+            "country_code": "AT",
+            "description": "CloudNow GmbH",
+            "name": "CLOUDNOW-AS"
+        },
+        {
+            "asn": 207187,
+            "country_code": "CZ",
+            "description": "TKR Jasek, s.r.o.",
+            "name": "TKRJASEK"
+        },
+        {
+            "asn": 207203,
+            "country_code": "AT",
+            "description": "TIMEWARP IT Consulting GmbH",
+            "name": "TIMEWARP-AS"
+        },
+        {
+            "asn": 210283,
+            "country_code": "GB",
+            "description": "PitCom Limited",
+            "name": "PITCOM"
         }
     ]
 }
