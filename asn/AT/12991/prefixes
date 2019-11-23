@@ -53,6 +53,22 @@
         {
             "cidr": 48,
             "country_code": "AT",
+            "description": "Amt der Oberoesterreichischen Landesregierung",
+            "ip": "2001:628:2020::",
+            "name": "ooelr",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:628::",
+                "prefix": "2001:628::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:628:2020::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
             "description": "Government of Upper Austria",
             "ip": "2001:67c:148::",
             "name": "NET-OOELR",
