@@ -477,7 +477,7 @@
             "ipv4_address": "80.249.209.159",
             "ipv6_address": null,
             "name": "UARNET-AS",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 3257,
@@ -8346,6 +8346,15 @@
             "speed": 0
         },
         {
+            "asn": 205689,
+            "country_code": "NL",
+            "description": "Whatbox Inc.",
+            "ipv4_address": "80.249.211.194",
+            "ipv6_address": null,
+            "name": "WHATBOX-NL",
+            "speed": 10000
+        },
+        {
             "asn": 205943,
             "country_code": "PL",
             "description": "Rodasalir ehf",
@@ -8562,7 +8571,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 845,
+    "members_count": 846,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
