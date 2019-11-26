@@ -3054,6 +3054,15 @@
             "speed": 10000
         },
         {
+            "asn": 15606,
+            "country_code": "PL",
+            "description": "NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA INSTYTUT BADAWCZY",
+            "ipv4_address": "80.81.192.188",
+            "ipv6_address": "2001:7f8::3cf6:0:1",
+            "name": "NASK-DNS-ANYCAST",
+            "speed": 1000
+        },
+        {
             "asn": 15672,
             "country_code": "RU",
             "description": "advertise with no-export community (not available in all areas) x=7",
@@ -3430,6 +3439,15 @@
             "ipv6_address": null,
             "name": "TELECOM-NAMIBIA-AS",
             "speed": 5000
+        },
+        {
+            "asn": 20473,
+            "country_code": "US",
+            "description": "Choopa, LLC",
+            "ipv4_address": "80.81.196.21",
+            "ipv6_address": "2001:7f8::4ff9:0:1",
+            "name": "AS-CHOOPA",
+            "speed": 10000
         },
         {
             "asn": 20485,
@@ -7746,8 +7764,8 @@
             "asn": 63199,
             "country_code": "US",
             "description": "Capitalonline Data Service Co.,LTD",
-            "ipv4_address": "80.81.194.141",
-            "ipv6_address": "2001:7f8::f6df:0:1",
+            "ipv4_address": "80.81.196.60",
+            "ipv6_address": "2001:7f8::f6df:0:2",
             "name": "CDSC-AS1",
             "speed": 10000
         },
@@ -8607,7 +8625,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 823,
+    "members_count": 825,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
