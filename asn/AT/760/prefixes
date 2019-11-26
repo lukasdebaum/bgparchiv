@@ -113,5 +113,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 31,
+            "country_code": "AT",
+            "description": "IPv6 Network for Vienna University Campus IT Services",
+            "ip": "2001:62a::",
+            "name": "UNIVIE-V6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:628::",
+                "prefix": "2001:628::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:62a::/31",
+            "roa_status": "None"
+        }
+    ]
 }
