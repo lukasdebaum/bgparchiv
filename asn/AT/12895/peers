@@ -7,6 +7,12 @@
             "name": "SWISSCOM"
         },
         {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
+        },
+        {
             "asn": 6830,
             "country_code": "AT",
             "description": "formerly known as UPC Broadband Holding B.V.",
@@ -31,6 +37,18 @@
             "name": "COLT"
         },
         {
+            "asn": 13237,
+            "country_code": "DE",
+            "description": "European Backbone of AS13237",
+            "name": "LAMBDANET-AS"
+        },
+        {
+            "asn": 15576,
+            "country_code": "CH",
+            "description": "NTS workspace AG",
+            "name": "NTS"
+        },
+        {
             "asn": 24647,
             "country_code": "AT",
             "description": "s IT Solutions AT Spardat GmbH",
@@ -41,6 +59,18 @@
             "country_code": "DE",
             "description": "CORE-BACKBONE GMBH GLOBAL NETWORK",
             "name": "CORE-BACKBONE"
+        },
+        {
+            "asn": 34288,
+            "country_code": "CH",
+            "description": "EDU-ZG-CH - Public Schools in the Canton of Zug",
+            "name": "AS34288"
+        },
+        {
+            "asn": 35369,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "name": "LINZAG-TELEKOM-AS"
         },
         {
             "asn": 39912,
@@ -73,5 +103,12 @@
             "name": "NetIX"
         }
     ],
-    "ipv6_peers": []
+    "ipv6_peers": [
+        {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        }
+    ]
 }
