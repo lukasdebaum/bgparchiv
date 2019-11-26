@@ -739,6 +739,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 6,
+            "country_code": null,
+            "description": null,
+            "ip": "2800::",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "2800::/6",
+            "roa_status": "None"
+        },
+        {
             "cidr": 32,
             "country_code": "AT",
             "description": "oja.at GmbH",
