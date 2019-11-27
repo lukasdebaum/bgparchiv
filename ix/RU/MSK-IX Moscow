@@ -1305,7 +1305,7 @@
             "ipv4_address": "195.208.209.34",
             "ipv6_address": null,
             "name": "LEALTA-AS",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 41601,
@@ -1695,6 +1695,15 @@
             "speed": 1000
         },
         {
+            "asn": 48128,
+            "country_code": "RU",
+            "description": "Obyedinyonniye Lokalniye Seti Ltd.",
+            "ipv4_address": "195.208.209.115",
+            "ipv6_address": null,
+            "name": "U-LAN-AS",
+            "speed": 10000
+        },
+        {
             "asn": 48166,
             "country_code": "RU",
             "description": "FORTEX CJSC",
@@ -2071,6 +2080,15 @@
             "ipv6_address": "2001:7f8:20:101::208:130",
             "name": "QUANTILNETWORKS",
             "speed": 30000
+        },
+        {
+            "asn": 55256,
+            "country_code": "US",
+            "description": "Netskope Inc",
+            "ipv4_address": "195.208.209.199",
+            "ipv6_address": "2001:7f8:20:101::209:199",
+            "name": "NETSKOPE",
+            "speed": 10000
         },
         {
             "asn": 56340,
@@ -2604,7 +2622,7 @@
             "speed": 60000
         }
     ],
-    "members_count": 254,
+    "members_count": 256,
     "name": "MSK-IX Moscow",
     "name_full": "MSK-IX Moscow",
     "policy_email": "msk-adm@ix.ru",
