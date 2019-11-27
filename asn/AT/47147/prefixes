@@ -1235,6 +1235,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "Network powered by ANX",
+            "ip": "45.84.253.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.84.252.0",
+                "prefix": "45.84.252.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.84.253.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "punkt. netServices GmbH",
             "ip": "91.209.89.0",
             "name": "AT-PUNKT-NET",
@@ -1476,6 +1492,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "AT",
+            "description": "Network powered by ANX",
+            "ip": "2a00:11c0:4a::",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:4a::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "CH",
             "description": "Dedicated servers in CH",
             "ip": "2a00:11c0:5::",
@@ -1504,6 +1536,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a00:11c0:63::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Network powered by ANX",
+            "ip": "2a00:11c0:66::",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:66::/48",
             "roa_status": "None"
         },
         {
