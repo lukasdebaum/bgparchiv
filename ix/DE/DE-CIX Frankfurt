@@ -3438,7 +3438,7 @@
             "ipv4_address": "80.81.193.50",
             "ipv6_address": null,
             "name": "TELECOM-NAMIBIA-AS",
-            "speed": 5000
+            "speed": 10000
         },
         {
             "asn": 20473,
@@ -8472,6 +8472,15 @@
             "speed": 3000
         },
         {
+            "asn": 206825,
+            "country_code": "DE",
+            "description": "Alexander Siebnich",
+            "ipv4_address": "80.81.196.83",
+            "ipv6_address": "2001:7f8::3:27e9:0:1",
+            "name": "siebnich-com",
+            "speed": 10000
+        },
+        {
             "asn": 206892,
             "country_code": "HU",
             "description": "Rendszerinformatika Zrt.",
@@ -8625,7 +8634,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 825,
+    "members_count": 826,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
