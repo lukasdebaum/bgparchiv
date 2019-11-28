@@ -35,6 +35,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "Customers 6020 Innsbruck, Eduard-Bodem-Gasse",
+            "ip": "81.16.108.0",
+            "name": "DIC-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "81.16.104.0",
+                "prefix": "81.16.104.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.16.108.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "nets for DSL-customers with more then one fix ip",
             "ip": "81.16.109.0",
             "name": "DIC-NET",
