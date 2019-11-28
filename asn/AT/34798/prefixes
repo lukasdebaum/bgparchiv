@@ -1,4 +1,37 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "willhaben internet service GmbH & Co KG",
+            "ip": "193.19.120.0",
+            "name": "AT-WILLHABEN-20191004",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.19.120.0",
+                "prefix": "193.19.120.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.19.120.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "willhaben internet service GmbH & Co KG",
+            "ip": "193.22.104.0",
+            "name": "AT-WILLHABEN-20191004",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.22.104.0",
+                "prefix": "193.22.104.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.22.104.0/23",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
