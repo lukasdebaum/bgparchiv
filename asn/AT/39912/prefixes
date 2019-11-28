@@ -49,6 +49,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "195.137.238.0",
+            "name": "RISONLINE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.137.238.0",
+                "prefix": "195.137.238.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.137.238.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "oja.at GmbH",
@@ -545,6 +561,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "i3b",
+            "ip": "81.94.56.0",
+            "name": "I3B-DSL-VIENNA-47",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "81.94.48.0",
+                "prefix": "81.94.48.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.94.56.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "AT",
             "description": "oja.at GmbH",
@@ -641,6 +673,38 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "xpirio Telekommunikation & Service GmbH",
+            "ip": "92.63.217.0",
+            "name": "XPIRIO-HOUSING-KLU-NET2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "92.63.216.0",
+                "prefix": "92.63.216.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.63.217.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "xpirio Telekommunikation & Service GmbH",
+            "ip": "92.63.218.0",
+            "name": "XPIRIO-HOUSING-KLU-NET1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "92.63.216.0",
+                "prefix": "92.63.216.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.63.218.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 20,
             "country_code": "AT",
             "description": "oja.at GmbH",
@@ -704,6 +768,102 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a00:e98::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a01:100:1017::",
+            "name": "AT-OJA-20060519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:100::",
+                "prefix": "2a01:100::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:100:1017::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a01:100:1023::",
+            "name": "AT-OJA-20060519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:100::",
+                "prefix": "2a01:100::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:100:1023::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a01:100:1024::",
+            "name": "AT-OJA-20060519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:100::",
+                "prefix": "2a01:100::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:100:1024::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a01:100:1025::",
+            "name": "AT-OJA-20060519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:100::",
+                "prefix": "2a01:100::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:100:1025::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a01:100:1040::",
+            "name": "AT-OJA-20060519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:100::",
+                "prefix": "2a01:100::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:100:1040::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a01:100:1051::",
+            "name": "AT-OJA-20060519",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a01:100::",
+                "prefix": "2a01:100::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:100:1051::/48",
             "roa_status": "None"
         },
         {
