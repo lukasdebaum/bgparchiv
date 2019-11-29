@@ -1,7 +1,14 @@
 {
-    "combined_graph": null,
-    "ipv4_graph": null,
-    "ipv4_upstreams": [],
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS207791_Combined.svg",
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS207791_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 1764,
+            "country_code": "AT",
+            "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+            "name": "NEXTLAYER-AS"
+        }
+    ],
     "ipv6_graph": null,
     "ipv6_upstreams": []
 }
