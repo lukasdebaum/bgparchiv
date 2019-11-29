@@ -1,6 +1,12 @@
 {
     "ipv4_peers": [
         {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        },
+        {
             "asn": 6830,
             "country_code": "AT",
             "description": "formerly known as UPC Broadband Holding B.V.",
@@ -20,6 +26,12 @@
         }
     ],
     "ipv6_peers": [
+        {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
+        },
         {
             "asn": 8218,
             "country_code": "FR",
@@ -43,6 +55,12 @@
             "country_code": "CH",
             "description": "EDU-ZG-CH - Public Schools in the Canton of Zug",
             "name": "AS34288"
+        },
+        {
+            "asn": 35369,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "name": "LINZAG-TELEKOM-AS"
         },
         {
             "asn": 39912,
@@ -73,12 +91,6 @@
             "country_code": "BG",
             "description": "NetIX Communications Ltd.",
             "name": "NetIX"
-        },
-        {
-            "asn": 267613,
-            "country_code": "BR",
-            "description": "ELETRONET S.A.",
-            "name": "ELETRONET S.A."
         }
     ]
 }
