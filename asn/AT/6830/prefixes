@@ -3538,22 +3538,6 @@
         },
         {
             "cidr": 24,
-            "country_code": "CH",
-            "description": "Zuerich",
-            "ip": "194.147.235.0",
-            "name": "KOHLER-NET-BLOCK",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "194.147.234.0",
-                "prefix": "194.147.234.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "194.147.235.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
             "country_code": "LI",
             "description": "LGT Bank AG",
             "ip": "194.147.68.0",
@@ -3934,6 +3918,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "195.190.131.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "CH",
+            "description": "Trivadis Holding AG",
+            "ip": "195.191.188.0",
+            "name": "TRIVADIS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.191.188.0",
+                "prefix": "195.191.188.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.191.188.0/23",
             "roa_status": "None"
         },
         {
@@ -7678,6 +7678,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "46.252.136.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "Gemeente Utrecht",
+            "ip": "46.29.247.0",
+            "name": "NL-GEM-UTRECHT-20100819",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "46.29.240.0",
+                "prefix": "46.29.240.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.29.247.0/24",
             "roa_status": "None"
         },
         {
