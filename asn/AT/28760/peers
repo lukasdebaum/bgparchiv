@@ -37,10 +37,10 @@
             "name": "DECIX-AS"
         },
         {
-            "asn": 6730,
-            "country_code": "CH",
-            "description": "Sunrise Communications AG",
-            "name": "SUNRISE"
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
         },
         {
             "asn": 6939,
@@ -59,6 +59,12 @@
             "country_code": "RU",
             "description": "\"OBIT\" Ltd.",
             "name": "OBIT-AS"
+        },
+        {
+            "asn": 8732,
+            "country_code": "RU",
+            "description": "Moscow",
+            "name": "COMCOR-AS"
         },
         {
             "asn": 12552,
@@ -103,12 +109,6 @@
             "name": "NTS"
         },
         {
-            "asn": 15605,
-            "country_code": "IT",
-            "description": "Connesi s.p.a.",
-            "name": "CONNESI"
-        },
-        {
             "asn": 15704,
             "country_code": "ES",
             "description": "XTRA TELECOM S.A.",
@@ -139,12 +139,6 @@
             "name": "BRENNERCOM-AS"
         },
         {
-            "asn": 22356,
-            "country_code": "BR",
-            "description": "Durand do Brasil Ltda",
-            "name": "Durand do Brasil Ltda"
-        },
-        {
             "asn": 24482,
             "country_code": "SG",
             "description": "SG.GS",
@@ -155,6 +149,12 @@
             "country_code": "PL",
             "description": "ATM S.A.",
             "name": "ATMAN-Foreign-AS"
+        },
+        {
+            "asn": 24811,
+            "country_code": "RU",
+            "description": "Closed Joint Stock Company Kuzbassenergosviaz",
+            "name": "KES-AS"
         },
         {
             "asn": 24961,
@@ -175,34 +175,16 @@
             "name": "GLOBALNOC-AS"
         },
         {
-            "asn": 28186,
-            "country_code": "BR",
-            "description": "ITS TELECOMUNICACOES LTDA",
-            "name": "ITS TELECOMUNICACOES LTDA"
-        },
-        {
             "asn": 28716,
             "country_code": "IT",
             "description": "Internet Service Provider",
             "name": "RETELIT-AS"
         },
         {
-            "asn": 29075,
-            "country_code": "FR",
-            "description": "IELO Main Network",
-            "name": "IELO"
-        },
-        {
             "asn": 29140,
             "country_code": "DE",
             "description": "Hostserver GmbH",
             "name": "HOSTSERVER-AS"
-        },
-        {
-            "asn": 30781,
-            "country_code": "FR",
-            "description": "Jaguar Network SAS",
-            "name": "JAGUAR-AS"
         },
         {
             "asn": 33891,
@@ -217,12 +199,6 @@
             "name": "HIVANE"
         },
         {
-            "asn": 34177,
-            "country_code": "FR",
-            "description": "CELESTE - Internet services provider",
-            "name": "CELESTE-AS"
-        },
-        {
             "asn": 34224,
             "country_code": "BG",
             "description": "Neterra Ltd.",
@@ -235,22 +211,16 @@
             "name": "AS34288"
         },
         {
+            "asn": 35369,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "name": "LINZAG-TELEKOM-AS"
+        },
+        {
             "asn": 37100,
             "country_code": "MU",
             "description": "SEACOM Limited",
             "name": "SEACOM-AS"
-        },
-        {
-            "asn": 37468,
-            "country_code": "AO",
-            "description": "ANGOLA Cables",
-            "name": "ANGOLA-CABLES"
-        },
-        {
-            "asn": 37497,
-            "country_code": "ZA",
-            "description": "Network Platforms Pty Ltd",
-            "name": "Network-Platforms"
         },
         {
             "asn": 39122,
@@ -301,12 +271,6 @@
             "name": "TKSWF-AS"
         },
         {
-            "asn": 48858,
-            "country_code": "RU",
-            "description": "LLC Milecom",
-            "name": "Milecom-as"
-        },
-        {
             "asn": 49605,
             "country_code": "IT",
             "description": "DTS",
@@ -325,22 +289,10 @@
             "name": "LWLCOM"
         },
         {
-            "asn": 52320,
-            "country_code": "CO",
-            "description": "GlobeNet Cabos Submarinos Colombia, S.A.S.",
-            "name": "GlobeNet Cabos Submarinos Colombia, S.A.S."
-        },
-        {
-            "asn": 52873,
-            "country_code": "BR",
-            "description": "SOFTDADOS CONECTIVIDADE",
-            "name": "SOFTDADOS CONECTIVIDADE"
-        },
-        {
-            "asn": 56665,
-            "country_code": "LU",
-            "description": "Proximus Luxembourg S.A.",
-            "name": "TANGO-TELINDUS"
+            "asn": 51907,
+            "country_code": "RU",
+            "description": "Frontier Network LLC",
+            "name": "FRONTIERNETWORK-AS"
         },
         {
             "asn": 57111,
@@ -389,12 +341,6 @@
             "country_code": "AT",
             "description": "Frauscher Sensor Technology Group GmbH",
             "name": "frauscher"
-        },
-        {
-            "asn": 267613,
-            "country_code": "BR",
-            "description": "ELETRONET S.A.",
-            "name": "ELETRONET S.A."
         }
     ],
     "ipv6_peers": [
@@ -427,6 +373,12 @@
             "country_code": "AT",
             "description": "Vienna, Austria",
             "name": "PROFINET-AT"
+        },
+        {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
         },
         {
             "asn": 6939,
@@ -463,12 +415,6 @@
             "country_code": "CH",
             "description": "Providing services to FTTH, DOCSIS and DSL networks in Switzerland",
             "name": "NETPLUS"
-        },
-        {
-            "asn": 16347,
-            "country_code": "FR",
-            "description": "ADISTA SAS",
-            "name": "RMI-FITECH"
         },
         {
             "asn": 17639,
@@ -513,10 +459,10 @@
             "name": "GLOBALNOC-AS"
         },
         {
-            "asn": 28186,
-            "country_code": "BR",
-            "description": "ITS TELECOMUNICACOES LTDA",
-            "name": "ITS TELECOMUNICACOES LTDA"
+            "asn": 28917,
+            "country_code": "RU",
+            "description": "IP-transit operator in Russia, Ukraine and Baltics",
+            "name": "Fiord-AS"
         },
         {
             "asn": 29140,
@@ -543,16 +489,16 @@
             "name": "AS34288"
         },
         {
+            "asn": 35369,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "name": "LINZAG-TELEKOM-AS"
+        },
+        {
             "asn": 37100,
             "country_code": "MU",
             "description": "SEACOM Limited",
             "name": "SEACOM-AS"
-        },
-        {
-            "asn": 37468,
-            "country_code": "AO",
-            "description": "ANGOLA Cables",
-            "name": "ANGOLA-CABLES"
         },
         {
             "asn": 39122,
@@ -621,18 +567,6 @@
             "name": "LWLCOM"
         },
         {
-            "asn": 52873,
-            "country_code": "BR",
-            "description": "SOFTDADOS CONECTIVIDADE",
-            "name": "SOFTDADOS CONECTIVIDADE"
-        },
-        {
-            "asn": 56665,
-            "country_code": "LU",
-            "description": "Proximus Luxembourg S.A.",
-            "name": "TANGO-TELINDUS"
-        },
-        {
             "asn": 57111,
             "country_code": "IT",
             "description": "ALTITUD S.r.l.",
@@ -679,12 +613,6 @@
             "country_code": "AT",
             "description": "Frauscher Sensor Technology Group GmbH",
             "name": "frauscher"
-        },
-        {
-            "asn": 267613,
-            "country_code": "BR",
-            "description": "ELETRONET S.A.",
-            "name": "ELETRONET S.A."
         }
     ]
 }
