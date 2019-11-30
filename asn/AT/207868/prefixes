@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "HENNLICH GmbH & Co KG",
+            "ip": "80.120.12.0",
+            "name": "HENNLICH-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "80.120.0.0",
+                "prefix": "80.120.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.120.12.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
