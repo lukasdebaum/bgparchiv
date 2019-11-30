@@ -17,5 +17,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "NTB SOLUTIONS GmbH",
+            "ip": "2a01:190:151e::",
+            "name": "NTB-V6-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a01:190::",
+                "prefix": "2a01:190::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:190:151e::/48",
+            "roa_status": "None"
+        }
+    ]
 }
