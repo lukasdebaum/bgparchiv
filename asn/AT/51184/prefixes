@@ -17,6 +17,54 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "178.251.65.0",
+            "name": "MEDIAINVENT-VIX",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.65.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "fonira Telekom GmbH",
+            "ip": "178.251.66.0",
+            "name": "AT-FONIRA-20100621",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.66.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "FONIRA PPP USERS",
+            "ip": "178.251.68.0",
+            "name": "FONIRA-PPP-USERS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.68.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "Fonira Telekom GmbH",
