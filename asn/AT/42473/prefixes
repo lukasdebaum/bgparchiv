@@ -2210,6 +2210,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "DE",
+            "description": "Dedicated servers in DE",
+            "ip": "217.146.3.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "217.146.0.0",
+                "prefix": "217.146.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.146.3.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "AT",
             "description": "DATASIX Rechenzentrumsbetriebs GmbH",
             "ip": "217.146.30.0",

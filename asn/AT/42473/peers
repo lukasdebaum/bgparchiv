@@ -7,6 +7,12 @@
             "name": "WOODYNET-1"
         },
         {
+            "asn": 112,
+            "country_code": "US",
+            "description": "DNS-OARC",
+            "name": "ROOTSERV"
+        },
+        {
             "asn": 286,
             "country_code": "NL",
             "description": "KPN Internet Solutions",
@@ -35,12 +41,6 @@
             "country_code": "BR",
             "description": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO SAO PAULO",
             "name": "FUNDACAO DE AMPARO A PESQUISA DO ESTADO SAO PAULO"
-        },
-        {
-            "asn": 1257,
-            "country_code": "EU",
-            "description": "TELE2",
-            "name": "SWIPNET"
         },
         {
             "asn": 1267,
@@ -85,12 +85,6 @@
             "name": "UNITAS"
         },
         {
-            "asn": 1880,
-            "country_code": "SE",
-            "description": "STUPI AB",
-            "name": "STUPI"
-        },
-        {
             "asn": 1916,
             "country_code": "BR",
             "description": "Associacao Rede Nacional de Ensino e Pesquisa",
@@ -121,6 +115,12 @@
             "name": "NIC-FR-DNS-ANYCAST-AFNIC"
         },
         {
+            "asn": 2486,
+            "country_code": "FR",
+            "description": "AFNIC (Association Francaise pour le Nommage Internet en Cooperation)",
+            "name": "NIC-FR-DNS-UNICAST-PARIS2"
+        },
+        {
             "asn": 2611,
             "country_code": "BE",
             "description": "BELNET",
@@ -143,12 +143,6 @@
             "country_code": "US",
             "description": "AT&T Global Network Services, LLC",
             "name": "ATGS-MMD-AS"
-        },
-        {
-            "asn": 2874,
-            "country_code": "SE",
-            "description": "ORANGE BUSINESS SERVICES U.S. Inc.",
-            "name": "ORANGE-BUSINESS-SERVICES-NORDICS"
         },
         {
             "asn": 2906,
@@ -175,22 +169,10 @@
             "name": "XTOM"
         },
         {
-            "asn": 3216,
-            "country_code": "RU",
-            "description": "PJSC \"Vimpelcom\"",
-            "name": "SOVAM-AS"
-        },
-        {
             "asn": 3223,
             "country_code": "GB",
             "description": "Voxility LLP",
             "name": "VOXILITY"
-        },
-        {
-            "asn": 3238,
-            "country_code": "FI",
-            "description": "Alands Telekommunikation Ab",
-            "name": "ALCOM"
         },
         {
             "asn": 3255,
@@ -373,12 +355,6 @@
             "name": "TTI-NET"
         },
         {
-            "asn": 6667,
-            "country_code": "FI",
-            "description": "Elisa Oyj",
-            "name": "EUNET-FINLAND"
-        },
-        {
             "asn": 6677,
             "country_code": "IS",
             "description": "Siminn hf",
@@ -487,10 +463,22 @@
             "name": "TAVOLA CONECTIVIDADE LTDA."
         },
         {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK"
+        },
+        {
             "asn": 8218,
             "country_code": "FR",
             "description": "legacy Neotelecoms",
             "name": "NEO-ASN"
+        },
+        {
+            "asn": 8220,
+            "country_code": "GB",
+            "description": "COLT Technology Services Group Limited",
+            "name": "COLT"
         },
         {
             "asn": 8262,
@@ -535,6 +523,12 @@
             "name": "NETCOLOGNE"
         },
         {
+            "asn": 8426,
+            "country_code": "GB",
+            "description": "ClaraNET LTD",
+            "name": "CLARANET-AS"
+        },
+        {
             "asn": 8468,
             "country_code": "GB",
             "description": "ENTANET International Limited",
@@ -577,10 +571,22 @@
             "name": "BEZEQ-INTERNATIONAL-AS"
         },
         {
+            "asn": 8554,
+            "country_code": "FR",
+            "description": "ATSAT Autonomous System",
+            "name": "ATSAT"
+        },
+        {
             "asn": 8560,
             "country_code": "DE",
             "description": "Brauerstrasse 48",
             "name": "ONEANDONE-AS"
+        },
+        {
+            "asn": 8632,
+            "country_code": "LU",
+            "description": "lu",
+            "name": "LOL-AS"
         },
         {
             "asn": 8674,
@@ -601,12 +607,6 @@
             "name": "NOMINET"
         },
         {
-            "asn": 8728,
-            "country_code": "EE",
-            "description": "AS INFONET",
-            "name": "UNSPECIFIED"
-        },
-        {
             "asn": 8732,
             "country_code": "RU",
             "description": "Moscow",
@@ -623,6 +623,12 @@
             "country_code": "GB",
             "description": "Novosco Limited",
             "name": "NOV-AS"
+        },
+        {
+            "asn": 8816,
+            "country_code": "IT",
+            "description": "Metrolink S.R.L.",
+            "name": "IT-STCOM"
         },
         {
             "asn": 8851,
@@ -679,22 +685,16 @@
             "name": "ASN-ORANGE-ROMANIA"
         },
         {
-            "asn": 8995,
-            "country_code": "SE",
-            "description": "LM Jogback Datakonsult",
-            "name": "JOGBACK"
+            "asn": 8966,
+            "country_code": "AE",
+            "description": "P.O. Box 1150, Dubai, UAE",
+            "name": "Etisalat-AS"
         },
         {
             "asn": 9002,
             "country_code": "EU",
             "description": "RETN Limited",
             "name": "RETN-AS"
-        },
-        {
-            "asn": 9009,
-            "country_code": "GB",
-            "description": "M247 Ltd",
-            "name": "M247"
         },
         {
             "asn": 9029,
@@ -919,18 +919,6 @@
             "name": "EE"
         },
         {
-            "asn": 12578,
-            "country_code": "LV",
-            "description": "Latvia",
-            "name": "APOLLO-AS"
-        },
-        {
-            "asn": 12597,
-            "country_code": "SE",
-            "description": "Gotalandsnatet AB",
-            "name": "GOTANET"
-        },
-        {
             "asn": 12654,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
@@ -941,12 +929,6 @@
             "country_code": "GR",
             "description": "6-8 Agisilaou Str., 15123 Maroussi, Hellas",
             "name": "OTEGlobe"
-        },
-        {
-            "asn": 12714,
-            "country_code": "RU",
-            "description": "Moscow, Russia",
-            "name": "TI-AS"
         },
         {
             "asn": 12759,
@@ -965,12 +947,6 @@
             "country_code": "IT",
             "description": "Fastweb SpA",
             "name": "FASTWEB"
-        },
-        {
-            "asn": 12939,
-            "country_code": "SE",
-            "description": "Hanse Holding AB",
-            "name": "HANSE-AS"
         },
         {
             "asn": 12969,
@@ -1009,16 +985,10 @@
             "name": "MANX-AS"
         },
         {
-            "asn": 13189,
-            "country_code": "SE",
-            "description": "Lidero Network",
-            "name": "LIDERO"
-        },
-        {
-            "asn": 13194,
-            "country_code": "LT",
-            "description": "Bite IP Network",
-            "name": "BITE"
+            "asn": 13193,
+            "country_code": "FR",
+            "description": "Nerim SAS",
+            "name": "ASN-NERIM"
         },
         {
             "asn": 13213,
@@ -1123,6 +1093,12 @@
             "name": "SALESFORCE"
         },
         {
+            "asn": 14413,
+            "country_code": "US",
+            "description": "LinkedIn Corporation",
+            "name": "LINKEDIN"
+        },
+        {
             "asn": 14463,
             "country_code": "BR",
             "description": "TDKOM INFORMATICA LTDA.",
@@ -1195,6 +1171,12 @@
             "name": "NETPLUS"
         },
         {
+            "asn": 15557,
+            "country_code": "FR",
+            "description": "SFR SA",
+            "name": "LDCOMNET"
+        },
+        {
             "asn": 15589,
             "country_code": "IT",
             "description": "CLOUDITALIA TELECOMUNICAZIONI S.P.A.",
@@ -1255,16 +1237,16 @@
             "name": "NET-PRO-AS"
         },
         {
+            "asn": 16080,
+            "country_code": "FR",
+            "description": "Dalenys Payment SAS",
+            "name": "Dalenys"
+        },
+        {
             "asn": 16082,
             "country_code": "GB",
             "description": "Spitfire Network Services Limited",
             "name": "SPITFIRE"
-        },
-        {
-            "asn": 16086,
-            "country_code": "FI",
-            "description": "DNA Oyj",
-            "name": "DNA"
         },
         {
             "asn": 16164,
@@ -1447,12 +1429,6 @@
             "name": "DOSARREST"
         },
         {
-            "asn": 19399,
-            "country_code": "EU",
-            "description": "Stockholms Lans Landsting",
-            "name": "SLLNET"
-        },
-        {
             "asn": 19551,
             "country_code": "US",
             "description": "Incapsula Inc",
@@ -1481,12 +1457,6 @@
             "country_code": "US",
             "description": "ICANN",
             "name": "L-ROOT"
-        },
-        {
-            "asn": 20278,
-            "country_code": "US",
-            "description": "Nexeon Technologies, Inc.",
-            "name": "NEXEON"
         },
         {
             "asn": 20473,
@@ -1529,6 +1499,12 @@
             "country_code": "RU",
             "description": "CJSC RASCOM ISP",
             "name": "RASCOM-AS"
+        },
+        {
+            "asn": 20766,
+            "country_code": "FR",
+            "description": "The main Autonomous System of Gitoyen (Paris, France).",
+            "name": "GITOYEN-MAIN-AS"
         },
         {
             "asn": 20799,
@@ -1595,6 +1571,12 @@
             "country_code": "GB",
             "description": "ServerHouse Ltd",
             "name": "SERVERHOUSE"
+        },
+        {
+            "asn": 21502,
+            "country_code": "FR",
+            "description": "SFR SA",
+            "name": "ASN-NUMERICABLE"
         },
         {
             "asn": 21574,
@@ -1667,6 +1649,12 @@
             "country_code": "US",
             "description": "Roblox",
             "name": "ROBLOX-PRODUCTION"
+        },
+        {
+            "asn": 22822,
+            "country_code": "US",
+            "description": "Limelight Networks, Inc.",
+            "name": "LLNW"
         },
         {
             "asn": 22908,
@@ -1763,6 +1751,12 @@
             "country_code": "AU",
             "description": "Virtutel Pty Ltd",
             "name": "VIRTUTEL-AS-AP"
+        },
+        {
+            "asn": 24904,
+            "country_code": "FR",
+            "description": "K-NET SARL",
+            "name": "KWAOO"
         },
         {
             "asn": 24916,
@@ -1999,12 +1993,6 @@
             "name": "AR TELECOM PROVEDOR DE INTERNET LTDA"
         },
         {
-            "asn": 28156,
-            "country_code": "BR",
-            "description": "Linhares Servicos Online LTDA EPP",
-            "name": "Linhares Servicos Online LTDA EPP"
-        },
-        {
             "asn": 28158,
             "country_code": "BR",
             "description": "Ampernet Telecomunicacoes Ltda",
@@ -2075,6 +2063,12 @@
             "country_code": "BR",
             "description": "Jupiter Telecomunicacoes e Informatica Ltda",
             "name": "Jupiter Telecomunicacoes e Informatica Ltda"
+        },
+        {
+            "asn": 28196,
+            "country_code": "BR",
+            "description": "BANCO VOTORANTIM S/A",
+            "name": "BANCO VOTORANTIM S/A"
         },
         {
             "asn": 28198,
@@ -2659,6 +2653,18 @@
             "name": "GANDI-AS"
         },
         {
+            "asn": 29246,
+            "country_code": "FR",
+            "description": "OPTILIAN SARL",
+            "name": "OPTILIAN-AS"
+        },
+        {
+            "asn": 29286,
+            "country_code": "IT",
+            "description": "SKYLOGIC S.P.A.",
+            "name": "SKYLOGIC-AS"
+        },
+        {
             "asn": 29314,
             "country_code": "PL",
             "description": "Al. Zwyciestwa 253, 81-525 Gdynia, Poland",
@@ -2677,16 +2683,16 @@
             "name": "SECURA-AS"
         },
         {
-            "asn": 29518,
-            "country_code": "SE",
-            "description": "Bredband2 AB",
-            "name": "BREDBAND2"
-        },
-        {
             "asn": 29527,
             "country_code": "GB",
             "description": "Astutium Limited",
             "name": "ASTUTIUM-AS"
+        },
+        {
+            "asn": 29605,
+            "country_code": "FR",
+            "description": "32 rue Delizy",
+            "name": "BCS"
         },
         {
             "asn": 29606,
@@ -2699,12 +2705,6 @@
             "country_code": "GB",
             "description": "http://www.vxtream.com/",
             "name": "QUBE"
-        },
-        {
-            "asn": 29672,
-            "country_code": "SE",
-            "description": "S:t Erik Kommunikation AB",
-            "name": "STEK-AS"
         },
         {
             "asn": 29697,
@@ -2749,12 +2749,6 @@
             "name": "LIQUID-AS"
         },
         {
-            "asn": 30880,
-            "country_code": "SE",
-            "description": "This ASN is located on STHIX at Tulegatan Stokab",
-            "name": "SPACEDUMP-AS"
-        },
-        {
             "asn": 30931,
             "country_code": "GB",
             "description": "IG Index Ltd.",
@@ -2783,12 +2777,6 @@
             "country_code": "IE",
             "description": "Digiweb ltd",
             "name": "DIGIWEB-AS"
-        },
-        {
-            "asn": 31133,
-            "country_code": "RU",
-            "description": "PJSC MegaFon",
-            "name": "MF-MGSM-AS"
         },
         {
             "asn": 31216,
@@ -2923,6 +2911,12 @@
             "name": "AQL"
         },
         {
+            "asn": 33930,
+            "country_code": "FR",
+            "description": "ACORUS",
+            "name": "INTRINSEC-AS"
+        },
+        {
             "asn": 33941,
             "country_code": "GB",
             "description": "Gconnect Autonomous System",
@@ -3001,6 +2995,12 @@
             "name": "VIA"
         },
         {
+            "asn": 34863,
+            "country_code": "FR",
+            "description": "HEXANET SAS",
+            "name": "HEXANET"
+        },
+        {
             "asn": 34967,
             "country_code": "GB",
             "description": "DRD Communications Limited",
@@ -3073,10 +3073,16 @@
             "name": "GTECH"
         },
         {
-            "asn": 35706,
-            "country_code": "SE",
-            "description": "Net at Once Sweden AB",
-            "name": "NAO"
+            "asn": 35625,
+            "country_code": "FR",
+            "description": "Eurafibre SAS",
+            "name": "EURAFIBRE-AS"
+        },
+        {
+            "asn": 35717,
+            "country_code": "FR",
+            "description": "WEBEDIA SA",
+            "name": "JEUXVIDEO-NETWORK"
         },
         {
             "asn": 35799,
@@ -3125,6 +3131,12 @@
             "country_code": "US",
             "description": "CDNetworks Inc.",
             "name": "CDNETWORKSUS-02"
+        },
+        {
+            "asn": 36692,
+            "country_code": "US",
+            "description": "Cisco OpenDNS, LLC",
+            "name": "OPENDNS"
         },
         {
             "asn": 36874,
@@ -3245,6 +3257,12 @@
             "country_code": "BW",
             "description": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
             "name": "BOFINET"
+        },
+        {
+            "asn": 37680,
+            "country_code": "ZA",
+            "description": "Cool Ideas Service Provider (Pty) Ltd",
+            "name": "COOL-IDEAS"
         },
         {
             "asn": 37697,
@@ -3373,12 +3391,6 @@
             "name": "HNS"
         },
         {
-            "asn": 39642,
-            "country_code": "DK",
-            "description": "Stofa A/S",
-            "name": "DK-ESS-AS"
-        },
-        {
             "asn": 39651,
             "country_code": "SE",
             "description": "Com Hem AB",
@@ -3487,12 +3499,6 @@
             "name": "VOSTRON-AS"
         },
         {
-            "asn": 41753,
-            "country_code": "SE",
-            "description": "Quality of Service Networks Sweden AB",
-            "name": "TELELOCATION"
-        },
-        {
             "asn": 41811,
             "country_code": "GB",
             "description": "CONVERGENCE (GROUP NETWORKS) LIMITED",
@@ -3565,12 +3571,6 @@
             "name": "OpenMarket"
         },
         {
-            "asn": 42649,
-            "country_code": "SE",
-            "description": "Baffin Bay Networks AB",
-            "name": "bbn"
-        },
-        {
             "asn": 42689,
             "country_code": "GB",
             "description": "Cablecom Networking Limited",
@@ -3593,6 +3593,12 @@
             "country_code": "GB",
             "description": "York Data Services Limited",
             "name": "YorkDataServices"
+        },
+        {
+            "asn": 43142,
+            "country_code": "FR",
+            "description": "ADELI SAS",
+            "name": "AdeliNovius"
         },
         {
             "asn": 43256,
@@ -3637,46 +3643,16 @@
             "name": "TELEDATA"
         },
         {
-            "asn": 43727,
-            "country_code": "RU",
-            "description": "KVANT-TELEKOM Closed Joint Stock Company",
-            "name": "KVANT-TELECOM"
-        },
-        {
-            "asn": 43809,
-            "country_code": "SE",
-            "description": "Forss Webservice AB (Forss Bredband)",
-            "name": "FORSS"
-        },
-        {
-            "asn": 43893,
-            "country_code": "SE",
-            "description": "Mainloop AB",
-            "name": "MAINLOOP-AS"
-        },
-        {
             "asn": 43996,
             "country_code": "NL",
             "description": "Booking.com",
             "name": "Booking-BV"
         },
         {
-            "asn": 44020,
-            "country_code": "RU",
-            "description": "Modern Solutions LTD",
-            "name": "CLN-AS"
-        },
-        {
-            "asn": 44034,
-            "country_code": "SE",
-            "description": "Hi3G Access AB",
-            "name": "hi3g"
-        },
-        {
-            "asn": 44123,
-            "country_code": "SE",
-            "description": "| TRANSIT IPv4                                       |",
-            "name": "TELAVOX"
+            "asn": 44099,
+            "country_code": "FR",
+            "description": "RUNISO Autonomous System",
+            "name": "RUNISO-AS"
         },
         {
             "asn": 44314,
@@ -3733,12 +3709,6 @@
             "name": "MYTHIC"
         },
         {
-            "asn": 44843,
-            "country_code": "RU",
-            "description": "OBTEL Ltd.",
-            "name": "OBTEL-AS"
-        },
-        {
             "asn": 44965,
             "country_code": "GB",
             "description": "Contactual Inc.",
@@ -3749,12 +3719,6 @@
             "country_code": "GB",
             "description": "Oosha Limited AS",
             "name": "Oosha"
-        },
-        {
-            "asn": 45011,
-            "country_code": "SE",
-            "description": "http://www.a3.se/",
-            "name": "SE-A3"
         },
         {
             "asn": 45014,
@@ -3779,6 +3743,12 @@
             "country_code": "HK",
             "description": "NEXUSGUARD LIMITED",
             "name": "NEXUSGUARD-AS-AP"
+        },
+        {
+            "asn": 45629,
+            "country_code": "TH",
+            "description": "JasTel Network International Gateway",
+            "name": "JASTEL-NETWORK-TH-AP"
         },
         {
             "asn": 45758,
@@ -3815,6 +3785,12 @@
             "country_code": "GB",
             "description": "LDeX Connect LTD",
             "name": "LDEX"
+        },
+        {
+            "asn": 47406,
+            "country_code": "IT",
+            "description": "ERRE ELLE NET s.r.l.",
+            "name": "RLNET-AS"
         },
         {
             "asn": 47447,
@@ -3859,12 +3835,6 @@
             "name": "ACADEMIA-AS"
         },
         {
-            "asn": 47708,
-            "country_code": "SE",
-            "description": "Sveriges Radio AB",
-            "name": "SVERIGES-RADIO"
-        },
-        {
             "asn": 47720,
             "country_code": "IE",
             "description": "CORK INTERNET EXCHANGE LIMITED",
@@ -3883,22 +3853,10 @@
             "name": "NETROUTING-AS"
         },
         {
-            "asn": 47872,
-            "country_code": "BG",
-            "description": "Sofia Connect EAD",
-            "name": "SOFIA-CONNECT-AS"
-        },
-        {
             "asn": 47998,
             "country_code": "GB",
             "description": "Oscar Music & Media Ltd.",
             "name": "OSCARMUSIC"
-        },
-        {
-            "asn": 47999,
-            "country_code": "GB",
-            "description": "Transversal Corporation Ltd",
-            "name": "TCL-AS"
         },
         {
             "asn": 48101,
@@ -3967,12 +3925,6 @@
             "name": "SELECTEL"
         },
         {
-            "asn": 49515,
-            "country_code": "SE",
-            "description": "Nordiska Servercentralen AB",
-            "name": "Servercentralen"
-        },
-        {
             "asn": 49544,
             "country_code": "NL",
             "description": "i3D.net B.V",
@@ -3983,12 +3935,6 @@
             "country_code": "IT",
             "description": "DTS",
             "name": "DTS-AS"
-        },
-        {
-            "asn": 49770,
-            "country_code": "SE",
-            "description": "Internetport Sweden AB",
-            "name": "INTERNETPORT-AS"
         },
         {
             "asn": 50056,
@@ -4027,6 +3973,12 @@
             "name": "CITRUS-AS"
         },
         {
+            "asn": 50620,
+            "country_code": "FR",
+            "description": "Blue Networks Technologies SARL",
+            "name": "BLUENET-TECH-AS"
+        },
+        {
             "asn": 50629,
             "country_code": "DE",
             "description": "LWLcom GmbH",
@@ -4045,22 +3997,10 @@
             "name": "AIRBEAM-AS"
         },
         {
-            "asn": 50923,
-            "country_code": "RU",
-            "description": "Metroset Autonomous System",
-            "name": "METRO-SET-AS"
-        },
-        {
             "asn": 50957,
             "country_code": "GB",
             "description": "MEMSET Ltd",
             "name": "MEMSET"
-        },
-        {
-            "asn": 50986,
-            "country_code": "SE",
-            "description": "Excellent Hosting Sweden AB",
-            "name": "EXCELLENT-HOSTING"
         },
         {
             "asn": 51028,
@@ -4103,12 +4043,6 @@
             "country_code": "AT",
             "description": "Heinrich THURNER",
             "name": "THURNER-AS"
-        },
-        {
-            "asn": 51430,
-            "country_code": "NL",
-            "description": "AltusHost B.V.",
-            "name": "ALTUS"
         },
         {
             "asn": 51453,
@@ -4181,12 +4115,6 @@
             "country_code": "BR",
             "description": "3Net Telecomunicacoes Ltda-ME",
             "name": "3Net Telecomunicacoes Ltda-ME"
-        },
-        {
-            "asn": 52545,
-            "country_code": "BR",
-            "description": "BJ NET Provedor de Internet Ltda. - ME",
-            "name": "BJ NET Provedor de Internet Ltda. - ME"
         },
         {
             "asn": 52551,
@@ -4319,12 +4247,6 @@
             "country_code": "BR",
             "description": "F.J.FANTINI AMPARO ME",
             "name": "F.J.FANTINI AMPARO ME"
-        },
-        {
-            "asn": 52689,
-            "country_code": "BR",
-            "description": "ESPACO DIGITAL",
-            "name": "ESPACO DIGITAL"
         },
         {
             "asn": 52696,
@@ -4511,12 +4433,6 @@
             "country_code": "BR",
             "description": "INTERPRIME TELECOMUNICACOES LTDA ME",
             "name": "INTERPRIME TELECOMUNICACOES LTDA ME"
-        },
-        {
-            "asn": 52878,
-            "country_code": "BR",
-            "description": "REDE DE TELECOMUNICACOES CARAJAS LTDA",
-            "name": "REDE DE TELECOMUNICACOES CARAJAS LTDA"
         },
         {
             "asn": 52887,
@@ -4735,12 +4651,6 @@
             "name": "Bom Tempo Informatica Ltda"
         },
         {
-            "asn": 53057,
-            "country_code": "BR",
-            "description": "RedeHost Internet Ltda.",
-            "name": "RedeHost Internet Ltda."
-        },
-        {
             "asn": 53059,
             "country_code": "BR",
             "description": "Center Prestadora Servicos S/C Ltda",
@@ -4903,6 +4813,12 @@
             "name": "ASSOCIACAO NACIONAL DAS EMPRESAS DE SOLUCOES DE IN"
         },
         {
+            "asn": 53119,
+            "country_code": "BR",
+            "description": "H3000 Tecnologia",
+            "name": "H3000 Tecnologia"
+        },
+        {
             "asn": 53120,
             "country_code": "BR",
             "description": "MUNDIVOX LTDA",
@@ -5033,6 +4949,12 @@
             "country_code": "BR",
             "description": "Next Telecomunicacoes do Brasil LTDA",
             "name": "Next Telecomunicacoes do Brasil LTDA"
+        },
+        {
+            "asn": 53180,
+            "country_code": "BR",
+            "description": "Infortel Telecomunicacoes e Servicos EIRELI - ME",
+            "name": "Infortel Telecomunicacoes e Servicos EIRELI - ME"
         },
         {
             "asn": 53181,
@@ -5167,12 +5089,6 @@
             "name": "Cyber Info Provedor de Acesso LTDA ME"
         },
         {
-            "asn": 53264,
-            "country_code": "US",
-            "description": "New Continuum Holdings Corporation",
-            "name": "NCHC-603"
-        },
-        {
             "asn": 54113,
             "country_code": "US",
             "description": "Fastly",
@@ -5195,12 +5111,6 @@
             "country_code": "US",
             "description": "Neutrona Networks International LLC",
             "name": "NEUTRONA-NETWORKS-INTERNATIONAL"
-        },
-        {
-            "asn": 55818,
-            "country_code": "ID",
-            "description": "MC-IX Matrix Internet Exchange RS-1",
-            "name": "MCIX-AS-AP"
         },
         {
             "asn": 56258,
@@ -5317,6 +5227,12 @@
             "name": "AtendeSoftware"
         },
         {
+            "asn": 57928,
+            "country_code": "FR",
+            "description": "PRODWARE SA",
+            "name": "PRODWARE-AS"
+        },
+        {
             "asn": 57976,
             "country_code": "EU",
             "description": "Blizzard Entertainment, Inc",
@@ -5333,6 +5249,12 @@
             "country_code": "GB",
             "description": "Broadband for the Rural North Limited.",
             "name": "B4RN-AS"
+        },
+        {
+            "asn": 58308,
+            "country_code": "FR",
+            "description": "Cusae SARL",
+            "name": "CUSAE-AS"
         },
         {
             "asn": 58500,
@@ -5393,12 +5315,6 @@
             "country_code": "GB",
             "description": "Synextra Limited",
             "name": "SYNEXTRA-UK"
-        },
-        {
-            "asn": 59835,
-            "country_code": "SE",
-            "description": "Dreamhack - The worlds largest computer festival",
-            "name": "DreamHack"
         },
         {
             "asn": 59900,
@@ -5701,6 +5617,12 @@
             "name": "NetTri Telecom"
         },
         {
+            "asn": 61726,
+            "country_code": "BR",
+            "description": "Orixinet Telecom Ltda - Epp",
+            "name": "Orixinet Telecom Ltda - Epp"
+        },
+        {
             "asn": 61730,
             "country_code": "BR",
             "description": "TECHNET-WIFI TELECOM LTDA ME",
@@ -5717,6 +5639,12 @@
             "country_code": "BR",
             "description": "Rio Grande Tecnologia e Comunic Multimidia Ltda",
             "name": "Rio Grande Tecnologia e Comunic Multimidia Ltda"
+        },
+        {
+            "asn": 61765,
+            "country_code": "BR",
+            "description": "VIVA TELECOMUNICACOES LTDA- ME",
+            "name": "VIVA TELECOMUNICACOES LTDA- ME"
         },
         {
             "asn": 61768,
@@ -5923,6 +5851,12 @@
             "name": "LINODE-AP"
         },
         {
+            "asn": 63956,
+            "country_code": "AU",
+            "description": "Colocation Australia Pty Ltd",
+            "name": "COLO-AS-AP"
+        },
+        {
             "asn": 64049,
             "country_code": "SG",
             "description": "Reliance Jio Infocomm Pte Ltd Singapore",
@@ -5959,12 +5893,6 @@
             "name": "WEBWERKS-AS-IN"
         },
         {
-            "asn": 133372,
-            "country_code": "HK",
-            "description": "Interaptus Limited",
-            "name": "INTERAPTUSLIMITED-AS-AP"
-        },
-        {
             "asn": 134145,
             "country_code": "AU",
             "description": "TF GLOBAL MARKETS (AUST) PTY LTD",
@@ -5995,6 +5923,12 @@
             "name": "LIBERTY-AS"
         },
         {
+            "asn": 196983,
+            "country_code": "IT",
+            "description": "ELSYNET S.R.L.",
+            "name": "ELSYNET"
+        },
+        {
             "asn": 197000,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
@@ -6007,22 +5941,28 @@
             "name": "LuxNetwork-2"
         },
         {
+            "asn": 197422,
+            "country_code": "FR",
+            "description": "Tetaneutral.net",
+            "name": "TETANEUTRAL-NET-AS"
+        },
+        {
             "asn": 197440,
             "country_code": "IT",
             "description": "Registro del ccTLD it - IIT-CNR",
             "name": "CCTLD-IT-anycast"
         },
         {
-            "asn": 197617,
-            "country_code": "SE",
-            "description": "MrFriday AB",
-            "name": "mrfriday"
-        },
-        {
             "asn": 197669,
             "country_code": "GB",
             "description": "CloudCall LTD",
             "name": "CLOUDCALL-UK-AS"
+        },
+        {
+            "asn": 197692,
+            "country_code": "LU",
+            "description": "Conostix S.A.",
+            "name": "Conostix"
         },
         {
             "asn": 197898,
@@ -6037,28 +5977,28 @@
             "name": "INTERCLOUD-ASN"
         },
         {
+            "asn": 198290,
+            "country_code": "LU",
+            "description": "Global IT Services PSF SA",
+            "name": "AS-GITS"
+        },
+        {
+            "asn": 198335,
+            "country_code": "FR",
+            "description": "TRANSATEL SA",
+            "name": "TRANSATEL"
+        },
+        {
             "asn": 198440,
             "country_code": "GB",
             "description": "M12 Solutions Ltd",
             "name": "M12Solutions"
         },
         {
-            "asn": 198463,
-            "country_code": "SE",
-            "description": "On 1 Call Support AB",
-            "name": "OCNET"
-        },
-        {
             "asn": 198554,
             "country_code": "GB",
             "description": "DXI Limited",
             "name": "DXI-AS"
-        },
-        {
-            "asn": 198612,
-            "country_code": "SE",
-            "description": "Wekudata AB",
-            "name": "WEKUDATA"
         },
         {
             "asn": 198638,
@@ -6077,12 +6017,6 @@
             "country_code": "GB",
             "description": "G3 Comms Limited",
             "name": "G3NS"
-        },
-        {
-            "asn": 199150,
-            "country_code": "SE",
-            "description": "Excedo Networks AB",
-            "name": "EXCEDONET"
         },
         {
             "asn": 199204,
@@ -6107,12 +6041,6 @@
             "country_code": "AT",
             "description": "G-Core Labs S.A.",
             "name": "GCORE"
-        },
-        {
-            "asn": 199659,
-            "country_code": "GB",
-            "description": "Suretec Systems Limited",
-            "name": "SURETEC"
         },
         {
             "asn": 199706,
@@ -6349,22 +6277,10 @@
             "name": "NOMICAL"
         },
         {
-            "asn": 205916,
-            "country_code": "SE",
-            "description": "Verisec AB",
-            "name": "FrejaEid"
-        },
-        {
             "asn": 205917,
             "country_code": "GB",
             "description": "SAS Global Communications Ltd.",
             "name": "sas_glcom"
-        },
-        {
-            "asn": 205970,
-            "country_code": "SE",
-            "description": "openbgpd",
-            "name": "OPENBGPD"
         },
         {
             "asn": 206078,
@@ -6479,6 +6395,12 @@
             "country_code": "BR",
             "description": "Horizons Telecomunicacoes e Tecnologia Ltda",
             "name": "Horizons Telecomunicacoes e Tecnologia Ltda"
+        },
+        {
+            "asn": 262333,
+            "country_code": "BR",
+            "description": "ZUKNET Networks Ltda ME",
+            "name": "ZUKNET Networks Ltda ME"
         },
         {
             "asn": 262336,
@@ -6727,6 +6649,12 @@
             "name": "Telecomunicacoes Sapucai Telecom Ltda"
         },
         {
+            "asn": 262493,
+            "country_code": "BR",
+            "description": "Global Tech Internet Banda Larga EPP - ltda",
+            "name": "Global Tech Internet Banda Larga EPP - ltda"
+        },
+        {
             "asn": 262499,
             "country_code": "BR",
             "description": "TMC Tecnologia em Telecomunicacoes Ltda.",
@@ -6803,12 +6731,6 @@
             "country_code": "BR",
             "description": "DataSafeIT Solucoes em Tecnologia",
             "name": "DataSafeIT Solucoes em Tecnologia"
-        },
-        {
-            "asn": 262539,
-            "country_code": "BR",
-            "description": "DUNET LTDA",
-            "name": "DUNET LTDA"
         },
         {
             "asn": 262540,
@@ -6917,6 +6839,12 @@
             "country_code": "BR",
             "description": "INTERall Informatica Ltda.",
             "name": "INTERall Informatica Ltda."
+        },
+        {
+            "asn": 262611,
+            "country_code": "BR",
+            "description": "Ivr informatica ltda me",
+            "name": "Ivr informatica ltda me"
         },
         {
             "asn": 262612,
@@ -7333,12 +7261,6 @@
             "name": "PHS INTERNET E SUPRIMENTOS LTDA - ME"
         },
         {
-            "asn": 262822,
-            "country_code": "BR",
-            "description": "WE RADIO COMUNICACOES LTDA EPP",
-            "name": "WE RADIO COMUNICACOES LTDA EPP"
-        },
-        {
             "asn": 262828,
             "country_code": "BR",
             "description": "Acesse Facil Telecomunicacoes Ltda",
@@ -7463,12 +7385,6 @@
             "country_code": "BR",
             "description": "BRASCLOUD LTDA - ME",
             "name": "BRASCLOUD LTDA - ME"
-        },
-        {
-            "asn": 262973,
-            "country_code": "BR",
-            "description": "Max Telecomunicacoes Ltda",
-            "name": "Max Telecomunicacoes Ltda"
         },
         {
             "asn": 262977,
@@ -7609,12 +7525,6 @@
             "name": "SKYNEW ASSIS.TECN. EM INFORM.LTDA EPP"
         },
         {
-            "asn": 263099,
-            "country_code": "BR",
-            "description": "STIW Sistema de Telecom. Inf e Wireless LTDA",
-            "name": "STIW Sistema de Telecom. Inf e Wireless LTDA"
-        },
-        {
             "asn": 263120,
             "country_code": "BR",
             "description": "STARNET COMUNICACAO MULTIMIDIA LTDA ME",
@@ -7673,6 +7583,12 @@
             "country_code": "BR",
             "description": "CONNECT WIRELESS LTDA",
             "name": "CONNECT WIRELESS LTDA"
+        },
+        {
+            "asn": 263258,
+            "country_code": "BR",
+            "description": "INTERLIG Banda Larga",
+            "name": "INTERLIG Banda Larga"
         },
         {
             "asn": 263265,
@@ -7829,6 +7745,12 @@
             "country_code": "BR",
             "description": "CORPORATIVA TELECOMUNICACOES EIRELI ME",
             "name": "CORPORATIVA TELECOMUNICACOES EIRELI ME"
+        },
+        {
+            "asn": 263437,
+            "country_code": "BR",
+            "description": "CARATINGA INFORMATICA LTDA - ME",
+            "name": "CARATINGA INFORMATICA LTDA - ME"
         },
         {
             "asn": 263444,
@@ -8101,6 +8023,12 @@
             "name": "One Telecom Eireli"
         },
         {
+            "asn": 263672,
+            "country_code": "BR",
+            "description": "Consult Telecom Provedor LTDA ME",
+            "name": "Consult Telecom Provedor LTDA ME"
+        },
+        {
             "asn": 263674,
             "country_code": "BR",
             "description": "JSneT - Internet Fibra",
@@ -8335,6 +8263,12 @@
             "name": "RVR TELECOMUNICACOES E INFORMATICA EIRELI"
         },
         {
+            "asn": 264116,
+            "country_code": "BR",
+            "description": "I2 Telecom Ltda",
+            "name": "I2 Telecom Ltda"
+        },
+        {
             "asn": 264127,
             "country_code": "BR",
             "description": "EMITEL INTERNET",
@@ -8455,6 +8389,12 @@
             "name": "ADVANCED CONNECTION TELECOM LTDA-ME"
         },
         {
+            "asn": 264227,
+            "country_code": "BR",
+            "description": "INOVE COMERCIO E SERVICOS DE TELECOMUNICACOES LTDA",
+            "name": "INOVE COMERCIO E SERVICOS DE TELECOMUNICACOES LTDA"
+        },
+        {
             "asn": 264230,
             "country_code": "BR",
             "description": "JRD COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
@@ -8513,12 +8453,6 @@
             "country_code": "BR",
             "description": "OXMAN TECNOLOGIA LTDA",
             "name": "OXMAN TECNOLOGIA LTDA"
-        },
-        {
-            "asn": 264327,
-            "country_code": "BR",
-            "description": "ANDERSON MANZANO BACHIEGA",
-            "name": "ANDERSON MANZANO BACHIEGA"
         },
         {
             "asn": 264332,
@@ -8875,6 +8809,12 @@
             "name": "SPEEDNET ALLIANCE PROVEDOR DE INTERNET LTDA - ME"
         },
         {
+            "asn": 264996,
+            "country_code": "BR",
+            "description": "SERVLINK TELECOM LTDA - ME",
+            "name": "SERVLINK TELECOM LTDA - ME"
+        },
+        {
             "asn": 264998,
             "country_code": "BR",
             "description": "SQUID NET TELECOMUNICACOES LTDA ME",
@@ -9169,12 +9109,6 @@
             "name": "SkyNet Telecomunicacoes"
         },
         {
-            "asn": 265437,
-            "country_code": "BR",
-            "description": "tecnet provedor telecom ltda me",
-            "name": "tecnet provedor telecom ltda me"
-        },
-        {
             "asn": 265442,
             "country_code": "BR",
             "description": "VISUAL LINK COMUNICACOES MULTIMIDIA LTDA - ME",
@@ -9281,12 +9215,6 @@
             "country_code": "BR",
             "description": "WANDA BENTO DE MORAIS SILVA - ME",
             "name": "WANDA BENTO DE MORAIS SILVA - ME"
-        },
-        {
-            "asn": 265949,
-            "country_code": "BR",
-            "description": "INFO TELECOM INTERNET LTDA",
-            "name": "INFO TELECOM INTERNET LTDA"
         },
         {
             "asn": 265950,
@@ -10075,12 +10003,6 @@
             "name": "HELLO WEB TELECOMUNICACOES E SERVICOS LTDA"
         },
         {
-            "asn": 267102,
-            "country_code": "BR",
-            "description": "CONECTA INTERNET",
-            "name": "CONECTA INTERNET"
-        },
-        {
             "asn": 267113,
             "country_code": "BR",
             "description": "CLICKCONNECT SOLUCOES EM INTERNET E TECNOLOGIA",
@@ -10525,12 +10447,6 @@
             "name": "MEGACOM INTERNET LTDA"
         },
         {
-            "asn": 268133,
-            "country_code": "BR",
-            "description": "SNAKE INFORMATICA LTDA ME",
-            "name": "SNAKE INFORMATICA LTDA ME"
-        },
-        {
             "asn": 268138,
             "country_code": "BR",
             "description": "Thiago aparecido scaramuzza santana",
@@ -10793,6 +10709,12 @@
             "country_code": "BR",
             "description": "SRG TELECOM LTDA",
             "name": "SRG TELECOM LTDA"
+        },
+        {
+            "asn": 268607,
+            "country_code": "BR",
+            "description": "BCM SERVICOS DE COMUNICACAO E MULTIMIDIA LTDA",
+            "name": "BCM SERVICOS DE COMUNICACAO E MULTIMIDIA LTDA"
         },
         {
             "asn": 268613,
@@ -11065,10 +10987,28 @@
             "name": "Ecoband"
         },
         {
+            "asn": 327960,
+            "country_code": "ZA",
+            "description": "PC Maniacs CC",
+            "name": "PC-MANIACS"
+        },
+        {
+            "asn": 327983,
+            "country_code": "ZA",
+            "description": "Interworks Wireless Solutions",
+            "name": "Interworks-Wireless-Solutions"
+        },
+        {
             "asn": 328015,
             "country_code": "UG",
             "description": "Sombha Solutions Store Limited",
             "name": "Sombha-Solutions"
+        },
+        {
+            "asn": 328137,
+            "country_code": "ZA",
+            "description": "Web Squad Connect (Pty) Ltd",
+            "name": "Web-Squad-Connect-AS"
         },
         {
             "asn": 328145,
@@ -11081,6 +11021,12 @@
             "country_code": "ZA",
             "description": "SAINT ICT CONSULTANTS (PTY) LTD",
             "name": "Saint-ICT-AS"
+        },
+        {
+            "asn": 328320,
+            "country_code": "ZA",
+            "description": "Kurlec Wireless (PTY) Ltd",
+            "name": "Kurlec-AS"
         },
         {
             "asn": 393950,
@@ -11181,12 +11127,6 @@
             "name": "UNITAS"
         },
         {
-            "asn": 1880,
-            "country_code": "SE",
-            "description": "STUPI AB",
-            "name": "STUPI"
-        },
-        {
             "asn": 1916,
             "country_code": "BR",
             "description": "Associacao Rede Nacional de Ensino e Pesquisa",
@@ -11229,12 +11169,6 @@
             "name": "ATGS-MMD-AS"
         },
         {
-            "asn": 2874,
-            "country_code": "SE",
-            "description": "ORANGE BUSINESS SERVICES U.S. Inc.",
-            "name": "ORANGE-BUSINESS-SERVICES-NORDICS"
-        },
-        {
             "asn": 2906,
             "country_code": "US",
             "description": "Netflix Streaming Services Inc.",
@@ -11257,12 +11191,6 @@
             "country_code": "EU",
             "description": "xTom",
             "name": "XTOM"
-        },
-        {
-            "asn": 3238,
-            "country_code": "FI",
-            "description": "Alands Telekommunikation Ab",
-            "name": "ALCOM"
         },
         {
             "asn": 3327,
@@ -11469,6 +11397,12 @@
             "name": "TAVOLA CONECTIVIDADE LTDA."
         },
         {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK"
+        },
+        {
             "asn": 8218,
             "country_code": "FR",
             "description": "legacy Neotelecoms",
@@ -11553,18 +11487,6 @@
             "name": "NOMINET"
         },
         {
-            "asn": 8728,
-            "country_code": "EE",
-            "description": "AS INFONET",
-            "name": "UNSPECIFIED"
-        },
-        {
-            "asn": 8732,
-            "country_code": "RU",
-            "description": "Moscow",
-            "name": "COMCOR-AS"
-        },
-        {
             "asn": 8851,
             "country_code": "GB",
             "description": "t/a GCI Com",
@@ -11613,22 +11535,10 @@
             "name": "ASN-ORANGE-ROMANIA"
         },
         {
-            "asn": 8995,
-            "country_code": "SE",
-            "description": "LM Jogback Datakonsult",
-            "name": "JOGBACK"
-        },
-        {
             "asn": 9002,
             "country_code": "EU",
             "description": "RETN Limited",
             "name": "RETN-AS"
-        },
-        {
-            "asn": 9009,
-            "country_code": "GB",
-            "description": "M247 Ltd",
-            "name": "M247"
         },
         {
             "asn": 9044,
@@ -11769,28 +11679,10 @@
             "name": "EE"
         },
         {
-            "asn": 12578,
-            "country_code": "LV",
-            "description": "Latvia",
-            "name": "APOLLO-AS"
-        },
-        {
-            "asn": 12597,
-            "country_code": "SE",
-            "description": "Gotalandsnatet AB",
-            "name": "GOTANET"
-        },
-        {
             "asn": 12654,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
             "name": "RIPE-NCC-RIS-AS"
-        },
-        {
-            "asn": 12714,
-            "country_code": "RU",
-            "description": "Moscow, Russia",
-            "name": "TI-AS"
         },
         {
             "asn": 12759,
@@ -11851,18 +11743,6 @@
             "country_code": "GB",
             "description": "MANX-TELECOM Autonomous System",
             "name": "MANX-AS"
-        },
-        {
-            "asn": 13189,
-            "country_code": "SE",
-            "description": "Lidero Network",
-            "name": "LIDERO"
-        },
-        {
-            "asn": 13194,
-            "country_code": "LT",
-            "description": "Bite IP Network",
-            "name": "BITE"
         },
         {
             "asn": 13237,
@@ -11985,6 +11865,12 @@
             "name": "NETPLUS"
         },
         {
+            "asn": 15557,
+            "country_code": "FR",
+            "description": "SFR SA",
+            "name": "LDCOMNET"
+        },
+        {
             "asn": 15589,
             "country_code": "IT",
             "description": "CLOUDITALIA TELECOMUNICAZIONI S.P.A.",
@@ -12021,12 +11907,6 @@
             "name": "SPITFIRE"
         },
         {
-            "asn": 16086,
-            "country_code": "FI",
-            "description": "DNA Oyj",
-            "name": "DNA"
-        },
-        {
             "asn": 16174,
             "country_code": "GB",
             "description": "Intuitiv Autonomous System",
@@ -12043,6 +11923,12 @@
             "country_code": "NL",
             "description": "LeaseWeb Network B.V.",
             "name": "LEASEWEB-NETWORK"
+        },
+        {
+            "asn": 16276,
+            "country_code": "FR",
+            "description": "OVH SAS",
+            "name": "OVH"
         },
         {
             "asn": 16347,
@@ -12159,12 +12045,6 @@
             "name": "GMCHOSTING-01"
         },
         {
-            "asn": 19399,
-            "country_code": "EU",
-            "description": "Stockholms Lans Landsting",
-            "name": "SLLNET"
-        },
-        {
             "asn": 19551,
             "country_code": "US",
             "description": "Incapsula Inc",
@@ -12187,12 +12067,6 @@
             "country_code": "US",
             "description": "ICANN",
             "name": "L-ROOT"
-        },
-        {
-            "asn": 20278,
-            "country_code": "US",
-            "description": "Nexeon Technologies, Inc.",
-            "name": "NEXEON"
         },
         {
             "asn": 20473,
@@ -12351,18 +12225,6 @@
             "name": "WOW"
         },
         {
-            "asn": 23074,
-            "country_code": "BR",
-            "description": "PETROLEO BRASILEIRO S.A. - PETROBRAS",
-            "name": "PETROLEO BRASILEIRO S.A. - PETROBRAS"
-        },
-        {
-            "asn": 23106,
-            "country_code": "BR",
-            "description": "AMERICAN TOWER DO BRASIL-COMUNICACAO MULTIMIDIA LT",
-            "name": "AMERICAN TOWER DO BRASIL-COMUNICACAO MULTIMIDIA LT"
-        },
-        {
             "asn": 23201,
             "country_code": "PY",
             "description": "Telecel S.A.",
@@ -12409,6 +12271,12 @@
             "country_code": "AU",
             "description": "Virtutel Pty Ltd",
             "name": "VIRTUTEL-AS-AP"
+        },
+        {
+            "asn": 24904,
+            "country_code": "FR",
+            "description": "K-NET SARL",
+            "name": "KWAOO"
         },
         {
             "asn": 24940,
@@ -12523,12 +12391,6 @@
             "country_code": "UY",
             "description": "LACNIC - Latin American and Caribbean IP address",
             "name": "LACNIC - Latin American and Caribbean IP address"
-        },
-        {
-            "asn": 28032,
-            "country_code": "PE",
-            "description": "INTERNEXA PERU S.A",
-            "name": "INTERNEXA PERU S.A"
         },
         {
             "asn": 28124,
@@ -13077,12 +12939,6 @@
             "name": "SECURA-AS"
         },
         {
-            "asn": 29518,
-            "country_code": "SE",
-            "description": "Bredband2 AB",
-            "name": "BREDBAND2"
-        },
-        {
             "asn": 29527,
             "country_code": "GB",
             "description": "Astutium Limited",
@@ -13093,12 +12949,6 @@
             "country_code": "GB",
             "description": "Elite Limited",
             "name": "ELITE-AS"
-        },
-        {
-            "asn": 29672,
-            "country_code": "SE",
-            "description": "S:t Erik Kommunikation AB",
-            "name": "STEK-AS"
         },
         {
             "asn": 29697,
@@ -13137,12 +12987,6 @@
             "name": "LIQUID-AS"
         },
         {
-            "asn": 30880,
-            "country_code": "SE",
-            "description": "This ASN is located on STHIX at Tulegatan Stokab",
-            "name": "SPACEDUMP-AS"
-        },
-        {
             "asn": 30914,
             "country_code": "GB",
             "description": "PIKSEL LIMITED",
@@ -13161,12 +13005,6 @@
             "name": "DIGIWEB-AS"
         },
         {
-            "asn": 31133,
-            "country_code": "RU",
-            "description": "PJSC MegaFon",
-            "name": "MF-MGSM-AS"
-        },
-        {
             "asn": 31216,
             "country_code": "FR",
             "description": "BSO Network Solutions SAS",
@@ -13183,12 +13021,6 @@
             "country_code": "GB",
             "description": "VoiceHost Ltd",
             "name": "VOICEHOST"
-        },
-        {
-            "asn": 31500,
-            "country_code": "RU",
-            "description": "LLC GLOBALNET",
-            "name": "GLOBALNET-AS"
         },
         {
             "asn": 31529,
@@ -13365,6 +13197,12 @@
             "name": "VAIONI"
         },
         {
+            "asn": 35717,
+            "country_code": "FR",
+            "description": "WEBEDIA SA",
+            "name": "JEUXVIDEO-NETWORK"
+        },
+        {
             "asn": 35826,
             "country_code": "GB",
             "description": "Netservers Limited",
@@ -13467,12 +13305,6 @@
             "name": "Virtual-Technologies-Solutions-SA"
         },
         {
-            "asn": 38001,
-            "country_code": "SG",
-            "description": "NewMedia Express Pte Ltd",
-            "name": "NEWMEDIAEXPRESS-AS-AP"
-        },
-        {
             "asn": 38040,
             "country_code": "TH",
             "description": "TOT Public Company Limited",
@@ -13561,12 +13393,6 @@
             "country_code": "GB",
             "description": "http://www.hns.net",
             "name": "HNS"
-        },
-        {
-            "asn": 39642,
-            "country_code": "DK",
-            "description": "Stofa A/S",
-            "name": "DK-ESS-AS"
         },
         {
             "asn": 39737,
@@ -13707,34 +13533,10 @@
             "name": "IXREACH"
         },
         {
-            "asn": 43893,
-            "country_code": "SE",
-            "description": "Mainloop AB",
-            "name": "MAINLOOP-AS"
-        },
-        {
             "asn": 43996,
             "country_code": "NL",
             "description": "Booking.com",
             "name": "Booking-BV"
-        },
-        {
-            "asn": 44020,
-            "country_code": "RU",
-            "description": "Modern Solutions LTD",
-            "name": "CLN-AS"
-        },
-        {
-            "asn": 44034,
-            "country_code": "SE",
-            "description": "Hi3G Access AB",
-            "name": "hi3g"
-        },
-        {
-            "asn": 44123,
-            "country_code": "SE",
-            "description": "| TRANSIT IPv4                                       |",
-            "name": "TELAVOX"
         },
         {
             "asn": 44314,
@@ -13759,18 +13561,6 @@
             "country_code": "GB",
             "description": "Mythic Beasts Ltd",
             "name": "MYTHIC"
-        },
-        {
-            "asn": 44843,
-            "country_code": "RU",
-            "description": "OBTEL Ltd.",
-            "name": "OBTEL-AS"
-        },
-        {
-            "asn": 45011,
-            "country_code": "SE",
-            "description": "http://www.a3.se/",
-            "name": "SE-A3"
         },
         {
             "asn": 45352,
@@ -13827,12 +13617,6 @@
             "name": "ACADEMIA-AS"
         },
         {
-            "asn": 47708,
-            "country_code": "SE",
-            "description": "Sveriges Radio AB",
-            "name": "SVERIGES-RADIO"
-        },
-        {
             "asn": 47720,
             "country_code": "IE",
             "description": "CORK INTERNET EXCHANGE LIMITED",
@@ -13849,12 +13633,6 @@
             "country_code": "GB",
             "description": "Oscar Music & Media Ltd.",
             "name": "OSCARMUSIC"
-        },
-        {
-            "asn": 47999,
-            "country_code": "GB",
-            "description": "Transversal Corporation Ltd",
-            "name": "TCL-AS"
         },
         {
             "asn": 48101,
@@ -13963,12 +13741,6 @@
             "country_code": "AT",
             "description": "Heinrich THURNER",
             "name": "THURNER-AS"
-        },
-        {
-            "asn": 51430,
-            "country_code": "NL",
-            "description": "AltusHost B.V.",
-            "name": "ALTUS"
         },
         {
             "asn": 51468,
@@ -14445,12 +14217,6 @@
             "name": "Bom Tempo Informatica Ltda"
         },
         {
-            "asn": 53057,
-            "country_code": "BR",
-            "description": "RedeHost Internet Ltda.",
-            "name": "RedeHost Internet Ltda."
-        },
-        {
             "asn": 53059,
             "country_code": "BR",
             "description": "Center Prestadora Servicos S/C Ltda",
@@ -14565,6 +14331,12 @@
             "name": "ASSOCIACAO NACIONAL DAS EMPRESAS DE SOLUCOES DE IN"
         },
         {
+            "asn": 53119,
+            "country_code": "BR",
+            "description": "H3000 Tecnologia",
+            "name": "H3000 Tecnologia"
+        },
+        {
             "asn": 53120,
             "country_code": "BR",
             "description": "MUNDIVOX LTDA",
@@ -14635,6 +14407,12 @@
             "country_code": "BR",
             "description": "SCNet Equipamentos de Informatica Ltda",
             "name": "SCNet Equipamentos de Informatica Ltda"
+        },
+        {
+            "asn": 53180,
+            "country_code": "BR",
+            "description": "Infortel Telecomunicacoes e Servicos EIRELI - ME",
+            "name": "Infortel Telecomunicacoes e Servicos EIRELI - ME"
         },
         {
             "asn": 53181,
@@ -14781,12 +14559,6 @@
             "name": "CIRA-DNS"
         },
         {
-            "asn": 55818,
-            "country_code": "ID",
-            "description": "MC-IX Matrix Internet Exchange RS-1",
-            "name": "MCIX-AS-AP"
-        },
-        {
             "asn": 56595,
             "country_code": "GB",
             "description": "Fluency Communications Ltd",
@@ -14917,12 +14689,6 @@
             "country_code": "BH",
             "description": "MENA LEVANT W.L.L",
             "name": "ZAINGP-AS"
-        },
-        {
-            "asn": 59835,
-            "country_code": "SE",
-            "description": "Dreamhack - The worlds largest computer festival",
-            "name": "DreamHack"
         },
         {
             "asn": 60171,
@@ -15177,6 +14943,12 @@
             "name": "NetTri Telecom"
         },
         {
+            "asn": 61726,
+            "country_code": "BR",
+            "description": "Orixinet Telecom Ltda - Epp",
+            "name": "Orixinet Telecom Ltda - Epp"
+        },
+        {
             "asn": 61730,
             "country_code": "BR",
             "description": "TECHNET-WIFI TELECOM LTDA ME",
@@ -15333,6 +15105,12 @@
             "name": "LINODE-AP"
         },
         {
+            "asn": 63956,
+            "country_code": "AU",
+            "description": "Colocation Australia Pty Ltd",
+            "name": "COLO-AS-AP"
+        },
+        {
             "asn": 64271,
             "country_code": "US",
             "description": "rixCloud",
@@ -15417,34 +15195,10 @@
             "name": "M12Solutions"
         },
         {
-            "asn": 198463,
-            "country_code": "SE",
-            "description": "On 1 Call Support AB",
-            "name": "OCNET"
-        },
-        {
-            "asn": 198612,
-            "country_code": "SE",
-            "description": "Wekudata AB",
-            "name": "WEKUDATA"
-        },
-        {
-            "asn": 199150,
-            "country_code": "SE",
-            "description": "Excedo Networks AB",
-            "name": "EXCEDONET"
-        },
-        {
             "asn": 199524,
             "country_code": "AT",
             "description": "G-Core Labs S.A.",
             "name": "GCORE"
-        },
-        {
-            "asn": 199659,
-            "country_code": "GB",
-            "description": "Suretec Systems Limited",
-            "name": "SURETEC"
         },
         {
             "asn": 200020,
@@ -15543,12 +15297,6 @@
             "name": "AT-FIRSTCOLO"
         },
         {
-            "asn": 203975,
-            "country_code": "SE",
-            "description": "Core9 Hosting AB",
-            "name": "core9"
-        },
-        {
             "asn": 205206,
             "country_code": "DK",
             "description": "Netsite A/S",
@@ -15565,18 +15313,6 @@
             "country_code": "GB",
             "description": "Nomical Ltd",
             "name": "NOMICAL"
-        },
-        {
-            "asn": 205916,
-            "country_code": "SE",
-            "description": "Verisec AB",
-            "name": "FrejaEid"
-        },
-        {
-            "asn": 205970,
-            "country_code": "SE",
-            "description": "openbgpd",
-            "name": "OPENBGPD"
         },
         {
             "asn": 206405,
@@ -15661,6 +15397,12 @@
             "country_code": "BR",
             "description": "Horizons Telecomunicacoes e Tecnologia Ltda",
             "name": "Horizons Telecomunicacoes e Tecnologia Ltda"
+        },
+        {
+            "asn": 262333,
+            "country_code": "BR",
+            "description": "ZUKNET Networks Ltda ME",
+            "name": "ZUKNET Networks Ltda ME"
         },
         {
             "asn": 262336,
@@ -15945,12 +15687,6 @@
             "name": "VAS Freitas Servicos de Internet Ltda"
         },
         {
-            "asn": 262537,
-            "country_code": "BR",
-            "description": "DataSafeIT Solucoes em Tecnologia",
-            "name": "DataSafeIT Solucoes em Tecnologia"
-        },
-        {
             "asn": 262539,
             "country_code": "BR",
             "description": "DUNET LTDA",
@@ -16215,6 +15951,12 @@
             "name": "ICENET TELECOMUNICACOES LTDA - ME"
         },
         {
+            "asn": 262755,
+            "country_code": "BR",
+            "description": "Aonet Telecom Eireli - ME",
+            "name": "Aonet Telecom Eireli - ME"
+        },
+        {
             "asn": 262757,
             "country_code": "BR",
             "description": "Insidesign Tecnologia Ltda EPP",
@@ -16443,12 +16185,6 @@
             "name": "BRASCLOUD LTDA - ME"
         },
         {
-            "asn": 262973,
-            "country_code": "BR",
-            "description": "Max Telecomunicacoes Ltda",
-            "name": "Max Telecomunicacoes Ltda"
-        },
-        {
             "asn": 262983,
             "country_code": "BR",
             "description": "Net Barretos Tecnologia LTDA - ME",
@@ -16551,12 +16287,6 @@
             "name": "SKYNEW ASSIS.TECN. EM INFORM.LTDA EPP"
         },
         {
-            "asn": 263099,
-            "country_code": "BR",
-            "description": "STIW Sistema de Telecom. Inf e Wireless LTDA",
-            "name": "STIW Sistema de Telecom. Inf e Wireless LTDA"
-        },
-        {
             "asn": 263120,
             "country_code": "BR",
             "description": "STARNET COMUNICACAO MULTIMIDIA LTDA ME",
@@ -16603,6 +16333,12 @@
             "country_code": "BR",
             "description": "CONNECT WIRELESS LTDA",
             "name": "CONNECT WIRELESS LTDA"
+        },
+        {
+            "asn": 263258,
+            "country_code": "BR",
+            "description": "INTERLIG Banda Larga",
+            "name": "INTERLIG Banda Larga"
         },
         {
             "asn": 263266,
@@ -16669,12 +16405,6 @@
             "country_code": "BR",
             "description": "Netfi servicos de comunicacoes ltda epp",
             "name": "Netfi servicos de comunicacoes ltda epp"
-        },
-        {
-            "asn": 263336,
-            "country_code": "BR",
-            "description": "EXTREME WI",
-            "name": "EXTREME WI"
         },
         {
             "asn": 263347,
@@ -16965,6 +16695,12 @@
             "name": "One Telecom Eireli"
         },
         {
+            "asn": 263672,
+            "country_code": "BR",
+            "description": "Consult Telecom Provedor LTDA ME",
+            "name": "Consult Telecom Provedor LTDA ME"
+        },
+        {
             "asn": 263674,
             "country_code": "BR",
             "description": "JSneT - Internet Fibra",
@@ -17109,12 +16845,6 @@
             "name": "TBONET SERVICOS DE INFORMATICA E COMUNICACOES LTDA"
         },
         {
-            "asn": 264013,
-            "country_code": "BR",
-            "description": "CONNECTA TELECOM INTERNET LTDA - EPP",
-            "name": "CONNECTA TELECOM INTERNET LTDA - EPP"
-        },
-        {
             "asn": 264017,
             "country_code": "BR",
             "description": "WLAN SOLUCOES TECNOLOGICAS",
@@ -17173,12 +16903,6 @@
             "country_code": "BR",
             "description": "Priston Net Telecom",
             "name": "Priston Net Telecom"
-        },
-        {
-            "asn": 264138,
-            "country_code": "BR",
-            "description": "INTERLES COMUNICACOES LTDA",
-            "name": "INTERLES COMUNICACOES LTDA"
         },
         {
             "asn": 264144,
@@ -18039,12 +17763,6 @@
             "name": "LINKABR TELECOM SPE LTDA"
         },
         {
-            "asn": 266135,
-            "country_code": "BR",
-            "description": "SPACE TELECOM LTDA",
-            "name": "SPACE TELECOM LTDA"
-        },
-        {
             "asn": 266136,
             "country_code": "BR",
             "description": "R. P. DE B. ALVES SERVICOS E TELECOMUNICACOES - ME",
@@ -18325,12 +18043,6 @@
             "country_code": "BR",
             "description": "Connecta Comercio e Servicos Ltda - EPP",
             "name": "Connecta Comercio e Servicos Ltda - EPP"
-        },
-        {
-            "asn": 266492,
-            "country_code": "BR",
-            "description": "FLASH SERVICOS EM FIBRA OPTICA LTDA - ME",
-            "name": "FLASH SERVICOS EM FIBRA OPTICA LTDA - ME"
         },
         {
             "asn": 266525,
@@ -18675,12 +18387,6 @@
             "name": "MAFREDINE TELECOMUNICACOES EIRELI"
         },
         {
-            "asn": 267378,
-            "country_code": "BR",
-            "description": "CWMC TELECOM LTDA ME",
-            "name": "CWMC TELECOM LTDA ME"
-        },
-        {
             "asn": 267380,
             "country_code": "BR",
             "description": "E DE M BERTOLAI INFORMATICA - ME",
@@ -18793,6 +18499,12 @@
             "country_code": "BR",
             "description": "PRISMAREDE TELECOMUNICACOES LTDA - ME",
             "name": "PRISMAREDE TELECOMUNICACOES LTDA - ME"
+        },
+        {
+            "asn": 267564,
+            "country_code": "BR",
+            "description": "FIBER TELECOM - TELECOMUNICACAO DE DADOS",
+            "name": "FIBER TELECOM - TELECOMUNICACAO DE DADOS"
         },
         {
             "asn": 267588,
@@ -18927,12 +18639,6 @@
             "name": "MEGACOM INTERNET LTDA"
         },
         {
-            "asn": 268133,
-            "country_code": "BR",
-            "description": "SNAKE INFORMATICA LTDA ME",
-            "name": "SNAKE INFORMATICA LTDA ME"
-        },
-        {
             "asn": 268138,
             "country_code": "BR",
             "description": "Thiago aparecido scaramuzza santana",
@@ -19003,6 +18709,12 @@
             "country_code": "BR",
             "description": "CSTELECOM SERVICOS LTDA",
             "name": "CSTELECOM SERVICOS LTDA"
+        },
+        {
+            "asn": 268323,
+            "country_code": "BR",
+            "description": "AZZA TELECOM SERVICOS EM TELECOMUNICACOES LTDA",
+            "name": "AZZA TELECOM SERVICOS EM TELECOMUNICACOES LTDA"
         },
         {
             "asn": 268344,
@@ -19329,10 +19041,28 @@
             "name": "E D Sousa telecomunicacoes"
         },
         {
+            "asn": 327983,
+            "country_code": "ZA",
+            "description": "Interworks Wireless Solutions",
+            "name": "Interworks-Wireless-Solutions"
+        },
+        {
+            "asn": 328137,
+            "country_code": "ZA",
+            "description": "Web Squad Connect (Pty) Ltd",
+            "name": "Web-Squad-Connect-AS"
+        },
+        {
             "asn": 328145,
             "country_code": "ZA",
             "description": "Lyca Digital NPC",
             "name": "Lyca-Digital-AS"
+        },
+        {
+            "asn": 328206,
+            "country_code": "ZA",
+            "description": "Johannesburg Area Wireless User Group (JAWUG)",
+            "name": "JAWUG"
         },
         {
             "asn": 394354,
