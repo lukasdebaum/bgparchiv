@@ -1,6 +1,38 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Wolfgang Michael Brandstaetter",
+            "ip": "193.43.139.0",
+            "name": "AT-BRANDNET-20191009",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.43.138.0",
+                "prefix": "193.43.138.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.43.139.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Wolfgang Michael Brandstaetter",
+            "ip": "193.43.142.0",
+            "name": "AT-BRANDNET-20191009",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "193.43.142.0",
+                "prefix": "193.43.142.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.43.142.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "Wolfgang Michael Brandstaetter",
