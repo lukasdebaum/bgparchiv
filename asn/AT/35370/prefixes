@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Marktgemeinde Neumarkt Versorgungs-betriebsgesellschaft M.B.H.",
+            "ip": "160.20.100.0",
+            "name": "AT-EW-NEUMARKT-20180702",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "160.20.100.0",
+                "prefix": "160.20.100.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "160.20.100.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 19,
             "country_code": "AT",
             "description": "Ainet Telekommunikations-Netzwerk Betriebs GmbH",
