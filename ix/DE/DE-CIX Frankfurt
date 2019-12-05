@@ -474,10 +474,10 @@
             "asn": 3257,
             "country_code": "DE",
             "description": "GTT",
-            "ipv4_address": "80.81.192.30",
-            "ipv6_address": "2001:7f8::cb9:0:1",
+            "ipv4_address": "80.81.196.110",
+            "ipv6_address": "2001:7f8::cb9:0:3",
             "name": "GTT-BACKBONE",
-            "speed": 10000
+            "speed": 1000
         },
         {
             "asn": 3292,
@@ -3402,7 +3402,7 @@
             "ipv4_address": "80.81.193.87",
             "ipv6_address": "2001:7f8::4c5f:0:1",
             "name": "INCAPSULA",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 19679,
@@ -3744,6 +3744,15 @@
             "ipv4_address": "80.81.192.250",
             "ipv6_address": "2001:7f8::530f:0:1",
             "name": "TELEDATA-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 21277,
+            "country_code": "IQ",
+            "description": "Allay Nawroz Telecom Company for Communication/Ltd.",
+            "ipv4_address": "80.81.196.98",
+            "ipv6_address": null,
+            "name": "Newroz-Telecom-ASN",
             "speed": 10000
         },
         {
@@ -8046,7 +8055,16 @@
             "ipv4_address": "80.81.194.111",
             "ipv6_address": "2001:7f8::3:582:0:1",
             "name": "trivago-de",
-            "speed": 1000
+            "speed": 10000
+        },
+        {
+            "asn": 198018,
+            "country_code": "DE",
+            "description": "trivago N.V.",
+            "ipv4_address": "80.81.194.179",
+            "ipv6_address": "2001:7f8::3:582:0:2",
+            "name": "trivago-de",
+            "speed": 10000
         },
         {
             "asn": 198335,
@@ -8634,7 +8652,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 826,
+    "members_count": 827,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
