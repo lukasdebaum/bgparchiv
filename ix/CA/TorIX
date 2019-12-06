@@ -1479,6 +1479,15 @@
             "speed": 10000
         },
         {
+            "asn": 36004,
+            "country_code": "CA",
+            "description": "JD IRVING LIMITED",
+            "ipv4_address": "206.108.35.137",
+            "ipv6_address": null,
+            "name": "ASN-IRVING",
+            "speed": 1000
+        },
+        {
             "asn": 36008,
             "country_code": "CA",
             "description": "Broadridge Customer Communications Canada, ULC",
@@ -1890,7 +1899,7 @@
             "ipv4_address": "206.108.35.30",
             "ipv6_address": "2001:504:1a::35:30",
             "name": "FASTLY",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 54113,
@@ -1899,7 +1908,7 @@
             "ipv4_address": "206.108.35.31",
             "ipv6_address": "2001:504:1a::35:31",
             "name": "FASTLY",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 54182,
@@ -2253,7 +2262,7 @@
             "speed": 2000
         }
     ],
-    "members_count": 229,
+    "members_count": 230,
     "name": "TorIX",
     "name_full": "Toronto Internet Exchange Community",
     "policy_email": "peering@torix.ca",
