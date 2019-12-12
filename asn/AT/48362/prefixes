@@ -17,6 +17,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "at isicore 1",
+            "ip": "185.243.205.0",
+            "name": "at-isicore-1",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.243.204.0",
+                "prefix": "185.243.204.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.243.205.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "Stadtwerke Feldkirch",
@@ -128,6 +144,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a02:1688::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "CH",
+            "description": "isicore AG",
+            "ip": "2a0c:1a40:1::",
+            "name": "CH-ISICORE-20180323",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a0c:1a40::",
+                "prefix": "2a0c:1a40::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0c:1a40:1::/48",
             "roa_status": "None"
         }
     ]
