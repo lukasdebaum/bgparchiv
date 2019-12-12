@@ -354,6 +354,15 @@
             "speed": 20000
         },
         {
+            "asn": 12958,
+            "country_code": "RU",
+            "description": "Tele2 Russia Network",
+            "ipv4_address": "178.18.226.20",
+            "ipv6_address": null,
+            "name": "MCC",
+            "speed": 100
+        },
+        {
             "asn": 13094,
             "country_code": "RU",
             "description": "LLC Milecom",
@@ -788,7 +797,7 @@
         {
             "asn": 31200,
             "country_code": "RU",
-            "description": "Novotelecom Ltd",
+            "description": "IPv6 customers",
             "ipv4_address": "178.18.233.19",
             "ipv6_address": null,
             "name": "NTK",
@@ -1848,6 +1857,15 @@
             "speed": 10000
         },
         {
+            "asn": 57043,
+            "country_code": "NL",
+            "description": "www.hostkey.com",
+            "ipv4_address": "178.18.226.25",
+            "ipv6_address": "2a03:5f80:4::226:25",
+            "name": "HOSTKEY-AS",
+            "speed": 10000
+        },
+        {
             "asn": 57363,
             "country_code": "RU",
             "description": "CDNvideo LLC",
@@ -2415,7 +2433,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 207,
+    "members_count": 209,
     "name": "DATAIX",
     "name_full": "Global Network Managment Ltd",
     "policy_email": "noc@dataix.ru",
