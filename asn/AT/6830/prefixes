@@ -1665,6 +1665,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "ORNG WETZ",
+            "ip": "188.74.38.0",
+            "name": "ORNG-WETZ",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "188.74.32.0",
+                "prefix": "188.74.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "188.74.38.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 21,
             "country_code": "PL",
             "description": "UPC Polska Sp. z o.o.",
@@ -15280,6 +15296,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a02:ab88::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 36,
+            "country_code": "DE",
+            "description": "OR Network GmbH",
+            "ip": "2a03:4b20:f000::",
+            "name": "DE-ORNETWORK-20141029",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:4b20::",
+                "prefix": "2a03:4b20::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:4b20:f000::/36",
             "roa_status": "None"
         },
         {
