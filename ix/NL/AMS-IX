@@ -4917,6 +4917,15 @@
             "speed": 1000
         },
         {
+            "asn": 35598,
+            "country_code": "RU",
+            "description": "INETCOM LLC",
+            "ipv4_address": "80.249.210.207",
+            "ipv6_address": "2001:7f8:1::a503:5598:1",
+            "name": "INETCOM",
+            "speed": 10000
+        },
+        {
             "asn": 35625,
             "country_code": "FR",
             "description": "Eurafibre SAS",
@@ -7133,10 +7142,10 @@
         {
             "asn": 57695,
             "country_code": "US",
-            "description": "Misaka Network, Inc.",
+            "description": "Misaka Network, Inc. (Backbone)",
             "ipv4_address": "80.249.211.157",
             "ipv6_address": "2001:7f8:1::a505:7695:1",
-            "name": "MISAKA",
+            "name": "MISAKA-BACKBONE-AS",
             "speed": 1000
         },
         {
@@ -8589,7 +8598,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 848,
+    "members_count": 849,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
