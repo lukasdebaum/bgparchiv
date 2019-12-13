@@ -141,8 +141,8 @@
             "asn": 4134,
             "country_code": "CN",
             "description": "No.31,Jin-rong Street",
-            "ipv4_address": "198.32.124.217",
-            "ipv6_address": null,
+            "ipv4_address": "198.32.242.217",
+            "ipv6_address": "2001:504:0:6::4134:1",
             "name": "CHINANET-BACKBONE",
             "speed": 10000
         },
@@ -655,7 +655,7 @@
             "country_code": "US",
             "description": "Florida International University",
             "ipv4_address": "198.32.124.55",
-            "ipv6_address": "2001:478:124::241",
+            "ipv6_address": "2001:478:124::55",
             "name": "AMPATH",
             "speed": 10000
         },
@@ -669,11 +669,20 @@
             "speed": 10000
         },
         {
+            "asn": 20080,
+            "country_code": "US",
+            "description": "Florida International University",
+            "ipv4_address": "198.32.124.241",
+            "ipv6_address": "2001:478:124::241",
+            "name": "AMPATH",
+            "speed": 10000
+        },
+        {
             "asn": 20940,
             "country_code": "EU",
             "description": "Akamai International B.V.",
-            "ipv4_address": "198.32.124.114",
-            "ipv6_address": "2001:478:124::114",
+            "ipv4_address": "198.32.242.114",
+            "ipv6_address": null,
             "name": "AKAMAI-ASN1",
             "speed": 20000
         },
@@ -1095,8 +1104,8 @@
             "asn": 32787,
             "country_code": "US",
             "description": "Akamai Technologies, Inc.",
-            "ipv4_address": "198.32.125.207",
-            "ipv6_address": "2001:478:124::1207",
+            "ipv4_address": "198.32.243.207",
+            "ipv6_address": "2001:504:0:6:0:3:2787:1",
             "name": "PROLEXIC-TECHNOLOGIES-DDOS-MITIGATION-NETWORK",
             "speed": 0
         },
