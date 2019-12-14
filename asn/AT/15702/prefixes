@@ -65,22 +65,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "PCS-IT",
-            "ip": "217.19.44.0",
-            "name": "PCS-NET1",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 20,
-                "ip": "217.19.32.0",
-                "prefix": "217.19.32.0/20",
-                "rir_name": "RIPE"
-            },
-            "prefix": "217.19.44.0/24",
-            "roa_status": "None"
-        },
-        {
             "cidr": 20,
             "country_code": "AT",
             "description": "euNetworks AT GmbH",
@@ -94,22 +78,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "80.252.32.0/20",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "DATAplexx IT- und Telekommunikationsloesungen GmbH",
-            "ip": "80.252.41.0",
-            "name": "IPV4-DATAPLEXX-NET1",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 20,
-                "ip": "80.252.32.0",
-                "prefix": "80.252.32.0/20",
-                "rir_name": "RIPE"
-            },
-            "prefix": "80.252.41.0/24",
             "roa_status": "None"
         }
     ],
