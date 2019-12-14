@@ -913,6 +913,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "CH",
+            "description": "MCH Messe Schweiz (Basel) AG",
+            "ip": "185.126.220.0",
+            "name": "CH-MCH-20151116",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.126.220.0",
+                "prefix": "185.126.220.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.126.220.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "HU",
             "description": "Incom Technologies Kft.",
