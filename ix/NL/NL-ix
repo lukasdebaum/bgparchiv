@@ -189,7 +189,7 @@
             "ipv4_address": "193.239.116.143",
             "ipv6_address": "2001:7f8:13::a500:3326:1",
             "name": "Datagroup",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 3856,
@@ -262,6 +262,15 @@
             "ipv6_address": "2001:7f8:13::a500:5560:1",
             "name": "AS-BICS-INSTANT-PEERING",
             "speed": 100
+        },
+        {
+            "asn": 5603,
+            "country_code": "SI",
+            "description": "Telekom Slovenije d.d.",
+            "ipv4_address": "193.239.118.186",
+            "ipv6_address": "2001:7f8:13::a500:5603:1",
+            "name": "SIOL-NET",
+            "speed": 20000
         },
         {
             "asn": 5713,
@@ -3792,7 +3801,7 @@
             "speed": 2500
         }
     ],
-    "members_count": 333,
+    "members_count": 334,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
