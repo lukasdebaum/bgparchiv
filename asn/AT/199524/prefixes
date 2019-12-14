@@ -1073,6 +1073,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 23,
+            "country_code": "RU",
+            "description": "nxa gamecloud",
+            "ip": "91.202.246.0",
+            "name": "nxa-gamecloud",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "91.202.244.0",
+                "prefix": "91.202.244.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.202.246.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "DE",
             "description": "G-Core Labs Customer assignment",
