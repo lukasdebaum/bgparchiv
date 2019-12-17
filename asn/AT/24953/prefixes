@@ -130,6 +130,22 @@
         },
         {
             "cidr": 22,
+            "country_code": "DE",
+            "description": "PCE-NET GmbH",
+            "ip": "185.232.188.0",
+            "name": "DE-PCE-20171120",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.232.188.0",
+                "prefix": "185.232.188.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.232.188.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
             "country_code": "AT",
             "description": "NETPLANET GmbH",
             "ip": "185.34.196.0",
