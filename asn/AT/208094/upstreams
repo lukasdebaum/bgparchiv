@@ -1,7 +1,14 @@
 {
     "combined_graph": "https://api.bgpview.io/assets/graphs/AS208094_Combined.svg",
-    "ipv4_graph": null,
-    "ipv4_upstreams": [],
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS208094_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 31543,
+            "country_code": "AT",
+            "description": "myNET gmbh",
+            "name": "MYNET-AS"
+        }
+    ],
     "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS208094_IPv6.svg",
     "ipv6_upstreams": [
         {
