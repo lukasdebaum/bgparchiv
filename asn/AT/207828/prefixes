@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "EU",
+            "description": "The whole IPv4 address space",
+            "ip": "193.109.224.0",
+            "name": "IANA-BLK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.109.224.0",
+                "prefix": "193.109.224.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.109.224.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
