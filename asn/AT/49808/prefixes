@@ -83,6 +83,22 @@
         {
             "cidr": 22,
             "country_code": "AT",
+            "description": "Kabel-TV Gmunden, E. Stadlmayr Gesellschaft m.b.H.",
+            "ip": "185.148.236.0",
+            "name": "AT-KABELTVGMUNDEN-20160422",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.148.236.0",
+                "prefix": "185.148.236.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.148.236.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
             "description": "Energie AG Oberoesterreich Telekom GmbH",
             "ip": "185.16.112.0",
             "name": "AT-ENERGIEAG-20130122",
@@ -462,6 +478,38 @@
                 "rir_name": "RIPE"
             },
             "prefix": "89.249.184.0/21",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Kabel-TV Gmunden, E. Stadlmayr Gesellschaft m.b.H.",
+            "ip": "91.233.12.0",
+            "name": "CATVGM-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.233.12.0",
+                "prefix": "91.233.12.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.233.12.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Kabel-TV Gmunden, E. Stadlmayr Gesellschaft m.b.H.",
+            "ip": "91.233.7.0",
+            "name": "CATVGM-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "91.233.7.0",
+                "prefix": "91.233.7.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.233.7.0/24",
             "roa_status": "None"
         },
         {
