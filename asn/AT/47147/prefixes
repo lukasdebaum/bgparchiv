@@ -1524,6 +1524,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "AT",
+            "description": "Network powered by ANX",
+            "ip": "2a00:11c0:66::",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:66::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "DE",
             "description": "ANEXIA Internetdienstleistungs GmbH",
             "ip": "2a00:11c0:82::",
