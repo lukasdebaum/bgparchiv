@@ -603,7 +603,7 @@
             "ipv4_address": "218.100.52.165",
             "ipv6_address": "2001:7fa:11:4:0:46c7:0:1",
             "name": "ACSDATA-NZ",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 19679,
@@ -1938,6 +1938,15 @@
             "speed": 10000
         },
         {
+            "asn": 139609,
+            "country_code": "SB",
+            "description": "Solomon Islands Submarine Cable Company",
+            "ipv4_address": "218.100.53.47",
+            "ipv6_address": "2001:7fa:11:4:2:2159:0:1",
+            "name": "SISCC-AS-AP",
+            "speed": 10000
+        },
+        {
             "asn": 199524,
             "country_code": "AT",
             "description": "G-Core Labs S.A.",
@@ -1947,7 +1956,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 184,
+    "members_count": 185,
     "name": "IX Australia NSW",
     "name_full": "New South Wales Internet Exchange (NSW-IX)",
     "policy_email": "peering@ix.asn.au",
