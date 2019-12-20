@@ -7515,7 +7515,7 @@
             "ipv4_address": "80.81.192.84",
             "ipv6_address": "2001:7f8::e8d5:0:1",
             "name": "ZAINGP-AS",
-            "speed": 40000
+            "speed": 50000
         },
         {
             "asn": 59624,
@@ -7713,6 +7713,15 @@
             "ipv4_address": "80.81.194.176",
             "ipv6_address": "2001:7f8::effe:0:1",
             "name": "IP-IT-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 61568,
+            "country_code": "BR",
+            "description": "FSF TECNOLOGIA LTDA ME",
+            "ipv4_address": "80.81.196.99",
+            "ipv6_address": "2001:7f8::f080:0:1",
+            "name": "FSF TECNOLOGIA LTDA ME",
             "speed": 10000
         },
         {
@@ -8316,7 +8325,7 @@
             "ipv4_address": "80.81.196.125",
             "ipv6_address": "2001:7f8::3:1022:0:1",
             "name": "INTERFIBRA-AS",
-            "speed": 200
+            "speed": 500
         },
         {
             "asn": 200924,
@@ -8724,7 +8733,7 @@
             "speed": 100000
         }
     ],
-    "members_count": 835,
+    "members_count": 836,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
