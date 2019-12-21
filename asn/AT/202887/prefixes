@@ -31,6 +31,38 @@
             },
             "prefix": "94.126.96.0/22",
             "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "KTM Industries AG",
+            "ip": "94.126.96.0",
+            "name": "AT-CROSSINDUSTRIES-20080918",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "94.126.96.0",
+                "prefix": "94.126.96.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.126.96.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "KTM AG",
+            "ip": "94.126.99.0",
+            "name": "KTM-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "94.126.96.0",
+                "prefix": "94.126.96.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.126.99.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": []
