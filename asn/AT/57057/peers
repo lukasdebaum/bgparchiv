@@ -1,6 +1,12 @@
 {
     "ipv4_peers": [
         {
+            "asn": 1764,
+            "country_code": "AT",
+            "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+            "name": "NEXTLAYER-AS"
+        },
+        {
             "asn": 57763,
             "country_code": "AT",
             "description": "SelfNet Internet Ges.m.b.H.",
@@ -9,10 +15,16 @@
     ],
     "ipv6_peers": [
         {
-            "asn": 57763,
+            "asn": 1764,
             "country_code": "AT",
-            "description": "SelfNet Internet Ges.m.b.H.",
-            "name": "SELFNET-AS"
+            "description": "Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH",
+            "name": "NEXTLAYER-AS"
+        },
+        {
+            "asn": 39912,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "name": "i3B-AS"
         }
     ]
 }
