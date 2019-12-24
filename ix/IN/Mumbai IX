@@ -300,6 +300,15 @@
             "speed": 10000
         },
         {
+            "asn": 24554,
+            "country_code": "IN",
+            "description": "Fivenetwork Solution India Pvt Ltd Internet",
+            "ipv4_address": "103.27.170.139",
+            "ipv6_address": "2401:7500:fff6::139",
+            "name": "FIVE-NET-AS-IN",
+            "speed": 3000
+        },
+        {
             "asn": 26415,
             "country_code": "US",
             "description": "VeriSign Global Registry Services",
@@ -1348,7 +1357,7 @@
             "country_code": "IN",
             "description": "World Star Communication",
             "ipv4_address": "103.27.170.153",
-            "ipv6_address": null,
+            "ipv6_address": "2401:7500:fff6::153",
             "name": "WORLD-AS",
             "speed": 1000
         },
@@ -1357,7 +1366,7 @@
             "country_code": "IN",
             "description": "JETSPOTNETWORKS PVT LTD",
             "ipv4_address": "103.27.170.236",
-            "ipv6_address": null,
+            "ipv6_address": "2401:7500:fff6::3b",
             "name": "JETSPOTNETWORKSPVTLTD-AS",
             "speed": 1000
         },
@@ -2127,7 +2136,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 226,
+    "members_count": 227,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
