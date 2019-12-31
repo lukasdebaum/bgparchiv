@@ -1445,7 +1445,7 @@
         {
             "asn": 24203,
             "country_code": "ID",
-            "description": "PT Excelcomindo Pratama (Network Access Provider)",
+            "description": "PT XL Axiata",
             "ipv4_address": "27.111.228.36",
             "ipv6_address": "2001:de8:4::2:4203:1",
             "name": "NAPXLNET-AS-ID",
@@ -3270,6 +3270,15 @@
             "speed": 100000
         },
         {
+            "asn": 138840,
+            "country_code": "ID",
+            "description": "PT. PARSAORAN GLOBAL DATATRANS - NAP",
+            "ipv4_address": "27.111.229.247",
+            "ipv6_address": "2001:de8:4::13:8840:3",
+            "name": "HSP-NAP-AS-ID",
+            "speed": 20000
+        },
+        {
             "asn": 199524,
             "country_code": "AT",
             "description": "G-Core Labs S.A.",
@@ -3306,7 +3315,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 306,
+    "members_count": 307,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
