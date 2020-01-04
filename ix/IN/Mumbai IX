@@ -378,7 +378,7 @@
             "ipv4_address": "103.27.170.123",
             "ipv6_address": null,
             "name": "HNS-AS-AP",
-            "speed": 1024
+            "speed": 10240
         },
         {
             "asn": 40676,
@@ -784,6 +784,15 @@
             "ipv6_address": "2401:7500:fff6::107",
             "name": "SOIPL-IN",
             "speed": 10240
+        },
+        {
+            "asn": 132203,
+            "country_code": "CN",
+            "description": "Tencent Building, Kejizhongyi Avenue",
+            "ipv4_address": "103.27.170.127",
+            "ipv6_address": "2401:7500:fff6::127",
+            "name": "TENCENT-NET-AP-CN",
+            "speed": 100000
         },
         {
             "asn": 132215,
@@ -2136,7 +2145,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 227,
+    "members_count": 228,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
