@@ -3056,7 +3056,7 @@
         {
             "asn": 20473,
             "country_code": "US",
-            "description": "Choopa, LLC",
+            "description": "AS-CHOOPA",
             "ipv4_address": "80.249.212.38",
             "ipv6_address": "2001:7f8:1::a502:473:1",
             "name": "AS-CHOOPA",
@@ -3339,15 +3339,6 @@
             "ipv4_address": "80.249.209.36",
             "ipv6_address": "2001:7f8:1::a502:1345:1",
             "name": "SYMANTEC-EU",
-            "speed": 10000
-        },
-        {
-            "asn": 21392,
-            "country_code": "NL",
-            "description": "Amsterdam",
-            "ipv4_address": "80.249.209.175",
-            "ipv6_address": "2001:7f8:1::a502:1392:1",
-            "name": "MUNTINET-AS",
             "speed": 10000
         },
         {
@@ -8238,6 +8229,15 @@
             "speed": 100
         },
         {
+            "asn": 201971,
+            "country_code": "GB",
+            "description": "CreeperHost LTD",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:1:0:a500:20:1971:1",
+            "name": "CreeperHostLTD-AS",
+            "speed": 1000
+        },
+        {
             "asn": 202053,
             "country_code": "FI",
             "description": "UpCloud Ltd",
@@ -8517,6 +8517,15 @@
             "speed": 10000
         },
         {
+            "asn": 262532,
+            "country_code": "BR",
+            "description": "VAS Freitas Servicos de Internet Ltda",
+            "ipv4_address": "80.249.209.175",
+            "ipv6_address": "2001:7f8:1:0:a500:26:2532:1",
+            "name": "VAS Freitas Servicos de Internet Ltda",
+            "speed": 1024
+        },
+        {
             "asn": 262773,
             "country_code": "BR",
             "description": "OndaNet Ltda",
@@ -8643,7 +8652,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 852,
+    "members_count": 853,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
