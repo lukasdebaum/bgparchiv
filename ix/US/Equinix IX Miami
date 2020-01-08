@@ -237,15 +237,6 @@
             "speed": 10000
         },
         {
-            "asn": 7162,
-            "country_code": "BR",
-            "description": "Universo Online S.A.",
-            "ipv4_address": "198.32.125.143",
-            "ipv6_address": "2001:478:124::1143",
-            "name": "Universo Online S.A.",
-            "speed": 10000
-        },
-        {
             "asn": 7303,
             "country_code": "AR",
             "description": "Telecom Argentina S.A.",
@@ -996,8 +987,8 @@
             "asn": 28186,
             "country_code": "BR",
             "description": "ITS TELECOMUNICACOES LTDA",
-            "ipv4_address": "198.32.125.236",
-            "ipv6_address": "2001:478:124::1236",
+            "ipv4_address": "198.32.243.236",
+            "ipv6_address": "2001:504:0:6:0:2:8186:1",
             "name": "ITS TELECOMUNICACOES LTDA",
             "speed": 10000
         },
@@ -1221,10 +1212,10 @@
             "asn": 36351,
             "country_code": "US",
             "description": "SoftLayer Technologies Inc.",
-            "ipv4_address": "198.32.124.221",
-            "ipv6_address": "2001:478:124::221",
+            "ipv4_address": "198.32.242.221",
+            "ipv6_address": "2001:504:0:6:0:3:6351:1",
             "name": "SOFTLAYER",
-            "speed": 20000
+            "speed": 60000
         },
         {
             "asn": 36640,
@@ -1421,6 +1412,15 @@
             "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
             "ipv4_address": "198.32.125.128",
             "ipv6_address": "2001:478:124::1128",
+            "name": "CIRA-DNS",
+            "speed": 1000
+        },
+        {
+            "asn": 55195,
+            "country_code": "CA",
+            "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
+            "ipv4_address": "198.32.243.128",
+            "ipv6_address": "2001:504:0:6:0:5:5195:1",
             "name": "CIRA-DNS",
             "speed": 1000
         },
@@ -1632,7 +1632,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 140,
+    "members_count": 139,
     "name": "Equinix IX Miami",
     "name_full": "Equinix Miami",
     "policy_email": "support@equinix.com",
