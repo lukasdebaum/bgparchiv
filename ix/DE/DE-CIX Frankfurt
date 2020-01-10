@@ -1539,7 +1539,7 @@
             "ipv4_address": "80.81.194.160",
             "ipv6_address": "2001:7f8::21e5:0:1",
             "name": "WORLDLINE",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 8708,
@@ -5252,7 +5252,7 @@
         {
             "asn": 34569,
             "country_code": "BG",
-            "description": "Stefany-Style",
+            "description": "Online Direct",
             "ipv4_address": "80.81.194.158",
             "ipv6_address": null,
             "name": "Networx-BG",
@@ -5261,7 +5261,7 @@
         {
             "asn": 34569,
             "country_code": "BG",
-            "description": "Stefany-Style",
+            "description": "Online Direct",
             "ipv4_address": "80.81.192.136",
             "ipv6_address": null,
             "name": "Networx-BG",
@@ -6175,6 +6175,15 @@
             "ipv6_address": "2001:7f8::a76d:0:1",
             "name": "FOTONTELECOM-TRANSIT-AS",
             "speed": 10000
+        },
+        {
+            "asn": 42947,
+            "country_code": "ES",
+            "description": "Telfy Telecom S.L.",
+            "ipv4_address": "80.81.192.9",
+            "ipv6_address": "2001:7f8::a7c3:0:2",
+            "name": "SKYNETLINK-AS",
+            "speed": 1000
         },
         {
             "asn": 42965,
@@ -8760,7 +8769,7 @@
             "speed": 500
         }
     ],
-    "members_count": 838,
+    "members_count": 839,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
