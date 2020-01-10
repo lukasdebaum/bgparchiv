@@ -432,7 +432,7 @@
             "ipv4_address": "198.32.132.94",
             "ipv6_address": "2001:478:132::94",
             "name": "IRISNETWORKS",
-            "speed": 10000
+            "speed": 50000
         },
         {
             "asn": 11888,
@@ -455,7 +455,7 @@
         {
             "asn": 12083,
             "country_code": "US",
-            "description": "WideOpenWest Finance LLC",
+            "description": "WOW-INTERNET",
             "ipv4_address": "198.32.132.23",
             "ipv6_address": "2001:478:132::23",
             "name": "WOW-INTERNET",
@@ -549,6 +549,15 @@
             "ipv4_address": "198.32.132.138",
             "ipv6_address": null,
             "name": "TROYCABLE-NET",
+            "speed": 20000
+        },
+        {
+            "asn": 14288,
+            "country_code": "US",
+            "description": "MPInet",
+            "ipv4_address": "198.32.132.15",
+            "ipv6_address": "2001:478:132::15",
+            "name": "MPINET",
             "speed": 20000
         },
         {
@@ -1497,7 +1506,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 147,
+    "members_count": 148,
     "name": "Digital Realty Atlanta",
     "name_full": "Digital Realty Atlanta Internet Exchange",
     "policy_email": "ix@digitalrealty.com",
