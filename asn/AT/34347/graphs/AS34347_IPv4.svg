@@ -27,8 +27,8 @@
 </g>
 <!-- AS34347&#45;&gt;AS174 -->
 <g id="edge1" class="edge"><title>AS34347&#45;&gt;AS174</title>
-<path fill="none" stroke="black" stroke-width="2.25" d="M57.8073,-197.337C78.7371,-226.109 120.727,-283.834 144.858,-317.007"/>
-<polygon fill="black" stroke="black" stroke-width="2.25" points="142.158,-319.245 150.871,-325.273 147.819,-315.128 142.158,-319.245"/>
+<path fill="none" stroke="black" stroke-width="2.7" d="M57.8073,-197.337C78.7371,-226.109 120.727,-283.834 144.858,-317.007"/>
+<polygon fill="black" stroke="black" stroke-width="2.7" points="142.158,-319.245 150.871,-325.273 147.819,-315.128 142.158,-319.245"/>
 </g>
 <!-- AS1299 -->
 <g id="node3" class="node"><title>AS1299</title>
@@ -40,8 +40,8 @@
 </g>
 <!-- AS34347&#45;&gt;AS1299 -->
 <g id="edge2" class="edge"><title>AS34347&#45;&gt;AS1299</title>
-<path fill="none" stroke="black" stroke-width="2.25" d="M74.3257,-193.348C89.9369,-200.502 109.335,-209.391 126.007,-217.03"/>
-<polygon fill="black" stroke="black" stroke-width="2.25" points="124.91,-220.378 135.459,-221.362 127.826,-214.014 124.91,-220.378"/>
+<path fill="none" stroke="black" stroke-width="2.7" d="M74.3257,-193.348C89.9369,-200.502 109.335,-209.391 126.007,-217.03"/>
+<polygon fill="black" stroke="black" stroke-width="2.7" points="124.91,-220.378 135.459,-221.362 127.826,-214.014 124.91,-220.378"/>
 </g>
 <!-- AS2914 -->
 <g id="node4" class="node"><title>AS2914</title>
@@ -53,8 +53,8 @@
 </g>
 <!-- AS34347&#45;&gt;AS2914 -->
 <g id="edge3" class="edge"><title>AS34347&#45;&gt;AS2914</title>
-<path fill="none" stroke="black" stroke-width="1.5" d="M88.4072,-180C96.7198,-180 105.482,-180 113.965,-180"/>
-<polygon fill="black" stroke="black" stroke-width="1.5" points="114.123,-183.5 124.123,-180 114.123,-176.5 114.123,-183.5"/>
+<path fill="none" stroke="black" stroke-width="2.7" d="M88.4072,-180C96.7198,-180 105.482,-180 113.965,-180"/>
+<polygon fill="black" stroke="black" stroke-width="2.7" points="114.123,-183.5 124.123,-180 114.123,-176.5 114.123,-183.5"/>
 </g>
 <!-- AS3356 -->
 <g id="node5" class="node"><title>AS3356</title>
@@ -79,8 +79,8 @@
 </g>
 <!-- AS34347&#45;&gt;AS6762 -->
 <g id="edge5" class="edge"><title>AS34347&#45;&gt;AS6762</title>
-<path fill="none" stroke="black" stroke-width="0.75" d="M60.1284,-162.956C75.4547,-145.903 100.39,-119.35 124.392,-99 126.889,-96.8828 129.55,-94.7681 132.261,-92.7067"/>
-<polygon fill="black" stroke="black" stroke-width="0.75" points="134.427,-95.4588 140.437,-86.7336 130.298,-89.8064 134.427,-95.4588"/>
+<path fill="none" stroke="black" stroke-width="0.9" d="M60.1284,-162.956C75.4547,-145.903 100.39,-119.35 124.392,-99 126.889,-96.8828 129.55,-94.7681 132.261,-92.7067"/>
+<polygon fill="black" stroke="black" stroke-width="0.9" points="134.427,-95.4588 140.437,-86.7336 130.298,-89.8064 134.427,-95.4588"/>
 </g>
 <!-- AS3491 -->
 <g id="node7" class="node"><title>AS3491</title>
@@ -134,6 +134,11 @@
 <path fill="none" stroke="black" d="M192.175,-246.934C207.169,-254.081 225.99,-263.052 242.213,-270.785"/>
 <polygon fill="black" stroke="black" points="240.884,-274.028 251.417,-275.171 243.895,-267.709 240.884,-274.028"/>
 </g>
+<!-- AS2914&#45;&gt;AS3257 -->
+<g id="edge10" class="edge"><title>AS2914&#45;&gt;AS3257</title>
+<path fill="none" stroke="black" d="M192.175,-192.934C207.169,-200.081 225.99,-209.052 242.213,-216.785"/>
+<polygon fill="black" stroke="black" points="240.884,-220.028 251.417,-221.171 243.895,-213.709 240.884,-220.028"/>
+</g>
 <!-- AS2497 -->
 <g id="node11" class="node"><title>AS2497</title>
 <g id="a_node11"><a xlink:href="/asn/2497" xlink:title="AS2497 ~ Internet Initiative Japan Inc. [JP]">
@@ -143,17 +148,12 @@
 </g>
 </g>
 <!-- AS2914&#45;&gt;AS2497 -->
-<g id="edge10" class="edge"><title>AS2914&#45;&gt;AS2497</title>
+<g id="edge11" class="edge"><title>AS2914&#45;&gt;AS2497</title>
 <path fill="none" stroke="black" d="M203.711,-180C211.914,-180 220.678,-180 229.21,-180"/>
 <polygon fill="black" stroke="black" points="229.449,-183.5 239.449,-180 229.449,-176.5 229.449,-183.5"/>
 </g>
-<!-- AS3356&#45;&gt;AS3257 -->
-<g id="edge13" class="edge"><title>AS3356&#45;&gt;AS3257</title>
-<path fill="none" stroke="black" d="M188.633,-140.389C193.889,-144.148 199.22,-148.437 203.685,-153 223.858,-173.617 219.513,-186.383 239.685,-207 241.778,-209.139 244.061,-211.218 246.438,-213.21"/>
-<polygon fill="black" stroke="black" points="244.681,-216.275 254.738,-219.611 248.956,-210.732 244.681,-216.275"/>
-</g>
 <!-- AS3356&#45;&gt;AS2497 -->
-<g id="edge14" class="edge"><title>AS3356&#45;&gt;AS2497</title>
+<g id="edge13" class="edge"><title>AS3356&#45;&gt;AS2497</title>
 <path fill="none" stroke="black" d="M192.175,-138.934C207.169,-146.081 225.99,-155.052 242.213,-162.785"/>
 <polygon fill="black" stroke="black" points="240.884,-166.028 251.417,-167.171 243.895,-159.709 240.884,-166.028"/>
 </g>
@@ -166,7 +166,7 @@
 </g>
 </g>
 <!-- AS3356&#45;&gt;AS6453 -->
-<g id="edge11" class="edge"><title>AS3356&#45;&gt;AS6453</title>
+<g id="edge12" class="edge"><title>AS3356&#45;&gt;AS6453</title>
 <path fill="none" stroke="black" d="M203.711,-126C211.914,-126 220.678,-126 229.21,-126"/>
 <polygon fill="black" stroke="black" points="229.449,-129.5 239.449,-126 229.449,-122.5 229.449,-129.5"/>
 </g>
@@ -179,7 +179,7 @@
 </g>
 </g>
 <!-- AS3356&#45;&gt;AS701 -->
-<g id="edge12" class="edge"><title>AS3356&#45;&gt;AS701</title>
+<g id="edge14" class="edge"><title>AS3356&#45;&gt;AS701</title>
 <path fill="none" stroke="black" d="M192.175,-113.066C207.607,-105.71 227.092,-96.4227 243.628,-88.5414"/>
 <polygon fill="black" stroke="black" points="245.448,-91.5509 252.969,-84.0887 242.436,-85.2319 245.448,-91.5509"/>
 </g>
