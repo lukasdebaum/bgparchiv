@@ -93,6 +93,24 @@
             "speed": 10000
         },
         {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "ipv4_address": "185.1.55.95",
+            "ipv6_address": "2001:7f8:12:1::8075",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+            "speed": 20000
+        },
+        {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "ipv4_address": "185.1.55.96",
+            "ipv6_address": "2001:7f8:12:1:0:1:0:8075",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+            "speed": 20000
+        },
+        {
             "asn": 8674,
             "country_code": "SE",
             "description": "Netnod Internet Exchange Sverige AB",
@@ -525,7 +543,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 55,
+    "members_count": 56,
     "name": "NIX1",
     "name_full": "Norwegian Internet Exchange, NIX1 (location 1)",
     "policy_email": "nix-drift@usit.uio.no",
