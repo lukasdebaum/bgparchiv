@@ -174,6 +174,15 @@
             "speed": 20000
         },
         {
+            "asn": 1820,
+            "country_code": "US",
+            "description": "WNET TELECOM USA Corp.",
+            "ipv4_address": "195.66.226.32",
+            "ipv6_address": "2001:7f8:4::71c:2",
+            "name": "WNET",
+            "speed": 10000
+        },
+        {
             "asn": 1828,
             "country_code": "US",
             "description": "Unitas Global LLC",
@@ -1088,6 +1097,15 @@
             "description": "Microsoft Corporation",
             "ipv4_address": "195.66.224.140",
             "ipv6_address": "2001:7f8:4::1f8b:1",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+            "speed": 300000
+        },
+        {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "ipv4_address": "195.66.224.112",
+            "ipv6_address": "2001:7f8:4::1fb2:2",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
             "speed": 300000
         },
@@ -2250,7 +2268,7 @@
             "ipv4_address": "195.66.226.115",
             "ipv6_address": "2001:7f8:4::3b1d:2",
             "name": "EDGECAST",
-            "speed": 200000
+            "speed": 100000
         },
         {
             "asn": 15133,
@@ -2259,7 +2277,7 @@
             "ipv4_address": "195.66.225.106",
             "ipv6_address": "2001:7f8:4::3b1d:5",
             "name": "EDGECAST",
-            "speed": 200000
+            "speed": 100000
         },
         {
             "asn": 15169,
@@ -4620,6 +4638,15 @@
             "speed": 10000
         },
         {
+            "asn": 39063,
+            "country_code": "DE",
+            "description": "Leitwert GmbH",
+            "ipv4_address": "195.66.226.203",
+            "ipv6_address": "2001:7f8:4::9897:1",
+            "name": "LEITWERT",
+            "speed": 1000
+        },
+        {
             "asn": 39120,
             "country_code": "IT",
             "description": "ISP services in Italy",
@@ -6432,7 +6459,7 @@
             "asn": 60377,
             "country_code": "GB",
             "description": "toob",
-            "ipv4_address": null,
+            "ipv4_address": "195.66.227.102",
             "ipv6_address": "2001:7f8:4::ebd9:1",
             "name": "TOOB",
             "speed": 10000
@@ -7590,7 +7617,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 763,
+    "members_count": 765,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
