@@ -129,6 +129,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "IXION-Frankfurt Core-Network, Core-Switching and Routing",
+            "ip": "188.117.255.0",
+            "name": "JM-DATA-CORE-NET-FRANKFURT-01",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "188.117.192.0",
+                "prefix": "188.117.192.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "188.117.255.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "GR",
             "description": "HCM Cable TV GmbH & Co.KG",
@@ -158,6 +174,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "217.16.112.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "JM-DATA GmbH",
+            "ip": "217.16.114.0",
+            "name": "AT-JM-DATA-20021125",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "217.16.112.0",
+                "prefix": "217.16.112.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.16.114.0/24",
             "roa_status": "None"
         },
         {
@@ -462,6 +494,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "85.13.8.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Ainet Telekommunikations-Netzwerk Betriebs GmbH",
+            "ip": "87.243.187.0",
+            "name": "AT-AINET-20050725",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "87.243.128.0",
+                "prefix": "87.243.128.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "87.243.187.0/24",
             "roa_status": "None"
         },
         {
