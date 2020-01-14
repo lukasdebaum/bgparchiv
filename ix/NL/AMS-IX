@@ -7866,7 +7866,7 @@
             "ipv4_address": "80.249.212.203",
             "ipv6_address": null,
             "name": "ICC-AS-AP",
-            "speed": 1024
+            "speed": 1000
         },
         {
             "asn": 196689,
@@ -8047,6 +8047,15 @@
             "ipv6_address": "2001:7f8:1:0:a500:19:9408:1",
             "name": "BOL-COM",
             "speed": 10000
+        },
+        {
+            "asn": 199483,
+            "country_code": "FR",
+            "description": "NXO France SAS",
+            "ipv4_address": "80.249.212.35",
+            "ipv6_address": "2001:7f8:1:0:a500:19:9483:1",
+            "name": "LINKER-AS",
+            "speed": 1000
         },
         {
             "asn": 199524,
@@ -8688,7 +8697,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 857,
+    "members_count": 858,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
