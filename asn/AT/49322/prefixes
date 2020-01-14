@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "ViM Internetdienstleistungen GmbH",
+            "ip": "92.43.102.0",
+            "name": "VIM-DSL-ACCESS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "92.43.96.0",
+                "prefix": "92.43.96.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.43.102.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 21,
             "country_code": "AT",
             "description": "ViM Internetdienstleistungen GmbH",
