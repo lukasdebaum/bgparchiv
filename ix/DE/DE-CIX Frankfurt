@@ -4464,7 +4464,7 @@
             "ipv4_address": "80.81.194.206",
             "ipv6_address": "2001:7f8::7156:0:1",
             "name": "SCALEUP",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 29037,
@@ -7046,7 +7046,7 @@
             "description": "ITENOS GmbH",
             "ipv4_address": "80.81.192.181",
             "ipv6_address": "2001:7f8::c565:0:1",
-            "name": "ITENOS-IPBACKBONE",
+            "name": "ITENOS",
             "speed": 10000
         },
         {
@@ -7489,15 +7489,6 @@
             "ipv6_address": "2001:7f8::e29a:0:1",
             "name": "UVENSYS",
             "speed": 10000
-        },
-        {
-            "asn": 58057,
-            "country_code": "CH",
-            "description": "Securebit Autonomous System Number",
-            "ipv4_address": "80.81.195.219",
-            "ipv6_address": "2001:7f8::e2c9:0:1",
-            "name": "SECUREBIT",
-            "speed": 1000
         },
         {
             "asn": 58243,
@@ -8805,7 +8796,7 @@
             "speed": 500
         }
     ],
-    "members_count": 843,
+    "members_count": 842,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
