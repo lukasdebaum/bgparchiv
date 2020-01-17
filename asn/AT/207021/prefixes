@@ -35,6 +35,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "NIC.at head office Salzburg",
+            "ip": "192.174.68.0",
+            "name": "NICat-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.174.68.0",
+                "prefix": "192.174.68.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.174.68.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "nic.at GmbH",
             "ip": "194.0.25.0",
             "name": "NIC-AT-ANYCAST-V4-3",
@@ -46,6 +62,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "194.0.25.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "SE",
+            "description": "NAMEISP-DATACENTER-WEST 91.237.66.0/24",
+            "ip": "91.237.67.0",
+            "name": "NAMEISP",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.237.66.0",
+                "prefix": "91.237.66.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.237.67.0/24",
             "roa_status": "None"
         }
     ],
@@ -84,6 +116,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "AT",
+            "description": "nic.at GmbH",
+            "ip": "2001:67c:1bc::",
+            "name": "NIC_AT-CUSTOMER-ANYCAST-V6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:1bc::",
+                "prefix": "2001:67c:1bc::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:1bc::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "SE",
             "description": "AB Name ISP",
             "ip": "2a0b:8e00:1::",
@@ -96,6 +144,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a0b:8e00:1::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "SE",
+            "description": "AB Name ISP",
+            "ip": "2a0b:8e00::",
+            "name": "SE-NAMEISP-20160913",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:8e00::",
+                "prefix": "2a0b:8e00::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:8e00::/48",
             "roa_status": "None"
         }
     ]
