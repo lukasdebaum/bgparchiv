@@ -959,7 +959,7 @@
         {
             "asn": 15435,
             "country_code": "NL",
-            "description": "CAIW Autonomous System",
+            "description": "DELTA Fiber Nederland",
             "ipv4_address": "193.239.116.29",
             "ipv6_address": "2001:7f8:13::a501:5435:1",
             "name": "KABELFOON",
@@ -968,7 +968,7 @@
         {
             "asn": 15435,
             "country_code": "NL",
-            "description": "CAIW Autonomous System",
+            "description": "DELTA Fiber Nederland",
             "ipv4_address": "193.239.116.55",
             "ipv6_address": "2001:7f8:13::a501:5435:2",
             "name": "KABELFOON",
@@ -2042,6 +2042,15 @@
             "description": "West Indian Ocean Cable Company",
             "ipv4_address": "193.239.118.40",
             "ipv6_address": "2001:7f8:13::a503:7662:1",
+            "name": "WIOCC-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 37662,
+            "country_code": "MU",
+            "description": "West Indian Ocean Cable Company",
+            "ipv4_address": "193.239.118.203",
+            "ipv6_address": null,
             "name": "WIOCC-AS",
             "speed": 10000
         },
@@ -3189,6 +3198,15 @@
             "speed": 1000
         },
         {
+            "asn": 59985,
+            "country_code": "NL",
+            "description": "SAM Office B.V.",
+            "ipv4_address": "193.239.118.204",
+            "ipv6_address": "2001:7f8:13::a505:9985:1",
+            "name": "SAMOFFICE",
+            "speed": 1000
+        },
+        {
             "asn": 60501,
             "country_code": "IT",
             "description": "Sirius Technology SRL",
@@ -3828,7 +3846,7 @@
             "speed": 2500
         }
     ],
-    "members_count": 336,
+    "members_count": 337,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
