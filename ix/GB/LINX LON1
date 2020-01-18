@@ -99,7 +99,7 @@
             "ipv4_address": "195.66.225.122",
             "ipv6_address": "2001:7f8:4::44f:1",
             "name": "SURFNET-NL",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 1239,
@@ -1081,6 +1081,15 @@
             "ipv6_address": "2001:7f8:4::1e21:1",
             "name": "telkomnet-as-ap",
             "speed": 10000
+        },
+        {
+            "asn": 7850,
+            "country_code": "US",
+            "description": "iHighway.net, Inc.",
+            "ipv4_address": "195.66.227.241",
+            "ipv6_address": "2001:7f8:4::1eaa:1",
+            "name": "CITYLINKFIBER",
+            "speed": 1000
         },
         {
             "asn": 7862,
@@ -7635,7 +7644,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 767,
+    "members_count": 768,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
