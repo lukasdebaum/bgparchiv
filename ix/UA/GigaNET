@@ -714,6 +714,15 @@
             "speed": 10000
         },
         {
+            "asn": 42861,
+            "country_code": "RU",
+            "description": "FOTONTELECOM ISP",
+            "ipv4_address": "185.1.62.255",
+            "ipv6_address": "2001:7f8:6c::255",
+            "name": "FOTONTELECOM-TRANSIT-AS",
+            "speed": 10000
+        },
+        {
             "asn": 42896,
             "country_code": "RU",
             "description": "www: http://acsinter.net  support: acs@acs-group.net.ru",
@@ -1092,6 +1101,24 @@
             "speed": 10000
         },
         {
+            "asn": 59613,
+            "country_code": "UA",
+            "description": "Giganet.UA Internet Exchange Network",
+            "ipv4_address": "185.1.62.1",
+            "ipv6_address": "2001:7f8:6c::1",
+            "name": "UBNIX",
+            "speed": 1000
+        },
+        {
+            "asn": 59613,
+            "country_code": "UA",
+            "description": "Giganet.UA Internet Exchange Network",
+            "ipv4_address": "185.1.62.2",
+            "ipv6_address": "2001:7f8:6c::2",
+            "name": "UBNIX",
+            "speed": 1000
+        },
+        {
             "asn": 59922,
             "country_code": "PL",
             "description": "Grey Wizard Sp. z o.o.",
@@ -1254,7 +1281,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 110,
+    "members_count": 111,
     "name": "GigaNET",
     "name_full": "Giganet Internet exchange network",
     "policy_email": "info@giganet.ua",
