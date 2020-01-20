@@ -1,7 +1,14 @@
 {
-    "combined_graph": null,
+    "combined_graph": "https://api.bgpview.io/assets/graphs/AS207760_Combined.svg",
     "ipv4_graph": null,
     "ipv4_upstreams": [],
-    "ipv6_graph": null,
-    "ipv6_upstreams": []
+    "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS207760_IPv6.svg",
+    "ipv6_upstreams": [
+        {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        }
+    ]
 }
