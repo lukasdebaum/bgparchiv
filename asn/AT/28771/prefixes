@@ -81,6 +81,22 @@
             },
             "prefix": "2001:67c:2b04::/48",
             "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "VIE NET",
+            "ip": "2a01:190:167b::",
+            "name": "VIE-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a01:190::",
+                "prefix": "2a01:190::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a01:190:167b::/48",
+            "roa_status": "None"
         }
     ]
 }
