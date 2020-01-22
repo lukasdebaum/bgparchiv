@@ -4406,7 +4406,7 @@
         {
             "asn": 28725,
             "country_code": "CZ",
-            "description": "Ceska Telekomunikacni Infrastruktura a.s",
+            "description": "CETIN a.s.",
             "ipv4_address": "80.81.194.216",
             "ipv6_address": "2001:7f8::7035:0:1",
             "name": "CETIN-AS",
@@ -6031,6 +6031,15 @@
             "ipv6_address": "2001:7f8::a161:0:1",
             "name": "NOVATEL-AS",
             "speed": 30000
+        },
+        {
+            "asn": 41378,
+            "country_code": "DE",
+            "description": "Kirino LLC",
+            "ipv4_address": "80.81.196.99",
+            "ipv6_address": "2001:7f8::a1a2:0:2",
+            "name": "KirinoNET",
+            "speed": 1000
         },
         {
             "asn": 41412,
@@ -7797,15 +7806,6 @@
             "speed": 10000
         },
         {
-            "asn": 61568,
-            "country_code": "BR",
-            "description": "FSF TECNOLOGIA LTDA ME",
-            "ipv4_address": "80.81.196.99",
-            "ipv6_address": "2001:7f8::f080:0:1",
-            "name": "FSF TECNOLOGIA LTDA ME",
-            "speed": 10000
-        },
-        {
             "asn": 61832,
             "country_code": "BR",
             "description": "Fortel Fortaleza Telecomunicacoes Ltda",
@@ -8118,15 +8118,6 @@
             "ipv4_address": "80.81.195.198",
             "ipv6_address": "2001:7f8::3:394:0:1",
             "name": "CCNST-AS",
-            "speed": 10000
-        },
-        {
-            "asn": 197540,
-            "country_code": "DE",
-            "description": "netcup GmbH",
-            "ipv4_address": "80.81.193.182",
-            "ipv6_address": "2001:7f8::3:3a4:0:1",
-            "name": "netcup-AS",
             "speed": 10000
         },
         {
@@ -8841,7 +8832,7 @@
             "speed": 500
         }
     ],
-    "members_count": 846,
+    "members_count": 845,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
