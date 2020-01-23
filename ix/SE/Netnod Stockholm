@@ -1212,6 +1212,15 @@
             "asn": 13189,
             "country_code": "SE",
             "description": "Lidero Network",
+            "ipv4_address": null,
+            "ipv6_address": null,
+            "name": "LIDERO",
+            "speed": 10000
+        },
+        {
+            "asn": 13189,
+            "country_code": "SE",
+            "description": "Lidero Network",
             "ipv4_address": "194.68.128.138",
             "ipv6_address": "2001:7f8:d:fe::138",
             "name": "LIDERO",
@@ -1234,15 +1243,6 @@
             "ipv6_address": "2001:7f8:d:fc::138",
             "name": "LIDERO",
             "speed": 20000
-        },
-        {
-            "asn": 13189,
-            "country_code": "SE",
-            "description": "Lidero Network",
-            "ipv4_address": null,
-            "ipv6_address": null,
-            "name": "LIDERO",
-            "speed": 10000
         },
         {
             "asn": 13194,
@@ -2667,6 +2667,42 @@
             "speed": 1000
         },
         {
+            "asn": 44746,
+            "country_code": "SE",
+            "description": "Satellithuset i Limmared AB",
+            "ipv4_address": "194.68.123.51",
+            "ipv6_address": "2001:7f8:d:ff::51",
+            "name": "SiLA5-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 44746,
+            "country_code": "SE",
+            "description": "Satellithuset i Limmared AB",
+            "ipv4_address": "195.245.240.51",
+            "ipv6_address": "2001:7f8:d:fc::51",
+            "name": "SiLA5-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 44746,
+            "country_code": "SE",
+            "description": "Satellithuset i Limmared AB",
+            "ipv4_address": "194.68.128.51",
+            "ipv6_address": "2001:7f8:d:fe::51",
+            "name": "SiLA5-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 44746,
+            "country_code": "SE",
+            "description": "Satellithuset i Limmared AB",
+            "ipv4_address": "195.69.119.51",
+            "ipv6_address": "2001:7f8:d:fb::51",
+            "name": "SiLA5-AS",
+            "speed": 1000
+        },
+        {
             "asn": 44843,
             "country_code": "RU",
             "description": "OBTEL Ltd.",
@@ -3693,13 +3729,13 @@
             "speed": 1000
         }
     ],
-    "members_count": 160,
+    "members_count": 161,
     "name": "Netnod Stockholm",
     "name_full": "Netnod Internet Exchange i Sverige AB",
     "policy_email": "info@netnod.se",
-    "policy_phone": "+46 8 562 860 00",
+    "policy_phone": "+46856286000",
     "tech_email": "noc@netnod.se",
-    "tech_phone": "+46 8 641 45 80",
+    "tech_phone": "+4686414580",
     "url_stats": "http://www.netnod.se/ix/statistics/",
     "website": "http://www.netnod.se"
 }
