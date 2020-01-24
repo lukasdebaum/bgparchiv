@@ -1389,15 +1389,6 @@
             "speed": 1024
         },
         {
-            "asn": 134871,
-            "country_code": "IN",
-            "description": "LinkNet Broadband Pvt Ltd",
-            "ipv4_address": "103.27.170.188",
-            "ipv6_address": "2401:7500:fff6::188",
-            "name": "LINKNET-AS",
-            "speed": 1024
-        },
-        {
             "asn": 134874,
             "country_code": "IN",
             "description": "Acme Diginet Corporation Pvt. Ltd",
@@ -1812,15 +1803,6 @@
             "speed": 100
         },
         {
-            "asn": 136629,
-            "country_code": "IN",
-            "description": "Ometa Net Pvt. Ltd.",
-            "ipv4_address": "103.27.170.161",
-            "ipv6_address": "2401:7500:fff6::161",
-            "name": "OMETA-AS-IN",
-            "speed": 1024
-        },
-        {
             "asn": 136639,
             "country_code": "IN",
             "description": "Scud Communication Pvt Ltd",
@@ -1891,6 +1873,15 @@
             "ipv6_address": "2401:7500:fff6::125",
             "name": "KDNET-AS",
             "speed": 1024
+        },
+        {
+            "asn": 137150,
+            "country_code": "IN",
+            "description": "Wingsnet Internet Pvt. Ltd.",
+            "ipv4_address": "103.27.170.124",
+            "ipv6_address": null,
+            "name": "WINGSNET-AS",
+            "speed": 1000
         },
         {
             "asn": 137154,
@@ -2118,7 +2109,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 225,
+    "members_count": 224,
     "name": "Mumbai IX",
     "name_full": "Mumbai Internet Exchange powered by DE-CIX (fka Mumbai Convergence Hub)",
     "policy_email": "operations@mumbai-ix.net",
