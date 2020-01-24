@@ -415,6 +415,22 @@
             },
             "prefix": "217.196.159.0/24",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AT ML11 COMPANYCLOUD CONOVA 20200114",
+            "ip": "45.89.163.0",
+            "name": "AT-ML11-COMPANYCLOUD-CONOVA-20200114",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.89.160.0",
+                "prefix": "45.89.160.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.89.163.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
