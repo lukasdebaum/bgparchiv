@@ -41,7 +41,7 @@
         {
             "asn": 577,
             "country_code": "CA",
-            "description": "Bell Canada",
+            "description": "BACOM",
             "ipv4_address": "206.126.236.203",
             "ipv6_address": "2001:504:0:2::577:1",
             "name": "BACOM",
@@ -882,7 +882,7 @@
             "ipv4_address": "206.126.236.45",
             "ipv6_address": "2001:504:0:2:0:1:1164:1",
             "name": "INTERNET2-TRANSITRAIL-CPS",
-            "speed": 30000
+            "speed": 100000
         },
         {
             "asn": 11279,
@@ -2352,6 +2352,15 @@
             "speed": 10000
         },
         {
+            "asn": 33412,
+            "country_code": "CA",
+            "description": "Keepit A/S",
+            "ipv4_address": "206.126.238.94",
+            "ipv6_address": "2001:504:0:2:0:3:3412:1",
+            "name": "KEEPIT-US-DC",
+            "speed": 10000
+        },
+        {
             "asn": 33419,
             "country_code": "US",
             "description": "Exponential Interactive, Inc.",
@@ -3423,7 +3432,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 319,
+    "members_count": 320,
     "name": "Equinix Ashburn",
     "name_full": "Equinix Ashburn Exchange",
     "policy_email": "support@equinix.com",
