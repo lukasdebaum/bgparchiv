@@ -67,6 +67,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Reisenbauer Holding OUE",
+            "ip": "2a05:c680:53::",
+            "name": "EE-REISENBAUER-20150213",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:c680::",
+                "prefix": "2a05:c680::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:c680:53::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 29,
             "country_code": "AT",
             "description": "Stefan Reisenbauer",
