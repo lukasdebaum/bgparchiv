@@ -17,5 +17,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "ZVR: 1254016365",
+            "ip": "2a03:e600:100::",
+            "name": "FOUNDATION-FOR-APPLIED-PRIVACY",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:e600::",
+                "prefix": "2a03:e600::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:e600:100::/48",
+            "roa_status": "None"
+        }
+    ]
 }
