@@ -1107,7 +1107,7 @@
             "ipv4_address": "178.18.230.60",
             "ipv6_address": null,
             "name": "FENIXVT-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 39598,
@@ -1207,6 +1207,15 @@
             "ipv6_address": "2a03:5f80:4::225:146",
             "name": "ISTRANET-AS",
             "speed": 10000
+        },
+        {
+            "asn": 42437,
+            "country_code": "RU",
+            "description": "Tele2 Russia Network",
+            "ipv4_address": "178.18.226.46",
+            "ipv6_address": null,
+            "name": "T2-ROSTOV-AS",
+            "speed": 60000
         },
         {
             "asn": 42511,
@@ -2496,7 +2505,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 213,
+    "members_count": 214,
     "name": "DATAIX",
     "name_full": "Global Network Managment Ltd",
     "policy_email": "noc@dataix.ru",
