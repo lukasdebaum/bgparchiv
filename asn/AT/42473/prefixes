@@ -1505,7 +1505,7 @@
             "roa_status": "None"
         },
         {
-            "cidr": 23,
+            "cidr": 24,
             "country_code": "FR",
             "description": "Dedicated servers in FR",
             "ip": "213.227.162.0",
@@ -1517,7 +1517,23 @@
                 "prefix": "213.227.160.0/19",
                 "rir_name": "RIPE"
             },
-            "prefix": "213.227.162.0/23",
+            "prefix": "213.227.162.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "FR",
+            "description": "Dedicated servers in FR",
+            "ip": "213.227.163.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "213.227.160.0",
+                "prefix": "213.227.160.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "213.227.163.0/24",
             "roa_status": "None"
         },
         {
