@@ -596,6 +596,22 @@
             "cidr": 24,
             "country_code": "LU",
             "description": "G-Core Innovations S.a r.l.",
+            "ip": "45.147.161.0",
+            "name": "LU-G-CORE1-20190830",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.147.160.0",
+                "prefix": "45.147.160.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.147.161.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "LU",
+            "description": "G-Core Innovations S.a r.l.",
             "ip": "45.147.162.0",
             "name": "LU-G-CORE1-20190830",
             "parent": {
@@ -862,6 +878,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.188.171.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.2.0",
+            "name": "GCL-CUSTOMER-RU",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.0.0",
+                "prefix": "5.188.0.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.2.0/24",
             "roa_status": "None"
         },
         {
@@ -3470,6 +3502,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "92.38.153.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "92.38.154.0",
+            "name": "GCL-CUSTOMER-EU",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "92.38.128.0",
+                "prefix": "92.38.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.38.154.0/24",
             "roa_status": "None"
         },
         {
