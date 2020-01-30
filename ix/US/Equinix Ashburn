@@ -270,7 +270,7 @@
             "ipv4_address": "206.126.237.17",
             "ipv6_address": "2001:504:0:2::3300:2",
             "name": "BT",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 3303,
@@ -1404,6 +1404,15 @@
             "ipv4_address": "206.126.238.190",
             "ipv6_address": "2001:504:0:2:0:1:6524:1",
             "name": "METTEL",
+            "speed": 10000
+        },
+        {
+            "asn": 16552,
+            "country_code": "US",
+            "description": "Tiggee LLC",
+            "ipv4_address": "206.126.238.92",
+            "ipv6_address": "2001:504:0:2:0:1:6552:1",
+            "name": "TIGGEE",
             "speed": 10000
         },
         {
@@ -3441,7 +3450,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 320,
+    "members_count": 321,
     "name": "Equinix Ashburn",
     "name_full": "Equinix Ashburn Exchange",
     "policy_email": "support@equinix.com",
