@@ -915,6 +915,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "ip-it consult GmbH",
+            "ip": "2a04:d200:211::",
+            "name": "AT-IP-IT-20140422",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:d200::",
+                "prefix": "2a04:d200::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:d200:211::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 32,
             "country_code": "AT",
             "description": "HostProfis ISP Telekom GmbH",
