@@ -8244,7 +8244,7 @@
             "ipv4_address": "80.81.195.90",
             "ipv6_address": "2001:7f8::3:937:0:1",
             "name": "BITel-Gesellschaft-fuer-Telekommunikation-AS",
-            "speed": 2000
+            "speed": 10000
         },
         {
             "asn": 199163,
@@ -8607,6 +8607,15 @@
             "speed": 1000
         },
         {
+            "asn": 206479,
+            "country_code": "DE",
+            "description": "FastEthernet by JPBE Network",
+            "ipv4_address": "80.81.196.138",
+            "ipv6_address": "2001:7f8::3:268f:0:1",
+            "name": "FASTETHERNET-AS",
+            "speed": 200
+        },
+        {
             "asn": 206813,
             "country_code": "DE",
             "description": "Kai Siering",
@@ -8760,6 +8769,15 @@
             "speed": 1000
         },
         {
+            "asn": 265269,
+            "country_code": "BR",
+            "description": "MEGA TELEINFORMATICA EIRELI",
+            "ipv4_address": "80.81.196.121",
+            "ipv6_address": "2001:7f8::4:c35:0:1",
+            "name": "MEGA TELEINFORMATICA EIRELI",
+            "speed": 750
+        },
+        {
             "asn": 267056,
             "country_code": "BR",
             "description": "EVEREST RIDGE CONSULTORIA EM REDES DE COM LTDA",
@@ -8823,7 +8841,7 @@
             "speed": 500
         }
     ],
-    "members_count": 844,
+    "members_count": 846,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
