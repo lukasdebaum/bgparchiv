@@ -3106,6 +3106,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "IN",
+            "description": "INFRA ANX44",
+            "ip": "94.16.103.0",
+            "name": "INFRA-ANX44",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "94.16.96.0",
+                "prefix": "94.16.96.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.16.103.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "AT",
             "description": "Network powered by ANX",
             "ip": "94.16.127.0",
