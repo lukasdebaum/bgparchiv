@@ -690,6 +690,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "PL",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.109.0",
+            "name": "GCL-CUSTOMER-PL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.188.108.0",
+                "prefix": "5.188.108.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.109.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "ZA",
             "description": "G-Core Labs Customer assignment",
             "ip": "5.188.120.0",
@@ -926,6 +942,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.188.239.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "BR",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.4.0",
+            "name": "GCL-CUSTOMER-BR",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.0.0",
+                "prefix": "5.188.0.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.4.0/24",
             "roa_status": "None"
         },
         {
@@ -3502,22 +3534,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "92.38.153.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "NL",
-            "description": "G-Core Labs Customer assignment",
-            "ip": "92.38.154.0",
-            "name": "GCL-CUSTOMER-EU",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 19,
-                "ip": "92.38.128.0",
-                "prefix": "92.38.128.0/19",
-                "rir_name": "RIPE"
-            },
-            "prefix": "92.38.154.0/24",
             "roa_status": "None"
         },
         {
