@@ -120,6 +120,24 @@
             "speed": 20000
         },
         {
+            "asn": 8641,
+            "country_code": "RU",
+            "description": "BACKBONE AS of \"Nauka-Svyaz\"",
+            "ipv4_address": "185.1.63.101",
+            "ipv6_address": "2001:7f8:6c::356",
+            "name": "NAUKANET-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 8641,
+            "country_code": "RU",
+            "description": "BACKBONE AS of \"Nauka-Svyaz\"",
+            "ipv4_address": "185.1.85.28",
+            "ipv6_address": "2001:7f8:6c:1::28",
+            "name": "NAUKANET-AS",
+            "speed": 10000
+        },
+        {
             "asn": 8647,
             "country_code": "UA",
             "description": "Ukrainian network",
@@ -853,7 +871,7 @@
             "country_code": "UA",
             "description": "Corbina Telecom Llc.",
             "ipv4_address": "185.1.62.234",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:6c::234",
             "name": "CORBINA-AS",
             "speed": 10000
         },
@@ -1272,7 +1290,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 111,
+    "members_count": 112,
     "name": "GigaNET",
     "name_full": "Giganet Internet exchange network",
     "policy_email": "info@giganet.ua",
