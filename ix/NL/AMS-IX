@@ -1512,7 +1512,7 @@
             "ipv4_address": "80.249.211.112",
             "ipv6_address": "2001:7f8:1::a500:8732:1",
             "name": "COMCOR-AS",
-            "speed": 30000
+            "speed": 10000
         },
         {
             "asn": 8732,
@@ -4240,6 +4240,24 @@
             "ipv6_address": "2001:7f8:1::a503:103:1",
             "name": "ZOOM-VIDEO-COMM-AS",
             "speed": 10000
+        },
+        {
+            "asn": 30132,
+            "country_code": "US",
+            "description": "Internet Systems Consortium, Inc.",
+            "ipv4_address": "80.249.208.111",
+            "ipv6_address": "2001:7f8:1::a503:132:1",
+            "name": "ISC-F-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 30132,
+            "country_code": "US",
+            "description": "Internet Systems Consortium, Inc.",
+            "ipv4_address": "80.249.208.140",
+            "ipv6_address": "2001:7f8:1::a503:132:2",
+            "name": "ISC-F-AS",
+            "speed": 1000
         },
         {
             "asn": 30419,
@@ -8652,7 +8670,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 857,
+    "members_count": 858,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
