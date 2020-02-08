@@ -1413,7 +1413,7 @@
             "ipv4_address": "193.239.118.71",
             "ipv6_address": "2001:7f8:13::a502:4961:1",
             "name": "MYLOC-AS",
-            "speed": 20000
+            "speed": 0
         },
         {
             "asn": 25151,
@@ -1602,6 +1602,24 @@
             "ipv4_address": "193.239.117.245",
             "ipv6_address": "2001:7f8:13::a502:9670:1",
             "name": "IN-BERLIN-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 30132,
+            "country_code": "US",
+            "description": "Internet Systems Consortium, Inc.",
+            "ipv4_address": "193.239.116.112",
+            "ipv6_address": "2001:7f8:13::a503:132:1",
+            "name": "ISC-F-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 30132,
+            "country_code": "US",
+            "description": "Internet Systems Consortium, Inc.",
+            "ipv4_address": "193.239.116.113",
+            "ipv6_address": "2001:7f8:13::a503:132:2",
+            "name": "ISC-F-AS",
             "speed": 1000
         },
         {
@@ -3837,7 +3855,7 @@
             "speed": 2500
         }
     ],
-    "members_count": 337,
+    "members_count": 338,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
