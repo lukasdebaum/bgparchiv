@@ -498,6 +498,15 @@
             "speed": 10000
         },
         {
+            "asn": 29467,
+            "country_code": "LU",
+            "description": "Network Service Provider in Luxembourg",
+            "ipv4_address": "80.81.203.101",
+            "ipv6_address": "2001:7f8:3d::731b:0:1",
+            "name": "LuxNetwork",
+            "speed": 1000
+        },
+        {
             "asn": 31317,
             "country_code": "DE",
             "description": "AnschlussWerk GmbH",
@@ -514,6 +523,24 @@
             "ipv6_address": "2001:7f8:3d::7f4e:0:1",
             "name": "VALVE-CORPORATION",
             "speed": 10000
+        },
+        {
+            "asn": 32934,
+            "country_code": "US",
+            "description": "Facebook, Inc.",
+            "ipv4_address": "80.81.203.173",
+            "ipv6_address": "2001:7f8:3d::80a6:0:1",
+            "name": "FACEBOOK",
+            "speed": 20000
+        },
+        {
+            "asn": 32934,
+            "country_code": "US",
+            "description": "Facebook, Inc.",
+            "ipv4_address": "80.81.203.174",
+            "ipv6_address": "2001:7f8:3d::80a6:0:2",
+            "name": "FACEBOOK",
+            "speed": 20000
         },
         {
             "asn": 33891,
@@ -801,6 +828,15 @@
             "ipv4_address": "80.81.203.81",
             "ipv6_address": "2001:7f8:3d::e15f:0:1",
             "name": "MISAKA-BACKBONE-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 57706,
+            "country_code": "NL",
+            "description": "HYBULA GLOBAL NETWORK",
+            "ipv4_address": "80.81.203.169",
+            "ipv6_address": "2001:7f8:3d::e16a:0:1",
+            "name": "HYBULA",
             "speed": 1000
         },
         {
@@ -1119,7 +1155,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 117,
+    "members_count": 120,
     "name": "DE-CIX Hamburg",
     "name_full": "Deutscher Commercial Internet Exchange Hamburg",
     "policy_email": "info@de-cix.net",
