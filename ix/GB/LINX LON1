@@ -2844,7 +2844,7 @@
             "ipv4_address": "195.66.224.168",
             "ipv6_address": "2001:7f8:4::51cc:1",
             "name": "AKAMAI-ASN1",
-            "speed": 200000
+            "speed": 300000
         },
         {
             "asn": 20940,
@@ -2853,7 +2853,7 @@
             "ipv4_address": "195.66.226.81",
             "ipv6_address": "2001:7f8:4::51cc:2",
             "name": "AKAMAI-ASN1",
-            "speed": 200000
+            "speed": 300000
         },
         {
             "asn": 20952,
@@ -6678,7 +6678,7 @@
             "ipv4_address": "195.66.224.13",
             "ipv6_address": "2001:7f8:4::f203:1",
             "name": "ColocationIX-AS",
-            "speed": 20000
+            "speed": 10000
         },
         {
             "asn": 62044,
@@ -7590,6 +7590,15 @@
             "speed": 10000
         },
         {
+            "asn": 262773,
+            "country_code": "BR",
+            "description": "OndaNet Ltda",
+            "ipv4_address": "195.66.225.90",
+            "ipv6_address": "2001:7f8:4::4:275:1",
+            "name": "OndaNet Ltda",
+            "speed": 1000
+        },
+        {
             "asn": 263009,
             "country_code": "BR",
             "description": "FORTE TELECOM LTDA.",
@@ -7689,7 +7698,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 771,
+    "members_count": 772,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
