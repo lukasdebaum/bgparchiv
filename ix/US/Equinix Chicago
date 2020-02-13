@@ -504,7 +504,7 @@
             "ipv4_address": "208.115.136.118",
             "ipv6_address": "2001:504:0:4::7795:1",
             "name": "LUMOS",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 7829,
@@ -820,15 +820,6 @@
             "ipv6_address": null,
             "name": "R2G-1",
             "speed": 1000
-        },
-        {
-            "asn": 12989,
-            "country_code": "NL",
-            "description": "StackPath LLC",
-            "ipv4_address": "208.115.136.10",
-            "ipv6_address": "2001:504:0:4:0:1:2989:2",
-            "name": "HWNG",
-            "speed": 100000
         },
         {
             "asn": 13329,
@@ -1698,10 +1689,10 @@
             "asn": 32160,
             "country_code": "US",
             "description": "Computer Techniques, Inc.",
-            "ipv4_address": "206.223.119.93",
+            "ipv4_address": "208.115.136.93",
             "ipv6_address": "2001:504:0:4:0:3:2160:1",
             "name": "CTIFIBER",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 32181,
@@ -1843,7 +1834,7 @@
             "country_code": "US",
             "description": "InterCarrier Networks LLC",
             "ipv4_address": "208.115.136.240",
-            "ipv6_address": null,
+            "ipv6_address": "2001:504:0:4:0:3:3483:1",
             "name": "INTERCARRIER-NETWORKS",
             "speed": 10000
         },
@@ -2478,7 +2469,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 241,
+    "members_count": 240,
     "name": "Equinix Chicago",
     "name_full": "Equinix Chicago Exchange",
     "policy_email": "support@equinix.com",
