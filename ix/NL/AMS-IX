@@ -4328,7 +4328,7 @@
             "description": "Nianet A/S",
             "ipv4_address": "80.249.208.233",
             "ipv6_address": "2001:7f8:1::a503:1027:1",
-            "name": "NIANET-AS",
+            "name": "GlobalConnect-AS",
             "speed": 40000
         },
         {
@@ -7428,6 +7428,15 @@
             "speed": 1000
         },
         {
+            "asn": 60134,
+            "country_code": "ES",
+            "description": "Neutral Operator",
+            "ipv4_address": "80.249.208.24",
+            "ipv6_address": null,
+            "name": "AS-STARTNIX",
+            "speed": 1000
+        },
+        {
             "asn": 60144,
             "country_code": "NL",
             "description": "-- TRANSIT --",
@@ -8679,7 +8688,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 859,
+    "members_count": 860,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
