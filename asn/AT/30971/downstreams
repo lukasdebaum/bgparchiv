@@ -21,10 +21,22 @@
     ],
     "ipv6_downstreams": [
         {
+            "asn": 1921,
+            "country_code": "AT",
+            "description": "NIC.at head office Salzburg",
+            "name": "NICAT"
+        },
+        {
             "asn": 201612,
             "country_code": "AT",
             "description": "nic.at GmbH",
             "name": "NICAT-MINICAST-AS"
+        },
+        {
+            "asn": 207021,
+            "country_code": "AT",
+            "description": "ipcom GmbH",
+            "name": "RCODEZERO-ANYCAST-SEC2"
         }
     ]
 }
