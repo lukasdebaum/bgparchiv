@@ -692,7 +692,7 @@
             "description": "Bouygues Telecom SA",
             "ipv4_address": "80.81.192.130",
             "ipv6_address": "2001:7f8::1522:0:1",
-            "name": "ASN-BOUYGTEL-ISP",
+            "name": "BOUYGTEL-ISP",
             "speed": 40000
         },
         {
@@ -6043,7 +6043,7 @@
         },
         {
             "asn": 41378,
-            "country_code": "DE",
+            "country_code": "US",
             "description": "Kirino LLC",
             "ipv4_address": "80.81.196.99",
             "ipv6_address": "2001:7f8::a1a2:0:2",
@@ -7509,6 +7509,15 @@
             "speed": 100000
         },
         {
+            "asn": 57537,
+            "country_code": "DE",
+            "description": "Net-D-Sign GmbH",
+            "ipv4_address": "80.81.196.145",
+            "ipv6_address": "2001:7f8::e0c1:0:1",
+            "name": "NETDSIGN-AS",
+            "speed": 10000
+        },
+        {
             "asn": 57695,
             "country_code": "US",
             "description": "Misaka Network, Inc. (Backbone)",
@@ -8712,7 +8721,7 @@
             "ipv4_address": "80.81.196.150",
             "ipv6_address": "2001:7f8::3:222c:0:4",
             "name": "hybris",
-            "speed": 5000
+            "speed": 10000
         },
         {
             "asn": 207419,
@@ -8721,7 +8730,7 @@
             "ipv4_address": "80.81.196.136",
             "ipv6_address": "2001:7f8::3:222c:0:1",
             "name": "hybris",
-            "speed": 5000
+            "speed": 10000
         },
         {
             "asn": 208722,
@@ -8913,7 +8922,7 @@
             "speed": 500
         }
     ],
-    "members_count": 853,
+    "members_count": 854,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
