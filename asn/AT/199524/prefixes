@@ -993,6 +993,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "FR",
+            "description": "G-Core Labs S.A.",
+            "ip": "5.188.93.0",
+            "name": "GCL-CUSTOMER-FR",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.188.92.0",
+                "prefix": "5.188.92.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.93.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
