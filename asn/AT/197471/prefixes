@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Mass Response Service GmbH",
+            "ip": "62.240.152.0",
+            "name": "AT-MASSRESPONSE-20000627",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "62.240.128.0",
+                "prefix": "62.240.128.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.240.152.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }

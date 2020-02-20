@@ -1,7 +1,14 @@
 {
     "combined_graph": "https://api.bgpview.io/assets/graphs/AS197471_Combined.svg",
     "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS197471_IPv4.svg",
-    "ipv4_upstreams": [],
+    "ipv4_upstreams": [
+        {
+            "asn": 20647,
+            "country_code": "DE",
+            "description": "IPB Internet Provider in Berlin GmbH",
+            "name": "IPB"
+        }
+    ],
     "ipv6_graph": null,
     "ipv6_upstreams": []
 }
