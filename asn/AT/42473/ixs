@@ -60,16 +60,6 @@
         "speed": 10000
     },
     {
-        "city": "Stockholm",
-        "country_code": "SE",
-        "ipv4_address": "194.68.128.18",
-        "ipv6_address": "2001:7f8:d:fe::18",
-        "ix_id": 48,
-        "name": "Netnod Stockholm",
-        "name_full": "Netnod Internet Exchange i Sverige AB",
-        "speed": 10000
-    },
-    {
         "city": "Prague",
         "country_code": "CZ",
         "ipv4_address": "91.210.16.105",
@@ -124,16 +114,6 @@
         "country_code": "DK",
         "ipv4_address": "212.237.193.18",
         "ipv6_address": "2001:7f8:d:203::18",
-        "ix_id": 119,
-        "name": "Netnod Copenhagen",
-        "name_full": "Netnod Internet Exchange i Sverige AB",
-        "speed": 1000
-    },
-    {
-        "city": "Malmo / Copenhagen",
-        "country_code": "DK",
-        "ipv4_address": "212.237.192.18",
-        "ipv6_address": "2001:7f8:d:202::18",
         "ix_id": 119,
         "name": "Netnod Copenhagen",
         "name_full": "Netnod Internet Exchange i Sverige AB",
@@ -307,6 +287,26 @@
         "ix_id": 470,
         "name": "DE-CIX Madrid",
         "name_full": "Deutscher Commercial Internet Exchange Madrid",
+        "speed": 1000
+    },
+    {
+        "city": "Stockholm",
+        "country_code": "SE",
+        "ipv4_address": "194.68.128.18",
+        "ipv6_address": "2001:7f8:d:fe::18",
+        "ix_id": 804,
+        "name": "Netnod Stockholm STH-B -- MTU1500",
+        "name_full": "Netnod Stockholm STH-B -- MTU1500",
+        "speed": 10000
+    },
+    {
+        "city": "Malmo / Copenhagen",
+        "country_code": "DK",
+        "ipv4_address": "212.237.192.18",
+        "ipv6_address": "2001:7f8:d:202::18",
+        "ix_id": 811,
+        "name": "Netnod Copenhagen 9K-BLUE",
+        "name_full": "Netnod Copenhagen 9K-BLUE",
         "speed": 1000
     }
 ]
