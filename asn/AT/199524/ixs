@@ -180,16 +180,6 @@
         "speed": 100000
     },
     {
-        "city": "Stockholm",
-        "country_code": "SE",
-        "ipv4_address": "194.68.128.191",
-        "ipv6_address": "2001:7f8:d:fe::191",
-        "ix_id": 48,
-        "name": "Netnod Stockholm",
-        "name_full": "Netnod Internet Exchange i Sverige AB",
-        "speed": 100000
-    },
-    {
         "city": "Prague",
         "country_code": "CZ",
         "ipv4_address": "91.210.16.223",
@@ -700,13 +690,23 @@
         "speed": 40000
     },
     {
+        "city": "Stockholm",
+        "country_code": "SE",
+        "ipv4_address": "194.68.128.191",
+        "ipv6_address": "2001:7f8:d:fe::191",
+        "ix_id": 804,
+        "name": "Netnod Stockholm STH-B -- MTU1500",
+        "name_full": "Netnod Stockholm STH-B -- MTU1500",
+        "speed": 100000
+    },
+    {
         "city": "St.Petersburg",
         "country_code": "RU",
         "ipv4_address": "31.44.187.121",
         "ipv6_address": null,
-        "ix_id": 629,
-        "name": "PITER-IX",
-        "name_full": "PITER-IX",
+        "ix_id": 830,
+        "name": "PITER-IX MSK_PEERING_VLAN",
+        "name_full": "PITER-IX MSK_PEERING_VLAN",
         "speed": 20000
     }
 ]
