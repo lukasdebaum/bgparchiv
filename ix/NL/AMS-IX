@@ -3765,6 +3765,24 @@
             "speed": 10000
         },
         {
+            "asn": 25455,
+            "country_code": "MD",
+            "description": "Guardfox SRL",
+            "ipv4_address": "80.249.212.48",
+            "ipv6_address": "2001:7f8:1::a502:5455:1",
+            "name": "GUARDFOX-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 25455,
+            "country_code": "MD",
+            "description": "Guardfox SRL",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:1::a502:5455:2",
+            "name": "GUARDFOX-AS",
+            "speed": 10000
+        },
+        {
             "asn": 25459,
             "country_code": "NL",
             "description": "NedZone Internet BV",
@@ -7146,7 +7164,7 @@
             "ipv4_address": "80.249.208.158",
             "ipv6_address": "2001:7f8:1::a505:6654:1",
             "name": "AS56654",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 56665,
@@ -8715,7 +8733,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 863,
+    "members_count": 864,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
