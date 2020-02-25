@@ -222,15 +222,6 @@
             "asn": 8545,
             "country_code": "PL",
             "description": "Equinix (Poland) Sp. z o.o.",
-            "ipv4_address": null,
-            "ipv6_address": null,
-            "name": "ASN-PLIX",
-            "speed": 1000
-        },
-        {
-            "asn": 8545,
-            "country_code": "PL",
-            "description": "Equinix (Poland) Sp. z o.o.",
             "ipv4_address": "195.182.218.99",
             "ipv6_address": "2001:7f8:42::a500:8545:2",
             "name": "ASN-PLIX",
@@ -410,7 +401,7 @@
         {
             "asn": 15133,
             "country_code": "US",
-            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+            "description": "EDGECAST",
             "ipv4_address": "195.182.218.237",
             "ipv6_address": "2001:7f8:42::a501:5133:1",
             "name": "EDGECAST",
@@ -577,6 +568,24 @@
             "ipv6_address": "2001:7f8:42::a502:2822:1",
             "name": "LLNW",
             "speed": 20000
+        },
+        {
+            "asn": 24115,
+            "country_code": "SG",
+            "description": "Equinix",
+            "ipv4_address": "195.182.219.251",
+            "ipv6_address": "2001:7f8:42::2:4115:1",
+            "name": "ASN-EQIX-MLPE",
+            "speed": 1000
+        },
+        {
+            "asn": 24115,
+            "country_code": "SG",
+            "description": "Equinix",
+            "ipv4_address": "195.182.219.252",
+            "ipv6_address": "2001:7f8:42::2:4115:2",
+            "name": "ASN-EQIX-MLPE",
+            "speed": 1000
         },
         {
             "asn": 24482,
@@ -1695,7 +1704,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 167,
+    "members_count": 168,
     "name": "Equinix Warsaw (PLIX)",
     "name_full": "Polish Internet Exchange",
     "policy_email": "noc@plix.pl",
