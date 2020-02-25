@@ -725,7 +725,7 @@
         {
             "asn": 15133,
             "country_code": "US",
-            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+            "description": "EDGECAST",
             "ipv4_address": "218.100.6.84",
             "ipv6_address": "2001:de8:c::1:5133:1",
             "name": "EDGECAST",
@@ -734,7 +734,7 @@
         {
             "asn": 15133,
             "country_code": "US",
-            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+            "description": "EDGECAST",
             "ipv4_address": "218.100.6.85",
             "ipv6_address": "2001:de8:c::1:5133:2",
             "name": "EDGECAST",
@@ -2181,6 +2181,24 @@
             "speed": 1000
         },
         {
+            "asn": 136907,
+            "country_code": "HK",
+            "description": "HUAWEI CLOUDS",
+            "ipv4_address": "218.100.7.85",
+            "ipv6_address": "2001:de8:c::13:6907:3",
+            "name": "HWCLOUDS-AS-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 136907,
+            "country_code": "HK",
+            "description": "HUAWEI CLOUDS",
+            "ipv4_address": "218.100.7.86",
+            "ipv6_address": "2001:de8:c::13:6907:4",
+            "name": "HWCLOUDS-AS-AP",
+            "speed": 10000
+        },
+        {
             "asn": 137445,
             "country_code": "JP",
             "description": "PF LINK SYSTEMS",
@@ -2235,7 +2253,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 205,
+    "members_count": 206,
     "name": "BBIX Tokyo",
     "name_full": "BroadBand Internet eXchange Tokyo",
     "policy_email": "bbix-sales@bbix.net",
