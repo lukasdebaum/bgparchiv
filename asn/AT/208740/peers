@@ -1,18 +1,30 @@
 {
     "ipv4_peers": [
         {
-            "asn": 5403,
+            "asn": 1853,
             "country_code": "AT",
-            "description": "APA-IT Informations Technologie G.m.b.H",
-            "name": "AS5403"
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
         }
     ],
     "ipv6_peers": [
+        {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        },
         {
             "asn": 5403,
             "country_code": "AT",
             "description": "APA-IT Informations Technologie G.m.b.H",
             "name": "AS5403"
+        },
+        {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
         }
     ]
 }
