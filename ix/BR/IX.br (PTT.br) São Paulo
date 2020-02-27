@@ -1402,7 +1402,7 @@
             "country_code": "BR",
             "description": "Telecom South America S/A",
             "ipv4_address": "187.16.218.104",
-            "ipv6_address": "2001:12f8::",
+            "ipv6_address": "2001:12f8::218:104",
             "name": "Telecom South America S/A",
             "speed": 10000
         },
@@ -4698,7 +4698,7 @@
             "ipv4_address": "187.16.223.139",
             "ipv6_address": "2001:12f8::223:139",
             "name": "TELIC TECHNOLOGIES",
-            "speed": 20000
+            "speed": 10000
         },
         {
             "asn": 61597,
@@ -8139,6 +8139,15 @@
             "speed": 20000
         },
         {
+            "asn": 263665,
+            "country_code": "BR",
+            "description": "TECNET PROVEDOR DE ACESSO AS REDES DE COM. LTDA",
+            "ipv4_address": "187.16.221.249",
+            "ipv6_address": "2001:12f8::221:249",
+            "name": "TECNET PROVEDOR DE ACESSO AS REDES DE COM. LTDA",
+            "speed": 10000
+        },
+        {
             "asn": 263674,
             "country_code": "BR",
             "description": "JSneT Fibra",
@@ -8875,15 +8884,6 @@
             "ipv6_address": "2001:12f8::220:37",
             "name": "VASTELECOM E INFORMATICA LTDA ME",
             "speed": 10000
-        },
-        {
-            "asn": 264426,
-            "country_code": "BR",
-            "description": "VM Provedora de Internet Ltda Me",
-            "ipv4_address": "187.16.223.163",
-            "ipv6_address": "2001:12f8::223:163",
-            "name": "VM Provedora de Internet Ltda Me",
-            "speed": 1000
         },
         {
             "asn": 264426,
@@ -10794,15 +10794,6 @@
             "speed": 100000
         },
         {
-            "asn": 267075,
-            "country_code": "BR",
-            "description": "MARIA CREUZA HORTA DE SOUZA - ME",
-            "ipv4_address": "187.16.221.249",
-            "ipv6_address": "2001:12f8::221:249",
-            "name": "MARIA CREUZA HORTA DE SOUZA - ME",
-            "speed": 20000
-        },
-        {
             "asn": 267085,
             "country_code": "BR",
             "description": "G4 TELECOM LTDA EPP",
@@ -11250,7 +11241,7 @@
             "ipv4_address": "187.16.221.149",
             "ipv6_address": "2001:12f8::221:149",
             "name": "FIBRATECH INTERNET DE ALTA VELOCIDADE LTDA ME",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 267593,
@@ -11856,7 +11847,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 1024,
+    "members_count": 1023,
     "name": "IX.br (PTT.br) S\u00e3o Paulo",
     "name_full": "IX.br (PTT.br) S\u00e3o Paulo",
     "policy_email": "info@ix.br",
