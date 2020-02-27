@@ -2243,22 +2243,6 @@
         {
             "cidr": 24,
             "country_code": "RO",
-            "description": "NETCOMP-KAHONET - ROMANIA",
-            "ip": "193.230.172.0",
-            "name": "NETCOMP",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 16,
-                "ip": "193.230.0.0",
-                "prefix": "193.230.0.0/16",
-                "rir_name": "RIPE"
-            },
-            "prefix": "193.230.172.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "RO",
             "description": "NetSoft TG Mures - ROMANIA",
             "ip": "193.230.174.0",
             "name": "NETSOFT",
@@ -14624,6 +14608,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2001:4050::/33",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "CH",
+            "description": "Helbling Holding AG",
+            "ip": "2001:678:310::",
+            "name": "HELBLING-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:310::",
+                "prefix": "2001:678:310::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:310::/48",
             "roa_status": "None"
         },
         {
