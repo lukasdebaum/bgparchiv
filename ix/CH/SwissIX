@@ -1107,7 +1107,7 @@
             "ipv4_address": "91.206.52.175",
             "ipv6_address": "2001:7f8:24::af",
             "name": "LINK11",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 34554,
@@ -1126,6 +1126,15 @@
             "ipv6_address": null,
             "name": "BEDAG",
             "speed": 100
+        },
+        {
+            "asn": 34927,
+            "country_code": "CH",
+            "description": "iFog GmbH",
+            "ipv4_address": "91.206.52.236",
+            "ipv6_address": "2001:7f8:24::ec",
+            "name": "iFog-GmbH",
+            "speed": 1000
         },
         {
             "asn": 34960,
@@ -1875,7 +1884,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 180,
+    "members_count": 181,
     "name": "SwissIX",
     "name_full": "SwissIX Internet Exchange",
     "policy_email": "info@swissix.ch",
