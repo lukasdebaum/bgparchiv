@@ -336,15 +336,6 @@
             "speed": 10000
         },
         {
-            "asn": 16206,
-            "country_code": "ES",
-            "description": "(NEUTRA NETWORK SERVICES)",
-            "ipv4_address": "185.1.68.52",
-            "ipv6_address": "2001:7f8:a0::3f4e:0:1",
-            "name": "ABRARED",
-            "speed": 1000
-        },
-        {
             "asn": 16276,
             "country_code": "FR",
             "description": "OVH SAS",
@@ -460,6 +451,15 @@
             "ipv6_address": null,
             "name": "PRORED",
             "speed": 1000
+        },
+        {
+            "asn": 32261,
+            "country_code": "US",
+            "description": "subspace",
+            "ipv4_address": "185.1.68.183",
+            "ipv6_address": "2001:7f8:a0::7e05:0:1",
+            "name": "SUBSPACE",
+            "speed": 10000
         },
         {
             "asn": 32590,
@@ -604,6 +604,15 @@
             "ipv6_address": "2001:7f8:a0::a087:0:1",
             "name": "IPTP",
             "speed": 10000
+        },
+        {
+            "asn": 41327,
+            "country_code": "IT",
+            "description": "Fiber Telecom S.p.A.",
+            "ipv4_address": "185.1.68.52",
+            "ipv6_address": "2001:7f8:a0::a16f:0:1",
+            "name": "FIBERTELECOM-AS",
+            "speed": 1000
         },
         {
             "asn": 41721,
@@ -1098,7 +1107,7 @@
             "ipv4_address": "185.1.68.107",
             "ipv6_address": "2001:7f8:a0:0:3:184d:0:1",
             "name": "WSP-AS1",
-            "speed": 3000
+            "speed": 0
         },
         {
             "asn": 202831,
@@ -1281,7 +1290,7 @@
             "speed": 500
         }
     ],
-    "members_count": 131,
+    "members_count": 132,
     "name": "DE-CIX Madrid",
     "name_full": "Deutscher Commercial Internet Exchange Madrid",
     "policy_email": null,
