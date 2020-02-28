@@ -763,7 +763,7 @@
             "country_code": "UA",
             "description": "Global Technology Ukraine Ltd",
             "ipv4_address": "178.18.230.36",
-            "ipv6_address": null,
+            "ipv6_address": "2a03:5f80:7::230:36",
             "name": "AS-MASTER",
             "speed": 10000
         },
@@ -1674,16 +1674,7 @@
             "ipv4_address": "178.18.224.42",
             "ipv6_address": "2a03:5f80:4::224:42",
             "name": "SELECTEL",
-            "speed": 20000
-        },
-        {
-            "asn": 49505,
-            "country_code": "RU",
-            "description": "OOO \"Network of data-centers \"Selectel\"",
-            "ipv4_address": "178.18.224.197",
-            "ipv6_address": "2a03:5f80:4::224:197",
-            "name": "SELECTEL",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 49588,
@@ -1702,6 +1693,15 @@
             "ipv6_address": null,
             "name": "GOLDLINK-AS",
             "speed": 1000
+        },
+        {
+            "asn": 50340,
+            "country_code": "RU",
+            "description": "OOO \"Network of data-centers \"Selectel\"",
+            "ipv4_address": "178.18.224.197",
+            "ipv6_address": "2a03:5f80:4::224:197",
+            "name": "SELECTEL-MSK",
+            "speed": 20000
         },
         {
             "asn": 50453,
@@ -2523,7 +2523,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 215,
+    "members_count": 216,
     "name": "DATAIX",
     "name_full": "Global Network Managment Ltd",
     "policy_email": "noc@dataix.ru",
