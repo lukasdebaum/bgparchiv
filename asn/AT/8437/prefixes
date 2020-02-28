@@ -817,6 +817,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "77.118.192.0",
+            "name": "H3G-CUSTOMERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "77.116.0.0",
+                "prefix": "77.116.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "77.118.192.0/20",
+            "roa_status": "None"
+        },
+        {
             "cidr": 18,
             "country_code": "AT",
             "description": "Network of Hutchison Drei Austria GmbH",
