@@ -816,10 +816,10 @@
             "asn": 5713,
             "country_code": "ZA",
             "description": "SAIX-NET",
-            "ipv4_address": "80.249.210.218",
-            "ipv6_address": "2001:7f8:1::a500:5713:2",
+            "ipv4_address": "80.249.209.213",
+            "ipv6_address": "2001:7f8:1::a500:5713:3",
             "name": "SAIX-NET",
-            "speed": 5000
+            "speed": 10000
         },
         {
             "asn": 6233,
@@ -8571,6 +8571,15 @@
             "speed": 10000
         },
         {
+            "asn": 207534,
+            "country_code": "GB",
+            "description": "ORIS GLOBAL NETWORKS LTD",
+            "ipv4_address": "80.249.212.18",
+            "ipv6_address": "2001:7f8:1:0:a500:20:7534:1",
+            "name": "Oris_Global_Networks",
+            "speed": 1000
+        },
+        {
             "asn": 208722,
             "country_code": "FI",
             "description": "Yandex Oy",
@@ -8742,7 +8751,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 865,
+    "members_count": 866,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
