@@ -153,7 +153,7 @@
             "ipv4_address": "196.60.9.107",
             "ipv6_address": "2001:43f8:6d0::9:107",
             "name": "SAIX-NET",
-            "speed": 100000
+            "speed": 100
         },
         {
             "asn": 6233,
@@ -3927,6 +3927,15 @@
             "speed": 20000
         },
         {
+            "asn": 328543,
+            "country_code": "SC",
+            "description": "Sun Network Company Limited",
+            "ipv4_address": "196.60.10.13",
+            "ipv6_address": "2001:43f8:6d0::10:13",
+            "name": "sun-asn",
+            "speed": 1000
+        },
+        {
             "asn": 328548,
             "country_code": "ZA",
             "description": "TOUCHNET TELECOMMUNICATIONS CC",
@@ -3972,7 +3981,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 350,
+    "members_count": 351,
     "name": "NAPAfrica IX Johannesburg",
     "name_full": "NAPAfrica IX Johannesburg",
     "policy_email": "nap@teraco.co.za",
