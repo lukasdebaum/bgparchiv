@@ -1059,6 +1059,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 45,
+            "country_code": "AT",
+            "description": "PPP-user-networks",
+            "ip": "2001:938:2020::",
+            "name": "PPP-Users",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2001:938::",
+                "prefix": "2001:938::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:938:2020::/45",
+            "roa_status": "None"
+        },
+        {
             "cidr": 48,
             "country_code": "AT",
             "description": "TopInternet-LAN-networks",
