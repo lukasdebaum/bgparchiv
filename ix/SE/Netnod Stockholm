@@ -655,7 +655,7 @@
             "country_code": "US",
             "description": "Cloudflare, Inc.",
             "ipv4_address": "194.68.123.246",
-            "ipv6_address": "2001:7f8:d:fe::246",
+            "ipv6_address": "2001:7f8:d:ff::246",
             "name": "CLOUDFLARENET",
             "speed": 40000
         },
@@ -1803,6 +1803,15 @@
             "speed": 100000
         },
         {
+            "asn": 200675,
+            "country_code": "SE",
+            "description": "HYDRO66 UK Limited",
+            "ipv4_address": "194.68.123.49",
+            "ipv6_address": "2001:7f8:d:ff::49",
+            "name": "HYDRO66",
+            "speed": 10000
+        },
+        {
             "asn": 200781,
             "country_code": "NO",
             "description": "Tampnet International Carrier",
@@ -1848,7 +1857,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 160,
+    "members_count": 161,
     "name": "Netnod Stockholm",
     "name_full": "Netnod Internet Exchange i Sverige AB",
     "policy_email": "info@netnod.se",
