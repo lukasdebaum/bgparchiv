@@ -3135,15 +3135,6 @@
             "speed": 10000
         },
         {
-            "asn": 15925,
-            "country_code": "DE",
-            "description": "Occino GmbH",
-            "ipv4_address": "80.81.193.253",
-            "ipv6_address": "2001:7f8::3e35:0:2",
-            "name": "nexiu",
-            "speed": 10000
-        },
-        {
             "asn": 15943,
             "country_code": "DE",
             "description": "wilhelm.tel GmbH",
@@ -4266,7 +4257,7 @@
             "ipv4_address": "80.81.193.83",
             "ipv6_address": null,
             "name": "CMCNETWORKS",
-            "speed": 100
+            "speed": 1000
         },
         {
             "asn": 26667,
@@ -5203,6 +5194,15 @@
             "ipv6_address": "2001:7f8::8526:0:1",
             "name": "SCZN-AS",
             "speed": 5000
+        },
+        {
+            "asn": 34120,
+            "country_code": "LT",
+            "description": "Verslo Tiltas UAB",
+            "ipv4_address": "80.81.196.155",
+            "ipv6_address": "2001:7f8::8548:0:1",
+            "name": "VT-ASN",
+            "speed": 10000
         },
         {
             "asn": 34135,
@@ -8994,7 +8994,7 @@
             "speed": 500
         }
     ],
-    "members_count": 861,
+    "members_count": 862,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
