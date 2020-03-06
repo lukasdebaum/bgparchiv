@@ -358,7 +358,7 @@
             "country_code": "US",
             "description": "Cloudflare, Inc.",
             "ipv4_address": "194.68.128.246",
-            "ipv6_address": "2001:7f8:d:ff::246",
+            "ipv6_address": "2001:7f8:d:fe::246",
             "name": "CLOUDFLARENET",
             "speed": 40000
         },
@@ -1029,6 +1029,15 @@
             "speed": 100000
         },
         {
+            "asn": 200675,
+            "country_code": "SE",
+            "description": "HYDRO66 UK Limited",
+            "ipv4_address": "194.68.128.49",
+            "ipv6_address": "2001:7f8:d:fe::49",
+            "name": "HYDRO66",
+            "speed": 10000
+        },
+        {
             "asn": 200781,
             "country_code": "NO",
             "description": "Tampnet International Carrier",
@@ -1083,7 +1092,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 118,
+    "members_count": 119,
     "name": "Netnod Stockholm STH-B -- MTU1500",
     "name_full": "Netnod Stockholm STH-B -- MTU1500",
     "policy_email": "info@netnod.se",
