@@ -4539,6 +4539,15 @@
             "speed": 10000
         },
         {
+            "asn": 32261,
+            "country_code": "US",
+            "description": "subspace",
+            "ipv4_address": "80.249.210.219",
+            "ipv6_address": null,
+            "name": "SUBSPACE",
+            "speed": 10000
+        },
+        {
             "asn": 32338,
             "country_code": "AI",
             "description": "Hostiserver Ltd",
@@ -5706,6 +5715,24 @@
             "ipv4_address": "80.249.212.204",
             "ipv6_address": "2001:7f8:1::a504:2841:1",
             "name": "ANTIK",
+            "speed": 10000
+        },
+        {
+            "asn": 42861,
+            "country_code": "RU",
+            "description": "FOTONTELECOM ISP",
+            "ipv4_address": "80.249.214.6",
+            "ipv6_address": "2001:7f8:1::a504:2861:1",
+            "name": "FOTONTELECOM-TRANSIT-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 42861,
+            "country_code": "RU",
+            "description": "FOTONTELECOM ISP",
+            "ipv4_address": "80.249.214.7",
+            "ipv6_address": "2001:7f8:1::a504:2861:2",
+            "name": "FOTONTELECOM-TRANSIT-AS",
             "speed": 10000
         },
         {
@@ -8751,7 +8778,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 866,
+    "members_count": 868,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
