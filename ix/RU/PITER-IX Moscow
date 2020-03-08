@@ -1,5 +1,5 @@
 {
-    "city": "St.Petersburg",
+    "city": "Moscow",
     "country_code": "RU",
     "members": [
         {
@@ -9,6 +9,15 @@
             "ipv4_address": "31.44.187.131",
             "ipv6_address": null,
             "name": "URAL",
+            "speed": 10000
+        },
+        {
+            "asn": 6768,
+            "country_code": "UA",
+            "description": "\"EUROTELE-PLUS\" LLC",
+            "ipv4_address": "31.44.187.85",
+            "ipv6_address": null,
+            "name": "EUROTEL-AS",
             "speed": 10000
         },
         {
@@ -171,6 +180,15 @@
             "ipv4_address": "31.44.187.83",
             "ipv6_address": null,
             "name": "EUT-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 29588,
+            "country_code": "RU",
+            "description": "Ivstar Ltd",
+            "ipv4_address": "31.44.187.136",
+            "ipv6_address": null,
+            "name": "IVSTARNET-AS",
             "speed": 10000
         },
         {
@@ -399,6 +417,15 @@
             "speed": 10000
         },
         {
+            "asn": 48347,
+            "country_code": "RU",
+            "description": "JSC Mediasoft ekspert",
+            "ipv4_address": "31.44.187.56",
+            "ipv6_address": null,
+            "name": "MTW-AS",
+            "speed": 10000
+        },
+        {
             "asn": 48371,
             "country_code": "RU",
             "description": "Westlan LTD",
@@ -550,6 +577,33 @@
             "ipv6_address": null,
             "name": "RUSTEKO-AS",
             "speed": 1000
+        },
+        {
+            "asn": 52015,
+            "country_code": "RU",
+            "description": "DANCER ISP AS",
+            "ipv4_address": "31.44.187.138",
+            "ipv6_address": null,
+            "name": "DANCER-AS",
+            "speed": 3072
+        },
+        {
+            "asn": 52015,
+            "country_code": "RU",
+            "description": "DANCER ISP AS",
+            "ipv4_address": "31.44.187.139",
+            "ipv6_address": null,
+            "name": "DANCER-AS",
+            "speed": 3072
+        },
+        {
+            "asn": 52015,
+            "country_code": "RU",
+            "description": "DANCER ISP AS",
+            "ipv4_address": "31.44.187.141",
+            "ipv6_address": null,
+            "name": "DANCER-AS",
+            "speed": 3072
         },
         {
             "asn": 52091,
@@ -777,7 +831,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 82,
+    "members_count": 86,
     "name": "PITER-IX Moscow",
     "name_full": "PITER-IX Moscow",
     "policy_email": "noc@piter-ix.ru",
