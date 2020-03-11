@@ -3,6 +3,24 @@
     "country_code": "SE",
     "members": [
         {
+            "asn": 42,
+            "country_code": "US",
+            "description": "WoodyNet",
+            "ipv4_address": "194.68.128.133",
+            "ipv6_address": null,
+            "name": "WOODYNET-1",
+            "speed": 100
+        },
+        {
+            "asn": 702,
+            "country_code": "US",
+            "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
+            "ipv4_address": "194.68.128.81",
+            "ipv6_address": null,
+            "name": "UUNET",
+            "speed": 1000
+        },
+        {
             "asn": 714,
             "country_code": "US",
             "description": "Apple Inc.",
@@ -84,6 +102,15 @@
             "speed": 10000
         },
         {
+            "asn": 2863,
+            "country_code": "SE",
+            "description": "Centor AB",
+            "ipv4_address": "194.68.128.220",
+            "ipv6_address": null,
+            "name": "SPRITELINK",
+            "speed": 1000
+        },
+        {
             "asn": 2874,
             "country_code": "SE",
             "description": "ORANGE BUSINESS SERVICES U.S. Inc.",
@@ -156,12 +183,30 @@
             "speed": 10000
         },
         {
+            "asn": 3856,
+            "country_code": "US",
+            "description": "Packet Clearing House",
+            "ipv4_address": "194.68.128.132",
+            "ipv6_address": null,
+            "name": "PCH-AS",
+            "speed": 10
+        },
+        {
             "asn": 4637,
             "country_code": "HK",
             "description": "Telstra Global",
             "ipv4_address": "194.68.128.91",
             "ipv6_address": "2001:7f8:d:fe::91",
             "name": "ASN-TELSTRA-GLOBAL",
+            "speed": 10000
+        },
+        {
+            "asn": 5400,
+            "country_code": "GB",
+            "description": "British Telecommunications PLC",
+            "ipv4_address": "194.68.128.109",
+            "ipv6_address": "2001:7f8:d:fe::109",
+            "name": "BT",
             "speed": 10000
         },
         {
@@ -190,6 +235,24 @@
             "ipv6_address": "2001:7f8:d:fe::187",
             "name": "HURRICANE",
             "speed": 30000
+        },
+        {
+            "asn": 7713,
+            "country_code": "ID",
+            "description": "PT Telekomunikasi Indonesia",
+            "ipv4_address": "194.68.128.10",
+            "ipv6_address": "2001:7f8:d:fe::10",
+            "name": "telkomnet-as-ap",
+            "speed": 1000
+        },
+        {
+            "asn": 8195,
+            "country_code": "SE",
+            "description": "Interoute Communications Limited",
+            "ipv4_address": "194.68.128.53",
+            "ipv6_address": null,
+            "name": "IONIP",
+            "speed": 1000
         },
         {
             "asn": 8220,
@@ -276,8 +339,8 @@
             "asn": 9009,
             "country_code": "GB",
             "description": "M247 Ltd",
-            "ipv4_address": "194.68.123.52",
-            "ipv6_address": "2001:7f8:d:ff::52",
+            "ipv4_address": "194.68.128.52",
+            "ipv6_address": "2001:7f8:d:fe::52",
             "name": "M247",
             "speed": 10000
         },
@@ -399,6 +462,15 @@
             "speed": 20000
         },
         {
+            "asn": 16253,
+            "country_code": "SE",
+            "description": "Vretgrand 18",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:d:fe::169",
+            "name": "BORDERLIGHT-AS",
+            "speed": 1000
+        },
+        {
             "asn": 16509,
             "country_code": "US",
             "description": "Amazon.com, Inc.",
@@ -406,6 +478,15 @@
             "ipv6_address": "2001:7f8:d:fe::47",
             "name": "AMAZON-02",
             "speed": 100000
+        },
+        {
+            "asn": 19399,
+            "country_code": "EU",
+            "description": "Stockholms Lans Landsting",
+            "ipv4_address": "194.68.128.42",
+            "ipv6_address": "2001:7f8:d:fe::42",
+            "name": "SLLNET",
+            "speed": 10000
         },
         {
             "asn": 19551,
@@ -438,8 +519,8 @@
             "asn": 20940,
             "country_code": "EU",
             "description": "Akamai International B.V.",
-            "ipv4_address": "194.68.123.170",
-            "ipv6_address": "2001:7f8:d:ff::170",
+            "ipv4_address": "194.68.128.170",
+            "ipv6_address": "2001:7f8:d:fe::170",
             "name": "AKAMAI-ASN1",
             "speed": 200000
         },
@@ -503,15 +584,6 @@
             "description": "PJSC MegaFon",
             "ipv4_address": "194.68.128.35",
             "ipv6_address": "2001:7f8:d:fe::35",
-            "name": "MF-MGSM-AS",
-            "speed": 0
-        },
-        {
-            "asn": 31133,
-            "country_code": "RU",
-            "description": "PJSC MegaFon",
-            "ipv4_address": "195.69.119.35",
-            "ipv6_address": "2001:7f8:d:fb::35",
             "name": "MF-MGSM-AS",
             "speed": 0
         },
@@ -603,6 +675,15 @@
             "ipv4_address": "194.68.128.236",
             "ipv6_address": "2001:7f8:d:fe::236",
             "name": "TELESERVICE",
+            "speed": 10000
+        },
+        {
+            "asn": 34610,
+            "country_code": "SE",
+            "description": "| *** GLOBAL TRANSIT *** |",
+            "ipv4_address": "194.68.128.163",
+            "ipv6_address": null,
+            "name": "RIKSNET",
             "speed": 10000
         },
         {
@@ -777,6 +858,15 @@
             "speed": 100000
         },
         {
+            "asn": 47155,
+            "country_code": "SE",
+            "description": "ViaEuropa i Lund AB",
+            "ipv4_address": "194.68.128.190",
+            "ipv6_address": null,
+            "name": "VIAE-AS",
+            "speed": 1000
+        },
+        {
             "asn": 47541,
             "country_code": "RU",
             "description": "http://vk.com",
@@ -843,8 +933,8 @@
             "asn": 49770,
             "country_code": "SE",
             "description": "Internetport Sweden AB",
-            "ipv4_address": "194.68.123.60",
-            "ipv6_address": "2001:7f8:d:ff::60",
+            "ipv4_address": "194.68.128.60",
+            "ipv6_address": "2001:7f8:d:fe::60",
             "name": "INTERNETPORT-AS",
             "speed": 10000
         },
@@ -910,6 +1000,15 @@
             "ipv6_address": "2001:7f8:d:fe::54",
             "name": "NCHC-603",
             "speed": 100
+        },
+        {
+            "asn": 55195,
+            "country_code": "CA",
+            "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
+            "ipv4_address": "194.68.128.252",
+            "ipv6_address": "2001:7f8:d:fe::252",
+            "name": "CIRA-DNS",
+            "speed": 1000
         },
         {
             "asn": 57208,
@@ -1014,8 +1113,8 @@
             "asn": 198463,
             "country_code": "SE",
             "description": "On 1 Call Support AB",
-            "ipv4_address": "194.68.123.8",
-            "ipv6_address": "2001:7f8:d:ff::8",
+            "ipv4_address": "194.68.128.8",
+            "ipv6_address": "2001:7f8:d:fe::8",
             "name": "OCNET",
             "speed": 2000
         },
@@ -1027,6 +1126,15 @@
             "ipv6_address": "2001:7f8:d:fe::198",
             "name": "WEKUDATA",
             "speed": 10000
+        },
+        {
+            "asn": 199150,
+            "country_code": "SE",
+            "description": "Excedo Networks AB",
+            "ipv4_address": "194.68.128.240",
+            "ipv6_address": "2001:7f8:d:fe::240",
+            "name": "EXCEDONET",
+            "speed": 100
         },
         {
             "asn": 199524,
@@ -1101,7 +1209,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 120,
+    "members_count": 133,
     "name": "Netnod Stockholm STH-B -- MTU1500",
     "name_full": "Netnod Stockholm STH-B -- MTU1500",
     "policy_email": "info@netnod.se",
