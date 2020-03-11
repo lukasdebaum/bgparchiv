@@ -681,15 +681,6 @@
             "asn": 17828,
             "country_code": "PG",
             "description": "PNG DATACO LTD",
-            "ipv4_address": "202.167.228.177",
-            "ipv6_address": null,
-            "name": "PNGDATACOLIMITED-AS-PG",
-            "speed": 1000
-        },
-        {
-            "asn": 17828,
-            "country_code": "PG",
-            "description": "PNG DATACO LTD",
             "ipv4_address": "45.127.172.177",
             "ipv6_address": "2001:de8:6::1:7828:1",
             "name": "PNGDATACOLIMITED-AS-PG",
@@ -891,15 +882,6 @@
             "ipv4_address": "45.127.172.210",
             "ipv6_address": null,
             "name": "PROBE-AS-AU-AP",
-            "speed": 1000
-        },
-        {
-            "asn": 24469,
-            "country_code": "AU",
-            "description": "Net Quadrant Pty Ltd",
-            "ipv4_address": "202.167.228.29",
-            "ipv6_address": "2001:de8:6::2:4469:1",
-            "name": "QUADRAHOSTING",
             "speed": 1000
         },
         {
@@ -1117,15 +1099,6 @@
             "ipv6_address": "2001:de8:6::3:8195:1",
             "name": "SUPERLOOP-AS-AP",
             "speed": 10000
-        },
-        {
-            "asn": 38220,
-            "country_code": "AU",
-            "description": "www.amaze.com.au",
-            "ipv4_address": "202.167.228.90",
-            "ipv6_address": null,
-            "name": "AMAZE-SYD-AS-AP",
-            "speed": 1000
         },
         {
             "asn": 38327,
@@ -1356,10 +1329,10 @@
             "asn": 45763,
             "country_code": "AU",
             "description": "Fuzenet Pty Ltd",
-            "ipv4_address": "202.167.228.152",
-            "ipv6_address": null,
+            "ipv4_address": "45.127.172.216",
+            "ipv6_address": "2001:de8:6::4:5763:1",
             "name": "FUZENETPTYLTD-AS-AP",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 45768,
@@ -2082,7 +2055,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 202,
+    "members_count": 200,
     "name": "Equinix Sydney",
     "name_full": "Equinix Sydney Exchange",
     "policy_email": "peering@ap.equinix.com",
