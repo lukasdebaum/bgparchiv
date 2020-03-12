@@ -3154,6 +3154,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "DE",
+            "description": "Network powered by ANX",
+            "ip": "94.16.12.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "94.16.0.0",
+                "prefix": "94.16.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "94.16.12.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "AT",
             "description": "Network powered by ANX",
             "ip": "94.16.127.0",
@@ -3360,6 +3376,22 @@
                 "rir_name": "ARIN"
             },
             "prefix": "2605:380:32::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "US",
+            "description": "Anexia",
+            "ip": "2605:380:40::",
+            "name": "ANEXIA-US-IPV6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2605:380::",
+                "prefix": "2605:380::/32",
+                "rir_name": "ARIN"
+            },
+            "prefix": "2605:380:40::/48",
             "roa_status": "None"
         },
         {
@@ -3840,6 +3872,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a00:11c0:235::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "RS",
+            "description": "Dedicated servers in RS",
+            "ip": "2a00:11c0:25::",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:25::/48",
             "roa_status": "None"
         },
         {
