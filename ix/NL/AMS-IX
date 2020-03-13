@@ -2115,7 +2115,7 @@
             "ipv4_address": "80.249.208.179",
             "ipv6_address": "2001:7f8:1::a501:2713:1",
             "name": "OTEGlobe",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 12714,
@@ -4543,7 +4543,7 @@
             "country_code": "US",
             "description": "subspace",
             "ipv4_address": "80.249.210.219",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:1::a503:2261:1",
             "name": "SUBSPACE",
             "speed": 10000
         },
@@ -5968,6 +5968,15 @@
             "ipv6_address": "2001:7f8:1::a504:4843:1",
             "name": "OBTEL-AS",
             "speed": 1000
+        },
+        {
+            "asn": 44901,
+            "country_code": "BG",
+            "description": "Belcloud LTD",
+            "ipv4_address": "80.249.213.40",
+            "ipv6_address": null,
+            "name": "belcloud",
+            "speed": 10000
         },
         {
             "asn": 44953,
@@ -8778,7 +8787,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 868,
+    "members_count": 869,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
