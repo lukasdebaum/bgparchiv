@@ -433,6 +433,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Alpla-Werke Alwin Lehner GmbH und CoKG",
+            "ip": "193.186.110.0",
+            "name": "ALPL-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "193.186.104.0",
+                "prefix": "193.186.104.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.186.110.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "AT",
             "description": "Rechenzentrum",
