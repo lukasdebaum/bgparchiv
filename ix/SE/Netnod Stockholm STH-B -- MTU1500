@@ -25,7 +25,7 @@
             "country_code": "US",
             "description": "Apple Inc.",
             "ipv4_address": "194.68.128.9",
-            "ipv6_address": "2001:7f8:d:ff::9",
+            "ipv6_address": "2001:7f8:d:fe::9",
             "name": "APPLE-ENGINEERING",
             "speed": 400000
         },
@@ -36,6 +36,15 @@
             "ipv4_address": "194.68.128.21",
             "ipv6_address": "2001:7f8:d:fe::21",
             "name": "SWIPNET",
+            "speed": 10000
+        },
+        {
+            "asn": 1273,
+            "country_code": "EU",
+            "description": "Vodafone Group PLC",
+            "ipv4_address": "194.68.128.205",
+            "ipv6_address": "2001:7f8:d:fe::205",
+            "name": "CW",
             "speed": 10000
         },
         {
@@ -142,7 +151,7 @@
             "country_code": "RU",
             "description": "PJSC \"Vimpelcom\"",
             "ipv4_address": "194.68.128.151",
-            "ipv6_address": "2001:7f8:d:ff::151",
+            "ipv6_address": "2001:7f8:d:fe::151",
             "name": "SOVAM-AS",
             "speed": 100000
         },
@@ -244,6 +253,15 @@
             "ipv6_address": "2001:7f8:d:fe::10",
             "name": "telkomnet-as-ap",
             "speed": 1000
+        },
+        {
+            "asn": 8075,
+            "country_code": "US",
+            "description": "Microsoft Corporation",
+            "ipv4_address": "194.68.128.181",
+            "ipv6_address": "2001:7f8:d:fe::181",
+            "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
+            "speed": 100000
         },
         {
             "asn": 8195,
@@ -367,8 +385,17 @@
             "country_code": "US",
             "description": "Afilias, Inc.",
             "ipv4_address": "194.68.128.189",
-            "ipv6_address": "2001:7f8:d:ff::189",
+            "ipv6_address": "2001:7f8:d:fe::189",
             "name": "AS-AFILIAS1",
+            "speed": 1000
+        },
+        {
+            "asn": 12496,
+            "country_code": "GB",
+            "description": "IDNet",
+            "ipv4_address": "194.68.128.108",
+            "ipv6_address": "2001:7f8:d:fe::108",
+            "name": "IDNET",
             "speed": 1000
         },
         {
@@ -399,6 +426,15 @@
             "speed": 10000
         },
         {
+            "asn": 12850,
+            "country_code": "IT",
+            "description": "ENTER S.r.l.",
+            "ipv4_address": "194.68.128.248",
+            "ipv6_address": "2001:7f8:d:fe::248",
+            "name": "ASN-ENTER",
+            "speed": 10000
+        },
+        {
             "asn": 13170,
             "country_code": "FI",
             "description": "Kaisanet Oy",
@@ -415,6 +451,15 @@
             "ipv6_address": "2001:7f8:d:fe::138",
             "name": "LIDERO",
             "speed": 20000
+        },
+        {
+            "asn": 13194,
+            "country_code": "LT",
+            "description": "Bite IP Network",
+            "ipv4_address": "194.68.128.211",
+            "ipv6_address": "2001:7f8:d:fe::211",
+            "name": "BITE",
+            "speed": 10000
         },
         {
             "asn": 13335,
@@ -444,6 +489,15 @@
             "speed": 1000
         },
         {
+            "asn": 15169,
+            "country_code": "US",
+            "description": "Google LLC",
+            "ipv4_address": "194.68.128.115",
+            "ipv6_address": "2001:7f8:d:fe::115",
+            "name": "GOOGLE",
+            "speed": 10000
+        },
+        {
             "asn": 15830,
             "country_code": "GB",
             "description": "TELECITYGROUP INTERNATIONAL LIMITED",
@@ -465,10 +519,19 @@
             "asn": 16253,
             "country_code": "SE",
             "description": "Vretgrand 18",
-            "ipv4_address": null,
+            "ipv4_address": "194.68.128.169",
             "ipv6_address": "2001:7f8:d:fe::169",
             "name": "BORDERLIGHT-AS",
             "speed": 1000
+        },
+        {
+            "asn": 16265,
+            "country_code": "NL",
+            "description": "LeaseWeb Network B.V.",
+            "ipv4_address": "194.68.128.160",
+            "ipv6_address": "2001:7f8:d:fe::160",
+            "name": "LEASEWEB-NETWORK",
+            "speed": 10000
         },
         {
             "asn": 16509,
@@ -505,6 +568,24 @@
             "ipv6_address": "2001:7f8:d:fe::20",
             "name": "DROPBOX",
             "speed": 10000
+        },
+        {
+            "asn": 20278,
+            "country_code": "US",
+            "description": "Nexeon Technologies, Inc.",
+            "ipv4_address": "194.68.128.56",
+            "ipv6_address": "2001:7f8:d:fe::56",
+            "name": "NEXEON",
+            "speed": 100
+        },
+        {
+            "asn": 20485,
+            "country_code": "RU",
+            "description": "Moscow, Russia",
+            "ipv4_address": "194.68.128.212",
+            "ipv6_address": "2001:7f8:d:fe::212",
+            "name": "TRANSTELECOM",
+            "speed": 40000
         },
         {
             "asn": 20764,
@@ -570,6 +651,15 @@
             "speed": 1000
         },
         {
+            "asn": 25178,
+            "country_code": "GB",
+            "description": "PCCW Global Networks (UK) PLC",
+            "ipv4_address": "194.68.128.90",
+            "ipv6_address": "2001:7f8:d:fe::90",
+            "name": "KEYCOM-AS",
+            "speed": 1000
+        },
+        {
             "asn": 27471,
             "country_code": "US",
             "description": "NortonLifeLock Inc.",
@@ -579,6 +669,42 @@
             "speed": 10000
         },
         {
+            "asn": 29518,
+            "country_code": "SE",
+            "description": "Bredband2 AB",
+            "ipv4_address": "194.68.128.148",
+            "ipv6_address": "2001:7f8:d:fe::148",
+            "name": "BREDBAND2",
+            "speed": 100000
+        },
+        {
+            "asn": 30880,
+            "country_code": "SE",
+            "description": "This ASN is located on STHIX at Tulegatan Stokab",
+            "ipv4_address": "194.68.128.29",
+            "ipv6_address": "2001:7f8:d:fe::29",
+            "name": "SPACEDUMP-AS",
+            "speed": 100
+        },
+        {
+            "asn": 31027,
+            "country_code": "DK",
+            "description": "Nianet A/S",
+            "ipv4_address": "194.68.128.22",
+            "ipv6_address": "2001:7f8:d:fe::22",
+            "name": "GlobalConnect-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 31059,
+            "country_code": "RU",
+            "description": "Avelacom Ltd.",
+            "ipv4_address": "194.68.128.68",
+            "ipv6_address": "2001:7f8:d:fe::68",
+            "name": "AVELACOM-AS",
+            "speed": 1000
+        },
+        {
             "asn": 31133,
             "country_code": "RU",
             "description": "PJSC MegaFon",
@@ -586,6 +712,15 @@
             "ipv6_address": "2001:7f8:d:fe::35",
             "name": "MF-MGSM-AS",
             "speed": 0
+        },
+        {
+            "asn": 31500,
+            "country_code": "RU",
+            "description": "LLC GLOBALNET",
+            "ipv4_address": "194.68.128.195",
+            "ipv6_address": "2001:7f8:d:fe::195",
+            "name": "GLOBALNET-AS",
+            "speed": 10000
         },
         {
             "asn": 31529,
@@ -741,6 +876,15 @@
             "speed": 10000
         },
         {
+            "asn": 39792,
+            "country_code": "RU",
+            "description": "Anders Telecom Ltd.",
+            "ipv4_address": "194.68.128.165",
+            "ipv6_address": "2001:7f8:d:fe::165",
+            "name": "ANDERS-AS",
+            "speed": 2000
+        },
+        {
             "asn": 41095,
             "country_code": "NL",
             "description": "IPTP LTD",
@@ -777,6 +921,15 @@
             "speed": 10000
         },
         {
+            "asn": 43531,
+            "country_code": "GB",
+            "description": "IX Reach Ltd",
+            "ipv4_address": "194.68.128.214",
+            "ipv6_address": "2001:7f8:d:fe::214",
+            "name": "IXREACH",
+            "speed": 10000
+        },
+        {
             "asn": 43727,
             "country_code": "RU",
             "description": "KVANT-TELEKOM Closed Joint Stock Company",
@@ -793,6 +946,24 @@
             "ipv6_address": "2001:7f8:d:fe::45",
             "name": "FORSS",
             "speed": 2000
+        },
+        {
+            "asn": 43893,
+            "country_code": "SE",
+            "description": "Mainloop AB",
+            "ipv4_address": "194.68.128.210",
+            "ipv6_address": "2001:7f8:d:fe::210",
+            "name": "MAINLOOP-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 44020,
+            "country_code": "RU",
+            "description": "Modern Solutions LTD",
+            "ipv4_address": "194.68.128.250",
+            "ipv6_address": "2001:7f8:d:fe::250",
+            "name": "CLN-AS",
+            "speed": 1000
         },
         {
             "asn": 44034,
@@ -903,6 +1074,15 @@
             "speed": 10000
         },
         {
+            "asn": 48519,
+            "country_code": "DE",
+            "description": "Knipp Medien und Kommunikation GmbH",
+            "ipv4_address": "194.68.128.241",
+            "ipv6_address": "2001:7f8:d:fe::241",
+            "name": "KNIPP-AMS-AS",
+            "speed": 200
+        },
+        {
             "asn": 48579,
             "country_code": "SE",
             "description": "Elastx AB",
@@ -939,6 +1119,15 @@
             "speed": 10000
         },
         {
+            "asn": 50245,
+            "country_code": "NL",
+            "description": "Serverel Inc.",
+            "ipv4_address": "194.68.128.178",
+            "ipv6_address": "2001:7f8:d:fe::178",
+            "name": "SERVEREL-AS",
+            "speed": 1000
+        },
+        {
             "asn": 50821,
             "country_code": "SE",
             "description": "Stockholms Stadsnat AB",
@@ -946,6 +1135,15 @@
             "ipv6_address": "2001:7f8:d:fe::112",
             "name": "ASHPDC",
             "speed": 10000
+        },
+        {
+            "asn": 50923,
+            "country_code": "RU",
+            "description": "Metroset Autonomous System",
+            "ipv4_address": "194.68.128.243",
+            "ipv6_address": "2001:7f8:d:fe::243",
+            "name": "METRO-SET-AS",
+            "speed": 4000
         },
         {
             "asn": 50986,
@@ -970,7 +1168,7 @@
             "country_code": "DK",
             "description": "One.com A/S",
             "ipv4_address": "194.68.128.221",
-            "ipv6_address": "2001:7f8:d:ff::221",
+            "ipv6_address": "2001:7f8:d:fe::221",
             "name": "ONECOM",
             "speed": 100000
         },
@@ -1105,7 +1303,7 @@
             "country_code": "SE",
             "description": "MrFriday AB",
             "ipv4_address": "194.68.128.80",
-            "ipv6_address": "2001:7f8:d:ff::80",
+            "ipv6_address": "2001:7f8:d:fe::80",
             "name": "mrfriday",
             "speed": 1000
         },
@@ -1209,7 +1407,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 133,
+    "members_count": 155,
     "name": "Netnod Stockholm STH-B -- MTU1500",
     "name_full": "Netnod Stockholm STH-B -- MTU1500",
     "policy_email": "info@netnod.se",
