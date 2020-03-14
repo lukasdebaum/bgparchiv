@@ -2646,7 +2646,7 @@
             "ipv4_address": "80.81.195.102",
             "ipv6_address": "2001:7f8::32f5:0:1",
             "name": "HTP-AS",
-            "speed": 30000
+            "speed": 50000
         },
         {
             "asn": 13054,
@@ -8427,6 +8427,15 @@
             "speed": 10000
         },
         {
+            "asn": 199995,
+            "country_code": "RO",
+            "description": "Omega Telecom LLC",
+            "ipv4_address": "80.81.194.66",
+            "ipv6_address": null,
+            "name": "OT-AS",
+            "speed": 10000
+        },
+        {
             "asn": 200052,
             "country_code": "NL",
             "description": "Feral Hosting",
@@ -9021,7 +9030,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 865,
+    "members_count": 866,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
