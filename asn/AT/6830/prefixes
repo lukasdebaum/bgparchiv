@@ -385,6 +385,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "NL",
+            "description": "Tata Steel  IJmuiden BV",
+            "ip": "145.8.180.0",
+            "name": "TATASTEEL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "145.8.0.0",
+                "prefix": "145.8.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "145.8.180.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 16,
             "country_code": "DE",
             "description": "Unitymedia BW GmbH",
@@ -10803,7 +10819,7 @@
         {
             "cidr": 19,
             "country_code": "DE",
-            "description": "Unitymedia BW GmbH",
+            "description": "Vodafone BW GmbH",
             "ip": "82.212.0.0",
             "name": "DE-KABELBW-20031015",
             "parent": {
