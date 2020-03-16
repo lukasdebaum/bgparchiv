@@ -24,7 +24,7 @@
             "asn": 3261,
             "country_code": "UA",
             "description": "LLC \"FTICOM\"",
-            "ipv4_address": "91.245.221.167",
+            "ipv4_address": "185.1.62.167",
             "ipv6_address": "2001:7f8:6c::167",
             "name": "DIPT-AS",
             "speed": 10000
@@ -298,6 +298,15 @@
             "ipv6_address": "2001:7f8:6c::258",
             "name": "ASN-ASIPN",
             "speed": 40000
+        },
+        {
+            "asn": 26415,
+            "country_code": "US",
+            "description": "VeriSign Global Registry Services",
+            "ipv4_address": "185.1.62.242",
+            "ipv6_address": "2001:7f8:6c::242",
+            "name": "VERISIGN-INC",
+            "speed": 1000
         },
         {
             "asn": 28773,
@@ -582,7 +591,7 @@
             "asn": 39608,
             "country_code": "UA",
             "description": "Lanet Network Ltd",
-            "ipv4_address": "91.245.221.36",
+            "ipv4_address": "185.1.62.36",
             "ipv6_address": "2001:7f8:6c::36",
             "name": "LANETUA-AS",
             "speed": 40000
@@ -645,7 +654,7 @@
             "asn": 42504,
             "country_code": "UA",
             "description": "SPD Bilopol Roman Leonidovich",
-            "ipv4_address": "91.245.221.152",
+            "ipv4_address": "185.1.62.152",
             "ipv6_address": null,
             "name": "UKRBIT-NET-AS",
             "speed": 10000
@@ -984,15 +993,6 @@
             "speed": 10000
         },
         {
-            "asn": 57629,
-            "country_code": "RU",
-            "description": "LLC IVI.RU",
-            "ipv4_address": "5.149.127.146",
-            "ipv6_address": "2001:7f8:6c:3::146",
-            "name": "IVI-RU",
-            "speed": 10000
-        },
-        {
             "asn": 57999,
             "country_code": "UA",
             "description": "LLC DataNet ISP",
@@ -1014,7 +1014,7 @@
             "asn": 59536,
             "country_code": "UA",
             "description": "Mixmedia ltd.",
-            "ipv4_address": "91.245.221.61",
+            "ipv4_address": "185.1.62.61",
             "ipv6_address": "2001:7f8:6c::61",
             "name": "mm-as",
             "speed": 10000
@@ -1113,15 +1113,6 @@
             "asn": 199524,
             "country_code": "AT",
             "description": "G-Core Labs S.A.",
-            "ipv4_address": "185.2.109.16",
-            "ipv6_address": "2001:7f8:6c:1::16",
-            "name": "GCORE",
-            "speed": 20000
-        },
-        {
-            "asn": 199524,
-            "country_code": "AT",
-            "description": "G-Core Labs S.A.",
             "ipv4_address": "185.1.63.92",
             "ipv6_address": "2001:7f8:6c::347",
             "name": "GCORE",
@@ -1144,15 +1135,6 @@
             "ipv6_address": null,
             "name": "OT-AS",
             "speed": 20000
-        },
-        {
-            "asn": 200455,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
-            "ipv4_address": "91.245.221.2",
-            "ipv6_address": null,
-            "name": "RIPE NCC ASN block",
-            "speed": 30000
         },
         {
             "asn": 202103,
@@ -1191,7 +1173,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 113,
+    "members_count": 112,
     "name": "GigaNET",
     "name_full": "Giganet Internet exchange network",
     "policy_email": "info@giganet.ua",
