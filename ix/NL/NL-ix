@@ -1569,15 +1569,6 @@
             "speed": 1000
         },
         {
-            "asn": 29590,
-            "country_code": "NL",
-            "description": "VDX Internet Services B.V.",
-            "ipv4_address": "194.153.154.64",
-            "ipv6_address": null,
-            "name": "DIGITALUS-AS",
-            "speed": 100
-        },
-        {
             "asn": 29632,
             "country_code": "GI",
             "description": "Netassist Limited",
@@ -1716,19 +1707,10 @@
             "asn": 31673,
             "country_code": "NL",
             "description": "Uniserver Internet B.V.",
-            "ipv4_address": "82.150.155.107",
-            "ipv6_address": null,
+            "ipv4_address": "193.239.116.100",
+            "ipv6_address": "2001:7f8:13::a503:1673:1",
             "name": "UNISERVER-AS",
             "speed": 1000
-        },
-        {
-            "asn": 31673,
-            "country_code": "NL",
-            "description": "Uniserver Internet B.V.",
-            "ipv4_address": "82.150.157.131",
-            "ipv6_address": null,
-            "name": "UNISERVER-AS",
-            "speed": 10000
         },
         {
             "asn": 31680,
@@ -2460,15 +2442,6 @@
             "speed": 1000
         },
         {
-            "asn": 44953,
-            "country_code": "NL",
-            "description": "Eurofiber Nederland BV",
-            "ipv4_address": "217.170.9.108",
-            "ipv6_address": "2a02:10:0:1::19:10",
-            "name": "ISICONNEXION",
-            "speed": 1000
-        },
-        {
             "asn": 45102,
             "country_code": "US",
             "description": "Alibaba (US) Technology Co., Ltd.",
@@ -2835,15 +2808,6 @@
             "ipv4_address": "193.239.116.246",
             "ipv6_address": "2001:7f8:13::a505:1050:1",
             "name": "H4HOSTING-AS",
-            "speed": 1000
-        },
-        {
-            "asn": 51446,
-            "country_code": "RU",
-            "description": "SP Argaev Artem Sergeyevich",
-            "ipv4_address": "193.239.116.224",
-            "ipv6_address": "2001:7f8:13::a505:1446:1",
-            "name": "KATTELECOMNET",
             "speed": 1000
         },
         {
@@ -3309,10 +3273,19 @@
             "asn": 197038,
             "country_code": "",
             "description": "RIPE NCC ASN block",
-            "ipv4_address": "178.23.184.0",
-            "ipv6_address": null,
+            "ipv4_address": "193.239.116.44",
+            "ipv6_address": "2001:7f8:13::a519:7038:1",
             "name": "RIPE NCC ASN block",
-            "speed": 200
+            "speed": 1000
+        },
+        {
+            "asn": 197038,
+            "country_code": "",
+            "description": "RIPE NCC ASN block",
+            "ipv4_address": "193.239.116.227",
+            "ipv6_address": "2001:7f8:13::a519:7038:2",
+            "name": "RIPE NCC ASN block",
+            "speed": 1000
         },
         {
             "asn": 197156,
@@ -3354,8 +3327,8 @@
             "asn": 197902,
             "country_code": "NL",
             "description": "Hostnet B.V.",
-            "ipv4_address": "82.150.158.243",
-            "ipv6_address": "2a02:10:1:1::3c:10",
+            "ipv4_address": "193.239.116.224",
+            "ipv6_address": "2001:7f8:13::a519:7902:1",
             "name": "HOSTNET",
             "speed": 10000
         },
@@ -3561,26 +3534,8 @@
             "asn": 200428,
             "country_code": "NL",
             "description": "SouthernHill BV",
-            "ipv4_address": "82.150.154.251",
-            "ipv6_address": null,
-            "name": "SouthernHill",
-            "speed": 1000
-        },
-        {
-            "asn": 200428,
-            "country_code": "NL",
-            "description": "SouthernHill BV",
             "ipv4_address": "193.239.117.186",
-            "ipv6_address": null,
-            "name": "SouthernHill",
-            "speed": 1000
-        },
-        {
-            "asn": 200428,
-            "country_code": "NL",
-            "description": "SouthernHill BV",
-            "ipv4_address": "213.207.11.92",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:13::a520:428:1",
             "name": "SouthernHill",
             "speed": 1000
         },
@@ -3682,24 +3637,6 @@
             "ipv6_address": "2001:7f8:13::a520:3319:1",
             "name": "RIPE NCC ASN block",
             "speed": 10000
-        },
-        {
-            "asn": 203640,
-            "country_code": "BE",
-            "description": "EDPNET NV",
-            "ipv4_address": "213.207.11.204",
-            "ipv6_address": null,
-            "name": "allip",
-            "speed": 1000
-        },
-        {
-            "asn": 203640,
-            "country_code": "BE",
-            "description": "EDPNET NV",
-            "ipv4_address": "213.207.11.212",
-            "ipv6_address": null,
-            "name": "allip",
-            "speed": 1000
         },
         {
             "asn": 203815,
@@ -3828,7 +3765,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 336,
+    "members_count": 333,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
