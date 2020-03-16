@@ -93,15 +93,6 @@
             "speed": 20000
         },
         {
-            "asn": 9583,
-            "country_code": "IN",
-            "description": "Sify Limited",
-            "ipv4_address": "100.1.1.1",
-            "ipv6_address": null,
-            "name": "SIFY-AS-IN",
-            "speed": 1000
-        },
-        {
             "asn": 9829,
             "country_code": "IN",
             "description": "National Internet Backbone",
@@ -213,10 +204,10 @@
             "asn": 17439,
             "country_code": "IN",
             "description": "Netmagic Datacenter Mumbai",
-            "ipv4_address": "103.27.170.0",
-            "ipv6_address": null,
+            "ipv4_address": "103.27.170.49",
+            "ipv6_address": "2401:7500:fff6::4a",
             "name": "NETMAGIC-AP",
-            "speed": 10240
+            "speed": 10000
         },
         {
             "asn": 17447,
@@ -1650,15 +1641,6 @@
             "speed": 1024
         },
         {
-            "asn": 135795,
-            "country_code": "IN",
-            "description": "Silicon Care Broadnet Pvt Ltd.",
-            "ipv4_address": "103.27.170.122",
-            "ipv6_address": "2401:7500:fff::4b",
-            "name": "SILICON-AS-IN",
-            "speed": 10000
-        },
-        {
             "asn": 135834,
             "country_code": "IN",
             "description": "Multicraft Digital Technologies Private Limited",
@@ -1792,15 +1774,6 @@
             "ipv6_address": null,
             "name": "MICR-AS",
             "speed": 10000
-        },
-        {
-            "asn": 136376,
-            "country_code": "IN",
-            "description": "Udayatel Communications Private Limited",
-            "ipv4_address": "103.59.143.6",
-            "ipv6_address": null,
-            "name": "UDAYATEL-AS",
-            "speed": 100
         },
         {
             "asn": 136639,
@@ -2109,7 +2082,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 222,
+    "members_count": 219,
     "name": "DE-CIX Mumbai",
     "name_full": "DE-CIX Mumbai fka Mumbai IX fka Mumbai CH",
     "policy_email": "operations@de-cix.in",
