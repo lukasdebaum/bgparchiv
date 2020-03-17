@@ -96,7 +96,7 @@
             "asn": 35619,
             "country_code": "VA",
             "description": "Kevin Buehl Autonomous System Number",
-            "ipv4_address": "185.125.1.8",
+            "ipv4_address": "185.1.125.8",
             "ipv6_address": "2001:7f8:d0:b901::7d08",
             "name": "ASN-BUEHL",
             "speed": 10000
@@ -597,6 +597,15 @@
             "speed": 100
         },
         {
+            "asn": 207268,
+            "country_code": "",
+            "description": "RIPE NCC ASN block",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:d0:4b42::57",
+            "name": "RIPE NCC ASN block",
+            "speed": 1000
+        },
+        {
             "asn": 207299,
             "country_code": "AT",
             "description": "Michael Petoe",
@@ -939,7 +948,7 @@
             "speed": 100
         }
     ],
-    "members_count": 100,
+    "members_count": 101,
     "name": "4b42 Internet Exchange Point",
     "name_full": "4b42 Internet Exchange Point",
     "policy_email": "noc@4ixp.com",
