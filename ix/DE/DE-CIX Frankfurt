@@ -4687,7 +4687,7 @@
             "country_code": "US",
             "description": "CacheNetworks, Inc.",
             "ipv4_address": "80.81.192.125",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8::7581:0:1",
             "name": "CACHENETWORKS",
             "speed": 20000
         },
@@ -7824,6 +7824,24 @@
             "speed": 200
         },
         {
+            "asn": 60979,
+            "country_code": "DE",
+            "description": "KPMG IT Service GmbH",
+            "ipv4_address": "80.81.196.13",
+            "ipv6_address": null,
+            "name": "KISG4",
+            "speed": 10000
+        },
+        {
+            "asn": 60979,
+            "country_code": "DE",
+            "description": "KPMG IT Service GmbH",
+            "ipv4_address": "80.81.196.15",
+            "ipv6_address": null,
+            "name": "KISG4",
+            "speed": 10000
+        },
+        {
             "asn": 61098,
             "country_code": "CH",
             "description": "Akenes SA",
@@ -9030,7 +9048,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 866,
+    "members_count": 867,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
