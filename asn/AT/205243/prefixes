@@ -31,6 +31,22 @@
             },
             "prefix": "185.224.200.0/22",
             "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "The Test Calls Company FZ-LLE",
+            "ip": "45.144.200.0",
+            "name": "AE-THETEST-20190823",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.144.200.0",
+                "prefix": "45.144.200.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.144.200.0/22",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
@@ -64,6 +80,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a0d:3c00::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "The Test Calls Company FZ-LLE",
+            "ip": "2a0e:f2c0::",
+            "name": "AE-THETEST-20190823",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0e:f2c0::",
+                "prefix": "2a0e:f2c0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0e:f2c0::/29",
             "roa_status": "None"
         }
     ]
