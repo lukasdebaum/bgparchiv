@@ -747,7 +747,7 @@
             "ipv4_address": "80.81.193.195",
             "ipv6_address": "2001:7f8::15ca:0:1",
             "name": "AS-BENESTRA",
-            "speed": 30000
+            "speed": 40000
         },
         {
             "asn": 5588,
@@ -4242,6 +4242,15 @@
             "speed": 1000
         },
         {
+            "asn": 25521,
+            "country_code": "UA",
+            "description": "PJSC \"Industrial Media Network\"",
+            "ipv4_address": "80.81.196.159",
+            "ipv6_address": "2001:7f8::63b1:0:1",
+            "name": "ASN-ASIPN",
+            "speed": 10000
+        },
+        {
             "asn": 25560,
             "country_code": "DE",
             "description": "rh-tec IP Backbone",
@@ -7185,15 +7194,6 @@
             "speed": 10000
         },
         {
-            "asn": 50683,
-            "country_code": "SE",
-            "description": "SITAB Infrastruktur Global network AS",
-            "ipv4_address": "80.81.194.217",
-            "ipv6_address": "2001:7f8::c5fb:0:1",
-            "name": "SITABINFRA-GLOBAL-AS",
-            "speed": 1000
-        },
-        {
             "asn": 50837,
             "country_code": "CH",
             "description": "CLOUDSIGMA AG",
@@ -9012,6 +9012,15 @@
             "speed": 500
         },
         {
+            "asn": 268925,
+            "country_code": "BR",
+            "description": "TELLCORP - TELECOMUNICACOES CORPORATIVAS LTDA",
+            "ipv4_address": "80.81.195.156",
+            "ipv6_address": "2001:7f8::4:1a7d:0:1",
+            "name": "TELLCORP - TELECOMUNICACOES CORPORATIVAS LTDA",
+            "speed": 10000
+        },
+        {
             "asn": 268976,
             "country_code": "BR",
             "description": "P16 Telecom",
@@ -9048,7 +9057,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 867,
+    "members_count": 868,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
