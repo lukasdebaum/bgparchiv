@@ -387,7 +387,7 @@
             "ipv4_address": "210.173.176.97",
             "ipv6_address": "2001:7fa:7:1::7670:1",
             "name": "CTNET",
-            "speed": 10000
+            "speed": 30000
         },
         {
             "asn": 7672,
@@ -981,6 +981,15 @@
             "ipv4_address": "210.173.176.222",
             "ipv6_address": "2001:7fa:7:1:0:1:8268:1",
             "name": "JANIS",
+            "speed": 10000
+        },
+        {
+            "asn": 18278,
+            "country_code": "JP",
+            "description": "Cable TV Corporation",
+            "ipv4_address": "210.173.176.189",
+            "ipv6_address": "2001:7fa:7:1:0:1:8278:1",
+            "name": "CC9N",
             "speed": 10000
         },
         {
@@ -1731,7 +1740,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 165,
+    "members_count": 166,
     "name": "JPNAP Tokyo",
     "name_full": "JPNAP Tokyo",
     "policy_email": "info@mfeed.co.jp",
