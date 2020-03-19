@@ -946,6 +946,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "TR",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.169.0",
+            "name": "GCL-CUSTOMER-TR",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.188.168.0",
+                "prefix": "5.188.168.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.169.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "RU",
             "description": "G-Core Labs Customer assignment",
             "ip": "5.188.170.0",
@@ -1070,6 +1086,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.188.34.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.35.0",
+            "name": "GCL-CUSTOMER-DH",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.32.0",
+                "prefix": "5.188.32.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.35.0/24",
             "roa_status": "None"
         },
         {
@@ -1262,22 +1294,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.8.26.0/23",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "SG",
-            "description": "G-Core Labs Customer assignment",
-            "ip": "5.8.27.0",
-            "name": "GCL-CUSTOMER-SG",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "5.8.24.0",
-                "prefix": "5.8.24.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "5.8.27.0/24",
             "roa_status": "None"
         },
         {
