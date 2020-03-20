@@ -617,9 +617,9 @@
         {
             "asn": 58057,
             "country_code": "CH",
-            "description": "Securebit Autonomous System Number",
+            "description": "Securebit Autonomous System",
             "ipv4_address": "185.1.95.105",
-            "ipv6_address": "2001:7f8:b7::a506:474:1",
+            "ipv6_address": "2001:7f8:b7::a505:8057:1",
             "name": "SECUREBIT",
             "speed": 1000
         },
@@ -667,6 +667,15 @@
             "ipv6_address": "2001:7f8:b7::a506:404:1",
             "name": "Liteserver",
             "speed": 10000
+        },
+        {
+            "asn": 60474,
+            "country_code": "CH",
+            "description": "4B42 Autonomous System Number",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:b7::a506:474:1",
+            "name": "ASN-4B42",
+            "speed": 1000
         },
         {
             "asn": 60927,
@@ -1164,7 +1173,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 123,
+    "members_count": 124,
     "name": "Speed-IX",
     "name_full": "Speed Internet Exchange",
     "policy_email": "peering@speed-ix.net",
