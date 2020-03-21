@@ -801,7 +801,7 @@
             "ipv4_address": "206.82.104.99",
             "ipv6_address": "2001:504:36::407d:0:1",
             "name": "AMAZON-02",
-            "speed": 40000
+            "speed": 400000
         },
         {
             "asn": 16524,
@@ -1270,6 +1270,15 @@
             "ipv6_address": "2001:504:36::7526:0:2",
             "name": "ASN-APPNEXUS",
             "speed": 40000
+        },
+        {
+            "asn": 30081,
+            "country_code": "US",
+            "description": "CacheNetworks, Inc.",
+            "ipv4_address": "206.82.104.249",
+            "ipv6_address": "2001:504:36::7581:0:1",
+            "name": "CACHENETWORKS",
+            "speed": 10000
         },
         {
             "asn": 30511,
@@ -2082,7 +2091,7 @@
             "speed": 40000
         }
     ],
-    "members_count": 216,
+    "members_count": 217,
     "name": "DE-CIX New York",
     "name_full": "Deutscher Commercial Internet Exchange New York",
     "policy_email": "sales@de-cix.net",
