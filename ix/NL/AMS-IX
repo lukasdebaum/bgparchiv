@@ -1125,7 +1125,7 @@
             "ipv4_address": "80.249.209.20",
             "ipv6_address": "2001:7f8:1::a500:8075:1",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-            "speed": 200000
+            "speed": 300000
         },
         {
             "asn": 8075,
@@ -4334,7 +4334,7 @@
         {
             "asn": 31078,
             "country_code": "DE",
-            "description": "Netsign Networks GmbH",
+            "description": "Alexej Senderkin",
             "ipv4_address": "80.249.210.64",
             "ipv6_address": "2001:7f8:1::a503:1078:1",
             "name": "netsign",
@@ -5698,6 +5698,15 @@
             "ipv6_address": "2001:7f8:1::a504:2947:1",
             "name": "SKYNETLINK-AS",
             "speed": 1000
+        },
+        {
+            "asn": 42994,
+            "country_code": "IL",
+            "description": "HQserv Communication Solutions",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:1::a500:8751:1",
+            "name": "HQserv_Communication_Solutions",
+            "speed": 10000
         },
         {
             "asn": 43142,
@@ -8706,7 +8715,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 861,
+    "members_count": 862,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
