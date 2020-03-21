@@ -387,7 +387,7 @@
             "ipv4_address": "196.60.9.113",
             "ipv6_address": "2001:43f8:6d0::9:113",
             "name": "GOOGLE",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 15695,
@@ -511,7 +511,7 @@
             "country_code": "US",
             "description": "Zenlayer Inc",
             "ipv4_address": "196.60.9.57",
-            "ipv6_address": null,
+            "ipv6_address": "2001:43f8:6d0::9:57",
             "name": "ZNET",
             "speed": 10000
         },
@@ -3979,9 +3979,18 @@
             "ipv6_address": "2001:43f8:6d0::10:12",
             "name": "Africa-on-Cloud-AS",
             "speed": 10000
+        },
+        {
+            "asn": 328624,
+            "country_code": "ZA",
+            "description": "VDB Communications (Pty) Ltd",
+            "ipv4_address": "196.60.10.16",
+            "ipv6_address": "2001:43f8:6d0::10:16",
+            "name": "VDB-Communications-Ltd",
+            "speed": 10000
         }
     ],
-    "members_count": 351,
+    "members_count": 352,
     "name": "NAPAfrica IX Johannesburg",
     "name_full": "NAPAfrica IX Johannesburg",
     "policy_email": "nap@teraco.co.za",
