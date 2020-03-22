@@ -669,15 +669,6 @@
             "speed": 2048
         },
         {
-            "asn": 58438,
-            "country_code": "IN",
-            "description": "ApnaTeleLink pvt. Ltd.",
-            "ipv4_address": "103.27.170.147",
-            "ipv6_address": "2401:7500:fff6::147",
-            "name": "APNANET4-IN",
-            "speed": 1024
-        },
-        {
             "asn": 58640,
             "country_code": "IN",
             "description": "NEXTRA TELESERVICES PVT. LTD.",
@@ -894,15 +885,6 @@
             "speed": 2000
         },
         {
-            "asn": 132562,
-            "country_code": "IN",
-            "description": "ZeroWorries Private Limited",
-            "ipv4_address": "103.27.170.140",
-            "ipv6_address": null,
-            "name": "ZEROWORRIES-AS-IN",
-            "speed": 1024
-        },
-        {
             "asn": 132572,
             "country_code": "IN",
             "description": "Fasthook Networks Pvt Ltd",
@@ -957,15 +939,6 @@
             "speed": 10000
         },
         {
-            "asn": 132957,
-            "country_code": "IN",
-            "description": "Pintwire Infomatics Private Limited",
-            "ipv4_address": "103.27.170.82",
-            "ipv6_address": "2401:7500:fff6::82",
-            "name": "PINTWIRE-AS",
-            "speed": 1024
-        },
-        {
             "asn": 132958,
             "country_code": "IN",
             "description": "Gramin Broadband Network Pvt . Ltd.",
@@ -990,15 +963,6 @@
             "ipv4_address": "103.27.170.233",
             "ipv6_address": "2401:7500:fff6::233",
             "name": "NANDBALA-AS",
-            "speed": 1000
-        },
-        {
-            "asn": 132988,
-            "country_code": "IN",
-            "description": "Venessa Internet Pvt Ltd",
-            "ipv4_address": "103.27.170.30",
-            "ipv6_address": null,
-            "name": "VENESSA-AS",
             "speed": 1000
         },
         {
@@ -1117,15 +1081,6 @@
             "ipv6_address": "2401:7500:fff6::25",
             "name": "WEBWERKS-AS-IN",
             "speed": 10000
-        },
-        {
-            "asn": 133297,
-            "country_code": "IN",
-            "description": "Aeroway Networks Private Limited",
-            "ipv4_address": "103.27.170.111",
-            "ipv6_address": null,
-            "name": "Aeroway-AS",
-            "speed": 1024
         },
         {
             "asn": 133311,
@@ -1533,15 +1488,6 @@
             "speed": 1024
         },
         {
-            "asn": 135686,
-            "country_code": "IN",
-            "description": "Navyug Networks Info Private Limited",
-            "ipv4_address": "103.27.170.205",
-            "ipv6_address": null,
-            "name": "NAVYUG-AS-IN",
-            "speed": 1024
-        },
-        {
             "asn": 135697,
             "country_code": "IN",
             "description": "Tachyon Communications Pvt Ltd",
@@ -1596,24 +1542,6 @@
             "speed": 10000
         },
         {
-            "asn": 135743,
-            "country_code": "IN",
-            "description": "Maxx1 Infoway Pvt Ltd",
-            "ipv4_address": "103.27.170.166",
-            "ipv6_address": "2401:7500:fff6::166",
-            "name": "MAXX1-AS-IN",
-            "speed": 10000
-        },
-        {
-            "asn": 135754,
-            "country_code": "IN",
-            "description": "Golden Tiger Telecom Pvt Ltd",
-            "ipv4_address": "103.27.170.151",
-            "ipv6_address": null,
-            "name": "GTTPL-AS",
-            "speed": 1000
-        },
-        {
             "asn": 135766,
             "country_code": "IN",
             "description": "Wandoor Multiventures Pvt Ltd",
@@ -1648,15 +1576,6 @@
             "ipv6_address": "2401:7500:fff6::179",
             "name": "MULTIFI-AS",
             "speed": 10000
-        },
-        {
-            "asn": 135844,
-            "country_code": "IN",
-            "description": "Lightyears Broadband Pvt Ltd",
-            "ipv4_address": "103.27.170.134",
-            "ipv6_address": null,
-            "name": "NETIT-AS",
-            "speed": 1000
         },
         {
             "asn": 135850,
@@ -1704,15 +1623,6 @@
             "speed": 1024
         },
         {
-            "asn": 136303,
-            "country_code": "IN",
-            "description": "Sher Telelink Pvt Ltd",
-            "ipv4_address": "103.27.170.42",
-            "ipv6_address": "2401:7500:fff6::42",
-            "name": "SHERTELELINK-AS",
-            "speed": 1024
-        },
-        {
             "asn": 136305,
             "country_code": "IN",
             "description": "Netvision Awadh Networks Private Limited",
@@ -1727,6 +1637,15 @@
             "description": "Deenet Services Pvt Ltd",
             "ipv4_address": "103.27.170.94",
             "ipv6_address": "2401:7500:fff6::94",
+            "name": "DEENET-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 136308,
+            "country_code": "IN",
+            "description": "Deenet Services Pvt Ltd",
+            "ipv4_address": "103.27.170.59",
+            "ipv6_address": "2401:7500:fff6::59",
             "name": "DEENET-AS",
             "speed": 10000
         },
@@ -2082,7 +2001,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 219,
+    "members_count": 209,
     "name": "DE-CIX Mumbai",
     "name_full": "DE-CIX Mumbai fka Mumbai IX fka Mumbai CH",
     "policy_email": "operations@de-cix.in",
