@@ -3585,15 +3585,6 @@
             "speed": 100000
         },
         {
-            "asn": 25074,
-            "country_code": "DE",
-            "description": "PlusServer GmbH",
-            "ipv4_address": "80.249.208.155",
-            "ipv6_address": "2001:7f8:1::a502:5074:1",
-            "name": "INETBONE-AS",
-            "speed": 10000
-        },
-        {
             "asn": 25091,
             "country_code": "CH",
             "description": "IP-Max SA",
@@ -3672,7 +3663,7 @@
             "ipv4_address": "80.249.208.243",
             "ipv6_address": "2001:7f8:1::a502:5182:1",
             "name": "PUBLIEKE-OMROEP-AS",
-            "speed": 100000
+            "speed": 10000
         },
         {
             "asn": 25182,
@@ -3681,7 +3672,7 @@
             "ipv4_address": "80.249.209.86",
             "ipv6_address": "2001:7f8:1::a502:5182:2",
             "name": "PUBLIEKE-OMROEP-AS",
-            "speed": 100000
+            "speed": 10000
         },
         {
             "asn": 25220,
@@ -3717,7 +3708,7 @@
             "ipv4_address": "80.249.212.219",
             "ipv6_address": "2001:7f8:1::a502:5369:1",
             "name": "BANDWIDTH-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 25455,
@@ -3934,6 +3925,15 @@
             "ipv6_address": "2001:7f8:1::a502:8685:2",
             "name": "ASN-ROUTIT",
             "speed": 30000
+        },
+        {
+            "asn": 28725,
+            "country_code": "CZ",
+            "description": "CETIN a.s.",
+            "ipv4_address": "80.249.214.27",
+            "ipv6_address": "2001:7f8:1::a502:8725:1",
+            "name": "CETIN-AS",
+            "speed": 10000
         },
         {
             "asn": 28788,
@@ -4680,24 +4680,6 @@
             "ipv4_address": "80.249.213.73",
             "ipv6_address": "2001:7f8:1::a503:4087:1",
             "name": "NTE-BREDBAND",
-            "speed": 10000
-        },
-        {
-            "asn": 34106,
-            "country_code": "NL",
-            "description": "AS NV Holdingmaatschappij De Telegraaf",
-            "ipv4_address": "80.249.208.156",
-            "ipv6_address": "2001:7f8:1::a503:4106:1",
-            "name": "TELEGRAAF-AS",
-            "speed": 10000
-        },
-        {
-            "asn": 34106,
-            "country_code": "NL",
-            "description": "AS NV Holdingmaatschappij De Telegraaf",
-            "ipv4_address": "80.249.209.156",
-            "ipv6_address": "2001:7f8:1::a503:4106:2",
-            "name": "TELEGRAAF-AS",
             "speed": 10000
         },
         {
@@ -8715,7 +8697,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 862,
+    "members_count": 861,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
