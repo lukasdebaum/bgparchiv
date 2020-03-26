@@ -297,7 +297,7 @@
             "ipv4_address": "103.26.68.125",
             "ipv6_address": "2001:dea:0:10::7d",
             "name": "ECN-AS-AP",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 9667,
@@ -621,6 +621,15 @@
             "ipv4_address": "103.26.69.66",
             "ipv6_address": null,
             "name": "CLICKINT-AS-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 19551,
+            "country_code": "US",
+            "description": "Incapsula Inc",
+            "ipv4_address": "103.26.69.87",
+            "ipv6_address": "2001:dea:0:10::157",
+            "name": "INCAPSULA",
             "speed": 10000
         },
         {
@@ -2253,7 +2262,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 219,
+    "members_count": 220,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
