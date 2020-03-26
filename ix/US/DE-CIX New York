@@ -108,7 +108,7 @@
             "ipv4_address": "206.82.104.81",
             "ipv6_address": "2001:504:36::b5a:0:1",
             "name": "AS-SSI",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 2906,
@@ -117,7 +117,7 @@
             "ipv4_address": "206.82.104.122",
             "ipv6_address": "2001:504:36::b5a:0:2",
             "name": "AS-SSI",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 3292,
@@ -1018,6 +1018,15 @@
             "ipv6_address": null,
             "name": "ISPNET-1",
             "speed": 1000
+        },
+        {
+            "asn": 22742,
+            "country_code": "US",
+            "description": "Connecticut Education Network",
+            "ipv4_address": "206.82.105.12",
+            "ipv6_address": "2001:504:36::58d6:0:1",
+            "name": "CT-EDU-NET",
+            "speed": 40000
         },
         {
             "asn": 22822,
@@ -2073,7 +2082,7 @@
             "speed": 40000
         }
     ],
-    "members_count": 217,
+    "members_count": 218,
     "name": "DE-CIX New York",
     "name_full": "Deutscher Commercial Internet Exchange New York",
     "policy_email": "sales@de-cix.net",
