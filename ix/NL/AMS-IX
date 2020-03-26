@@ -900,7 +900,7 @@
             "ipv4_address": "80.249.208.127",
             "ipv6_address": "2001:7f8:1::a500:6667:1",
             "name": "EUNET-FINLAND",
-            "speed": 40000
+            "speed": 100000
         },
         {
             "asn": 6677,
@@ -8175,6 +8175,15 @@
             "speed": 1000
         },
         {
+            "asn": 200478,
+            "country_code": "IL",
+            "description": "Taboola.com ltd",
+            "ipv4_address": "80.249.212.230",
+            "ipv6_address": null,
+            "name": "TABOOLA-AS",
+            "speed": 10000
+        },
+        {
             "asn": 200612,
             "country_code": "QA",
             "description": "Gulf Bridge International Inc.",
@@ -8697,7 +8706,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 861,
+    "members_count": 862,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
