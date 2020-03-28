@@ -810,7 +810,7 @@
             "ipv4_address": "80.81.203.110",
             "ipv6_address": "2001:7f8:3d::c94b:0:1",
             "name": "DECIX-MGMT-AS",
-            "speed": 10000
+            "speed": 1000
         },
         {
             "asn": 51531,
@@ -819,7 +819,7 @@
             "ipv4_address": "80.81.203.116",
             "ipv6_address": "2001:7f8:3d::c94b:0:2",
             "name": "DECIX-MGMT-AS",
-            "speed": 10000
+            "speed": 1000
         },
         {
             "asn": 54994,
@@ -874,6 +874,15 @@
             "ipv6_address": "2001:7f8:3d::e278:0:1",
             "name": "BLIZZARD",
             "speed": 10000
+        },
+        {
+            "asn": 58057,
+            "country_code": "CH",
+            "description": "Securebit Autonomous System",
+            "ipv4_address": "80.81.203.185",
+            "ipv6_address": "2001:7f8:3d::e2c9:0:1",
+            "name": "SECUREBIT",
+            "speed": 1000
         },
         {
             "asn": 59507,
@@ -1218,7 +1227,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 127,
+    "members_count": 128,
     "name": "DE-CIX Hamburg",
     "name_full": "Deutscher Commercial Internet Exchange Hamburg",
     "policy_email": "info@de-cix.net",
