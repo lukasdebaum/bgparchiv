@@ -946,6 +946,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "TR",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.169.0",
+            "name": "GCL-CUSTOMER-TR",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.188.168.0",
+                "prefix": "5.188.168.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.169.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "RU",
             "description": "G-Core Labs Customer assignment",
             "ip": "5.188.170.0",
