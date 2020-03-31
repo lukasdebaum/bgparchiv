@@ -696,15 +696,6 @@
             "speed": 10000
         },
         {
-            "asn": 29512,
-            "country_code": "PL",
-            "description": "Cable TVK in area of Wroclaw",
-            "ipv4_address": "195.182.219.34",
-            "ipv6_address": "2001:7f8:42::a502:9512:2",
-            "name": "TVK-WROC-AS",
-            "speed": 1000
-        },
-        {
             "asn": 29522,
             "country_code": "PL",
             "description": "KEI.PL Sp. z o.o.",
@@ -864,6 +855,15 @@
             "ipv4_address": "195.182.219.145",
             "ipv6_address": "2001:7f8:42::a503:5213:4",
             "name": "COMPNETUA-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 35297,
+            "country_code": "UA",
+            "description": "Dataline LLC",
+            "ipv4_address": "195.182.219.104",
+            "ipv6_address": "2001:7f8:42::a503:4570:2",
+            "name": "DATALINE-AS",
             "speed": 10000
         },
         {
@@ -1668,7 +1668,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 165,
+    "members_count": 166,
     "name": "Equinix Warsaw",
     "name_full": "Equinix Internet Exchange Warsaw (formerly PLIX)",
     "policy_email": null,
