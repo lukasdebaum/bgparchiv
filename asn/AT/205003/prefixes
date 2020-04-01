@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Holter Verwaltungs GmbH",
+            "ip": "212.183.28.0",
+            "name": "HOLTER-AT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "212.183.0.0",
+                "prefix": "212.183.0.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "212.183.28.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
