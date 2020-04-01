@@ -81,6 +81,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Mobilkom ARS ISP NAT Pools",
+            "ip": "80.75.33.0",
+            "name": "MOBILKOM-ARS-ISP-NAT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.75.32.0",
+                "prefix": "80.75.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.75.33.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 21,
             "country_code": "AT",
             "description": "MobilePools",
