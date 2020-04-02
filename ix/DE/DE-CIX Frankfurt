@@ -1731,6 +1731,15 @@
             "speed": 500000
         },
         {
+            "asn": 8893,
+            "country_code": "DE",
+            "description": "Zirkusweg 1",
+            "ipv4_address": "80.81.196.148",
+            "ipv6_address": "2001:7f8::22bd:0:1",
+            "name": "ARTFILES-AS",
+            "speed": 10000
+        },
+        {
             "asn": 8926,
             "country_code": "MD",
             "description": "Moldtelecom Autonomous System",
@@ -1918,6 +1927,15 @@
             "ipv6_address": "2001:7f8::23a1:0:1",
             "name": "TTNet",
             "speed": 100000
+        },
+        {
+            "asn": 9136,
+            "country_code": "DE",
+            "description": "Wobcom GmbH",
+            "ipv4_address": "80.81.196.149",
+            "ipv6_address": "2001:7f8::23b0:0:1",
+            "name": "WOBCOM",
+            "speed": 10000
         },
         {
             "asn": 9145,
@@ -2973,6 +2991,15 @@
             "speed": 20000
         },
         {
+            "asn": 15447,
+            "country_code": "NL",
+            "description": "CM Groep B.V.",
+            "ipv4_address": "80.81.196.160",
+            "ipv6_address": "2001:7f8::3c57:0:1",
+            "name": "ASCM_NL",
+            "speed": 1000
+        },
+        {
             "asn": 15456,
             "country_code": "DE",
             "description": "InterNetX GmbH",
@@ -3393,7 +3420,7 @@
             "ipv4_address": "80.81.195.252",
             "ipv6_address": "2001:7f8::47e3:0:1",
             "name": "FPT-AS-AP",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 18676,
@@ -3510,7 +3537,7 @@
             "ipv4_address": "80.81.195.84",
             "ipv6_address": "2001:7f8::5042:0:1",
             "name": "SOPRADO-ANY",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 20562,
@@ -6219,7 +6246,7 @@
             "ipv4_address": "80.81.192.35",
             "ipv6_address": "2001:7f8::a40e:0:1",
             "name": "NetComBW-AS",
-            "speed": 40000
+            "speed": 100000
         },
         {
             "asn": 42184,
@@ -8913,6 +8940,15 @@
             "speed": 3000
         },
         {
+            "asn": 207588,
+            "country_code": "IQ",
+            "description": "Prime Telecom LTD",
+            "ipv4_address": "80.81.194.93",
+            "ipv6_address": "2001:7f8::3:2ae4:0:1",
+            "name": "IQ-PrimeTelecom",
+            "speed": 10000
+        },
+        {
             "asn": 208722,
             "country_code": "FI",
             "description": "Yandex Oy",
@@ -9120,7 +9156,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 873,
+    "members_count": 877,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
