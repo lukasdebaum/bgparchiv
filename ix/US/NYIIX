@@ -14,7 +14,7 @@
         {
             "asn": 577,
             "country_code": "CA",
-            "description": "Bell Canada",
+            "description": "BACOM",
             "ipv4_address": "198.32.160.36",
             "ipv6_address": "2001:504:1::a500:577:1",
             "name": "BACOM",
@@ -207,7 +207,7 @@
             "ipv4_address": "198.32.160.180",
             "ipv6_address": "2001:504:1::a500:4230:1",
             "name": "CLARO S.A.",
-            "speed": 40000
+            "speed": 100000
         },
         {
             "asn": 4258,
@@ -318,15 +318,6 @@
             "speed": 10000
         },
         {
-            "asn": 6908,
-            "country_code": "GB",
-            "description": "Datahop - Six Degrees",
-            "ipv4_address": "198.32.160.138",
-            "ipv6_address": "2001:504:1::a500:6908:1",
-            "name": "DATAHOP",
-            "speed": 10000
-        },
-        {
             "asn": 6939,
             "country_code": "US",
             "description": "Hurricane Electric LLC",
@@ -334,6 +325,15 @@
             "ipv6_address": "2001:504:1::a500:6939:1",
             "name": "HURRICANE",
             "speed": 100000
+        },
+        {
+            "asn": 7195,
+            "country_code": "CO",
+            "description": "EDGEUNO SAS",
+            "ipv4_address": "198.32.160.145",
+            "ipv6_address": "2001:504:1::a500:7195:1",
+            "name": "EDGEUNO SAS",
+            "speed": 10000
         },
         {
             "asn": 7270,
@@ -405,7 +405,7 @@
             "ipv4_address": "198.32.160.199",
             "ipv6_address": "2001:504:1::a500:8075:1",
             "name": "MICROSOFT-CORP-MSN-AS-BLOCK",
-            "speed": 10000
+            "speed": 30000
         },
         {
             "asn": 8359,
@@ -543,6 +543,15 @@
             "speed": 10000
         },
         {
+            "asn": 11845,
+            "country_code": "ZA",
+            "description": "Vox Telecom Ltd",
+            "ipv4_address": "198.32.160.46",
+            "ipv6_address": "2001:504:1::a501:1845:1",
+            "name": "Vox-Telecom",
+            "speed": 5000
+        },
+        {
             "asn": 12654,
             "country_code": "EU",
             "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
@@ -576,24 +585,6 @@
             "ipv4_address": "198.32.160.195",
             "ipv6_address": "2001:504:1::a501:3335:1",
             "name": "CLOUDFLARENET",
-            "speed": 100000
-        },
-        {
-            "asn": 13414,
-            "country_code": "US",
-            "description": "Twitter Inc.",
-            "ipv4_address": "198.32.160.50",
-            "ipv6_address": "2001:504:1::a501:3414:1",
-            "name": "TWITTER",
-            "speed": 100000
-        },
-        {
-            "asn": 13414,
-            "country_code": "US",
-            "description": "Twitter Inc.",
-            "ipv4_address": "198.32.160.56",
-            "ipv6_address": "2001:504:1::a501:3414:2",
-            "name": "TWITTER",
             "speed": 100000
         },
         {
@@ -644,7 +635,7 @@
         {
             "asn": 13760,
             "country_code": "US",
-            "description": "Southern Light, LLC",
+            "description": "Uniti Fiber Holdings Inc.",
             "ipv4_address": "198.32.160.152",
             "ipv6_address": "2001:504:1::a501:3760:1",
             "name": "UNITI-FIBER",
@@ -653,11 +644,20 @@
         {
             "asn": 13768,
             "country_code": "CA",
-            "description": "Cogeco Peer 1",
+            "description": "Aptum Technologies",
             "ipv4_address": "198.32.160.65",
             "ipv6_address": "2001:504:1::a501:3768:1",
             "name": "COGECO-PEER1",
             "speed": 30000
+        },
+        {
+            "asn": 13786,
+            "country_code": "US",
+            "description": "Seabras 1 USA, LLC",
+            "ipv4_address": "198.32.160.93",
+            "ipv6_address": "2001:504:1::a501:3786:1",
+            "name": "SEABRAS-1",
+            "speed": 100000
         },
         {
             "asn": 13941,
@@ -777,15 +777,6 @@
             "speed": 10000
         },
         {
-            "asn": 15547,
-            "country_code": "CH",
-            "description": "Providing services to FTTH, DOCSIS and DSL networks in Switzerland",
-            "ipv4_address": "198.32.160.113",
-            "ipv6_address": "2001:504:1::a501:5547:1",
-            "name": "NETPLUS",
-            "speed": 1000
-        },
-        {
             "asn": 15695,
             "country_code": "NL",
             "description": "Expereo International BV",
@@ -855,6 +846,15 @@
             "ipv4_address": "198.32.160.163",
             "ipv6_address": "2001:504:1::a501:7378:1",
             "name": "AS17378",
+            "speed": 10000
+        },
+        {
+            "asn": 17639,
+            "country_code": "PH",
+            "description": "Converge ICT Solutions Inc.",
+            "ipv4_address": "198.32.160.159",
+            "ipv6_address": "2001:504:1::a501:7639:1",
+            "name": "CONVERGE-AS",
             "speed": 10000
         },
         {
@@ -939,6 +939,15 @@
             "speed": 100000
         },
         {
+            "asn": 21574,
+            "country_code": "BR",
+            "description": "Century Telecom Ltda",
+            "ipv4_address": "198.32.160.229",
+            "ipv6_address": "2001:504:1::a502:1574:1",
+            "name": "Century Telecom Ltda",
+            "speed": 1000
+        },
+        {
             "asn": 21928,
             "country_code": "US",
             "description": "T-Mobile USA, Inc.",
@@ -963,7 +972,7 @@
             "ipv4_address": "198.32.160.76",
             "ipv6_address": "2001:504:1::a502:1976:1",
             "name": "NJEDGE-NET",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 22302,
@@ -975,22 +984,22 @@
             "speed": 10000
         },
         {
-            "asn": 22604,
-            "country_code": "US",
-            "description": "Disney Streaming Services",
-            "ipv4_address": "198.32.160.249",
-            "ipv6_address": "2001:504:1::a502:2604:2",
-            "name": "DSS-MT",
-            "speed": 100000
+            "asn": 22356,
+            "country_code": "BR",
+            "description": "Durand do Brasil Ltda",
+            "ipv4_address": "198.32.160.84",
+            "ipv6_address": "2001:504:1::a502:2356:1",
+            "name": "Durand do Brasil Ltda",
+            "speed": 10000
         },
         {
-            "asn": 22604,
-            "country_code": "US",
-            "description": "Disney Streaming Services",
-            "ipv4_address": "198.32.160.149",
-            "ipv6_address": "2001:504:1::a502:2604:1",
-            "name": "DSS-MT",
-            "speed": 100000
+            "asn": 22381,
+            "country_code": "BR",
+            "description": "Megatelecom Telecomunicacoes Ltda",
+            "ipv4_address": "198.32.160.253",
+            "ipv6_address": "2001:504:1::a502:2381:1",
+            "name": "Megatelecom Telecomunicacoes Ltda",
+            "speed": 400
         },
         {
             "asn": 22691,
@@ -1071,7 +1080,7 @@
             "ipv4_address": "198.32.160.24",
             "ipv6_address": "2001:504:1::a502:3470:1",
             "name": "RELIABLESITE",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 23576,
@@ -1128,24 +1137,6 @@
             "speed": 10000
         },
         {
-            "asn": 26120,
-            "country_code": "US",
-            "description": "RhythmOne, LLC",
-            "ipv4_address": "198.32.160.46",
-            "ipv6_address": null,
-            "name": "RHYTHMONE",
-            "speed": 10000
-        },
-        {
-            "asn": 26282,
-            "country_code": "US",
-            "description": "MessageLabs Inc.",
-            "ipv4_address": "198.32.160.69",
-            "ipv6_address": null,
-            "name": "SYMANTEC-US",
-            "speed": 10000
-        },
-        {
             "asn": 26548,
             "country_code": "US",
             "description": "Purevoltage Enterprises Inc.",
@@ -1191,6 +1182,15 @@
             "speed": 1000
         },
         {
+            "asn": 28663,
+            "country_code": "BR",
+            "description": "FLYS INTERATIVA LTDA",
+            "ipv4_address": "198.32.160.66",
+            "ipv6_address": "2001:504:1::a502:8663:1",
+            "name": "FLYS INTERATIVA LTDA",
+            "speed": 10000
+        },
+        {
             "asn": 29697,
             "country_code": "US",
             "description": "BeeksFX VPS USA Inc.",
@@ -1234,6 +1234,15 @@
             "ipv6_address": "2001:504:1::a502:9838:1",
             "name": "AMC",
             "speed": 20000
+        },
+        {
+            "asn": 30081,
+            "country_code": "US",
+            "description": "CacheNetworks, Inc.",
+            "ipv4_address": "198.32.160.156",
+            "ipv6_address": "2001:504:1::a503:81:1",
+            "name": "CACHENETWORKS",
+            "speed": 10000
         },
         {
             "asn": 31950,
@@ -1297,15 +1306,6 @@
             "ipv6_address": "2001:504:1::a503:3438:2",
             "name": "HIGHWINDS2",
             "speed": 100000
-        },
-        {
-            "asn": 33748,
-            "country_code": "US",
-            "description": "DSCI Corporation",
-            "ipv4_address": "198.32.160.109",
-            "ipv6_address": "2001:504:1::a503:3748:1",
-            "name": "DSCI",
-            "speed": 10000
         },
         {
             "asn": 33891,
@@ -1436,10 +1436,19 @@
         {
             "asn": 40191,
             "country_code": "CA",
-            "description": "ZEROFAIL",
+            "description": "Openface Inc.",
             "ipv4_address": "198.32.160.18",
             "ipv6_address": "2001:504:1::a504:191:1",
             "name": "AS-PRE2POST-1",
+            "speed": 10000
+        },
+        {
+            "asn": 40244,
+            "country_code": "US",
+            "description": "Turnkey Internet Inc.",
+            "ipv4_address": "198.32.160.183",
+            "ipv6_address": "2001:504:1::a504:244:1",
+            "name": "TURNKEY-INTERNET",
             "speed": 10000
         },
         {
@@ -1449,15 +1458,6 @@
             "ipv4_address": "198.32.160.101",
             "ipv6_address": "2001:504:1::a504:788:1",
             "name": "START-CA",
-            "speed": 10000
-        },
-        {
-            "asn": 42473,
-            "country_code": "AT",
-            "description": "ANEXIA Internetdienstleistungs GmbH",
-            "ipv4_address": "198.32.160.11",
-            "ipv6_address": "2001:504:1::a504:2473:1",
-            "name": "AS-ANEXIA",
             "speed": 10000
         },
         {
@@ -1497,15 +1497,6 @@
             "speed": 10000
         },
         {
-            "asn": 46562,
-            "country_code": "US",
-            "description": "Total Server Solutions L.L.C.",
-            "ipv4_address": "198.32.160.12",
-            "ipv6_address": "2001:504:1::a504:6562:1",
-            "name": "TOTAL-SERVER-SOLUTIONS",
-            "speed": 10000
-        },
-        {
             "asn": 47523,
             "country_code": "GB",
             "description": "HEIDMAR GLOBAL ASN - RIPE",
@@ -1522,15 +1513,6 @@
             "ipv6_address": "2001:504:1::a504:7869:1",
             "name": "NETROUTING-AS",
             "speed": 10000
-        },
-        {
-            "asn": 51185,
-            "country_code": "GB",
-            "description": "Onecom Global Communications LTD",
-            "ipv4_address": "198.32.160.168",
-            "ipv6_address": "2001:504:1::a505:1185:1",
-            "name": "ONECOM-AS",
-            "speed": 0
         },
         {
             "asn": 52320,
@@ -1551,6 +1533,15 @@
             "speed": 500
         },
         {
+            "asn": 52866,
+            "country_code": "BR",
+            "description": "Iveloz Telecom",
+            "ipv4_address": "198.32.160.243",
+            "ipv6_address": "2001:504:1::a505:2866:1",
+            "name": "Iveloz Telecom",
+            "speed": 500
+        },
+        {
             "asn": 52937,
             "country_code": "BR",
             "description": "FHP TELECOMUNICACAO E COM VAREJISTA DE PRODUTOS DE",
@@ -1560,22 +1551,40 @@
             "speed": 500
         },
         {
+            "asn": 53013,
+            "country_code": "BR",
+            "description": "W I X NET DO BRASIL LTDA - ME",
+            "ipv4_address": "198.32.160.203",
+            "ipv6_address": "2001:504:1::a505:3013:1",
+            "name": "W I X NET DO BRASIL LTDA - ME",
+            "speed": 10000
+        },
+        {
+            "asn": 53162,
+            "country_code": "BR",
+            "description": "VOIPGLOBE SERVICOS DE COM MULTIMIDIA VIA INTERNET",
+            "ipv4_address": "198.32.160.251",
+            "ipv6_address": "2001:504:1::a505:3162:1",
+            "name": "VOIPGLOBE SERVICOS DE COM MULTIMIDIA VIA INTERNET",
+            "speed": 1000
+        },
+        {
             "asn": 54113,
             "country_code": "US",
             "description": "Fastly",
             "ipv4_address": "198.32.160.22",
-            "ipv6_address": "2001:504:1::a505:4113:1",
+            "ipv6_address": "2001:504:1::a505:4113:2",
             "name": "FASTLY",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 54113,
             "country_code": "US",
             "description": "Fastly",
             "ipv4_address": "198.32.160.62",
-            "ipv6_address": "2001:504:1::a505:4113:2",
+            "ipv6_address": "2001:504:1::a505:4113:1",
             "name": "FASTLY",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 54825,
@@ -1587,13 +1596,31 @@
             "speed": 20000
         },
         {
+            "asn": 54994,
+            "country_code": "US",
+            "description": "QUANTIL NETWORKS INC",
+            "ipv4_address": "198.32.160.94",
+            "ipv6_address": "2001:504:1::a505:4994:1",
+            "name": "QUANTILNETWORKS",
+            "speed": 10000
+        },
+        {
             "asn": 55081,
             "country_code": "US",
             "description": "24 SHELLS",
             "ipv4_address": "198.32.160.135",
             "ipv6_address": "2001:504:1::a505:5081:1",
             "name": "24SHELLS",
-            "speed": 20000
+            "speed": 100000
+        },
+        {
+            "asn": 57463,
+            "country_code": "BG",
+            "description": "NetIX Communications Ltd.",
+            "ipv4_address": "198.32.160.113",
+            "ipv6_address": "2001:504:1::a505:7463:1",
+            "name": "NetIX",
+            "speed": 10000
         },
         {
             "asn": 57976,
@@ -1650,6 +1677,15 @@
             "speed": 10000
         },
         {
+            "asn": 62887,
+            "country_code": "US",
+            "description": "WhiteSky Communications, LLC.",
+            "ipv4_address": "198.32.160.72",
+            "ipv6_address": "2001:504:1::a506:2887:1",
+            "name": "WHITESKY-COMMUNICATIONS",
+            "speed": 10000
+        },
+        {
             "asn": 62904,
             "country_code": "US",
             "description": "Eonix Corporation",
@@ -1689,7 +1725,7 @@
             "asn": 64049,
             "country_code": "SG",
             "description": "Reliance Jio Infocomm Pte Ltd Singapore",
-            "ipv4_address": "198.32.168.38",
+            "ipv4_address": "198.32.160.38",
             "ipv6_address": "2001:504:1::a506:4049:1",
             "name": "RJIPL-SG",
             "speed": 20000
@@ -1722,6 +1758,15 @@
             "speed": 1000
         },
         {
+            "asn": 199524,
+            "country_code": "AT",
+            "description": "G-Core Labs S.A.",
+            "ipv4_address": "198.32.160.12",
+            "ipv6_address": "2001:504:1::a519:9524:1",
+            "name": "GCORE",
+            "speed": 10000
+        },
+        {
             "asn": 199790,
             "country_code": "BG",
             "description": "IP Telecom Bulgaria",
@@ -1735,7 +1780,7 @@
             "country_code": "DE",
             "description": "Intel Deutschland GmbH",
             "ipv4_address": "198.32.160.160",
-            "ipv6_address": "2001:504:1::a520:3724:4",
+            "ipv6_address": "2001:504:1::a520:372:4",
             "name": "MCAFEE-ENG-PDB",
             "speed": 10000
         },
@@ -1744,7 +1789,7 @@
             "country_code": "DE",
             "description": "Intel Deutschland GmbH",
             "ipv4_address": "198.32.160.209",
-            "ipv6_address": "2001:504:1::a520:3724:2",
+            "ipv6_address": "2001:504:1::a520:372:2",
             "name": "MCAFEE-ENG-PDB",
             "speed": 10000
         },
@@ -1758,13 +1803,22 @@
             "speed": 1000
         },
         {
-            "asn": 262632,
+            "asn": 262376,
             "country_code": "BR",
-            "description": "Grajaunet Telecomunicacoes Eireli",
-            "ipv4_address": "198.32.160.246",
-            "ipv6_address": "2001:504:1::a526:2632:1",
-            "name": "Grajaunet Telecomunicacoes Eireli",
+            "description": "NOVANET TELECOMUNICACAO LTDA",
+            "ipv4_address": "198.32.160.154",
+            "ipv6_address": "2001:504:1::a526:2376:1",
+            "name": "NOVANET TELECOMUNICACAO LTDA",
             "speed": 1000
+        },
+        {
+            "asn": 262503,
+            "country_code": "BR",
+            "description": "PAULO DE TARSO DE CARVALHO BAYMA FILHO",
+            "ipv4_address": "198.32.160.53",
+            "ipv6_address": "2001:504:1::a526:2503:1",
+            "name": "PAULO DE TARSO DE CARVALHO BAYMA FILHO",
+            "speed": 500
         },
         {
             "asn": 262773,
@@ -1794,6 +1848,15 @@
             "speed": 10000
         },
         {
+            "asn": 263276,
+            "country_code": "BR",
+            "description": "BBG TELECOM",
+            "ipv4_address": "198.32.160.73",
+            "ipv6_address": "2001:504:1::a526:3276:1",
+            "name": "BBG TELECOM",
+            "speed": 0
+        },
+        {
             "asn": 263324,
             "country_code": "BR",
             "description": "Net&Com Servicos de Informatica e Telecomunicacoes",
@@ -1801,6 +1864,15 @@
             "ipv6_address": "2001:504:1::a526:3324:1",
             "name": "Net&Com Servicos de Informatica e Telecomunicacoes",
             "speed": 500
+        },
+        {
+            "asn": 263528,
+            "country_code": "BR",
+            "description": "VIACOM NEXT GENERATION COMUNICACAO LTDA",
+            "ipv4_address": "198.32.160.192",
+            "ipv6_address": "2001:504:1::a526:3528:1",
+            "name": "VIACOM NEXT GENERATION COMUNICACAO LTDA",
+            "speed": 1000
         },
         {
             "asn": 263626,
@@ -1819,6 +1891,24 @@
             "ipv6_address": "2001:504:1::a526:5187:1",
             "name": "STEEL WEB PROVEDORES DE ACESSO LTDA",
             "speed": 1000
+        },
+        {
+            "asn": 265269,
+            "country_code": "BR",
+            "description": "MEGA TELEINFORMATICA EIRELI",
+            "ipv4_address": "198.32.160.150",
+            "ipv6_address": "2001:504:1::a265:2696:1",
+            "name": "MEGA TELEINFORMATICA EIRELI",
+            "speed": 750
+        },
+        {
+            "asn": 267056,
+            "country_code": "BR",
+            "description": "EVEREST RIDGE CONSULTORIA EM REDES DE COM LTDA",
+            "ipv4_address": "198.32.160.250",
+            "ipv6_address": "2001:504:1::a526:7056:1",
+            "name": "EVEREST RIDGE CONSULTORIA EM REDES DE COM LTDA",
+            "speed": 10000
         },
         {
             "asn": 267613,
@@ -1848,21 +1938,30 @@
             "speed": 500
         },
         {
+            "asn": 268976,
+            "country_code": "BR",
+            "description": "P16 Telecom",
+            "ipv4_address": "198.32.160.109",
+            "ipv6_address": "2001:504:1::a526:8976:1",
+            "name": "P16 Telecom",
+            "speed": 1000
+        },
+        {
+            "asn": 394065,
+            "country_code": "US",
+            "description": "essensys Inc.",
+            "ipv4_address": "198.32.160.151",
+            "ipv6_address": "2001:504:1::a539:4065:1",
+            "name": "ESSENSYSINC",
+            "speed": 10000
+        },
+        {
             "asn": 394070,
             "country_code": "US",
             "description": "Internet Systems Consortium, Inc.",
             "ipv4_address": "198.32.160.95",
             "ipv6_address": "2001:504:1::a539:4070:1",
             "name": "ISC-F-LGA1",
-            "speed": 10000
-        },
-        {
-            "asn": 394530,
-            "country_code": "US",
-            "description": "Hammer Fiber",
-            "ipv4_address": "198.32.160.192",
-            "ipv6_address": "2001:504:1::a539:4530:1",
-            "name": "HAMMERFIBER",
             "speed": 10000
         },
         {
@@ -1902,13 +2001,13 @@
             "speed": 1000
         }
     ],
-    "members_count": 194,
+    "members_count": 207,
     "name": "NYIIX",
     "name_full": "New York International Internet eXchange",
     "policy_email": null,
     "policy_phone": null,
     "tech_email": "iixeng@telehouse.com",
-    "tech_phone": "+1 718 355 2525",
+    "tech_phone": "+17183552525",
     "url_stats": "https://www.nyiix.net/mrtg/sum.html",
     "website": "https://www.nyiix.net/locations/nyiix-new-york/"
 }
