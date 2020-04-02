@@ -180,7 +180,7 @@
             "ipv4_address": "80.81.203.146",
             "ipv6_address": "2001:7f8:3d::22bd:0:1",
             "name": "ARTFILES-AS",
-            "speed": 1000
+            "speed": 20000
         },
         {
             "asn": 9009,
@@ -199,6 +199,15 @@
             "ipv6_address": "2001:7f8:3d::2367:0:1",
             "name": "SAARGATE-AS",
             "speed": 40000
+        },
+        {
+            "asn": 9136,
+            "country_code": "DE",
+            "description": "Wobcom GmbH",
+            "ipv4_address": "80.81.203.181",
+            "ipv6_address": "2001:7f8:3d::23b0:0:1",
+            "name": "WOBCOM",
+            "speed": 10000
         },
         {
             "asn": 9145,
@@ -324,6 +333,15 @@
             "ipv4_address": "80.81.203.7",
             "ipv6_address": "2001:7f8:3d::3c1c:0:1",
             "name": "OMC-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 15447,
+            "country_code": "NL",
+            "description": "CM Groep B.V.",
+            "ipv4_address": "80.81.203.183",
+            "ipv6_address": "2001:7f8:3d::3c57:0:1",
+            "name": "ASCM_NL",
             "speed": 1000
         },
         {
@@ -639,6 +657,15 @@
             "ipv4_address": "80.81.203.126",
             "ipv6_address": "2001:7f8:3d::a094:0:1",
             "name": "FirstRoot-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 41327,
+            "country_code": "IT",
+            "description": "Fiber Telecom S.p.A.",
+            "ipv4_address": "80.81.203.187",
+            "ipv6_address": "2001:7f8:3d::a16f:0:1",
+            "name": "FIBERTELECOM-AS",
             "speed": 1000
         },
         {
@@ -1209,7 +1236,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 126,
+    "members_count": 129,
     "name": "DE-CIX Hamburg",
     "name_full": "Deutscher Commercial Internet Exchange Hamburg",
     "policy_email": "info@de-cix.net",
