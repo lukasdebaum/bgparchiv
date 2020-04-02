@@ -183,6 +183,15 @@
             "speed": 1000
         },
         {
+            "asn": 48292,
+            "country_code": "TR",
+            "description": "intibu.com",
+            "ipv4_address": "206.81.104.132",
+            "ipv6_address": "2602:fed2:fff:ffff::132",
+            "name": "intibu",
+            "speed": 1000
+        },
+        {
             "asn": 48301,
             "country_code": "DE",
             "description": "Routing/peering issues:logdns(at)gmail.com",
@@ -660,13 +669,22 @@
             "speed": 1000
         },
         {
+            "asn": 206477,
+            "country_code": "",
+            "description": "RIPE NCC ASN block",
+            "ipv4_address": "206.81.104.72",
+            "ipv6_address": "2602:fed2:fff:ffff::72",
+            "name": "RIPE NCC ASN block",
+            "speed": 100
+        },
+        {
             "asn": 206628,
             "country_code": "DE",
             "description": "Tianyu-Zhu",
             "ipv4_address": "206.81.104.67",
             "ipv6_address": "2602:fed2:fff:ffff::67",
             "name": "ERIC",
-            "speed": 3000
+            "speed": 500
         },
         {
             "asn": 207149,
@@ -939,6 +957,15 @@
             "speed": 100
         },
         {
+            "asn": 209294,
+            "country_code": "DE",
+            "description": "FansNET 56k Modem Based BGP Network - more info at 209294.xyz",
+            "ipv4_address": "206.81.104.73",
+            "ipv6_address": "2602:fed2:fff:ffff::73",
+            "name": "FansNet",
+            "speed": 1000
+        },
+        {
             "asn": 209300,
             "country_code": "GB",
             "description": "TWD2 Education and Research Network",
@@ -1038,6 +1065,15 @@
             "speed": 100
         },
         {
+            "asn": 210072,
+            "country_code": "GB",
+            "description": "Helios ZeroNET (https://as210072.net)",
+            "ipv4_address": "206.81.104.70",
+            "ipv6_address": "2602:fed2:fff:ffff::70",
+            "name": "JOSEPH-AS",
+            "speed": 1000
+        },
+        {
             "asn": 210103,
             "country_code": "BE",
             "description": "Cedric Dasnois",
@@ -1056,7 +1092,7 @@
             "speed": 100
         }
     ],
-    "members_count": 116,
+    "members_count": 120,
     "name": "EVIX",
     "name_full": "Experimental Virtual Internet Exchange",
     "policy_email": "peering@evix.org",
