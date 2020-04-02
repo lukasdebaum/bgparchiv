@@ -1539,7 +1539,7 @@
             "ipv4_address": "195.66.224.34",
             "ipv6_address": "2001:7f8:4::22ef:1",
             "name": "JUMP",
-            "speed": 1700
+            "speed": 4000
         },
         {
             "asn": 8950,
@@ -2187,7 +2187,7 @@
             "ipv4_address": "195.66.224.156",
             "ipv6_address": "2001:7f8:4::35c8:1",
             "name": "COGECO-PEER1",
-            "speed": 30000
+            "speed": 50000
         },
         {
             "asn": 13786,
@@ -2575,6 +2575,15 @@
             "ipv6_address": null,
             "name": "CURRENEX",
             "speed": 1000
+        },
+        {
+            "asn": 17494,
+            "country_code": "BD",
+            "description": "Telecom Operator & Internet Service Provider as well",
+            "ipv4_address": "195.66.226.78",
+            "ipv6_address": "2001:7f8:4::4456:1",
+            "name": "BTTB-AS-AP",
+            "speed": 10000
         },
         {
             "asn": 17511,
@@ -6516,7 +6525,7 @@
             "ipv4_address": "195.66.227.195",
             "ipv6_address": "2001:7f8:4::ee11:1",
             "name": "VELOXSERV",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 61012,
@@ -7644,7 +7653,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 774,
+    "members_count": 775,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
