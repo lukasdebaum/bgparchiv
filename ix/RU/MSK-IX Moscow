@@ -921,6 +921,24 @@
             "speed": 10000
         },
         {
+            "asn": 28891,
+            "country_code": "RU",
+            "description": "CJSC City Telecom",
+            "ipv4_address": "195.208.210.68",
+            "ipv6_address": null,
+            "name": "CITTEL",
+            "speed": 2500
+        },
+        {
+            "asn": 28891,
+            "country_code": "RU",
+            "description": "CJSC City Telecom",
+            "ipv4_address": "195.208.209.68",
+            "ipv6_address": null,
+            "name": "CITTEL",
+            "speed": 2500
+        },
+        {
             "asn": 28917,
             "country_code": "RU",
             "description": "IP-transit operator in Russia, Ukraine and Baltics",
@@ -981,15 +999,6 @@
             "ipv4_address": "195.208.209.55",
             "ipv6_address": "2001:7f8:20:101::209:55",
             "name": "TRANSDATA",
-            "speed": 10000
-        },
-        {
-            "asn": 29632,
-            "country_code": "GI",
-            "description": "Netassist Limited",
-            "ipv4_address": "195.208.208.155",
-            "ipv6_address": "2001:7f8:20:101::208:155",
-            "name": "NASSIST-AS",
             "speed": 10000
         },
         {
@@ -2163,6 +2172,15 @@
             "speed": 1000
         },
         {
+            "asn": 56994,
+            "country_code": "RU",
+            "description": "AMTEL-SVYAZ ZAO",
+            "ipv4_address": "195.208.209.140",
+            "ipv6_address": null,
+            "name": "AMTEL-AS",
+            "speed": 10000
+        },
+        {
             "asn": 57363,
             "country_code": "RU",
             "description": "CDNvideo LLC",
@@ -2412,7 +2430,7 @@
             "ipv4_address": "195.208.209.244",
             "ipv6_address": "2001:7f8:20:101::209:244",
             "name": "TCENTER-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 132203,
@@ -2694,6 +2712,15 @@
             "speed": 1000
         },
         {
+            "asn": 268925,
+            "country_code": "BR",
+            "description": "TELLCORP - TELECOMUNICACOES CORPORATIVAS LTDA",
+            "ipv4_address": "195.208.208.155",
+            "ipv6_address": "2001:7f8:20:101::208:155",
+            "name": "TELLCORP - TELECOMUNICACOES CORPORATIVAS LTDA",
+            "speed": 10000
+        },
+        {
             "asn": 398131,
             "country_code": "US",
             "description": "PowerHost LLC",
@@ -2703,7 +2730,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 264,
+    "members_count": 266,
     "name": "MSK-IX Moscow",
     "name_full": "MSK-IX Moscow",
     "policy_email": "msk-adm@ix.ru",
