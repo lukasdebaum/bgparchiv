@@ -1233,7 +1233,7 @@
             "ipv4_address": "195.208.209.66",
             "ipv6_address": null,
             "name": "INETCOM",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 35810,
@@ -1269,7 +1269,7 @@
             "ipv4_address": "195.208.209.49",
             "ipv6_address": "2001:7f8:20:101::209:49",
             "name": "PAKT-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 39087,
@@ -1278,7 +1278,7 @@
             "ipv4_address": "195.208.210.49",
             "ipv6_address": "2001:7f8:20:101::210:49",
             "name": "PAKT-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 39102,
@@ -1333,6 +1333,15 @@
             "ipv6_address": null,
             "name": "LEALTA-AS",
             "speed": 30000
+        },
+        {
+            "asn": 41327,
+            "country_code": "IT",
+            "description": "Fiber Telecom S.p.A.",
+            "ipv4_address": "195.208.210.74",
+            "ipv6_address": "2001:7f8:20:101::210:74",
+            "name": "FIBERTELECOM-AS",
+            "speed": 1000
         },
         {
             "asn": 41601,
@@ -1571,10 +1580,10 @@
         {
             "asn": 44843,
             "country_code": "RU",
-            "description": "OBTEL Ltd.",
+            "description": "MSS LLC.",
             "ipv4_address": "195.208.209.110",
             "ipv6_address": "2001:7f8:20:101::209:110",
-            "name": "OBTEL-AS",
+            "name": "MALOCO-AS",
             "speed": 10000
         },
         {
@@ -2730,7 +2739,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 266,
+    "members_count": 267,
     "name": "MSK-IX Moscow",
     "name_full": "MSK-IX Moscow",
     "policy_email": "msk-adm@ix.ru",
