@@ -2482,6 +2482,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "AU",
+            "description": "Network powered by ANX",
+            "ip": "37.235.3.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "37.235.0.0",
+                "prefix": "37.235.0.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "37.235.3.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "SI",
             "description": "Dedicated servers in SI",
             "ip": "37.252.224.0",
