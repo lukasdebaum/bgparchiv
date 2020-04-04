@@ -1041,6 +1041,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Mobilkom ARS Gi Networks",
+            "ip": "80.75.34.0",
+            "name": "MOBILKOM-ARS-GI-NETWORKS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "80.75.32.0",
+                "prefix": "80.75.32.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "80.75.34.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "MobilePools",
