@@ -3,6 +3,24 @@
     "country_code": "US",
     "members": [
         {
+            "asn": 714,
+            "country_code": "US",
+            "description": "Apple Inc.",
+            "ipv4_address": "206.53.202.79",
+            "ipv6_address": "2001:504:61::2ca:0:1",
+            "name": "APPLE-ENGINEERING",
+            "speed": 100000
+        },
+        {
+            "asn": 714,
+            "country_code": "US",
+            "description": "Apple Inc.",
+            "ipv4_address": "206.53.202.80",
+            "ipv6_address": "2001:504:61::2ca:0:2",
+            "name": "APPLE-ENGINEERING",
+            "speed": 100000
+        },
+        {
             "asn": 3402,
             "country_code": "US",
             "description": "Acilis Telecom Backbone",
@@ -372,6 +390,15 @@
             "speed": 10000
         },
         {
+            "asn": 30081,
+            "country_code": "US",
+            "description": "CacheNetworks, Inc.",
+            "ipv4_address": "206.53.202.83",
+            "ipv6_address": "2001:504:61::7581:0:1",
+            "name": "CACHENETWORKS",
+            "speed": 10000
+        },
+        {
             "asn": 30496,
             "country_code": "US",
             "description": "TierPoint, LLC",
@@ -669,7 +696,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 68,
+    "members_count": 70,
     "name": "DE-CIX Dallas",
     "name_full": "Deutscher Commercial Internet Exchange Dallas",
     "policy_email": "sales@de-cix.net",
