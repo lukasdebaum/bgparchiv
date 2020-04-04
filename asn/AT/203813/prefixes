@@ -15,38 +15,6 @@
             },
             "prefix": "185.123.108.0/22",
             "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "eDMZ",
-            "ip": "185.123.109.0",
-            "name": "eDMZ",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "185.123.108.0",
-                "prefix": "185.123.108.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "185.123.109.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "Spar Business Services GmbH",
-            "ip": "185.123.110.0",
-            "name": "AT-SPAR-ICS-20151027",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "185.123.108.0",
-                "prefix": "185.123.108.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "185.123.110.0/24",
-            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": []
