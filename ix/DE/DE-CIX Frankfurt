@@ -378,7 +378,7 @@
             "ipv4_address": "80.81.194.202",
             "ipv6_address": "2001:7f8::b5a:0:2",
             "name": "AS-SSI",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 2914,
@@ -4194,7 +4194,7 @@
             "ipv4_address": "80.81.193.46",
             "ipv6_address": "2001:7f8::6203:0:1",
             "name": "IP-MAX",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 25133,
@@ -6328,6 +6328,15 @@
             "ipv6_address": "2001:7f8::a66d:0:1",
             "name": "FRA-VRNETZE",
             "speed": 1000
+        },
+        {
+            "asn": 42624,
+            "country_code": "CH",
+            "description": "Simple Carrier LLC",
+            "ipv4_address": "80.81.192.50",
+            "ipv6_address": "2001:7f8::a680:0:1",
+            "name": "simplecarrier",
+            "speed": 10000
         },
         {
             "asn": 42649,
@@ -9147,7 +9156,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 876,
+    "members_count": 877,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
