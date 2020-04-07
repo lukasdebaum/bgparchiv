@@ -17,6 +17,38 @@
             "roa_status": "None"
         },
         {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "HALLAG Kommunal GmbH",
+            "ip": "185.176.156.0",
+            "name": "AT-CNH-20161107",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.176.156.0",
+                "prefix": "185.176.156.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.176.156.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "GB",
+            "description": "Wolfgang Koehler",
+            "ip": "185.203.212.0",
+            "name": "DE-AKI8-20170516",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.203.212.0",
+                "prefix": "185.203.212.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.203.212.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "HALLAG Kommunal GmbH",
