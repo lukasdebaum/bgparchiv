@@ -401,6 +401,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "UDG 14778160",
+            "ip": "147.78.16.0",
+            "name": "UDG-14778160",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "147.78.16.0",
+                "prefix": "147.78.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "147.78.16.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 16,
             "country_code": "DE",
             "description": "Unitymedia BW GmbH",
@@ -1027,7 +1043,7 @@
         {
             "cidr": 23,
             "country_code": "DE",
-            "description": "Unitymedia BW GmbH",
+            "description": "Vodafone BW GmbH",
             "ip": "185.2.140.0",
             "name": "DE-KABELBW-20120918",
             "parent": {
@@ -7795,7 +7811,7 @@
         {
             "cidr": 21,
             "country_code": "DE",
-            "description": "Unitymedia BW GmbH",
+            "description": "Vodafone BW GmbH",
             "ip": "5.10.56.0",
             "name": "DE-KABELBW-20120726",
             "parent": {
