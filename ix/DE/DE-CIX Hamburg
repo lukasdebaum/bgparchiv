@@ -597,12 +597,30 @@
             "speed": 1000
         },
         {
+            "asn": 34800,
+            "country_code": "EU",
+            "description": "Securebit Autonomous System Number",
+            "ipv4_address": "80.81.203.192",
+            "ipv6_address": "2001:7f8:3d::87f0:0:1",
+            "name": "SBAG",
+            "speed": 1000
+        },
+        {
             "asn": 34854,
             "country_code": "DE",
             "description": "Merkel Digital Ltd.",
             "ipv4_address": "80.81.203.162",
             "ipv6_address": "2001:7f8:3d::8826:0:1",
             "name": "MERKEL-DIGITAL",
+            "speed": 1000
+        },
+        {
+            "asn": 34872,
+            "country_code": "BE",
+            "description": "Cedric Rossius",
+            "ipv4_address": "80.81.203.186",
+            "ipv6_address": "2001:7f8:3d::8838:0:1",
+            "name": "Servperso_Systems",
             "speed": 1000
         },
         {
@@ -685,6 +703,15 @@
             "ipv6_address": "2001:7f8:3d::a61d:0:1",
             "name": "GlobalConnect-Network",
             "speed": 1000
+        },
+        {
+            "asn": 42624,
+            "country_code": "CH",
+            "description": "Simple Carrier LLC",
+            "ipv4_address": "80.81.203.189",
+            "ipv6_address": "2001:7f8:3d::a680:0:1",
+            "name": "simplecarrier",
+            "speed": 10000
         },
         {
             "asn": 42649,
@@ -1254,7 +1281,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 131,
+    "members_count": 134,
     "name": "DE-CIX Hamburg",
     "name_full": "Deutscher Commercial Internet Exchange Hamburg",
     "policy_email": "info@de-cix.net",
