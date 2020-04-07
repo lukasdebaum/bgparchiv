@@ -162,7 +162,7 @@
             "ipv4_address": "103.27.170.51",
             "ipv6_address": "2401:7500:fff6::51",
             "name": "EDGECAST",
-            "speed": 10000
+            "speed": 100000
         },
         {
             "asn": 15169,
@@ -316,6 +316,15 @@
             "ipv6_address": "2401:7500:fff6::206",
             "name": "ZNET",
             "speed": 10000
+        },
+        {
+            "asn": 23772,
+            "country_code": "IN",
+            "description": "M/s Ortel Communications  Ltd",
+            "ipv4_address": "103.27.170.131",
+            "ipv6_address": "2401:7500:fff6::131",
+            "name": "ORTELNET-AS",
+            "speed": 1000
         },
         {
             "asn": 24186,
@@ -2064,7 +2073,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 215,
+    "members_count": 216,
     "name": "DE-CIX Mumbai",
     "name_full": "DE-CIX Mumbai fka Mumbai IX fka Mumbai CH",
     "policy_email": "operations@de-cix.in",
