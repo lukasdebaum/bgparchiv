@@ -265,12 +265,6 @@
             "name": "NICAT-MINICAST-AS"
         },
         {
-            "asn": 201701,
-            "country_code": "DE",
-            "description": "Freifunk Rheinland e.V.",
-            "name": "FFRL-AS"
-        },
-        {
             "asn": 203833,
             "country_code": "AT",
             "description": "Austria",
@@ -345,6 +339,12 @@
     ],
     "ipv6_downstreams": [
         {
+            "asn": 112,
+            "country_code": "US",
+            "description": "DNS-OARC",
+            "name": "ROOTSERV"
+        },
+        {
             "asn": 5405,
             "country_code": "AT",
             "description": "CSO.net Internet Services GmbH",
@@ -373,6 +373,12 @@
             "country_code": "AT",
             "description": "Onstage Online GmbH",
             "name": "ONSTAGENET"
+        },
+        {
+            "asn": 25152,
+            "country_code": "EU",
+            "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+            "name": "K-ROOT-SERVER"
         },
         {
             "asn": 29081,
@@ -501,6 +507,12 @@
             "name": "LUCESEM-AS"
         },
         {
+            "asn": 60729,
+            "country_code": "AT",
+            "description": "Zwiebelfreunde e.V.",
+            "name": "ZWIEBELFREUNDE"
+        },
+        {
             "asn": 61438,
             "country_code": "AT",
             "description": "ip-it consult GmbH",
@@ -541,6 +553,12 @@
             "country_code": "AT",
             "description": "nic.at GmbH",
             "name": "NICAT-MINICAST-AS"
+        },
+        {
+            "asn": 201701,
+            "country_code": "DE",
+            "description": "Freifunk Rheinland e.V.",
+            "name": "FFRL-AS"
         },
         {
             "asn": 203833,
