@@ -963,7 +963,7 @@
             "ipv4_address": "80.81.203.115",
             "ipv6_address": "2001:7f8:3d::eee5:0:2",
             "name": "PLUSSERVER-ASN1",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 61157,
@@ -972,7 +972,7 @@
             "ipv4_address": "80.81.203.111",
             "ipv6_address": "2001:7f8:3d::eee5:0:1",
             "name": "PLUSSERVER-ASN1",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 61438,
@@ -1263,6 +1263,15 @@
             "speed": 1000
         },
         {
+            "asn": 209114,
+            "country_code": "DE",
+            "description": "Luiz Amaral",
+            "ipv4_address": "80.81.203.193",
+            "ipv6_address": "2001:7f8:3d:0:3:30da:0:1",
+            "name": "LUIZ-AMARAL",
+            "speed": 1000
+        },
+        {
             "asn": 210025,
             "country_code": "NL",
             "description": "XXSL Network",
@@ -1281,7 +1290,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 134,
+    "members_count": 135,
     "name": "DE-CIX Hamburg",
     "name_full": "Deutscher Commercial Internet Exchange Hamburg",
     "policy_email": "info@de-cix.net",
