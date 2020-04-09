@@ -1204,7 +1204,7 @@
             "country_code": "IN",
             "description": "AirFiber Networks Pvt Ltd",
             "ipv4_address": "103.77.108.104",
-            "ipv6_address": null,
+            "ipv6_address": "2001:df2:1900:2::104",
             "name": "AIRFIBER-AS",
             "speed": 3000
         },
@@ -1542,6 +1542,15 @@
             "speed": 10000
         },
         {
+            "asn": 138276,
+            "country_code": "IN",
+            "description": "Typhoon Communication Pvt. Ltd.",
+            "ipv4_address": "103.77.108.35",
+            "ipv6_address": null,
+            "name": "TYPHOONC-AS",
+            "speed": 3000
+        },
+        {
             "asn": 138296,
             "country_code": "IN",
             "description": "Juweriyah Networks Private Limited",
@@ -1623,7 +1632,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 168,
+    "members_count": 169,
     "name": "Extreme IX Mumbai",
     "name_full": "ExtremeIX Mumbai",
     "policy_email": "ix@x3me.net",
