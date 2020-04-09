@@ -387,9 +387,9 @@
         {
             "cidr": 20,
             "country_code": "AT",
-            "description": "Technix Telekom GmbH",
+            "description": "OJA",
             "ip": "77.220.96.0",
-            "name": "TECHNIX",
+            "name": "OJA",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 20,
@@ -739,6 +739,22 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "card complete Service Bank AG",
+            "ip": "2001:67c:248::",
+            "name": "CARDCOMPLETE-6AS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:67c:248::",
+                "prefix": "2001:67c:248::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:67c:248::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 32,
             "country_code": "AT",
             "description": "oja.at GmbH",
@@ -752,6 +768,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a00:e98::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "ip": "2a00:eb0::",
+            "name": "AT-OJA-20081114",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:eb0::",
+                "prefix": "2a00:eb0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:eb0::/32",
             "roa_status": "None"
         },
         {
