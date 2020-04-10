@@ -241,6 +241,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "HAPPYnet TA-DSL Customer Network",
+            "ip": "195.16.253.0",
+            "name": "HAPPYNET-TA-DSL-NET-2",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "195.16.253.0",
+                "prefix": "195.16.253.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.16.253.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "AT",
             "description": "oja.at GmbH",
