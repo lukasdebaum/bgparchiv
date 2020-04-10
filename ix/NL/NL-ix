@@ -633,6 +633,15 @@
             "speed": 10000
         },
         {
+            "asn": 9136,
+            "country_code": "DE",
+            "description": "Wobcom GmbH",
+            "ipv4_address": "193.239.118.218",
+            "ipv6_address": "2001:7f8:13::a500:9136:1",
+            "name": "WOBCOM",
+            "speed": 10000
+        },
+        {
             "asn": 9150,
             "country_code": "NL",
             "description": "Interconnect Services BV",
@@ -1368,7 +1377,7 @@
             "ipv4_address": "193.239.118.68",
             "ipv6_address": "2001:7f8:13::a502:4875:1",
             "name": "NOVOSERVE-AS",
-            "speed": 20000
+            "speed": 50000
         },
         {
             "asn": 24940,
@@ -3747,7 +3756,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 334,
+    "members_count": 335,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
