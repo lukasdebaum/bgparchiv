@@ -171,7 +171,7 @@
             "ipv4_address": "103.27.170.11",
             "ipv6_address": "2401:7500:fff6::11",
             "name": "GOOGLE",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 15169,
@@ -180,7 +180,7 @@
             "ipv4_address": "103.27.170.10",
             "ipv6_address": "2401:7500:fff6::10",
             "name": "GOOGLE",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 16509,
@@ -369,7 +369,7 @@
             "ipv4_address": "103.27.170.157",
             "ipv6_address": "2401:7500:fff6::157",
             "name": "FACEBOOK",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 32934,
@@ -378,7 +378,7 @@
             "ipv4_address": "103.27.170.158",
             "ipv6_address": "2401:7500:fff6::158",
             "name": "FACEBOOK",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 38207,
@@ -1198,6 +1198,15 @@
             "ipv6_address": null,
             "name": "SOFTCALLCOC-AS",
             "speed": 2000
+        },
+        {
+            "asn": 133968,
+            "country_code": "IN",
+            "description": "Logon Broadband",
+            "ipv4_address": "103.27.170.111",
+            "ipv6_address": "2401:7500:fff6::111",
+            "name": "LOGON-AS-IN",
+            "speed": 1000
         },
         {
             "asn": 134014,
@@ -2091,7 +2100,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 218,
+    "members_count": 219,
     "name": "DE-CIX Mumbai",
     "name_full": "DE-CIX Mumbai fka Mumbai IX fka Mumbai CH",
     "policy_email": "operations@de-cix.in",
