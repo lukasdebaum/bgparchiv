@@ -321,6 +321,38 @@
             },
             "prefix": "2a02:1748:dd2d::/48",
             "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd40::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd40::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd4d::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd4d::/48",
+            "roa_status": "None"
         }
     ]
 }
