@@ -327,15 +327,6 @@
             "speed": 10000
         },
         {
-            "asn": 59813,
-            "country_code": "LT",
-            "description": "Konstantin Verba",
-            "ipv4_address": "206.81.104.54",
-            "ipv6_address": "2602:fed2:fff:ffff::54",
-            "name": "DELIGHTFIBER-AS",
-            "speed": 1000
-        },
-        {
             "asn": 60927,
             "country_code": "NL",
             "description": "Marlin Cremers",
@@ -750,6 +741,15 @@
             "speed": 100
         },
         {
+            "asn": 207328,
+            "country_code": "GB",
+            "description": "VPS Aliens, LLC",
+            "ipv4_address": "206.81.104.86",
+            "ipv6_address": "2602:fed2:fff:ffff::86",
+            "name": "AS-ALIENS",
+            "speed": 1000
+        },
+        {
             "asn": 207427,
             "country_code": "GB",
             "description": "Network of GoHosted.eu VPS hosting, Dedicated servers and IP tunnels",
@@ -1117,9 +1117,18 @@
             "ipv6_address": "2602:fed2:fff:ffff::177",
             "name": "SIARHEI-ZHARAU",
             "speed": 100
+        },
+        {
+            "asn": 213386,
+            "country_code": "",
+            "description": "RIPE NCC ASN block",
+            "ipv4_address": "206.81.104.83",
+            "ipv6_address": "2602:fed2:fff:ffff::83",
+            "name": "RIPE NCC ASN block",
+            "speed": 100
         }
     ],
-    "members_count": 123,
+    "members_count": 124,
     "name": "EVIX",
     "name_full": "Experimental Virtual Internet Exchange",
     "policy_email": "peering@evix.org",
