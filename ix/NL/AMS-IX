@@ -1827,7 +1827,7 @@
             "ipv4_address": "80.249.211.191",
             "ipv6_address": "2001:7f8:1::a500:9498:1",
             "name": "BBIL-AP",
-            "speed": 80000
+            "speed": 200000
         },
         {
             "asn": 9583,
@@ -5277,6 +5277,15 @@
             "speed": 100000
         },
         {
+            "asn": 39386,
+            "country_code": "SA",
+            "description": "Saudi Telecom Company JSC",
+            "ipv4_address": "80.249.214.45",
+            "ipv6_address": "2001:7f8:1::a503:9386:3",
+            "name": "STC-IGW-AS",
+            "speed": 100000
+        },
+        {
             "asn": 39591,
             "country_code": "NL",
             "description": "Global-e BV",
@@ -7086,6 +7095,15 @@
             "speed": 2000
         },
         {
+            "asn": 56583,
+            "country_code": "NL",
+            "description": "Blue Jeans Network, Inc.",
+            "ipv4_address": "80.249.210.174",
+            "ipv6_address": null,
+            "name": "BJN-AS",
+            "speed": 10000
+        },
+        {
             "asn": 56611,
             "country_code": "NL",
             "description": "REBA Communications BV",
@@ -8697,7 +8715,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 859,
+    "members_count": 860,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
