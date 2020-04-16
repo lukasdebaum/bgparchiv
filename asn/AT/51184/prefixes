@@ -227,22 +227,6 @@
     ],
     "ipv6_prefixes": [
         {
-            "cidr": 48,
-            "country_code": "AT",
-            "description": "Fonira Telekom GmbH",
-            "ip": "2a02:1748:20be::",
-            "name": "AT-FONIRA-20100616",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a02:1748::",
-                "prefix": "2a02:1748::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a02:1748:20be::/48",
-            "roa_status": "None"
-        },
-        {
             "cidr": 32,
             "country_code": "AT",
             "description": "mediainvent Service GmbH",
@@ -256,6 +240,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a02:1748::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd00::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd00::/44",
             "roa_status": "None"
         },
         {
