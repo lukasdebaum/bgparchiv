@@ -1,4 +1,69 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "LUWY TV-IT GmbH & Co KG",
+            "ip": "185.253.16.0",
+            "name": "AT-LUWYTV-IT-20180329",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.253.16.0",
+                "prefix": "185.253.16.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.253.16.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Energie AG Oberoesterreich Telekom GmbH",
+            "ip": "185.44.208.0",
+            "name": "AT-ENERGIEAG-20140110",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.44.208.0",
+                "prefix": "185.44.208.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.44.208.0/23",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "LUWY TV-IT GmbH & Co KG",
+            "ip": "193.30.163.0",
+            "name": "Expert-Luwy-Net",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "193.30.163.0",
+                "prefix": "193.30.163.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "193.30.163.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "LUWY TV-IT GmbH & Co KG",
+            "ip": "195.189.4.0",
+            "name": "Expert-Luwy-Net",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "195.189.4.0",
+                "prefix": "195.189.4.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.189.4.0/22",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
