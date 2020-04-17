@@ -552,6 +552,15 @@
             "speed": 5000
         },
         {
+            "asn": 49585,
+            "country_code": "",
+            "description": "RIPE NCC ASN block",
+            "ipv4_address": "193.189.82.95",
+            "ipv6_address": "2001:7f8:33::a104:9004:1",
+            "name": "RIPE NCC ASN block",
+            "speed": 10000
+        },
+        {
             "asn": 49697,
             "country_code": "DE",
             "description": "netShelter",
@@ -1236,6 +1245,24 @@
             "speed": 100
         },
         {
+            "asn": 203440,
+            "country_code": "DE",
+            "description": "linefinity networks GmbH",
+            "ipv4_address": "193.189.82.89",
+            "ipv6_address": "2001:7f8:33::a120:3440:1",
+            "name": "LFTY-AS",
+            "speed": 250
+        },
+        {
+            "asn": 203440,
+            "country_code": "DE",
+            "description": "linefinity networks GmbH",
+            "ipv4_address": "193.189.82.90",
+            "ipv6_address": "2001:7f8:33::a120:3440:2",
+            "name": "LFTY-AS",
+            "speed": 250
+        },
+        {
             "asn": 203478,
             "country_code": "DE",
             "description": "tbspace Networks",
@@ -1495,6 +1522,15 @@
             "ipv6_address": "2001:7f8:33::a120:6313:1",
             "name": "FFNW-AS",
             "speed": 10000
+        },
+        {
+            "asn": 206384,
+            "country_code": "DE",
+            "description": "Christian Scholz, trading as Netchron IT Services",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:33::a120:6384:1",
+            "name": "Netchron",
+            "speed": 100
         },
         {
             "asn": 206477,
@@ -1975,11 +2011,11 @@
         },
         {
             "asn": 213376,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
+            "country_code": "CH",
+            "description": "HERVE ROUSSEAU",
             "ipv4_address": "193.189.82.131",
             "ipv6_address": "2001:7f8:33::a121:3376:1",
-            "name": "RIPE NCC ASN block",
+            "name": "MOULTICAST",
             "speed": 100
         },
         {
@@ -2001,7 +2037,7 @@
             "speed": 100
         }
     ],
-    "members_count": 221,
+    "members_count": 224,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
