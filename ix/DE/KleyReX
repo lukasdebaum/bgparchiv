@@ -120,6 +120,15 @@
             "speed": 10000
         },
         {
+            "asn": 12817,
+            "country_code": "DE",
+            "description": "Wuerzburg, Germany",
+            "ipv4_address": "193.189.82.196",
+            "ipv6_address": "2001:7f8:33::a101:2817:1",
+            "name": "GEFOEKOM",
+            "speed": 100
+        },
+        {
             "asn": 13101,
             "country_code": "DE",
             "description": "TNG Stadtnetz GmbH",
@@ -1508,7 +1517,7 @@
         {
             "asn": 205927,
             "country_code": "DE",
-            "description": "netShelter anycast AS",
+            "description": "netShelter anycast / route-server AS",
             "ipv4_address": "193.189.82.153",
             "ipv6_address": "2001:7f8:33::a120:5927:1",
             "name": "netShelter",
@@ -1612,6 +1621,15 @@
             "ipv6_address": "2001:7f8:33::a120:7424:1",
             "name": "MELIOREZ",
             "speed": 100
+        },
+        {
+            "asn": 207439,
+            "country_code": "DE",
+            "description": "Tim Korves",
+            "ipv4_address": "193.189.82.205",
+            "ipv6_address": "2001:7f8:33::a120:7439:1",
+            "name": "KORVESNET",
+            "speed": 1000
         },
         {
             "asn": 207468,
@@ -2037,7 +2055,7 @@
             "speed": 100
         }
     ],
-    "members_count": 224,
+    "members_count": 226,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
