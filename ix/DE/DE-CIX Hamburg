@@ -846,7 +846,7 @@
             "ipv4_address": "80.81.203.22",
             "ipv6_address": "2001:7f8:3d::c5c5:0:1",
             "name": "LWLCOM",
-            "speed": 1000
+            "speed": 0
         },
         {
             "asn": 51468,
@@ -883,6 +883,15 @@
             "ipv6_address": "2001:7f8:3d::d6d2:0:1",
             "name": "QUANTILNETWORKS",
             "speed": 1000
+        },
+        {
+            "asn": 56630,
+            "country_code": "NL",
+            "description": "Melbikomas UAB",
+            "ipv4_address": "80.81.203.78",
+            "ipv6_address": "2001:7f8:3d::dd36:0:1",
+            "name": "MELBICOM-EU-AS",
+            "speed": 0
         },
         {
             "asn": 56662,
@@ -1218,6 +1227,15 @@
             "speed": 1000
         },
         {
+            "asn": 207439,
+            "country_code": "DE",
+            "description": "Tim Korves",
+            "ipv4_address": "80.81.203.194",
+            "ipv6_address": "2001:7f8:3d:0:3:2a4f:0:1",
+            "name": "KORVESNET",
+            "speed": 1000
+        },
+        {
             "asn": 207491,
             "country_code": "DE",
             "description": "Max Pueschel",
@@ -1225,6 +1243,15 @@
             "ipv6_address": "2001:7f8:3d:0:3:2a83:0:1",
             "name": "PUESCHEL-AS",
             "speed": 1000
+        },
+        {
+            "asn": 207613,
+            "country_code": "DE",
+            "description": "/dev/nulll",
+            "ipv4_address": "80.81.203.195",
+            "ipv6_address": "2001:7f8:3d:0:3:2afd:0:1",
+            "name": "NULLL",
+            "speed": 0
         },
         {
             "asn": 208210,
@@ -1281,7 +1308,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 134,
+    "members_count": 137,
     "name": "DE-CIX Hamburg",
     "name_full": "Deutscher Commercial Internet Exchange Hamburg",
     "policy_email": "info@de-cix.net",
