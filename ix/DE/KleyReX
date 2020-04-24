@@ -26,7 +26,7 @@
             "description": "Tianhai InfoTech",
             "ipv4_address": "193.189.82.102",
             "ipv6_address": "2001:7f8:33::a120:9417:1",
-            "name": "TIANHAI-AS-AP",
+            "name": "TH-AS-AP",
             "speed": 100
         },
         {
@@ -417,15 +417,6 @@
             "speed": 10000
         },
         {
-            "asn": 41139,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
-            "ipv4_address": "193.189.82.237",
-            "ipv6_address": "2001:7f8:33::a104:1139:1",
-            "name": "RIPE NCC ASN block",
-            "speed": 100
-        },
-        {
             "asn": 41399,
             "country_code": "DE",
             "description": "PE Burkhard Neumann",
@@ -622,6 +613,15 @@
             "ipv6_address": "2001:7f8:33::a105:469:1",
             "name": "HESSENKOM-DE",
             "speed": 1000
+        },
+        {
+            "asn": 50629,
+            "country_code": "DE",
+            "description": "LWLcom GmbH",
+            "ipv4_address": "193.189.83.39",
+            "ipv6_address": "2001:7f8:33::a105:629:1",
+            "name": "LWLCOM",
+            "speed": 10000
         },
         {
             "asn": 51058,
@@ -886,11 +886,11 @@
         },
         {
             "asn": 132294,
-            "country_code": "CN",
-            "description": "Alanyhq Education and Research Network",
+            "country_code": "AU",
+            "description": "APNIC ASN block",
             "ipv4_address": "193.189.83.25",
             "ipv6_address": "2001:7f8:33::a113:2294:1",
-            "name": "ALANYHQ-AS-AP",
+            "name": "APNIC ASN block",
             "speed": 100
         },
         {
@@ -1920,6 +1920,15 @@
             "speed": 100
         },
         {
+            "asn": 209619,
+            "country_code": "DE",
+            "description": "Marius Rennmann",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:33::a120:9619:1",
+            "name": "RENNMANN",
+            "speed": 100
+        },
+        {
             "asn": 209724,
             "country_code": "GB",
             "description": "ShiraLabs",
@@ -2028,6 +2037,15 @@
             "speed": 100
         },
         {
+            "asn": 213361,
+            "country_code": "",
+            "description": "Trivisonno.DEV Network",
+            "ipv4_address": "193.189.83.38",
+            "ipv6_address": "2001:7f8:33::a121:3361:1",
+            "name": "TRIVISONNO",
+            "speed": 100
+        },
+        {
             "asn": 213376,
             "country_code": "CH",
             "description": "HERVE ROUSSEAU",
@@ -2064,7 +2082,7 @@
             "speed": 100
         }
     ],
-    "members_count": 227,
+    "members_count": 229,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
