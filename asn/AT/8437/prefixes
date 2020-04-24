@@ -3,7 +3,7 @@
         {
             "cidr": 16,
             "country_code": "AT",
-            "description": "H3G Customers",
+            "description": "Network of Hutchison Drei Austria GmbH",
             "ip": "178.114.0.0",
             "name": "H3G-CUSTOMERS-NET",
             "parent": {
@@ -835,7 +835,7 @@
         {
             "cidr": 16,
             "country_code": "AT",
-            "description": "Dial IN Pool III APN drei.at",
+            "description": "Network of Hutchison Drei Austria GmbH",
             "ip": "77.118.0.0",
             "name": "H3G-CUSTOMERS-NET",
             "parent": {
@@ -894,6 +894,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "77.118.208.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 21,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "77.118.224.0",
+            "name": "H3G-CUSTOMERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "77.116.0.0",
+                "prefix": "77.116.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "77.118.224.0/21",
             "roa_status": "None"
         },
         {
