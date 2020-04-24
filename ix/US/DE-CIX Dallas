@@ -3,6 +3,15 @@
     "country_code": "US",
     "members": [
         {
+            "asn": 62,
+            "country_code": "US",
+            "description": "CyrusOne LLC",
+            "ipv4_address": "206.53.202.65",
+            "ipv6_address": "2001:504:61::3e:0:1",
+            "name": "CONE",
+            "speed": 10000
+        },
+        {
             "asn": 714,
             "country_code": "US",
             "description": "Apple Inc.",
@@ -189,16 +198,7 @@
             "ipv4_address": "206.53.202.6",
             "ipv6_address": "2001:504:61::35ff:0:1",
             "name": "MESH-NET",
-            "speed": 10000
-        },
-        {
-            "asn": 13823,
-            "country_code": "US",
-            "description": "Mesh.Net",
-            "ipv4_address": "206.53.202.73",
-            "ipv6_address": "2001:504:61::35ff:0:2",
-            "name": "MESH-NET",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 14224,
@@ -705,7 +705,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 71,
+    "members_count": 72,
     "name": "DE-CIX Dallas",
     "name_full": "Deutscher Commercial Internet Exchange Dallas",
     "policy_email": "sales@de-cix.net",
