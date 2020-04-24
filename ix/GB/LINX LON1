@@ -558,7 +558,7 @@
             "ipv4_address": "195.66.224.177",
             "ipv6_address": "2001:7f8:4::121d:2",
             "name": "ASN-TELSTRA-GLOBAL",
-            "speed": 30000
+            "speed": 50000
         },
         {
             "asn": 4651,
@@ -1854,7 +1854,7 @@
             "ipv4_address": "195.66.224.119",
             "ipv6_address": "2001:7f8:4::3066:1",
             "name": "KINGSTON-UK-AS",
-            "speed": 20000
+            "speed": 40000
         },
         {
             "asn": 12390,
@@ -1863,7 +1863,7 @@
             "ipv4_address": "195.66.224.243",
             "ipv6_address": "2001:7f8:4::3066:2",
             "name": "KINGSTON-UK-AS",
-            "speed": 20000
+            "speed": 40000
         },
         {
             "asn": 12399,
@@ -1872,6 +1872,24 @@
             "ipv4_address": "195.66.224.230",
             "ipv6_address": "2001:7f8:4::306f:1",
             "name": "SCAN-PLUS-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 12491,
+            "country_code": "IL",
+            "description": "Gilat Satcom",
+            "ipv4_address": "195.66.226.248",
+            "ipv6_address": "2001:7f8:4::30cb:1",
+            "name": "IPPLANET-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 12491,
+            "country_code": "IL",
+            "description": "Gilat Satcom",
+            "ipv4_address": "195.66.226.227",
+            "ipv6_address": "2001:7f8:4::30cb:2",
+            "name": "IPPLANET-AS",
             "speed": 10000
         },
         {
@@ -7689,7 +7707,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 777,
+    "members_count": 778,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
