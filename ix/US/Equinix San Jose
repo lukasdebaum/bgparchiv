@@ -801,7 +801,7 @@
             "ipv4_address": "206.223.116.177",
             "ipv6_address": "2001:504:0:1:0:1:6509:1",
             "name": "AMAZON-02",
-            "speed": 60000
+            "speed": 200000
         },
         {
             "asn": 16509,
@@ -810,7 +810,7 @@
             "ipv4_address": "206.223.116.236",
             "ipv6_address": "2001:504:0:1:0:1:6509:2",
             "name": "AMAZON-02",
-            "speed": 60000
+            "speed": 200000
         },
         {
             "asn": 16552,
@@ -1323,6 +1323,15 @@
             "ipv4_address": "206.223.116.207",
             "ipv6_address": "2001:504:0:1:0:2:9834:1",
             "name": "USTREAM",
+            "speed": 10000
+        },
+        {
+            "asn": 30081,
+            "country_code": "US",
+            "description": "CacheNetworks, Inc.",
+            "ipv4_address": "206.223.116.233",
+            "ipv6_address": "2001:504:0:1:0:3:8195:2",
+            "name": "CACHENETWORKS",
             "speed": 10000
         },
         {
@@ -2190,7 +2199,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 204,
+    "members_count": 205,
     "name": "Equinix San Jose",
     "name_full": "Equinix San Jose / Bay Area Exchange",
     "policy_email": "support@equinix.com",
