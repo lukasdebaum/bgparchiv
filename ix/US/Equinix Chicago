@@ -423,7 +423,7 @@
             "ipv4_address": "208.115.136.47",
             "ipv6_address": null,
             "name": "USCC-ASN",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 6614,
@@ -432,7 +432,7 @@
             "ipv4_address": "208.115.136.74",
             "ipv6_address": null,
             "name": "USCC-ASN",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 6830,
@@ -1614,6 +1614,15 @@
             "speed": 10000
         },
         {
+            "asn": 30081,
+            "country_code": "US",
+            "description": "CacheNetworks, Inc.",
+            "ipv4_address": "208.115.137.118",
+            "ipv6_address": "2001:504:0:4:0:3:81:2",
+            "name": "CACHENETWORKS",
+            "speed": 100000
+        },
+        {
             "asn": 30517,
             "country_code": "US",
             "description": "Great Lakes Comnet, Inc.",
@@ -2406,7 +2415,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 235,
+    "members_count": 236,
     "name": "Equinix Chicago",
     "name_full": "Equinix Chicago Exchange",
     "policy_email": "support@equinix.com",
