@@ -1,54 +1,6 @@
 {
     "ipv4_prefixes": [
         {
-            "cidr": 19,
-            "country_code": "NL",
-            "description": "M7 GROUP SA",
-            "ip": "109.110.192.0",
-            "name": "LU-M7GROUP-20091113",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 19,
-                "ip": "109.110.192.0",
-                "prefix": "109.110.192.0/19",
-                "rir_name": "RIPE"
-            },
-            "prefix": "109.110.192.0/19",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 20,
-            "country_code": "HU",
-            "description": "UPC Magyarorszag Kft.",
-            "ip": "109.110.192.0",
-            "name": "DTH-HU",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 19,
-                "ip": "109.110.192.0",
-                "prefix": "109.110.192.0/19",
-                "rir_name": "RIPE"
-            },
-            "prefix": "109.110.192.0/20",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 20,
-            "country_code": "NL",
-            "description": "M7 GROUP SA",
-            "ip": "109.110.208.0",
-            "name": "LU-M7GROUP-20091113",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 19,
-                "ip": "109.110.192.0",
-                "prefix": "109.110.192.0/19",
-                "rir_name": "RIPE"
-            },
-            "prefix": "109.110.208.0/20",
-            "roa_status": "None"
-        },
-        {
             "cidr": 15,
             "country_code": "DE",
             "description": "Unitymedia BW GmbH",
@@ -611,7 +563,7 @@
         {
             "cidr": 14,
             "country_code": "DE",
-            "description": "Unitymedia NRW GmbH",
+            "description": "Vodafone NRW GmbH",
             "ip": "178.200.0.0",
             "name": "DE-KNRW-20100316",
             "parent": {
@@ -7555,7 +7507,7 @@
         {
             "cidr": 20,
             "country_code": "DE",
-            "description": "Unitymedia NRW GmbH",
+            "description": "Vodafone NRW GmbH",
             "ip": "46.252.128.0",
             "name": "DE-KNRW-20120213",
             "parent": {
@@ -13646,22 +13598,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "92.235.32.0/19",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 20,
-            "country_code": "HU",
-            "description": "DTH HU",
-            "ip": "92.235.64.0",
-            "name": "DTH-HU",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 16,
-                "ip": "92.235.0.0",
-                "prefix": "92.235.0.0/16",
-                "rir_name": "RIPE"
-            },
-            "prefix": "92.235.64.0/20",
             "roa_status": "None"
         },
         {
