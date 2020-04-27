@@ -1,6 +1,12 @@
 {
     "ipv4_peers": [
         {
+            "asn": 42,
+            "country_code": "US",
+            "description": "WoodyNet",
+            "name": "WOODYNET-1"
+        },
+        {
             "asn": 553,
             "country_code": "EU",
             "description": "BelWue-Koordination",
@@ -17,6 +23,12 @@
             "country_code": "US",
             "description": "MCI Communications Services, Inc. d/b/a Verizon Business",
             "name": "UUNET"
+        },
+        {
+            "asn": 1120,
+            "country_code": "EU",
+            "description": "ACOnet Services @ Vienna Internet eXchange",
+            "name": "ACOnet_Services"
         },
         {
             "asn": 1267,
@@ -37,10 +49,22 @@
             "name": "GREEN"
         },
         {
+            "asn": 1853,
+            "country_code": "AT",
+            "description": "ACOnet Backbone",
+            "name": "ACOnet"
+        },
+        {
             "asn": 2119,
             "country_code": "NO",
             "description": "Telenor Norge AS",
             "name": "TELENOR-NEXTEL"
+        },
+        {
+            "asn": 2635,
+            "country_code": "US",
+            "description": "Automattic, Inc",
+            "name": "AUTOMATTIC"
         },
         {
             "asn": 2686,
@@ -55,10 +79,22 @@
             "name": "AS-SSI"
         },
         {
+            "asn": 3212,
+            "country_code": "SI",
+            "description": "Broadband Access & Carrier Services",
+            "name": "TELEMACH"
+        },
+        {
             "asn": 3214,
             "country_code": "EU",
             "description": "xTom",
             "name": "XTOM"
+        },
+        {
+            "asn": 3216,
+            "country_code": "RU",
+            "description": "PJSC \"Vimpelcom\"",
+            "name": "SOVAM-AS"
         },
         {
             "asn": 3223,
@@ -233,6 +269,12 @@
             "country_code": "DE",
             "description": "NETHINKS GmbH",
             "name": "NETHINKS-AS"
+        },
+        {
+            "asn": 8339,
+            "country_code": "AT",
+            "description": "kabelplus GmbH",
+            "name": "KABSI-AS"
         },
         {
             "asn": 8359,
@@ -439,6 +481,12 @@
             "name": "NORIS-NETWORK"
         },
         {
+            "asn": 12401,
+            "country_code": "AT",
+            "description": "internic Datenkommunikations GmbH.",
+            "name": "INTERNIC-AS12401"
+        },
+        {
             "asn": 12453,
             "country_code": "AT",
             "description": "Bernhard Kraft",
@@ -547,6 +595,12 @@
             "name": "LDCOMNET"
         },
         {
+            "asn": 15576,
+            "country_code": "CH",
+            "description": "NTS workspace AG",
+            "name": "NTS"
+        },
+        {
             "asn": 15605,
             "country_code": "IT",
             "description": "Connesi s.p.a.",
@@ -581,6 +635,12 @@
             "country_code": "PH",
             "description": "Converge ICT Solutions Inc.",
             "name": "CONVERGE-AS"
+        },
+        {
+            "asn": 20546,
+            "country_code": "DE",
+            "description": "SOPRADO GmbH",
+            "name": "SOPRADO-ANY"
         },
         {
             "asn": 20562,
@@ -631,6 +691,12 @@
             "name": "AKAMAI-ASN1"
         },
         {
+            "asn": 21859,
+            "country_code": "US",
+            "description": "Zenlayer Inc",
+            "name": "ZNET"
+        },
+        {
             "asn": 22822,
             "country_code": "US",
             "description": "Limelight Networks, Inc.",
@@ -653,6 +719,12 @@
             "country_code": "RU",
             "description": "Closed Joint Stock Company Kuzbassenergosviaz",
             "name": "KES-AS"
+        },
+        {
+            "asn": 24864,
+            "country_code": "AT",
+            "description": "Raiffeisen Informatik GmbH",
+            "name": "R-IT-AS"
         },
         {
             "asn": 24961,
@@ -883,6 +955,12 @@
             "name": "iFog-GmbH"
         },
         {
+            "asn": 35339,
+            "country_code": "AT",
+            "description": "AtNOC Clemens Zauner e.U.",
+            "name": "CZ-AS"
+        },
+        {
             "asn": 35369,
             "country_code": "AT",
             "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
@@ -959,6 +1037,12 @@
             "country_code": "RO",
             "description": "Net Vision Telecom SRL",
             "name": "Prime-Telecom-AS"
+        },
+        {
+            "asn": 39878,
+            "country_code": "AT",
+            "description": "Peter Rauter GmbH",
+            "name": "RAUTER-AS"
         },
         {
             "asn": 41095,
@@ -1183,10 +1267,22 @@
             "name": "FASTLY"
         },
         {
+            "asn": 55256,
+            "country_code": "US",
+            "description": "Netskope Inc",
+            "name": "NETSKOPE"
+        },
+        {
             "asn": 56665,
             "country_code": "LU",
             "description": "Proximus Luxembourg S.A.",
             "name": "TANGO-TELINDUS"
+        },
+        {
+            "asn": 57169,
+            "country_code": "AT",
+            "description": "EDIS GmbH",
+            "name": "EDIS-AS-EU"
         },
         {
             "asn": 57463,
@@ -1223,6 +1319,12 @@
             "country_code": "BH",
             "description": "MENA LEVANT W.L.L",
             "name": "ZAINGP-AS"
+        },
+        {
+            "asn": 59890,
+            "country_code": "AT",
+            "description": "Kabel-TV Lampert GmbH & Co KG",
+            "name": "Kabel-TV-Lampert"
         },
         {
             "asn": 60294,
@@ -1295,6 +1397,12 @@
             "country_code": "AT",
             "description": "ITNS GmbH",
             "name": "ITNS"
+        },
+        {
+            "asn": 205243,
+            "country_code": "AT",
+            "description": "CloudNow GmbH",
+            "name": "CLOUDNOW-AS"
         },
         {
             "asn": 205614,
@@ -1387,6 +1495,12 @@
             "country_code": "EU",
             "description": "xTom",
             "name": "XTOM"
+        },
+        {
+            "asn": 3216,
+            "country_code": "RU",
+            "description": "PJSC \"Vimpelcom\"",
+            "name": "SOVAM-AS"
         },
         {
             "asn": 3292,
@@ -1615,6 +1729,12 @@
             "country_code": "IT",
             "description": "IT.Gate S.p.A.",
             "name": "ITGATE"
+        },
+        {
+            "asn": 12859,
+            "country_code": "NL",
+            "description": "BIT BV",
+            "name": "NL-BIT"
         },
         {
             "asn": 12989,
@@ -2113,6 +2233,12 @@
             "country_code": "DE",
             "description": "Freifunk Nordwest e.V.",
             "name": "FFNW-AS"
+        },
+        {
+            "asn": 207613,
+            "country_code": "DE",
+            "description": "/dev/nulll",
+            "name": "NULLL"
         },
         {
             "asn": 207619,
