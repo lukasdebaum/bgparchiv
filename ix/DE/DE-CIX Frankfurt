@@ -2205,7 +2205,7 @@
             "ipv4_address": "80.81.192.88",
             "ipv6_address": "2001:7f8::3031:0:1",
             "name": "NORIS-NETWORK",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 12337,
@@ -2214,7 +2214,7 @@
             "ipv4_address": "80.81.193.88",
             "ipv6_address": "2001:7f8::3031:0:2",
             "name": "NORIS-NETWORK",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 12348,
@@ -7176,6 +7176,15 @@
             "speed": 10000
         },
         {
+            "asn": 49824,
+            "country_code": "UA",
+            "description": "ISP ACTPA, Lviv, Lytvynenka 3",
+            "ipv4_address": "80.81.196.139",
+            "ipv6_address": "2001:7f8::c2a0:0:1",
+            "name": "ACTPA-AS",
+            "speed": 10000
+        },
+        {
             "asn": 49958,
             "country_code": "GB",
             "description": "Evolution Gaming LTD",
@@ -9228,7 +9237,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 884,
+    "members_count": 885,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
