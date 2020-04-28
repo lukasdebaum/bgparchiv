@@ -275,6 +275,22 @@
         {
             "cidr": 24,
             "country_code": "US",
+            "description": "Secure Internet LLC",
+            "ip": "172.111.195.0",
+            "name": "INTERNET-SECURITY-15",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "172.111.128.0",
+                "prefix": "172.111.128.0/17",
+                "rir_name": "ARIN"
+            },
+            "prefix": "172.111.195.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
             "description": "G-Core Labs S.A.",
             "ip": "185.101.136.0",
             "name": "LU-GCORELABS-20150522",
