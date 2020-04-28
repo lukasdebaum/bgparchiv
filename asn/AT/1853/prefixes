@@ -179,6 +179,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "EDV-Zentrum",
+            "ip": "192.88.23.0",
+            "name": "HLE-LAN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "192.88.23.0",
+                "prefix": "192.88.23.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "192.88.23.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "HTBLA Leonding",
             "ip": "192.88.24.0",
             "name": "HLE-LAN",
