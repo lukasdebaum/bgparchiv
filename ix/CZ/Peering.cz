@@ -606,6 +606,24 @@
             "speed": 10000
         },
         {
+            "asn": 42005,
+            "country_code": "SK",
+            "description": "Peerings",
+            "ipv4_address": "91.213.211.202",
+            "ipv6_address": "2001:7f8:7f::202",
+            "name": "LIGHTSTORM-COMMUNICATIONS-SRO-SK-AS",
+            "speed": 10000
+        },
+        {
+            "asn": 42005,
+            "country_code": "SK",
+            "description": "Peerings",
+            "ipv4_address": "91.213.211.203",
+            "ipv6_address": "2001:7f8:7f::203",
+            "name": "LIGHTSTORM-COMMUNICATIONS-SRO-SK-AS",
+            "speed": 10000
+        },
+        {
             "asn": 42306,
             "country_code": "CZ",
             "description": "Edera Group a.s.",
@@ -1353,7 +1371,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 114,
+    "members_count": 115,
     "name": "Peering.cz",
     "name_full": "Peering.cz eXchange",
     "policy_email": "support@peering.cz",
