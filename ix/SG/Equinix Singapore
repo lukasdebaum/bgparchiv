@@ -264,6 +264,15 @@
             "speed": 1000
         },
         {
+            "asn": 4657,
+            "country_code": "SG",
+            "description": "StarHub Ltd",
+            "ipv4_address": "27.111.228.234",
+            "ipv6_address": "2001:de8:4::3:8861:1",
+            "name": "STARHUB-INTERNET",
+            "speed": 10000
+        },
+        {
             "asn": 4761,
             "country_code": "ID",
             "description": "INDOSAT Internet Network Provider",
@@ -1281,6 +1290,15 @@
             "speed": 20000
         },
         {
+            "asn": 20144,
+            "country_code": "US",
+            "description": "ICANN",
+            "ipv4_address": "27.111.229.253",
+            "ipv6_address": "2001:de8:4::2:144:1",
+            "name": "L-ROOT",
+            "speed": 10000
+        },
+        {
             "asn": 20473,
             "country_code": "US",
             "description": "Choopa, LLC",
@@ -2035,15 +2053,6 @@
             "ipv6_address": "2001:de8:4::5:5658:1",
             "name": "HYPERNET-AS-ID",
             "speed": 1000
-        },
-        {
-            "asn": 38861,
-            "country_code": "SG",
-            "description": "StarHub Ltd",
-            "ipv4_address": "27.111.228.234",
-            "ipv6_address": "2001:de8:4::3:8861:1",
-            "name": "STARHUB-INTERNET2",
-            "speed": 10000
         },
         {
             "asn": 38880,
@@ -2982,6 +2991,24 @@
             "speed": 1000
         },
         {
+            "asn": 132146,
+            "country_code": "HK",
+            "description": "Rich Top EC Limited",
+            "ipv4_address": "27.111.229.212",
+            "ipv6_address": null,
+            "name": "RICHTOPEC-AS-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 132146,
+            "country_code": "HK",
+            "description": "Rich Top EC Limited",
+            "ipv4_address": "27.111.229.237",
+            "ipv6_address": null,
+            "name": "RICHTOPEC-AS-AP",
+            "speed": 10000
+        },
+        {
             "asn": 132167,
             "country_code": "MM",
             "description": "OOREDOO MYANMAR",
@@ -3468,7 +3495,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 318,
+    "members_count": 319,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
