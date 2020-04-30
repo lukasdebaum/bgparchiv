@@ -225,6 +225,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "BIS Business IT-Solution GmbH",
+            "ip": "185.43.12.0",
+            "name": "AT-BIS-20131216",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.43.12.0",
+                "prefix": "185.43.12.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.43.12.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "AT",
             "description": "Ixolit GmbH",
@@ -1120,6 +1136,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:e600::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "BIS Business IT-Solution GmbH",
+            "ip": "2a04:9300::",
+            "name": "AT-BIS-20131213",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a04:9300::",
+                "prefix": "2a04:9300::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a04:9300::/29",
             "roa_status": "None"
         },
         {
