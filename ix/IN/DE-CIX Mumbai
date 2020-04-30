@@ -615,6 +615,15 @@
             "speed": 10000
         },
         {
+            "asn": 55734,
+            "country_code": "IN",
+            "description": "001 IT Complex",
+            "ipv4_address": "103.27.170.191",
+            "ipv6_address": "2401:7500:fff6::191",
+            "name": "SYMBIOS-IN",
+            "speed": 3000
+        },
+        {
             "asn": 55832,
             "country_code": "IN",
             "description": "HOME SYSTEMS PVT.LTD",
@@ -1197,7 +1206,7 @@
             "ipv4_address": "103.27.170.111",
             "ipv6_address": "2401:7500:fff6::111",
             "name": "LOGON-AS-IN",
-            "speed": 1000
+            "speed": 3000
         },
         {
             "asn": 134014,
@@ -1216,6 +1225,15 @@
             "ipv6_address": "2401:7500:fff6::214",
             "name": "AIRWAVESINTERNET-AS",
             "speed": 1024
+        },
+        {
+            "asn": 134021,
+            "country_code": "IN",
+            "description": "Airgenie Communications Private Limited",
+            "ipv4_address": "103.27.170.211",
+            "ipv6_address": "2401:7500:fff6::211",
+            "name": "AIRGENIE-AS",
+            "speed": 1000
         },
         {
             "asn": 134033,
@@ -2073,7 +2091,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 216,
+    "members_count": 218,
     "name": "DE-CIX Mumbai",
     "name_full": "DE-CIX Mumbai fka Mumbai IX fka Mumbai CH",
     "policy_email": "operations@de-cix.in",
