@@ -885,15 +885,6 @@
             "speed": 1000
         },
         {
-            "asn": 6643,
-            "country_code": "US",
-            "description": "Jive Communications, Inc.",
-            "ipv4_address": "195.66.226.107",
-            "ipv6_address": null,
-            "name": "JIVECOMMUNICATIONS",
-            "speed": 1000
-        },
-        {
             "asn": 6648,
             "country_code": "PH",
             "description": "Bayan Telecommunications, Inc.",
@@ -1243,6 +1234,24 @@
             "ipv6_address": "2001:7f8:4::20ea:2",
             "name": "CLARANET-AS",
             "speed": 20000
+        },
+        {
+            "asn": 8435,
+            "country_code": "GB",
+            "description": "Lloyds Banking Group Internet Edge",
+            "ipv4_address": "195.66.227.47",
+            "ipv6_address": null,
+            "name": "LBG_INTERNET_EDGE",
+            "speed": 10000
+        },
+        {
+            "asn": 8435,
+            "country_code": "GB",
+            "description": "Lloyds Banking Group Internet Edge",
+            "ipv4_address": "195.66.227.48",
+            "ipv6_address": null,
+            "name": "LBG_INTERNET_EDGE",
+            "speed": 10000
         },
         {
             "asn": 8452,
@@ -1875,6 +1884,24 @@
             "speed": 10000
         },
         {
+            "asn": 12488,
+            "country_code": "GR",
+            "description": "Krystal Hosting Ltd",
+            "ipv4_address": "195.66.227.91",
+            "ipv6_address": "2001:7f8:4::30c8:1",
+            "name": "KRYSTAL",
+            "speed": 10000
+        },
+        {
+            "asn": 12488,
+            "country_code": "GR",
+            "description": "Krystal Hosting Ltd",
+            "ipv4_address": "195.66.226.73",
+            "ipv6_address": "2001:7f8:4::30c8:2",
+            "name": "KRYSTAL",
+            "speed": 10000
+        },
+        {
             "asn": 12491,
             "country_code": "IL",
             "description": "Gilat Satcom",
@@ -2350,6 +2377,15 @@
             "ipv6_address": "2001:7f8:4::3c34:1",
             "name": "FLAG-AS",
             "speed": 30000
+        },
+        {
+            "asn": 15447,
+            "country_code": "NL",
+            "description": "CM Groep B.V.",
+            "ipv4_address": "195.66.226.107",
+            "ipv6_address": "2001:7f8:4::3c57:1",
+            "name": "ASCM_NL",
+            "speed": 1000
         },
         {
             "asn": 15510,
@@ -6780,6 +6816,15 @@
             "speed": 1000
         },
         {
+            "asn": 63927,
+            "country_code": "PH",
+            "description": "RISE",
+            "ipv4_address": "195.66.227.11",
+            "ipv6_address": "2001:7f8:4::f9b7:1",
+            "name": "RISE-HK",
+            "speed": 500
+        },
+        {
             "asn": 63949,
             "country_code": "US",
             "description": "Linode, LLC",
@@ -7707,7 +7752,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 778,
+    "members_count": 781,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
