@@ -665,7 +665,7 @@
             "description": "Internet2",
             "ipv4_address": "208.115.136.116",
             "ipv6_address": "2001:504:0:4:0:1:1164:1",
-            "name": "INTERNET2-TRANSITRAIL-CPS",
+            "name": "INTERNET2-I2PX",
             "speed": 100000
         },
         {
@@ -928,6 +928,15 @@
             "ipv6_address": "2001:504:0:4:0:1:4413:1",
             "name": "LINKEDIN",
             "speed": 10000
+        },
+        {
+            "asn": 14537,
+            "country_code": "US",
+            "description": "Continent 8 LLC",
+            "ipv4_address": "208.115.137.168",
+            "ipv6_address": "2001:504:0:4:0:1:4537:1",
+            "name": "CL-1379-14537",
+            "speed": 100000
         },
         {
             "asn": 14586,
@@ -2415,7 +2424,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 236,
+    "members_count": 237,
     "name": "Equinix Chicago",
     "name_full": "Equinix Chicago Exchange",
     "policy_email": "support@equinix.com",
