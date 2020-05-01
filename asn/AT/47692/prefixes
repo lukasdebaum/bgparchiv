@@ -706,6 +706,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "AT",
+            "description": "AT FIBERLINK",
+            "ip": "77.72.167.0",
+            "name": "AT-FIBERLINK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "77.72.160.0",
+                "prefix": "77.72.160.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "77.72.167.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "DE",
             "description": "sendeffect GmbH",
             "ip": "79.142.188.0",
