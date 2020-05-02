@@ -97,22 +97,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 22,
-            "country_code": "AT",
-            "description": "Groebl Guenter",
-            "ip": "45.9.220.0",
-            "name": "AT-GROEBIS-20190423",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "45.9.220.0",
-                "prefix": "45.9.220.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "45.9.220.0/22",
-            "roa_status": "None"
-        },
-        {
             "cidr": 24,
             "country_code": "AT",
             "description": "PAV NET01 DC01",
@@ -126,54 +110,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "45.9.220.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "PAV NET02 DC01",
-            "ip": "45.9.221.0",
-            "name": "PAV-NET02-DC01",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "45.9.220.0",
-                "prefix": "45.9.220.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "45.9.221.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "PAV NET01 DC02",
-            "ip": "45.9.222.0",
-            "name": "PAV-NET01-DC02",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "45.9.220.0",
-                "prefix": "45.9.220.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "45.9.222.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "AT",
-            "description": "PAV NET02 DC02",
-            "ip": "45.9.223.0",
-            "name": "PAV-NET02-DC02",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "45.9.220.0",
-                "prefix": "45.9.220.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "45.9.223.0/24",
             "roa_status": "None"
         },
         {
@@ -256,22 +192,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a0c:b5c0::/29",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 29,
-            "country_code": "AT",
-            "description": "Groebl Guenter",
-            "ip": "2a0e:1500::",
-            "name": "AT-GROEBIS-20190423",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 29,
-                "ip": "2a0e:1500::",
-                "prefix": "2a0e:1500::/29",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a0e:1500::/29",
             "roa_status": "None"
         }
     ]
