@@ -17,6 +17,54 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Porsche Informatik Gesellschaft m.b.H",
+            "ip": "185.116.28.0",
+            "name": "AT-PORSCHE-20150907",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.116.28.0",
+                "prefix": "185.116.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.116.28.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Porsche Informatik G.m.b.H",
+            "ip": "185.116.29.0",
+            "name": "AT-PORSCHE-PUBLIC",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.116.28.0",
+                "prefix": "185.116.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.116.29.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "AT PORSCHE PUBLIC",
+            "ip": "185.116.31.0",
+            "name": "AT-PORSCHE-PUBLIC",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.116.28.0",
+                "prefix": "185.116.28.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.116.31.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "AT",
             "description": "Porsche Informatik Gesellschaft m.b.H",
