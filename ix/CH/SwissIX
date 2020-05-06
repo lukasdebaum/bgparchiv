@@ -648,7 +648,7 @@
             "ipv4_address": "91.206.52.126",
             "ipv6_address": "2001:7f8:24::7e",
             "name": "SWISSIX",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 20612,
@@ -657,7 +657,7 @@
             "ipv4_address": "91.206.52.127",
             "ipv6_address": "2001:7f8:24::7f",
             "name": "SWISSIX",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 20634,
@@ -1659,15 +1659,6 @@
             "speed": 10000
         },
         {
-            "asn": 59761,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
-            "ipv4_address": "91.206.52.98",
-            "ipv6_address": "2001:7f8:24::62",
-            "name": "RIPE NCC ASN block",
-            "speed": 1000
-        },
-        {
             "asn": 59890,
             "country_code": "AT",
             "description": "Kabel-TV Lampert GmbH & Co KG",
@@ -1839,15 +1830,6 @@
             "speed": 1000
         },
         {
-            "asn": 198738,
-            "country_code": "CH",
-            "description": "CipherSpace GmbH",
-            "ipv4_address": "91.206.52.45",
-            "ipv6_address": "2001:7f8:24::2d",
-            "name": "CipherSpace-AS",
-            "speed": 1000
-        },
-        {
             "asn": 199554,
             "country_code": "CH",
             "description": "U. Bachofen trading as \"bachofen.net\"",
@@ -1965,7 +1947,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 189,
+    "members_count": 187,
     "name": "SwissIX",
     "name_full": "SwissIX Internet Exchange",
     "policy_email": "info@swissix.ch",
