@@ -339,6 +339,102 @@
     ],
     "ipv6_prefixes": [
         {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Hutchison Drei Austria GmbH",
+            "ip": "2001:4b68::",
+            "name": "AT-ONE-20050202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:4b68::",
+                "prefix": "2001:4b68::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4b68::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Hutchison Drei Austria GmbH",
+            "ip": "2001:4b68::",
+            "name": "AT-ONE-20050202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 30,
+                "ip": "2001:4b64::",
+                "prefix": "2001:4b64::/30",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4b68::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "2001:4b6a::",
+            "name": "AT-ONE-20050202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:4b68::",
+                "prefix": "2001:4b68::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4b6a::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "2001:4b6b::",
+            "name": "AT-ONE-20050202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:4b68::",
+                "prefix": "2001:4b68::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:4b6b::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Hutchison Drei Austria GmbH",
+            "ip": "2a02:2860::",
+            "name": "AT-ONE-20101103",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a02:2858::",
+                "prefix": "2a02:2858::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2860::/29",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Hutchison Drei Austria",
+            "ip": "2a02:2860::",
+            "name": "Hutchison-Drei-Austria",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a02:2858::",
+                "prefix": "2a02:2858::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2860::/32",
+            "roa_status": "None"
+        },
+        {
             "cidr": 32,
             "country_code": "AT",
             "description": "Hutchison Drei Austria GmbH",
@@ -352,6 +448,38 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a02:2861::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "2a02:2862::",
+            "name": "AT-ONE-20101103",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a02:2860::",
+                "prefix": "2a02:2860::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2862::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "2a02:2863::",
+            "name": "AT-ONE-20101103",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a02:2860::",
+                "prefix": "2a02:2860::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2863::/32",
             "roa_status": "None"
         },
         {
