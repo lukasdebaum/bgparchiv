@@ -17,6 +17,54 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "178.251.65.0",
+            "name": "MEDIAINVENT-VIX",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.65.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "fonira Telekom GmbH",
+            "ip": "178.251.66.0",
+            "name": "AT-FONIRA-20100621",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.66.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "FONIRA PPP USERS",
+            "ip": "178.251.68.0",
+            "name": "FONIRA-PPP-USERS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "178.251.64.0",
+                "prefix": "178.251.64.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.251.68.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "Fonira Telekom GmbH",
@@ -30,6 +78,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "185.128.244.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "185.128.246.0",
+            "name": "AT-FONIRA-20151127",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.128.244.0",
+                "prefix": "185.128.244.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.128.246.0/23",
             "roa_status": "None"
         },
         {
@@ -62,6 +126,54 @@
                 "rir_name": "RIPE"
             },
             "prefix": "185.17.12.0/22",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "185.17.12.0",
+            "name": "FONIRA-PPP-CARRIER-NAT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.17.12.0",
+                "prefix": "185.17.12.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.17.12.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "185.17.13.0",
+            "name": "FONIRA-PPP-CARRIER-NAT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.17.12.0",
+                "prefix": "185.17.12.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.17.13.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "185.17.14.0",
+            "name": "FONIRA-PPP-CARRIER-NAT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.17.12.0",
+                "prefix": "185.17.12.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.17.14.0/24",
             "roa_status": "None"
         },
         {
@@ -127,9 +239,57 @@
             },
             "prefix": "91.206.8.0/23",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "91.206.8.0",
+            "name": "AT-FONIRA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "91.206.8.0",
+                "prefix": "91.206.8.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "91.206.8.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:20be::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:20be::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:2::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:2::/48",
+            "roa_status": "None"
+        },
         {
             "cidr": 32,
             "country_code": "AT",
@@ -144,6 +304,502 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a02:1748::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd00::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd00::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd10::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd10::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd1d::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd1d::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd20::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd20::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd2d::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd2d::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd40::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd40::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:dd4d::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:dd4d::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "ip": "2a02:1748:ff00::",
+            "name": "AT-FONIRA-20100616",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:1748::",
+                "prefix": "2a02:1748::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:1748:ff00::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL-Customers",
+            "ip": "2a02:2b10:3::",
+            "name": "DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:3::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 37,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4000::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4000::/37",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4256::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4256::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:42a6::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:42a6::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:42f6::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:42f6::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4302::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4302::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:439c::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:439c::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:43a5::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:43a5::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:43c1::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:43c1::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4415::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4415::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4496::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4496::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4541::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4541::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4550::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4550::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4560::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4560::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:456c::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:456c::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:456d::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:456d::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4572::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4572::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4586::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4586::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:4594::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4594::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:459d::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:459d::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
+            "ip": "2a02:2b10:45e3::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:45e3::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL-Customers",
+            "ip": "2a02:2b10:4::",
+            "name": "DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:4::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL-Customers",
+            "ip": "2a02:2b10:5::",
+            "name": "DSL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:5::/48",
             "roa_status": "None"
         }
     ]
