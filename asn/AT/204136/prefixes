@@ -97,6 +97,22 @@
             },
             "prefix": "2a05:dfc7:dfc7::/48",
             "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "EU",
+            "description": "TestNet",
+            "ip": "2a07:1c43::",
+            "name": "TestNet",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a07:1c40::",
+                "prefix": "2a07:1c40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a07:1c43::/32",
+            "roa_status": "None"
         }
     ]
 }
