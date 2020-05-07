@@ -4532,6 +4532,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "BR",
+            "description": "NEW INFRA ANX19",
+            "ip": "2a00:11c0:84::",
+            "name": "NEW-INFRA-ANX19",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:84::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "US",
             "description": "Dedicated servers in US",
             "ip": "2a00:11c0:85::",
