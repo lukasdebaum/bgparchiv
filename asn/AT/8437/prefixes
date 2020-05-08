@@ -17,6 +17,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "Network of Hutchison Drei Austria GmbH",
+            "ip": "178.114.112.0",
+            "name": "H3G-CUSTOMERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "178.112.0.0",
+                "prefix": "178.112.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.114.112.0/20",
+            "roa_status": "None"
+        },
+        {
             "cidr": 19,
             "country_code": "AT",
             "description": "Network of Hutchison Drei Austria GmbH",
@@ -590,6 +606,54 @@
                 "rir_name": "RIPE"
             },
             "prefix": "195.96.8.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 15,
+            "country_code": null,
+            "description": null,
+            "ip": "198.18.0.0",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "198.18.0.0/15",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": null,
+            "description": null,
+            "ip": "198.51.100.0",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "198.51.100.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": null,
+            "description": null,
+            "ip": "203.0.113.0",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "203.0.113.0/24",
             "roa_status": "None"
         },
         {
@@ -5328,6 +5392,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2001:938:2030::/45",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 45,
+            "country_code": "AT",
+            "description": "PPP-user-networks",
+            "ip": "2001:938:2038::",
+            "name": "PPP-Users",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2001:938::",
+                "prefix": "2001:938::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:938:2038::/45",
             "roa_status": "None"
         },
         {
