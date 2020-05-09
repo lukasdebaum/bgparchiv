@@ -1,17 +1,23 @@
 {
-    "abuse_contacts": [],
+    "abuse_contacts": [
+        "abuse@extrahost.pro"
+    ],
     "asn": 199733,
     "country_code": "AT",
     "description_full": [
         "Extrahost GmbH"
     ],
     "description_short": "Extrahost GmbH",
-    "email_contacts": [],
+    "email_contacts": [
+        "abuse@extrahost.pro",
+        "noc@extrahost.pro",
+        "office@extrahost.pro"
+    ],
     "iana_assignment": {
-        "assignment_status": "assigned",
+        "assignment_status": null,
         "date_assigned": null,
-        "description": "Assigned by RIPE NCC",
-        "whois_server": "whois.ripe.net"
+        "description": null,
+        "whois_server": null
     },
     "looking_glass": null,
     "name": "EXTRAHOST-AS",

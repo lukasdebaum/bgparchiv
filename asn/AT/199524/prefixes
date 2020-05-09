@@ -1458,6 +1458,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "US",
+            "description": "G-Core Labs S.A.",
+            "ip": "5.8.93.0",
+            "name": "GCORELABS-CUST-ALLOCATIONS",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "5.8.92.0",
+                "prefix": "5.8.92.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.8.93.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "RU",
             "description": "G-Core Labs Customer assignment",
             "ip": "5.8.95.0",
