@@ -1,17 +1,22 @@
 {
-    "abuse_contacts": [],
+    "abuse_contacts": [
+        "abuse@fiberlink.at"
+    ],
     "asn": 8666,
     "country_code": "AT",
     "description_full": [
         "FiberLink GmbH"
     ],
     "description_short": "FiberLink GmbH",
-    "email_contacts": [],
+    "email_contacts": [
+        "abuse@fiberlink.at",
+        "ripe@fiberlink.at"
+    ],
     "iana_assignment": {
-        "assignment_status": null,
+        "assignment_status": "assigned",
         "date_assigned": null,
-        "description": null,
-        "whois_server": null
+        "description": "Assigned by RIPE NCC",
+        "whois_server": "whois.ripe.net"
     },
     "looking_glass": null,
     "name": "FIBERLINK-AS",
@@ -28,6 +33,6 @@
         "rir_name": "RIPE"
     },
     "traffic_estimation": null,
-    "traffic_ratio": null,
+    "traffic_ratio": "Not Disclosed",
     "website": null
 }
