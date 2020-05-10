@@ -1,5 +1,7 @@
 {
-    "abuse_contacts": [],
+    "abuse_contacts": [
+        "abuse@miex.at"
+    ],
     "asn": 56833,
     "country_code": "AT",
     "description_full": [
@@ -9,12 +11,16 @@
         "AUSTRIA"
     ],
     "description_short": "mieX.at",
-    "email_contacts": [],
+    "email_contacts": [
+        "abuse@miex.at",
+        "wagner@miex.at",
+        "office@miex.at"
+    ],
     "iana_assignment": {
-        "assignment_status": null,
+        "assignment_status": "assigned",
         "date_assigned": null,
-        "description": null,
-        "whois_server": null
+        "description": "Assigned by RIPE NCC",
+        "whois_server": "whois.ripe.net"
     },
     "looking_glass": null,
     "name": "MIEX-AS",
