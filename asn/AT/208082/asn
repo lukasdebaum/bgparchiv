@@ -1,17 +1,23 @@
 {
-    "abuse_contacts": [],
+    "abuse_contacts": [
+        "abuse@a1.at"
+    ],
     "asn": 208082,
     "country_code": "AT",
     "description_full": [
         "Gantner Electronic GmbH"
     ],
     "description_short": "Gantner Electronic GmbH",
-    "email_contacts": [],
+    "email_contacts": [
+        "postmaster@gantner.com",
+        "abuse@a1.at",
+        "hostmaster@aon.at"
+    ],
     "iana_assignment": {
-        "assignment_status": null,
+        "assignment_status": "assigned",
         "date_assigned": null,
-        "description": null,
-        "whois_server": null
+        "description": "Assigned by RIPE NCC",
+        "whois_server": "whois.ripe.net"
     },
     "looking_glass": null,
     "name": "GANTNER",
