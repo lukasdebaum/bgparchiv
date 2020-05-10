@@ -1,17 +1,24 @@
 {
-    "abuse_contacts": [],
+    "abuse_contacts": [
+        "abuse@vnet.services"
+    ],
     "asn": 209637,
     "country_code": "AT",
     "description_full": [
         "vnet-services GmbH"
     ],
     "description_short": "vnet-services GmbH",
-    "email_contacts": [],
+    "email_contacts": [
+        "abuse@vnet.services",
+        "t.micic@vnet-services.com",
+        "amil.cehic@eunetworks.com",
+        "cn@onstage.at"
+    ],
     "iana_assignment": {
-        "assignment_status": null,
+        "assignment_status": "assigned",
         "date_assigned": null,
-        "description": null,
-        "whois_server": null
+        "description": "Assigned by RIPE NCC",
+        "whois_server": "whois.ripe.net"
     },
     "looking_glass": null,
     "name": "VNET-AS",
