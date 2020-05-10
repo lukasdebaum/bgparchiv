@@ -1,17 +1,25 @@
 {
-    "abuse_contacts": [],
+    "abuse_contacts": [
+        "abuse@sol.at"
+    ],
     "asn": 208441,
     "country_code": "AT",
     "description_full": [
         "Amt der Salzburger Landesregierung"
     ],
     "description_short": "Amt der Salzburger Landesregierung",
-    "email_contacts": [],
+    "email_contacts": [
+        "landesinformatik@salzburg.gv.at",
+        "noc@sol.at",
+        "peering@sol.at",
+        "abuse@sol.at",
+        "josef.leist@salzburg-ag.at"
+    ],
     "iana_assignment": {
-        "assignment_status": null,
+        "assignment_status": "assigned",
         "date_assigned": null,
-        "description": null,
-        "whois_server": null
+        "description": "Assigned by RIPE NCC",
+        "whois_server": "whois.ripe.net"
     },
     "looking_glass": null,
     "name": "LAND-SALZBURG-AS",
