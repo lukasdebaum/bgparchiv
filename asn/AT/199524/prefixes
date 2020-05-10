@@ -290,6 +290,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "NL",
+            "description": "AltusHost B.V.-NL",
+            "ip": "172.94.57.0",
+            "name": "INTERNET-SECURITY",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "172.94.0.0",
+                "prefix": "172.94.0.0/17",
+                "rir_name": "ARIN"
+            },
+            "prefix": "172.94.57.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "US",
             "description": "G-Core Labs S.A.",
             "ip": "185.101.136.0",
@@ -2898,10 +2914,10 @@
         },
         {
             "cidr": 24,
-            "country_code": "JP",
+            "country_code": "RU",
             "description": "G-Core Labs Customer assignment",
             "ip": "92.223.65.0",
-            "name": "GCL-CUSTOMER-JP",
+            "name": "GCL-CUSTOMER-RU",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 17,
