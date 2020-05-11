@@ -1,4 +1,21 @@
 {
     "ipv4_prefixes": [],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Groebl Guenter",
+            "ip": "2a0e:1500::",
+            "name": "AT-GROEBIS-20190423",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0e:1500::",
+                "prefix": "2a0e:1500::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0e:1500::/29",
+            "roa_status": "None"
+        }
+    ]
 }
