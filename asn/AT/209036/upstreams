@@ -1,7 +1,14 @@
 {
     "combined_graph": "https://api.bgpview.io/assets/graphs/AS209036_Combined.svg",
-    "ipv4_graph": null,
-    "ipv4_upstreams": [],
+    "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS209036_IPv4.svg",
+    "ipv4_upstreams": [
+        {
+            "asn": 59909,
+            "country_code": "AT",
+            "description": "Tele-Tec GmbH",
+            "name": "TELE-TEC-AS"
+        }
+    ],
     "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS209036_IPv6.svg",
     "ipv6_upstreams": [
         {
