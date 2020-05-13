@@ -17,5 +17,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Juergen Bachinger",
+            "ip": "2a00:5ae0:100::",
+            "name": "AT-FLEXBIT-IT-20130319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:5ae0::",
+                "prefix": "2a00:5ae0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:5ae0:100::/48",
+            "roa_status": "None"
+        }
+    ]
 }
