@@ -1296,7 +1296,7 @@
             "ipv4_address": "210.171.224.243",
             "ipv6_address": "2001:de8:8::2:1859:1",
             "name": "ZNET",
-            "speed": 10000
+            "speed": 30000
         },
         {
             "asn": 22822,
@@ -1479,6 +1479,24 @@
             "speed": 10000
         },
         {
+            "asn": 24257,
+            "country_code": "JP",
+            "description": "Japan Internet Exchange Co., Ltd.",
+            "ipv4_address": "210.171.224.15",
+            "ipv6_address": null,
+            "name": "JPIX-64ES",
+            "speed": 0
+        },
+        {
+            "asn": 24257,
+            "country_code": "JP",
+            "description": "Japan Internet Exchange Co., Ltd.",
+            "ipv4_address": "210.171.224.16",
+            "ipv6_address": null,
+            "name": "JPIX-64ES",
+            "speed": 0
+        },
+        {
             "asn": 24259,
             "country_code": "JP",
             "description": "kanuma cable television Corporation",
@@ -1503,6 +1521,15 @@
             "ipv4_address": "210.171.224.216",
             "ipv6_address": null,
             "name": "iCTV",
+            "speed": 10000
+        },
+        {
+            "asn": 24277,
+            "country_code": "JP",
+            "description": "Okinawa Cable Network Inc.",
+            "ipv4_address": "210.171.225.88",
+            "ipv6_address": null,
+            "name": "NIRAI",
             "speed": 10000
         },
         {
@@ -2082,7 +2109,7 @@
             "speed": 20000
         }
     ],
-    "members_count": 203,
+    "members_count": 205,
     "name": "JPIX TOKYO",
     "name_full": "Japan Internet Exchange Tokyo",
     "policy_email": "sales@jpix.ad.jp",
