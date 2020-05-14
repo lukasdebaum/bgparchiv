@@ -4617,7 +4617,7 @@
             "ipv4_address": "80.249.210.126",
             "ipv6_address": "2001:7f8:1::a503:3932:1",
             "name": "EVERYWAN-AS",
-            "speed": 1000
+            "speed": 2000
         },
         {
             "asn": 33986,
@@ -6453,6 +6453,15 @@
             "ipv4_address": "80.249.212.150",
             "ipv6_address": "2001:7f8:1::a504:9605:1",
             "name": "DTS-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 49627,
+            "country_code": "NL",
+            "description": "Speakup B.V",
+            "ipv4_address": "80.249.214.47",
+            "ipv6_address": null,
+            "name": "Speakup",
             "speed": 1000
         },
         {
@@ -8688,7 +8697,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 857,
+    "members_count": 858,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
