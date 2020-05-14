@@ -898,6 +898,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "TW",
+            "description": "Dedicated servers in TW",
+            "ip": "188.172.208.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "188.172.192.0",
+                "prefix": "188.172.192.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "188.172.208.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "AU",
             "description": "Dedicated servers in AU",
             "ip": "188.172.209.0",
@@ -2334,6 +2350,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "217.146.29.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "DE",
+            "description": "Dedicated servers in DE",
+            "ip": "217.146.3.0",
+            "name": "ANEXIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "217.146.0.0",
+                "prefix": "217.146.0.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "217.146.3.0/24",
             "roa_status": "None"
         },
         {
