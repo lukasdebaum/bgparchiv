@@ -144,7 +144,7 @@
             "ipv4_address": "185.1.68.42",
             "ipv6_address": "2001:7f8:a0::206d:0:1",
             "name": "GIBTELECOMNET",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 8426,
@@ -541,6 +541,15 @@
             "ipv6_address": null,
             "name": "EXCOM-AS",
             "speed": 10000
+        },
+        {
+            "asn": 34549,
+            "country_code": "DE",
+            "description": "meerfarbig GmbH & Co. KG",
+            "ipv4_address": "185.1.68.200",
+            "ipv6_address": "2001:7f8:a0::86f5:0:1",
+            "name": "MEER-AS",
+            "speed": 1000
         },
         {
             "asn": 34803,
@@ -1353,7 +1362,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 139,
+    "members_count": 140,
     "name": "DE-CIX Madrid",
     "name_full": "Deutscher Commercial Internet Exchange Madrid",
     "policy_email": null,
