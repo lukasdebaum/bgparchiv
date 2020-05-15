@@ -111,6 +111,22 @@
             },
             "prefix": "77.220.109.0/24",
             "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "KELAG-Karntner Elektrizitats - Aktiengesellschaft",
+            "ip": "81.94.55.0",
+            "name": "AT-KELAG-20060512",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "81.94.55.0",
+                "prefix": "81.94.55.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.94.55.0/24",
+            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": []
