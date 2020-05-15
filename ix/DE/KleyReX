@@ -88,9 +88,9 @@
             "country_code": "DE",
             "description": "KEVAG Telekom GmbH",
             "ipv4_address": "193.189.82.55",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:33::a101:2360:1",
             "name": "KTK",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 12586,
@@ -1326,6 +1326,15 @@
             "speed": 1000
         },
         {
+            "asn": 203900,
+            "country_code": "FR",
+            "description": "Thibault Crevel",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:33::a120:3900:1",
+            "name": "TCLNET-ASN",
+            "speed": 100
+        },
+        {
             "asn": 204003,
             "country_code": "DE",
             "description": "Jan-Eric Ortgies",
@@ -1731,6 +1740,15 @@
             "speed": 100
         },
         {
+            "asn": 207609,
+            "country_code": "US",
+            "description": "Sepehr Ahmadi trading as GoCodeIt",
+            "ipv4_address": "193.189.83.42",
+            "ipv6_address": "2001:7f8:33::a120:7609:1",
+            "name": "GOCODEIT",
+            "speed": 100
+        },
+        {
             "asn": 207612,
             "country_code": "DE",
             "description": "Maximilian Emig",
@@ -2110,11 +2128,11 @@
         },
         {
             "asn": 213279,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
+            "country_code": "NL",
+            "description": "DashCare B.V.",
             "ipv4_address": null,
             "ipv6_address": "2001:7f8:33::a121:3279:1",
-            "name": "RIPE NCC ASN block",
+            "name": "DASHCARE-AS",
             "speed": 100
         },
         {
@@ -2130,7 +2148,7 @@
             "asn": 213376,
             "country_code": "CH",
             "description": "HERVE ROUSSEAU",
-            "ipv4_address": "193.189.82.131",
+            "ipv4_address": null,
             "ipv6_address": "2001:7f8:33::a121:3376:1",
             "name": "MOULTICAST",
             "speed": 100
@@ -2154,7 +2172,7 @@
             "speed": 100
         }
     ],
-    "members_count": 237,
+    "members_count": 239,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
