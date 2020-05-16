@@ -1105,7 +1105,7 @@
             "country_code": "HK",
             "description": "Multibyte Info Technology Limited",
             "ipv4_address": "123.255.91.123",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7fa:0:1::ca28:a17b",
             "name": "MITL-HK",
             "speed": 1000
         },
@@ -2658,6 +2658,15 @@
             "speed": 10000
         },
         {
+            "asn": 131091,
+            "country_code": "HK",
+            "description": "GSS Global",
+            "ipv4_address": "123.255.92.51",
+            "ipv6_address": "2001:7fa:0:1::ca28:a233",
+            "name": "GSS-AS-AP",
+            "speed": 1000
+        },
+        {
             "asn": 131274,
             "country_code": "HK",
             "description": "Cypresstel Global Network",
@@ -3099,7 +3108,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 264,
+    "members_count": 265,
     "name": "HKIX",
     "name_full": "Hong Kong Internet Exchange",
     "policy_email": "info@hkix.net",
