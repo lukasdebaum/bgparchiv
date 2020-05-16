@@ -1314,7 +1314,7 @@
             "ipv4_address": "193.239.117.61",
             "ipv6_address": "2001:7f8:13::a502:4482:1",
             "name": "SGGS-AS-AP",
-            "speed": 250
+            "speed": 1000
         },
         {
             "asn": 24586,
@@ -3630,6 +3630,15 @@
             "speed": 100
         },
         {
+            "asn": 203900,
+            "country_code": "FR",
+            "description": "Thibault Crevel",
+            "ipv4_address": null,
+            "ipv6_address": "2001:7f8:13::a520:3900:1",
+            "name": "TCLNET-ASN",
+            "speed": 100
+        },
+        {
             "asn": 204151,
             "country_code": "DK",
             "description": "Kviknet.dk ApS",
@@ -3738,6 +3747,15 @@
             "speed": 10000
         },
         {
+            "asn": 207671,
+            "country_code": "DE",
+            "description": "Julian Voss",
+            "ipv4_address": "193.239.118.232",
+            "ipv6_address": "2001:7f8:13::a520:7671:1",
+            "name": "y0sh-network",
+            "speed": 100
+        },
+        {
             "asn": 207866,
             "country_code": "NL",
             "description": "InCompanyMedia B.V.",
@@ -3801,7 +3819,7 @@
             "speed": 100
         }
     ],
-    "members_count": 341,
+    "members_count": 343,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
