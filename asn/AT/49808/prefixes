@@ -195,6 +195,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "BORBET Austria GmbH",
+            "ip": "185.75.8.0",
+            "name": "AT-BORBET-20141027",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.75.8.0",
+                "prefix": "185.75.8.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.75.8.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "voestalpine group-IT GmbH",
             "ip": "193.228.232.0",
             "name": "VAIG-NET2",
@@ -496,6 +512,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:c100::/32",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "AT",
+            "description": "BORBET Austria GmbH",
+            "ip": "2a05:4e40::",
+            "name": "AT-BORBET-20141027",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a05:4e40::",
+                "prefix": "2a05:4e40::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a05:4e40::/32",
             "roa_status": "None"
         }
     ]
