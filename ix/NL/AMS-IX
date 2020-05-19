@@ -747,7 +747,7 @@
             "ipv4_address": "80.249.208.160",
             "ipv6_address": "2001:7f8:1::a500:5466:1",
             "name": "EIRCOM",
-            "speed": 60000
+            "speed": 100000
         },
         {
             "asn": 5524,
@@ -2964,15 +2964,6 @@
             "speed": 10000
         },
         {
-            "asn": 17920,
-            "country_code": "US",
-            "description": "LSHIY Backbone",
-            "ipv4_address": null,
-            "ipv6_address": "2001:7f8:1::a501:7920:1",
-            "name": "LSHIY-BACKBONE",
-            "speed": 1000
-        },
-        {
             "asn": 18001,
             "country_code": "LK",
             "description": "Dialog Axiata PLC.",
@@ -3811,11 +3802,11 @@
         },
         {
             "asn": 27024,
-            "country_code": "US",
-            "description": "DailyDeal LLC",
+            "country_code": "",
+            "description": null,
             "ipv4_address": "80.249.213.2",
             "ipv6_address": null,
-            "name": "DAILYDEAL",
+            "name": null,
             "speed": 250
         },
         {
@@ -7192,6 +7183,15 @@
             "ipv6_address": "2001:7f8:1::a505:7111:1",
             "name": "ALTITUD",
             "speed": 1000
+        },
+        {
+            "asn": 57112,
+            "country_code": "NL",
+            "description": "F2X Operator B.V.",
+            "ipv4_address": "80.249.210.110",
+            "ipv6_address": "2001:7f8:1::a505:7112:1",
+            "name": "ASN-F2X",
+            "speed": 10000
         },
         {
             "asn": 57119,
