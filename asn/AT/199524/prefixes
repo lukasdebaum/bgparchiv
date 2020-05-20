@@ -2,6 +2,22 @@
     "ipv4_prefixes": [
         {
             "cidr": 24,
+            "country_code": "RU",
+            "description": "Huajuan Enterprise Network - Khabarovsk, RU",
+            "ip": "103.102.4.0",
+            "name": "HUAJUAN-KHV",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "103.102.4.0",
+                "prefix": "103.102.4.0/22",
+                "rir_name": "APNIC"
+            },
+            "prefix": "103.102.4.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "US",
             "description": "GZ Systems Limited - Colocation in Chicago",
             "ip": "141.101.148.0",
@@ -1022,6 +1038,54 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.188.2.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "Petersburg Internet Network ltd.",
+            "ip": "5.188.212.0",
+            "name": "RU-PIN-20120809",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "5.188.192.0",
+                "prefix": "5.188.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.212.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "Petersburg Internet Network ltd.",
+            "ip": "5.188.213.0",
+            "name": "RU-PIN-20120809",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "5.188.192.0",
+                "prefix": "5.188.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.213.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "Petersburg Internet Network ltd.",
+            "ip": "5.188.214.0",
+            "name": "RU-PIN-20120809",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "5.188.192.0",
+                "prefix": "5.188.192.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.214.0/24",
             "roa_status": "None"
         },
         {
