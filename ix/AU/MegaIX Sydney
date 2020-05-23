@@ -943,7 +943,16 @@
             "country_code": "AU",
             "description": "Ethan Group",
             "ipv4_address": "103.26.68.68",
-            "ipv6_address": null,
+            "ipv6_address": "2001:dea:0:10::44",
+            "name": "ETHAN-AU-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 38084,
+            "country_code": "AU",
+            "description": "Ethan Group",
+            "ipv4_address": "103.26.69.96",
+            "ipv6_address": "2001:dea:0:10::160",
             "name": "ETHAN-AU-AP",
             "speed": 10000
         },
@@ -1359,6 +1368,15 @@
             "ipv4_address": "103.26.68.43",
             "ipv6_address": "2001:dea:0:10::2b",
             "name": "DELION-AP",
+            "speed": 10000
+        },
+        {
+            "asn": 55561,
+            "country_code": "NZ",
+            "description": "2talk Global IP Network",
+            "ipv4_address": "103.26.69.64",
+            "ipv6_address": null,
+            "name": "TWO-TALK",
             "speed": 10000
         },
         {
@@ -2361,7 +2379,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 230,
+    "members_count": 231,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
