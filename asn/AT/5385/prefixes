@@ -595,6 +595,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "MBS schruns cable network",
+            "ip": "194.208.92.0",
+            "name": "TPAT-HIGHSPEEDCAB-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "194.208.64.0",
+                "prefix": "194.208.64.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.208.92.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "lampert rankweil cable network",
             "ip": "194.208.93.0",
             "name": "TPAT-HIGHSPEEDCAB-NET",
