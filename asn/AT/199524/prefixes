@@ -4097,6 +4097,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "KR",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "92.38.166.0",
+            "name": "GCL-CUSTOMER-KOREA",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 19,
+                "ip": "92.38.160.0",
+                "prefix": "92.38.160.0/19",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.38.166.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 23,
             "country_code": "US",
             "description": "G-Core Labs Customer assignment",
@@ -4864,6 +4880,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:50::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "RU",
+            "description": "ISPSYS MOW",
+            "ip": "2a03:90c0:54::",
+            "name": "ISPSYS-MOW",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:90c0::",
+                "prefix": "2a03:90c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:90c0:54::/48",
             "roa_status": "None"
         },
         {
