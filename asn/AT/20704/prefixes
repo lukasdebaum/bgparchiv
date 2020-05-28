@@ -51,6 +51,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "XXeon",
+            "ip": "81.92.242.0",
+            "name": "XXeon",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "81.92.240.0",
+                "prefix": "81.92.240.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.92.242.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "ANW Alphanetwork",
             "ip": "81.92.243.0",
             "name": "FUNKNETZ-ANW-CUSTS",
