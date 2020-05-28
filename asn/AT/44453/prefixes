@@ -115,6 +115,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "Datacenter Austria - AT",
+            "ip": "5.132.163.0",
+            "name": "AT-GLOBAL-CLOUD-NETWORK",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 18,
+                "ip": "5.132.128.0",
+                "prefix": "5.132.128.0/18",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.132.163.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "AT IX NETWORK",
             "ip": "5.132.189.0",
             "name": "AT-IX-NETWORK",
