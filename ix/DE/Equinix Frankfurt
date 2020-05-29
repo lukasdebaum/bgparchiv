@@ -59,10 +59,10 @@
         {
             "asn": 6830,
             "country_code": "AT",
-            "description": "formerly known as UPC Broadband Holding B.V.",
+            "description": "Liberty Global (formerly UPC Broadband Holding, aka AORTA)",
             "ipv4_address": "185.1.102.37",
             "ipv6_address": "2001:7f8:bd::6830:1",
-            "name": "LGI-UPC",
+            "name": "LibertyGlobal",
             "speed": 10000
         },
         {
@@ -426,6 +426,15 @@
             "speed": 0
         },
         {
+            "asn": 53766,
+            "country_code": "US",
+            "description": "VeloCloud Networks, Inc.",
+            "ipv4_address": "185.1.102.103",
+            "ipv6_address": null,
+            "name": "VELOCLOUD",
+            "speed": 10000
+        },
+        {
             "asn": 54113,
             "country_code": "US",
             "description": "Fastly",
@@ -534,7 +543,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 47,
+    "members_count": 48,
     "name": "Equinix Frankfurt",
     "name_full": "Equinix Internet Exchange Frankfurt",
     "policy_email": null,
