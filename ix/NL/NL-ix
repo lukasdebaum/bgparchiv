@@ -365,10 +365,10 @@
         {
             "asn": 6830,
             "country_code": "AT",
-            "description": "formerly known as UPC Broadband Holding B.V.",
+            "description": "Liberty Global (formerly UPC Broadband Holding, aka AORTA)",
             "ipv4_address": "193.239.118.146",
             "ipv6_address": "2001:7f8:13::a500:6830:2",
-            "name": "LGI-UPC",
+            "name": "LibertyGlobal",
             "speed": 10000
         },
         {
@@ -667,6 +667,15 @@
             "ipv6_address": "2001:7f8:13::a500:9158:2",
             "name": "TELENOR_DANMARK_AS",
             "speed": 50000
+        },
+        {
+            "asn": 10122,
+            "country_code": "SG",
+            "description": "BIGO TECHNOLOGY PTE. LTD.",
+            "ipv4_address": "193.239.118.206",
+            "ipv6_address": "2001:7f8:13::a501:122:1",
+            "name": "BIGO-AS-AP",
+            "speed": 100000
         },
         {
             "asn": 10310,
@@ -2014,7 +2023,7 @@
             "country_code": "MU",
             "description": "West Indian Ocean Cable Company",
             "ipv4_address": "193.239.118.203",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:13::a503:7662:2",
             "name": "WIOCC-AS",
             "speed": 10000
         },
@@ -3837,7 +3846,7 @@
             "speed": 100
         }
     ],
-    "members_count": 345,
+    "members_count": 346,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
