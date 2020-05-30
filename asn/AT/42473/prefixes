@@ -3636,6 +3636,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "ES",
+            "description": "ANX50 Test",
+            "ip": "2a00:11c0:1336::",
+            "name": "ANX50-Test",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:1336::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "AT",
             "description": "ANEXIA Internetdienstleistungs GmbH",
             "ip": "2a00:11c0:1337::",
