@@ -183,15 +183,6 @@
             "speed": 10000
         },
         {
-            "asn": 7490,
-            "country_code": "AU",
-            "description": "Simtronic",
-            "ipv4_address": "103.26.68.17",
-            "ipv6_address": "2001:dea:0:10::11",
-            "name": "SIMTRONIC-AS-AP",
-            "speed": 10000
-        },
-        {
             "asn": 7575,
             "country_code": "AU",
             "description": "Australian Academic and Research Network (AARNet)",
@@ -442,6 +433,15 @@
             "ipv6_address": "2001:dea:0:10::137",
             "name": "THINKINGPHONES",
             "speed": 1000
+        },
+        {
+            "asn": 14340,
+            "country_code": "US",
+            "description": "Salesforce.com, Inc.",
+            "ipv4_address": "103.26.68.183",
+            "ipv6_address": "2001:dea:0:10::b7",
+            "name": "SALESFORCE",
+            "speed": 10000
         },
         {
             "asn": 15133,
@@ -1396,6 +1396,15 @@
             "ipv6_address": "2001:dea:0:10::d7",
             "name": "BINARY-AU",
             "speed": 1000
+        },
+        {
+            "asn": 55707,
+            "country_code": "AU",
+            "description": "Simtronic",
+            "ipv4_address": "103.26.68.17",
+            "ipv6_address": "2001:dea:0:10::11",
+            "name": "SIMTRONIC-AS-AP",
+            "speed": 10000
         },
         {
             "asn": 55784,
@@ -2379,7 +2388,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 231,
+    "members_count": 232,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
