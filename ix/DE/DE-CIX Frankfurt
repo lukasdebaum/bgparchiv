@@ -1215,7 +1215,7 @@
             "ipv4_address": "80.81.192.254",
             "ipv6_address": "2001:7f8::2093:0:1",
             "name": "KABSI-AS",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 8359,
@@ -2979,7 +2979,7 @@
             "ipv4_address": "80.81.196.34",
             "ipv6_address": "2001:7f8::39f8:0:1",
             "name": "COMMCORP COMUNICACOES LTDA",
-            "speed": 5000
+            "speed": 10000
         },
         {
             "asn": 15133,
@@ -7797,6 +7797,15 @@
             "speed": 20000
         },
         {
+            "asn": 58299,
+            "country_code": "CH",
+            "description": "Openfactory GmbH",
+            "ipv4_address": "80.81.196.197",
+            "ipv6_address": "2001:7f8::e3bb:0:1",
+            "name": "OPENFACTORY-AS",
+            "speed": 1000
+        },
+        {
             "asn": 58307,
             "country_code": "PL",
             "description": "UNITEL-MEDIA Sp. z o.o.",
@@ -9291,7 +9300,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 888,
+    "members_count": 889,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
