@@ -1,4 +1,21 @@
 {
     "ipv4_prefixes": [],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Johannes Mueller",
+            "ip": "2001:678:aac::",
+            "name": "CH-SNAPSERV-20190627",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 48,
+                "ip": "2001:678:aac::",
+                "prefix": "2001:678:aac::/48",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:678:aac::/48",
+            "roa_status": "None"
+        }
+    ]
 }
