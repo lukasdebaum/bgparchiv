@@ -1440,7 +1440,7 @@
             "ipv4_address": "208.115.136.195",
             "ipv6_address": "2001:504:0:4:0:2:2995:1",
             "name": "BARR-XPLR-ASN",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 23184,
@@ -1899,6 +1899,15 @@
             "ipv4_address": "208.115.136.175",
             "ipv6_address": "2001:504:0:4:0:3:6692:1",
             "name": "OPENDNS",
+            "speed": 10000
+        },
+        {
+            "asn": 39386,
+            "country_code": "SA",
+            "description": "Saudi Telecom Company JSC",
+            "ipv4_address": "208.115.137.67",
+            "ipv6_address": "2001:504:0:4:0:3:9386:1",
+            "name": "STC-IGW-AS",
             "speed": 10000
         },
         {
@@ -2451,7 +2460,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 239,
+    "members_count": 240,
     "name": "Equinix Chicago",
     "name_full": "Equinix Chicago Exchange",
     "policy_email": "support@equinix.com",
