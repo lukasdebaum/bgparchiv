@@ -3540,6 +3540,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "US",
+            "description": "Anexia",
+            "ip": "2605:380:aa1::",
+            "name": "ANEXIA-US-IPV6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2605:380::",
+                "prefix": "2605:380::/32",
+                "rir_name": "ARIN"
+            },
+            "prefix": "2605:380:aa1::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "PE",
             "description": "ANEXIA Inc.",
             "ip": "2803:ad80:16::",
@@ -3584,6 +3600,22 @@
                 "rir_name": "Lacnic"
             },
             "prefix": "2803:ad80::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "US",
+            "description": "ANEXIA Inc. - ANYCAST",
+            "ip": "2803:ad80:aa1::",
+            "name": "ANEXIA Inc. - ANYCAST",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2803:ad80::",
+                "prefix": "2803:ad80::/32",
+                "rir_name": "Lacnic"
+            },
+            "prefix": "2803:ad80:aa1::/48",
             "roa_status": "None"
         },
         {
