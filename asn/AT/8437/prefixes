@@ -113,9 +113,9 @@
             "roa_status": "None"
         },
         {
-            "cidr": 19,
+            "cidr": 20,
             "country_code": "AT",
-            "description": "Network of Hutchison Drei Austria GmbH",
+            "description": "H3G CUSTOMERS NET",
             "ip": "178.114.224.0",
             "name": "H3G-CUSTOMERS-NET",
             "parent": {
@@ -125,7 +125,23 @@
                 "prefix": "178.112.0.0/14",
                 "rir_name": "RIPE"
             },
-            "prefix": "178.114.224.0/19",
+            "prefix": "178.114.224.0/20",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 20,
+            "country_code": "AT",
+            "description": "H3G CUSTOMERS NET",
+            "ip": "178.114.240.0",
+            "name": "H3G-CUSTOMERS-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "178.112.0.0",
+                "prefix": "178.112.0.0/14",
+                "rir_name": "RIPE"
+            },
+            "prefix": "178.114.240.0/20",
             "roa_status": "None"
         },
         {
@@ -606,54 +622,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "195.96.8.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 15,
-            "country_code": null,
-            "description": null,
-            "ip": "198.18.0.0",
-            "name": null,
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": null,
-                "ip": null,
-                "prefix": null,
-                "rir_name": null
-            },
-            "prefix": "198.18.0.0/15",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": null,
-            "description": null,
-            "ip": "198.51.100.0",
-            "name": null,
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": null,
-                "ip": null,
-                "prefix": null,
-                "rir_name": null
-            },
-            "prefix": "198.51.100.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": null,
-            "description": null,
-            "ip": "203.0.113.0",
-            "name": null,
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": null,
-                "ip": null,
-                "prefix": null,
-                "rir_name": null
-            },
-            "prefix": "203.0.113.0/24",
             "roa_status": "None"
         },
         {
