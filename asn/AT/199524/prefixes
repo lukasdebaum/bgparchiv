@@ -690,6 +690,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "DE",
+            "description": "GPORTAL",
+            "ip": "45.137.247.0",
+            "name": "GPORTAL",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "45.137.244.0",
+                "prefix": "45.137.244.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "45.137.247.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "NL",
             "description": "G-Core Labs Customer assignment",
             "ip": "45.147.160.0",
