@@ -324,7 +324,7 @@
             "ipv4_address": "27.111.228.15",
             "ipv6_address": "2001:de8:4::4788:1",
             "name": "TMNET-AS-AP",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 4795,
@@ -918,7 +918,7 @@
             "ipv4_address": "27.111.228.182",
             "ipv6_address": "2001:de8:4::1:3445:1",
             "name": "13445",
-            "speed": 20000
+            "speed": 60000
         },
         {
             "asn": 13896,
@@ -2739,6 +2739,15 @@
             "speed": 10000
         },
         {
+            "asn": 62014,
+            "country_code": "RU",
+            "description": "Telegram Messenger Inc",
+            "ipv4_address": "27.111.229.210",
+            "ipv6_address": "2001:de8:4::6:2014:1",
+            "name": "Telegram",
+            "speed": 100000
+        },
+        {
             "asn": 62597,
             "country_code": "US",
             "description": "NSONE Inc",
@@ -3477,7 +3486,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 319,
+    "members_count": 320,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
