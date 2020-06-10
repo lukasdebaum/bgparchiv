@@ -183,15 +183,6 @@
             "speed": 10000
         },
         {
-            "asn": 6903,
-            "country_code": "RU",
-            "description": "Moscow, Russia",
-            "ipv4_address": "195.208.208.48",
-            "ipv6_address": null,
-            "name": "ZENON-AS",
-            "speed": 1000
-        },
-        {
             "asn": 6939,
             "country_code": "US",
             "description": "Hurricane Electric LLC",
@@ -631,6 +622,15 @@
             "ipv6_address": "2001:7f8:20:101::208:232",
             "name": "GOOGLE",
             "speed": 100000
+        },
+        {
+            "asn": 15599,
+            "country_code": "RU",
+            "description": "Avantel, Close Joint Stock Company",
+            "ipv4_address": "195.208.209.25",
+            "ipv6_address": "2001:7f8:20:101::209:25",
+            "name": "AVANTEL-NEFTEUGANSK-ASN",
+            "speed": 1000
         },
         {
             "asn": 15672,
@@ -2055,15 +2055,6 @@
             "speed": 100000
         },
         {
-            "asn": 50471,
-            "country_code": "RU",
-            "description": "Limited Liability Company Sviaz Industriya",
-            "ipv4_address": "195.208.209.229",
-            "ipv6_address": null,
-            "name": "SVIAZ-INDUSTRIYA-AS",
-            "speed": 1000
-        },
-        {
             "asn": 50473,
             "country_code": "RU",
             "description": "Altagen JSC",
@@ -2820,7 +2811,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 274,
+    "members_count": 273,
     "name": "MSK-IX Moscow",
     "name_full": "MSK-IX Moscow",
     "policy_email": "msk-adm@ix.ru",
