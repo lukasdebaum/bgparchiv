@@ -75,6 +75,15 @@
             "speed": 100
         },
         {
+            "asn": 24322,
+            "country_code": "AU",
+            "description": "HostLink",
+            "ipv4_address": null,
+            "ipv6_address": "2602:fed2:fff:ffff:6::26",
+            "name": "HOSTLINK-AS-AP",
+            "speed": 1000
+        },
+        {
             "asn": 33932,
             "country_code": "ES",
             "description": "everyWAN",
@@ -1128,12 +1137,21 @@
             "speed": 100
         },
         {
+            "asn": 213124,
+            "country_code": "NL",
+            "description": "Baanaan Network",
+            "ipv4_address": null,
+            "ipv6_address": "2602:fed2:fff:ffff:6::27",
+            "name": "Baanaan",
+            "speed": 100
+        },
+        {
             "asn": 213151,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
+            "country_code": "DE",
+            "description": "Christian Elsen",
             "ipv4_address": null,
             "ipv6_address": "2602:fed2:fff:ffff:6::1c",
-            "name": "RIPE NCC ASN block",
+            "name": "CHRISELSEN",
             "speed": 250
         },
         {
@@ -1245,7 +1263,7 @@
             "speed": 100
         }
     ],
-    "members_count": 137,
+    "members_count": 139,
     "name": "EVIX",
     "name_full": "Experimental Virtual Internet Exchange",
     "policy_email": "peering@evix.org",
