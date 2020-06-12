@@ -75,6 +75,15 @@
             "speed": 1000
         },
         {
+            "asn": 8793,
+            "country_code": "DE",
+            "description": "Thinxx GmbH",
+            "ipv4_address": "193.189.82.168",
+            "ipv6_address": "2001:7f8:33::a100:8793:1",
+            "name": "THINXX",
+            "speed": 10000
+        },
+        {
             "asn": 9886,
             "country_code": "CN",
             "description": "MercyCloud Network",
@@ -993,15 +1002,6 @@
             "speed": 1000
         },
         {
-            "asn": 137410,
-            "country_code": "CN",
-            "description": "Baka Network",
-            "ipv4_address": "193.189.82.202",
-            "ipv6_address": "2001:7f8:33::a113:7410:1",
-            "name": "BAKANETWORK-AS-AP",
-            "speed": 100
-        },
-        {
             "asn": 137490,
             "country_code": "NL",
             "description": "Navice Consulting",
@@ -1716,7 +1716,7 @@
             "asn": 207469,
             "country_code": "DE",
             "description": "Sung Yu Li",
-            "ipv4_address": null,
+            "ipv4_address": "193.189.82.202",
             "ipv6_address": "2001:7f8:33::a120:7469:1",
             "name": "SUNGYULI",
             "speed": 100
@@ -2136,12 +2136,30 @@
             "speed": 100
         },
         {
+            "asn": 213124,
+            "country_code": "NL",
+            "description": "Baanaan Network",
+            "ipv4_address": "193.189.83.65",
+            "ipv6_address": "2001:7f8:33::a121:3124:1",
+            "name": "Baanaan",
+            "speed": 100
+        },
+        {
             "asn": 213127,
-            "country_code": "",
-            "description": "RIPE NCC ASN block",
+            "country_code": "DE",
+            "description": "Moritz Woermann",
             "ipv4_address": "193.189.83.63",
             "ipv6_address": "2001:7f8:33::a121:3127:1",
-            "name": "RIPE NCC ASN block",
+            "name": "MOWOE-AS",
+            "speed": 100
+        },
+        {
+            "asn": 213151,
+            "country_code": "DE",
+            "description": "Christian Elsen",
+            "ipv4_address": "193.189.83.64",
+            "ipv6_address": "2001:7f8:33::a121:3151:1",
+            "name": "CHRISELSEN",
             "speed": 100
         },
         {
@@ -2217,7 +2235,7 @@
             "speed": 100
         }
     ],
-    "members_count": 244,
+    "members_count": 246,
     "name": "KleyReX",
     "name_full": "KleyReX Internet Exchange",
     "policy_email": "info@kleyrex.net",
