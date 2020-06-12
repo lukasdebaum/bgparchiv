@@ -1074,6 +1074,54 @@
         },
         {
             "cidr": 24,
+            "country_code": "RU",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.224.0",
+            "name": "GCL-CUSTOMER-RU",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.224.0",
+                "prefix": "5.188.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.224.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "Petersburg Internet Network ltd.",
+            "ip": "5.188.229.0",
+            "name": "RU-PIN-20120809",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.224.0",
+                "prefix": "5.188.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.229.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "Petersburg Internet Network ltd.",
+            "ip": "5.188.230.0",
+            "name": "RU-PIN-20120809",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.224.0",
+                "prefix": "5.188.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.230.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "BR",
             "description": "G-Core Labs S.A.",
             "ip": "5.188.238.0",
