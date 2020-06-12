@@ -475,9 +475,9 @@
             "country_code": "IE",
             "description": "Blue Face Ltd.",
             "ipv4_address": "185.6.36.36",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:18::36",
             "name": "BFACE",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 39319,
@@ -678,6 +678,15 @@
             "speed": 1000
         },
         {
+            "asn": 51409,
+            "country_code": "GB",
+            "description": "sipsynergy Ltd",
+            "ipv4_address": "185.6.36.137",
+            "ipv6_address": null,
+            "name": "SIPSYNERGY",
+            "speed": 1000
+        },
+        {
             "asn": 54113,
             "country_code": "US",
             "description": "Fastly",
@@ -822,7 +831,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 86,
+    "members_count": 87,
     "name": "INEX LAN1",
     "name_full": "Internet Neutral Exchange Association CLG",
     "policy_email": "operations@inex.ie",
