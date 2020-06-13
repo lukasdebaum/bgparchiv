@@ -1090,6 +1090,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "IN",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.228.0",
+            "name": "GCL-CUSTOMER-IN",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.224.0",
+                "prefix": "5.188.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.228.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "RU",
             "description": "Petersburg Internet Network ltd.",
             "ip": "5.188.229.0",
