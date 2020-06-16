@@ -405,6 +405,22 @@
         {
             "cidr": 48,
             "country_code": "AT",
+            "description": "Paedagogische Hochschule Niederoesterreich",
+            "ip": "2001:628:21b0::",
+            "name": "paedag-noe",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2001:628::",
+                "prefix": "2001:628::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2001:628:21b0::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
             "description": "Schloss Schoenbrunn Kultur- und Betriebsges.m.b.H.",
             "ip": "2001:628:2230::",
             "name": "schoenbrunn",
