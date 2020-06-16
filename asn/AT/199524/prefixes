@@ -1027,9 +1027,9 @@
         {
             "cidr": 24,
             "country_code": "RU",
-            "description": "Petersburg Internet Network ltd.",
+            "description": "G-Core Labs Customer assignment",
             "ip": "5.188.212.0",
-            "name": "RU-PIN-20120809",
+            "name": "GCL-CUSTOMER-RU",
             "parent": {
                 "allocation_status": "unknown",
                 "cidr": 19,
@@ -1086,6 +1086,38 @@
                 "rir_name": "RIPE"
             },
             "prefix": "5.188.224.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "BR",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.225.0",
+            "name": "GCL-CUSTOMER-BR",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.224.0",
+                "prefix": "5.188.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.225.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "IT",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "5.188.226.0",
+            "name": "GCL-CUSTOMER-IT",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.188.224.0",
+                "prefix": "5.188.224.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.188.226.0/24",
             "roa_status": "None"
         },
         {
@@ -2814,6 +2846,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "92.223.44.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "G-Core Labs Customer assignment",
+            "ip": "92.223.45.0",
+            "name": "GCL-CUSTOMER-US",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "92.223.0.0",
+                "prefix": "92.223.0.0/17",
+                "rir_name": "RIPE"
+            },
+            "prefix": "92.223.45.0/24",
             "roa_status": "None"
         },
         {
