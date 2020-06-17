@@ -493,7 +493,7 @@
             "country_code": "SG",
             "description": "Readyspace Cloud Services",
             "ipv4_address": "27.111.228.25",
-            "ipv6_address": null,
+            "ipv6_address": "2001:de8:4::7595:1",
             "name": "READYSPACE-SG",
             "speed": 1000
         },
@@ -3348,7 +3348,16 @@
             "ipv4_address": "27.111.230.13",
             "ipv6_address": "2001:de8:4::13:7557:1",
             "name": "IGCL-AS-AP",
-            "speed": 20000
+            "speed": 10000
+        },
+        {
+            "asn": 137557,
+            "country_code": "TH",
+            "description": "International gateway co., Ltd",
+            "ipv4_address": "27.111.230.30",
+            "ipv6_address": "2001:de8:4::13:7557:2",
+            "name": "IGCL-AS-AP",
+            "speed": 10000
         },
         {
             "asn": 137831,
@@ -3502,9 +3511,18 @@
             "ipv6_address": "2001:de8:4::20:5272:1",
             "name": "MCAFEE-CSP",
             "speed": 10000
+        },
+        {
+            "asn": 394353,
+            "country_code": "US",
+            "description": "B.Root-Server-OPS",
+            "ipv4_address": "27.111.230.27",
+            "ipv6_address": "2001:de8:4::39:4353:1",
+            "name": "BROOT-AS",
+            "speed": 10000
         }
     ],
-    "members_count": 321,
+    "members_count": 322,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
