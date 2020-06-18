@@ -111,15 +111,6 @@
             "speed": 10000
         },
         {
-            "asn": 1280,
-            "country_code": "US",
-            "description": "Internet Systems Consortium, Inc.",
-            "ipv4_address": "208.115.136.2",
-            "ipv6_address": "2001:504:0:4::1280:1",
-            "name": "ISC-AS-1280",
-            "speed": 1000
-        },
-        {
             "asn": 1547,
             "country_code": "MD",
             "description": "Societatea mixta pe actiuni de tip inchis \"Interdnestrcom\"",
@@ -399,15 +390,6 @@
             "speed": 40000
         },
         {
-            "asn": 6473,
-            "country_code": "US",
-            "description": "Vidillion, Inc.",
-            "ipv4_address": "208.115.136.157",
-            "ipv6_address": null,
-            "name": "WCIXN4",
-            "speed": 10000
-        },
-        {
             "asn": 6507,
             "country_code": "US",
             "description": "Riot Games, Inc",
@@ -433,15 +415,6 @@
             "ipv6_address": null,
             "name": "USCC-ASN",
             "speed": 20000
-        },
-        {
-            "asn": 6830,
-            "country_code": "AT",
-            "description": "Liberty Global (formerly UPC Broadband Holding, aka AORTA)",
-            "ipv4_address": "208.115.136.104",
-            "ipv6_address": "2001:504:0:4::6830:1",
-            "name": "LibertyGlobal",
-            "speed": 10000
         },
         {
             "asn": 6939,
@@ -918,7 +891,7 @@
             "ipv4_address": "208.115.137.169",
             "ipv6_address": "2001:504:0:4:0:1:4363:1",
             "name": "MTCCOMM",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 14413,
@@ -1785,6 +1758,15 @@
             "speed": 10000
         },
         {
+            "asn": 33071,
+            "country_code": "US",
+            "description": "Internet Systems Consortium, Inc.",
+            "ipv4_address": "208.115.136.2",
+            "ipv6_address": "2001:504:0:4::1280:1",
+            "name": "ISC-F-AS",
+            "speed": 1000
+        },
+        {
             "asn": 33353,
             "country_code": "US",
             "description": "Sony Interactive Entertainment LLC",
@@ -2460,7 +2442,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 240,
+    "members_count": 238,
     "name": "Equinix Chicago",
     "name_full": "Equinix Chicago Exchange",
     "policy_email": "support@equinix.com",
