@@ -3,6 +3,15 @@
     "country_code": "AU",
     "members": [
         {
+            "asn": 42,
+            "country_code": "US",
+            "description": "WoodyNet",
+            "ipv4_address": "218.100.52.27",
+            "ipv6_address": "2001:7fa:11:4:0:2a:0:1",
+            "name": "WOODYNET-1",
+            "speed": 1000
+        },
+        {
             "asn": 2687,
             "country_code": "US",
             "description": "AT&T Global Network Services, LLC",
@@ -37,6 +46,15 @@
             "ipv6_address": "2001:7fa:11:4:0:d1c:0:1",
             "name": "LEVEL3",
             "speed": 200000
+        },
+        {
+            "asn": 3856,
+            "country_code": "US",
+            "description": "Packet Clearing House",
+            "ipv4_address": "218.100.52.28",
+            "ipv6_address": "2001:7fa:11:4:0:f10:0:1",
+            "name": "PCH-AS",
+            "speed": 1000
         },
         {
             "asn": 4648,
@@ -2055,7 +2073,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 196,
+    "members_count": 198,
     "name": "IX Australia (Sydney NSW)",
     "name_full": "New South Wales Internet Exchange (NSW-IX)",
     "policy_email": "peering@ix.asn.au",
