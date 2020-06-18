@@ -1245,6 +1245,15 @@
             "speed": 10000
         },
         {
+            "asn": 39533,
+            "country_code": "CH",
+            "description": "Asympto Networks Kft.",
+            "ipv4_address": "217.29.67.110",
+            "ipv6_address": "2001:7f8:b:100:1d1:a5d3:9533:110",
+            "name": "asympto",
+            "speed": 10000
+        },
+        {
             "asn": 39729,
             "country_code": "IT",
             "description": "Register.IT S.p.A.",
@@ -2178,7 +2187,7 @@
             "ipv4_address": "217.29.66.188",
             "ipv6_address": null,
             "name": "ZGELETTRONICA-IT",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 200799,
@@ -2620,9 +2629,18 @@
             "ipv6_address": "2001:7f8:b:100:1d1:a521:278:163",
             "name": "SKYIT-BB",
             "speed": 100000
+        },
+        {
+            "asn": 210278,
+            "country_code": "IT",
+            "description": "Sky Italia srl",
+            "ipv4_address": "217.29.66.154",
+            "ipv6_address": "2001:7f8:b:100:1d1:a521:278:154",
+            "name": "SKYIT-BB",
+            "speed": 100000
         }
     ],
-    "members_count": 256,
+    "members_count": 257,
     "name": "MIX-IT",
     "name_full": "Milan Internet eXchange",
     "policy_email": "info@mix-it.net",
