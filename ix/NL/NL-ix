@@ -366,6 +366,15 @@
             "asn": 6830,
             "country_code": "AT",
             "description": "Liberty Global (formerly UPC Broadband Holding, aka AORTA)",
+            "ipv4_address": "193.239.118.145",
+            "ipv6_address": "2001:7f8:13::a500:6830:1",
+            "name": "LibertyGlobal",
+            "speed": 10000
+        },
+        {
+            "asn": 6830,
+            "country_code": "AT",
+            "description": "Liberty Global (formerly UPC Broadband Holding, aka AORTA)",
             "ipv4_address": "193.239.118.146",
             "ipv6_address": "2001:7f8:13::a500:6830:2",
             "name": "LibertyGlobal",
@@ -2334,15 +2343,6 @@
             "speed": 50000
         },
         {
-            "asn": 43414,
-            "country_code": "NL",
-            "description": "H2B Assets B.V.",
-            "ipv4_address": "193.239.118.166",
-            "ipv6_address": "2001:7f8:13::a504:3414:1",
-            "name": "H2B",
-            "speed": 2500
-        },
-        {
             "asn": 43531,
             "country_code": "GB",
             "description": "IX Reach Ltd",
@@ -3130,9 +3130,9 @@
             "country_code": "NL",
             "description": "Liberty Global B.V.",
             "ipv4_address": "193.239.116.247",
-            "ipv6_address": "2001:7f8:13::a500:6830:1",
+            "ipv6_address": "2001:7f8:13::a505:9776:1",
             "name": "LGI-CDN",
-            "speed": 0
+            "speed": 100000
         },
         {
             "asn": 59827,
@@ -3855,7 +3855,7 @@
             "speed": 100
         }
     ],
-    "members_count": 346,
+    "members_count": 345,
     "name": "NL-ix",
     "name_full": "Neutral Internet Exchange",
     "policy_email": "info@nl-ix.net",
