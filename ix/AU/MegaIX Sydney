@@ -1872,7 +1872,7 @@
             "ipv4_address": "103.26.68.99",
             "ipv6_address": null,
             "name": "ACURUS-AS-AP",
-            "speed": 1000
+            "speed": 3000
         },
         {
             "asn": 133403,
@@ -2397,6 +2397,15 @@
             "speed": 1000
         },
         {
+            "asn": 394354,
+            "country_code": "CA",
+            "description": "CIRA Canadian Internet Registration Authority Autorit Canadienne pour les enregistrements Internet",
+            "ipv4_address": "103.26.68.205",
+            "ipv6_address": "2001:dea:0:10::cd",
+            "name": "CIRA-REGISTRY",
+            "speed": 1000
+        },
+        {
             "asn": 395505,
             "country_code": "US",
             "description": "iManage, LLC",
@@ -2406,7 +2415,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 233,
+    "members_count": 234,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
