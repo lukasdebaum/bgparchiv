@@ -2559,6 +2559,15 @@
             "speed": 300000
         },
         {
+            "asn": 16276,
+            "country_code": "FR",
+            "description": "OVH SAS",
+            "ipv4_address": "195.66.225.6",
+            "ipv6_address": "2001:7f8:4::3f94:2",
+            "name": "OVH",
+            "speed": 200000
+        },
+        {
             "asn": 16347,
             "country_code": "FR",
             "description": "ADISTA SAS",
@@ -3502,15 +3511,6 @@
             "ipv6_address": null,
             "name": "QUBE",
             "speed": 10000
-        },
-        {
-            "asn": 29697,
-            "country_code": "US",
-            "description": "BeeksFX VPS USA Inc.",
-            "ipv4_address": "195.66.225.6",
-            "ipv6_address": "2001:7f8:4::7401:1",
-            "name": "CNS",
-            "speed": 1000
         },
         {
             "asn": 29791,
@@ -6579,7 +6579,7 @@
             "ipv4_address": "195.66.226.2",
             "ipv6_address": "2001:7f8:4::ed96:1",
             "name": "WISP1",
-            "speed": 200
+            "speed": 1000
         },
         {
             "asn": 60868,
@@ -7770,7 +7770,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 784,
+    "members_count": 783,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
