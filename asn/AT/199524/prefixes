@@ -290,6 +290,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "LU",
+            "description": "INTERNET-SECURITY-G-Core",
+            "ip": "172.94.57.0",
+            "name": "INTERNET-SECURITY-LUX",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 17,
+                "ip": "172.94.0.0",
+                "prefix": "172.94.0.0/17",
+                "rir_name": "ARIN"
+            },
+            "prefix": "172.94.57.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "US",
             "description": "G-Core Labs S.A.",
             "ip": "185.101.136.0",
