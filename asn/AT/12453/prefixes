@@ -145,5 +145,22 @@
             "roa_status": "None"
         }
     ],
-    "ipv6_prefixes": []
+    "ipv6_prefixes": [
+        {
+            "cidr": 29,
+            "country_code": "AT",
+            "description": "Bernhard Kraft",
+            "ip": "2a0d:5dc0::",
+            "name": "AT-KRAFTCOM-20180910",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0d:5dc0::",
+                "prefix": "2a0d:5dc0::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0d:5dc0::/29",
+            "roa_status": "None"
+        }
+    ]
 }

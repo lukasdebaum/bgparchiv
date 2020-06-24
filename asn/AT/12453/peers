@@ -1,6 +1,98 @@
 {
     "ipv4_peers": [
         {
+            "asn": 1299,
+            "country_code": "EU",
+            "description": "Telia Carrier",
+            "name": "TELIANET"
+        },
+        {
+            "asn": 3303,
+            "country_code": "CH",
+            "description": "Swisscom (Switzerland) Ltd",
+            "name": "SWISSCOM"
+        },
+        {
+            "asn": 6720,
+            "country_code": "AT",
+            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
+            "name": "MAGWIEN"
+        },
+        {
+            "asn": 8218,
+            "country_code": "FR",
+            "description": "legacy Neotelecoms",
+            "name": "NEO-ASN"
+        },
+        {
+            "asn": 13237,
+            "country_code": "DE",
+            "description": "European Backbone of AS13237",
+            "name": "LAMBDANET-AS"
+        },
+        {
+            "asn": 34288,
+            "country_code": "CH",
+            "description": "EDU-ZG-CH - Public Schools in the Canton of Zug",
+            "name": "AS34288"
+        },
+        {
+            "asn": 35369,
+            "country_code": "AT",
+            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
+            "name": "LINZAG-TELEKOM-AS"
+        },
+        {
+            "asn": 39912,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "name": "i3B-AS"
+        },
+        {
+            "asn": 41327,
+            "country_code": "IT",
+            "description": "Fiber Telecom S.p.A.",
+            "name": "FIBERTELECOM-AS"
+        },
+        {
+            "asn": 47147,
+            "country_code": "AT",
+            "description": "ANEXIA Internetdienstleistungs GmbH",
+            "name": "AS-ANX"
+        },
+        {
+            "asn": 47692,
+            "country_code": "AT",
+            "description": "Nessus GmbH",
+            "name": "NESSUS"
+        },
+        {
+            "asn": 57463,
+            "country_code": "BG",
+            "description": "NetIX Communications Ltd.",
+            "name": "NetIX"
+        },
+        {
+            "asn": 60501,
+            "country_code": "IT",
+            "description": "Sirius Technology SRL",
+            "name": "SIRIUSTEC-IT"
+        },
+        {
+            "asn": 200798,
+            "country_code": "AT",
+            "description": "Niederoesterreichischer Landesfeuerwehrverband",
+            "name": "NOE-LFWV-AS"
+        }
+    ],
+    "ipv6_peers": [
+        {
+            "asn": 286,
+            "country_code": "NL",
+            "description": "KPN Internet Solutions",
+            "name": "KPN"
+        },
+        {
             "asn": 553,
             "country_code": "EU",
             "description": "BelWue-Koordination",
@@ -19,16 +111,16 @@
             "name": "GREEN"
         },
         {
+            "asn": 2857,
+            "country_code": "DE",
+            "description": "Johannes Gutenberg-Universitaet Mainz",
+            "name": "RLP-NET"
+        },
+        {
             "asn": 3214,
             "country_code": "EU",
             "description": "xTom",
             "name": "XTOM"
-        },
-        {
-            "asn": 3303,
-            "country_code": "CH",
-            "description": "Swisscom (Switzerland) Ltd",
-            "name": "SWISSCOM"
         },
         {
             "asn": 6233,
@@ -37,34 +129,22 @@
             "name": "XTOM"
         },
         {
-            "asn": 6720,
-            "country_code": "AT",
-            "description": "Magistrat der Stadt Wien, Magistratsabteilung 01",
-            "name": "MAGWIEN"
-        },
-        {
-            "asn": 6939,
-            "country_code": "US",
-            "description": "Hurricane Electric LLC",
-            "name": "HURRICANE"
-        },
-        {
             "asn": 8218,
             "country_code": "FR",
             "description": "legacy Neotelecoms",
             "name": "NEO-ASN"
         },
         {
-            "asn": 8492,
+            "asn": 8359,
             "country_code": "RU",
-            "description": "\"OBIT\" Ltd.",
-            "name": "OBIT-AS"
+            "description": "MTS PJSC",
+            "name": "MTS"
         },
         {
-            "asn": 8732,
-            "country_code": "RU",
-            "description": "Moscow",
-            "name": "COMCOR-AS"
+            "asn": 8447,
+            "country_code": "AT",
+            "description": "A1 Telekom Austria AG",
+            "name": "TELEKOM-AT"
         },
         {
             "asn": 8758,
@@ -73,16 +153,22 @@
             "name": "IWAY"
         },
         {
+            "asn": 9002,
+            "country_code": "EU",
+            "description": "RETN Limited",
+            "name": "RETN-AS"
+        },
+        {
             "asn": 12779,
             "country_code": "IT",
             "description": "IT.Gate S.p.A.",
             "name": "ITGATE"
         },
         {
-            "asn": 13237,
-            "country_code": "DE",
-            "description": "European Backbone of AS13237",
-            "name": "LAMBDANET-AS"
+            "asn": 12859,
+            "country_code": "NL",
+            "description": "BIT BV",
+            "name": "NL-BIT"
         },
         {
             "asn": 13786,
@@ -115,16 +201,16 @@
             "name": "CONVERGE-AS"
         },
         {
+            "asn": 18106,
+            "country_code": "SG",
+            "description": "Viewqwest Pte Ltd",
+            "name": "VIEWQWEST-SG-AP"
+        },
+        {
             "asn": 20562,
             "country_code": "NL",
             "description": "Open Peering Initiative, Amsterdam, The Netherlands",
             "name": "OPEN-PEERING-AS"
-        },
-        {
-            "asn": 20764,
-            "country_code": "RU",
-            "description": "CJSC RASCOM ISP",
-            "name": "RASCOM-AS"
         },
         {
             "asn": 20766,
@@ -157,6 +243,12 @@
             "name": "ATMAN-Foreign-AS"
         },
         {
+            "asn": 24889,
+            "country_code": "CH",
+            "description": "Monzoon Networks AG",
+            "name": "MONZOON-AS"
+        },
+        {
             "asn": 24961,
             "country_code": "DE",
             "description": "IP Backbone of myLoc managed IT AG",
@@ -181,16 +273,10 @@
             "name": "ITS TELECOMUNICACOES LTDA"
         },
         {
-            "asn": 28634,
-            "country_code": "BR",
-            "description": "Life Tecnologia Ltda.",
-            "name": "Life Tecnologia Ltda."
-        },
-        {
-            "asn": 28716,
-            "country_code": "IT",
-            "description": "Internet Service Provider",
-            "name": "RETELIT-AS"
+            "asn": 28917,
+            "country_code": "RU",
+            "description": "IP-transit operator in Russia, Ukraine and Baltics",
+            "name": "Fiord-AS"
         },
         {
             "asn": 29075,
@@ -205,22 +291,22 @@
             "name": "HOSTSERVER-AS"
         },
         {
-            "asn": 29467,
-            "country_code": "LU",
-            "description": "Network Service Provider in Luxembourg",
-            "name": "LuxNetwork"
+            "asn": 29632,
+            "country_code": "GI",
+            "description": "Netassist Limited",
+            "name": "NASSIST-AS"
+        },
+        {
+            "asn": 30781,
+            "country_code": "FR",
+            "description": "Jaguar Network SAS",
+            "name": "JAGUAR-AS"
         },
         {
             "asn": 34019,
             "country_code": "FR",
             "description": "Hivane",
             "name": "HIVANE"
-        },
-        {
-            "asn": 34224,
-            "country_code": "BG",
-            "description": "Neterra Ltd.",
-            "name": "NETERRA-AS"
         },
         {
             "asn": 34288,
@@ -253,22 +339,16 @@
             "name": "iFog-GmbH"
         },
         {
-            "asn": 35369,
-            "country_code": "AT",
-            "description": "LINZ STROM GAS WAERME GmbH fuer Energiedienstleistungen und Telekommunikation",
-            "name": "LINZAG-TELEKOM-AS"
+            "asn": 35280,
+            "country_code": "FR",
+            "description": "ACORUS NETWORKS SAS",
+            "name": "ACORUS"
         },
         {
             "asn": 37468,
             "country_code": "AO",
             "description": "ANGOLA Cables",
             "name": "ANGOLA-CABLES"
-        },
-        {
-            "asn": 37497,
-            "country_code": "ZA",
-            "description": "Network Platforms Pty Ltd",
-            "name": "Network-Platforms"
         },
         {
             "asn": 37721,
@@ -295,12 +375,6 @@
             "name": "asympto"
         },
         {
-            "asn": 39912,
-            "country_code": "AT",
-            "description": "oja.at GmbH",
-            "name": "i3B-AS"
-        },
-        {
             "asn": 41327,
             "country_code": "IT",
             "description": "Fiber Telecom S.p.A.",
@@ -311,12 +385,6 @@
             "country_code": "RU",
             "description": "FOTONTELECOM ISP",
             "name": "FOTONTELECOM-TRANSIT-AS"
-        },
-        {
-            "asn": 43531,
-            "country_code": "GB",
-            "description": "IX Reach Ltd",
-            "name": "IXREACH"
         },
         {
             "asn": 47147,
@@ -335,6 +403,12 @@
             "country_code": "RO",
             "description": "LNK SYSTEMS MUNTENIA SRL",
             "name": "LNK"
+        },
+        {
+            "asn": 48362,
+            "country_code": "AT",
+            "description": "Stadtwerke Feldkirch",
+            "name": "TKSWF-AS"
         },
         {
             "asn": 48858,
@@ -367,16 +441,16 @@
             "name": "LWLCOM"
         },
         {
+            "asn": 51184,
+            "country_code": "AT",
+            "description": "Fonira Telekom GmbH",
+            "name": "FONIRA"
+        },
+        {
             "asn": 52873,
             "country_code": "BR",
             "description": "SOFTDADOS CONECTIVIDADE",
             "name": "SOFTDADOS CONECTIVIDADE"
-        },
-        {
-            "asn": 55329,
-            "country_code": "KH",
-            "description": "Telcotech Ltd.",
-            "name": "TELCOTECH-KH"
         },
         {
             "asn": 56381,
@@ -409,6 +483,12 @@
             "name": "OPENFACTORY-AS"
         },
         {
+            "asn": 58511,
+            "country_code": "AU",
+            "description": "Anycast Global Backbone",
+            "name": "ANYCAST-GLOBAL-BACKBONE"
+        },
+        {
             "asn": 59605,
             "country_code": "BH",
             "description": "MENA LEVANT W.L.L",
@@ -427,10 +507,10 @@
             "name": "FREIFUNK-FRANKFURT"
         },
         {
-            "asn": 205112,
-            "country_code": "DE",
-            "description": "PHILUNET GmbH",
-            "name": "PHILUNET"
+            "asn": 198385,
+            "country_code": "CH",
+            "description": "AlpineDC SA",
+            "name": "AlpineDC"
         },
         {
             "asn": 206313,
@@ -443,7 +523,12 @@
             "country_code": "DE",
             "description": "Freifunk Essen e.V.",
             "name": "Freifunk-Essen"
+        },
+        {
+            "asn": 207613,
+            "country_code": "DE",
+            "description": "/dev/nulll",
+            "name": "NULLL"
         }
-    ],
-    "ipv6_peers": []
+    ]
 }
