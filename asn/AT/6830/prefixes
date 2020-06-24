@@ -8147,7 +8147,7 @@
         {
             "cidr": 17,
             "country_code": "DE",
-            "description": "Unitymedia NRW GmbH",
+            "description": "Vodafone NRW GmbH",
             "ip": "62.143.0.0",
             "name": "DE-KNRW-20010816",
             "parent": {
@@ -8398,6 +8398,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "62.2.128.0/17",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "CH",
+            "description": "UPC Schweiz GmbH",
+            "ip": "62.2.36.0",
+            "name": "CABLECOMMAIN-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "62.2.0.0",
+                "prefix": "62.2.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.2.36.0/24",
             "roa_status": "None"
         },
         {
