@@ -624,6 +624,15 @@
             "speed": 1000
         },
         {
+            "asn": 203900,
+            "country_code": "FR",
+            "description": "TCLNET",
+            "ipv4_address": null,
+            "ipv6_address": "2602:fed2:fff:ffff:6::2d",
+            "name": "TCLNET-ASN",
+            "speed": 1000
+        },
+        {
             "asn": 204438,
             "country_code": "CH",
             "description": "Ruben Garbade",
@@ -809,6 +818,15 @@
             "description": "Stefan Blomme",
             "ipv4_address": "206.81.104.225",
             "ipv6_address": "2602:fed2:fff:ffff::225",
+            "name": "AS_BLOMME",
+            "speed": 100
+        },
+        {
+            "asn": 207537,
+            "country_code": "BE",
+            "description": "Stefan Blomme",
+            "ipv4_address": null,
+            "ipv6_address": "2602:fed2:fff:ffff:6::33",
             "name": "AS_BLOMME",
             "speed": 100
         },
@@ -1308,7 +1326,7 @@
             "speed": 100
         }
     ],
-    "members_count": 144,
+    "members_count": 145,
     "name": "EVIX",
     "name_full": "Experimental Virtual Internet Exchange",
     "policy_email": "peering@evix.org",
