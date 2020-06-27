@@ -696,6 +696,15 @@
             "speed": 10000
         },
         {
+            "asn": 57112,
+            "country_code": "NL",
+            "description": "F2X Operator B.V.",
+            "ipv4_address": "185.1.95.46",
+            "ipv6_address": "2001:7f8:b7::a505:7112:1",
+            "name": "ASN-F2X",
+            "speed": 10000
+        },
+        {
             "asn": 57758,
             "country_code": "NL",
             "description": "Cloudbear B.V.",
@@ -1221,7 +1230,7 @@
             "asn": 209650,
             "country_code": "NL",
             "description": "Zhiyuan Network",
-            "ipv4_address": null,
+            "ipv4_address": "185.1.95.157",
             "ipv6_address": "2001:7f8:b7::a520:9650:1",
             "name": "ZHIYUAN-AS",
             "speed": 1000
@@ -1272,7 +1281,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 133,
+    "members_count": 134,
     "name": "Speed-IX",
     "name_full": "Speed Internet Exchange",
     "policy_email": "peering@speed-ix.net",
