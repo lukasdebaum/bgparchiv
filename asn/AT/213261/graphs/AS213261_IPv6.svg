@@ -12,243 +12,248 @@
 <!-- AS213261 -->
 <g id="node1" class="node"><title>AS213261</title>
 <g id="a_node1"><a xlink:href="/asn/213261" xlink:title="AS213261 ~ Sebastian&#45;Wilhelm Graf [AT]">
-<ellipse fill="#ffffff" stroke="black" cx="48.0957" cy="-234" rx="48.1917" ry="18"/>
-<text text-anchor="middle" x="48.0957" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#880000">AS213261</text>
+<ellipse fill="#ffffff" stroke="black" cx="48.0957" cy="-261" rx="48.1917" ry="18"/>
+<text text-anchor="middle" x="48.0957" y="-257.3" font-family="Times,serif" font-size="14.00" fill="#880000">AS213261</text>
 </a>
 </g>
 </g>
 <!-- AS1764 -->
 <g id="node2" class="node"><title>AS1764</title>
 <g id="a_node2"><a xlink:href="/asn/1764" xlink:title="AS1764 ~ NEXTLAYER&#45;AS [AT]">
-<ellipse fill="#ffffff" stroke="black" cx="171.838" cy="-234" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="171.838" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS1764</text>
+<ellipse fill="#ffffff" stroke="black" cx="171.838" cy="-261" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="171.838" y="-257.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS1764</text>
 </a>
 </g>
 </g>
 <!-- AS213261&#45;&gt;AS1764 -->
 <g id="edge1" class="edge"><title>AS213261&#45;&gt;AS1764</title>
-<path fill="none" stroke="black" stroke-width="4.5" d="M96.5131,-234C104.867,-234 113.577,-234 121.969,-234"/>
-<polygon fill="black" stroke="black" stroke-width="4.5" points="122.004,-237.938 132.004,-234 122.004,-230.063 122.004,-237.938"/>
-</g>
-<!-- AS174 -->
-<g id="node3" class="node"><title>AS174</title>
-<g id="a_node3"><a xlink:href="/asn/174" xlink:title="AS174 ~ Cogent Communications [US]">
-<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-450" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="287.131" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS174</text>
-</a>
-</g>
-</g>
-<!-- AS1764&#45;&gt;AS174 -->
-<g id="edge2" class="edge"><title>AS1764&#45;&gt;AS174</title>
-<path fill="none" stroke="black" stroke-width="2.7" d="M179.841,-252.051C191.968,-282.57 218.386,-345.933 247.484,-396 253.191,-405.819 260.229,-416.078 266.728,-424.984"/>
-<polygon fill="black" stroke="black" stroke-width="2.7" points="263.954,-427.119 272.734,-433.05 269.569,-422.938 263.954,-427.119"/>
-</g>
-<!-- AS3356 -->
-<g id="node4" class="node"><title>AS3356</title>
-<g id="a_node4"><a xlink:href="/asn/3356" xlink:title="AS3356 ~ Level 3 Parent, LLC [US]">
-<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-261" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="287.131" y="-257.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS3356</text>
-</a>
-</g>
-</g>
-<!-- AS1764&#45;&gt;AS3356 -->
-<g id="edge3" class="edge"><title>AS1764&#45;&gt;AS3356</title>
-<path fill="none" stroke="black" stroke-width="4.5" d="M207.445,-242.248C218.316,-244.838 230.471,-247.735 241.913,-250.462"/>
-<polygon fill="black" stroke="black" stroke-width="4.5" points="241.095,-254.315 251.736,-252.803 242.921,-246.654 241.095,-254.315"/>
+<path fill="none" stroke="black" stroke-width="4.5" d="M96.5131,-261C104.867,-261 113.577,-261 121.969,-261"/>
+<polygon fill="black" stroke="black" stroke-width="4.5" points="122.004,-264.938 132.004,-261 122.004,-257.063 122.004,-264.938"/>
 </g>
 <!-- AS1299 -->
-<g id="node5" class="node"><title>AS1299</title>
-<g id="a_node5"><a xlink:href="/asn/1299" xlink:title="AS1299 ~ Telia Carrier [EU]">
+<g id="node3" class="node"><title>AS1299</title>
+<g id="a_node3"><a xlink:href="/asn/1299" xlink:title="AS1299 ~ Telia Carrier [EU]">
 <ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-369" rx="39.7935" ry="18"/>
 <text text-anchor="middle" x="287.131" y="-365.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS1299</text>
 </a>
 </g>
 </g>
 <!-- AS1764&#45;&gt;AS1299 -->
-<g id="edge4" class="edge"><title>AS1764&#45;&gt;AS1299</title>
-<path fill="none" stroke="black" stroke-width="3.6" d="M186.958,-250.825C206.632,-274.269 242.436,-316.934 265.215,-344.076"/>
-<polygon fill="black" stroke="black" stroke-width="3.6" points="262.724,-346.553 271.833,-351.963 268.086,-342.053 262.724,-346.553"/>
+<g id="edge2" class="edge"><title>AS1764&#45;&gt;AS1299</title>
+<path fill="none" stroke="black" stroke-width="3" d="M190.045,-277.403C209.12,-295.587 240.04,-325.063 261.638,-345.651"/>
+<polygon fill="black" stroke="black" stroke-width="3" points="259.48,-348.43 269.133,-352.797 264.31,-343.363 259.48,-348.43"/>
+</g>
+<!-- AS3356 -->
+<g id="node4" class="node"><title>AS3356</title>
+<g id="a_node4"><a xlink:href="/asn/3356" xlink:title="AS3356 ~ Level 3 Parent, LLC [US]">
+<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-450" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="287.131" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS3356</text>
+</a>
+</g>
+</g>
+<!-- AS1764&#45;&gt;AS3356 -->
+<g id="edge3" class="edge"><title>AS1764&#45;&gt;AS3356</title>
+<path fill="none" stroke="black" stroke-width="2.25" d="M181.864,-278.852C195.3,-305.055 221.75,-355.237 247.484,-396 253.547,-405.604 260.667,-415.813 267.133,-424.739"/>
+<polygon fill="black" stroke="black" stroke-width="2.25" points="264.339,-426.848 273.075,-432.843 269.984,-422.709 264.339,-426.848"/>
+</g>
+<!-- AS3257 -->
+<g id="node5" class="node"><title>AS3257</title>
+<g id="a_node5"><a xlink:href="/asn/3257" xlink:title="AS3257 ~ GTT [DE]">
+<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-288" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="287.131" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS3257</text>
+</a>
+</g>
+</g>
+<!-- AS1764&#45;&gt;AS3257 -->
+<g id="edge4" class="edge"><title>AS1764&#45;&gt;AS3257</title>
+<path fill="none" stroke="black" stroke-width="4.5" d="M207.445,-269.248C218.316,-271.838 230.471,-274.735 241.913,-277.462"/>
+<polygon fill="black" stroke="black" stroke-width="4.5" points="241.095,-281.315 251.736,-279.803 242.921,-273.654 241.095,-281.315"/>
 </g>
 <!-- AS6939 -->
 <g id="node6" class="node"><title>AS6939</title>
 <g id="a_node6"><a xlink:href="/asn/6939" xlink:title="AS6939 ~ Hurricane Electric LLC [US]">
-<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-153" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="287.131" y="-149.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS6939</text>
+<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-234" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="287.131" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS6939</text>
 </a>
 </g>
 </g>
 <!-- AS1764&#45;&gt;AS6939 -->
 <g id="edge5" class="edge"><title>AS1764&#45;&gt;AS6939</title>
-<path fill="none" stroke="black" stroke-width="3.6" d="M193.686,-218.778C208.62,-207.909 229.234,-192.975 247.484,-180 250.305,-177.995 253.248,-175.915 256.196,-173.841"/>
-<polygon fill="black" stroke="black" stroke-width="3.6" points="258.242,-176.681 264.421,-168.074 254.223,-170.95 258.242,-176.681"/>
-</g>
-<!-- AS3257 -->
-<g id="node7" class="node"><title>AS3257</title>
-<g id="a_node7"><a xlink:href="/asn/3257" xlink:title="AS3257 ~ GTT [DE]">
-<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-207" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="287.131" y="-203.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS3257</text>
-</a>
-</g>
-</g>
-<!-- AS1764&#45;&gt;AS3257 -->
-<g id="edge6" class="edge"><title>AS1764&#45;&gt;AS3257</title>
-<path fill="none" stroke="black" stroke-width="1.8" d="M207.445,-225.752C218.316,-223.162 230.471,-220.265 241.913,-217.538"/>
-<polygon fill="black" stroke="black" stroke-width="1.8" points="242.819,-220.92 251.736,-215.197 241.197,-214.111 242.819,-220.92"/>
+<path fill="none" stroke="black" stroke-width="3.75" d="M207.445,-252.752C218.316,-250.162 230.471,-247.265 241.913,-244.538"/>
+<polygon fill="black" stroke="black" stroke-width="3.75" points="242.819,-247.92 251.736,-242.197 241.197,-241.111 242.819,-247.92"/>
 </g>
 <!-- AS8218 -->
-<g id="node8" class="node"><title>AS8218</title>
-<g id="a_node8"><a xlink:href="/asn/8218" xlink:title="AS8218 ~ legacy Neotelecoms [FR]">
-<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-72" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="287.131" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS8218</text>
+<g id="node7" class="node"><title>AS8218</title>
+<g id="a_node7"><a xlink:href="/asn/8218" xlink:title="AS8218 ~ legacy Neotelecoms [FR]">
+<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-180" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="287.131" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS8218</text>
 </a>
 </g>
 </g>
 <!-- AS1764&#45;&gt;AS8218 -->
-<g id="edge7" class="edge"><title>AS1764&#45;&gt;AS8218</title>
-<path fill="none" stroke="black" stroke-width="0.9" d="M184.645,-216.731C199.288,-195.358 225.062,-157.88 247.484,-126 254.119,-116.567 261.469,-106.261 267.963,-97.2048"/>
-<polygon fill="black" stroke="black" stroke-width="0.9" points="270.884,-99.1376 273.875,-88.9737 265.199,-95.0538 270.884,-99.1376"/>
+<g id="edge6" class="edge"><title>AS1764&#45;&gt;AS8218</title>
+<path fill="none" stroke="black" stroke-width="0.75" d="M193.686,-245.778C208.62,-234.909 229.234,-219.975 247.484,-207 250.305,-204.995 253.248,-202.915 256.196,-200.841"/>
+<polygon fill="black" stroke="black" stroke-width="0.75" points="258.242,-203.681 264.421,-195.074 254.223,-197.95 258.242,-203.681"/>
 </g>
-<!-- AS6762 -->
-<g id="node13" class="node"><title>AS6762</title>
-<g id="a_node13"><a xlink:href="/asn/6762" xlink:title="AS6762 ~ TELECOM ITALIA SPARKLE S.p.A. [IT]">
-<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-504" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="402.424" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS6762</text>
+<!-- AS174 -->
+<g id="node8" class="node"><title>AS174</title>
+<g id="a_node8"><a xlink:href="/asn/174" xlink:title="AS174 ~ Cogent Communications [US]">
+<ellipse fill="#ffffff" stroke="black" cx="287.131" cy="-126" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="287.131" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS174</text>
 </a>
 </g>
 </g>
-<!-- AS174&#45;&gt;AS6762 -->
-<g id="edge12" class="edge"><title>AS174&#45;&gt;AS6762</title>
-<path fill="none" stroke="black" d="M313.556,-462.119C328.859,-469.413 348.582,-478.814 365.464,-486.86"/>
-<polygon fill="black" stroke="black" points="363.971,-490.026 374.504,-491.169 366.983,-483.707 363.971,-490.026"/>
-</g>
-<!-- AS2914 -->
-<g id="node14" class="node"><title>AS2914</title>
-<g id="a_node14"><a xlink:href="/asn/2914" xlink:title="AS2914 ~ NTT America, Inc. [US]">
-<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-450" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="402.424" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS2914</text>
-</a>
-</g>
-</g>
-<!-- AS174&#45;&gt;AS2914 -->
-<g id="edge13" class="edge"><title>AS174&#45;&gt;AS2914</title>
-<path fill="none" stroke="black" d="M322.43,-450C331.807,-450 342.158,-450 352.192,-450"/>
-<polygon fill="black" stroke="black" points="352.481,-453.5 362.481,-450 352.481,-446.5 352.481,-453.5"/>
-</g>
-<!-- AS6453 -->
-<g id="node9" class="node"><title>AS6453</title>
-<g id="a_node9"><a xlink:href="/asn/6453" xlink:title="AS6453 ~ TATA COMMUNICATIONS (AMERICA) INC [US]">
-<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-288" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="402.424" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS6453</text>
-</a>
-</g>
-</g>
-<!-- AS3356&#45;&gt;AS6453 -->
-<g id="edge8" class="edge"><title>AS3356&#45;&gt;AS6453</title>
-<path fill="none" stroke="black" d="M322.738,-269.248C333.609,-271.838 345.764,-274.735 357.206,-277.462"/>
-<polygon fill="black" stroke="black" points="356.49,-280.889 367.029,-279.803 358.112,-274.08 356.49,-280.889"/>
-</g>
-<!-- AS2497 -->
-<g id="node10" class="node"><title>AS2497</title>
-<g id="a_node10"><a xlink:href="/asn/2497" xlink:title="AS2497 ~ Internet Initiative Japan Inc. [JP]">
-<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-180" rx="39.7935" ry="18"/>
-<text text-anchor="middle" x="402.424" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS2497</text>
-</a>
-</g>
-</g>
-<!-- AS3356&#45;&gt;AS2497 -->
-<g id="edge9" class="edge"><title>AS3356&#45;&gt;AS2497</title>
-<path fill="none" stroke="black" d="M309.888,-245.991C315.422,-242.121 321.341,-237.936 326.777,-234 342.977,-222.271 346.578,-218.729 362.777,-207 365.58,-204.971 368.512,-202.875 371.453,-200.79"/>
-<polygon fill="black" stroke="black" points="373.504,-203.627 379.667,-195.009 369.475,-197.903 373.504,-203.627"/>
-</g>
-<!-- AS701 -->
-<g id="node11" class="node"><title>AS701</title>
-<g id="a_node11"><a xlink:href="/asn/701" xlink:title="AS701 ~ UUNET [US]">
-<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-234" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="402.424" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS701</text>
-</a>
-</g>
-</g>
-<!-- AS3356&#45;&gt;AS701 -->
-<g id="edge10" class="edge"><title>AS3356&#45;&gt;AS701</title>
-<path fill="none" stroke="black" d="M322.738,-252.752C334.533,-249.942 347.837,-246.771 360.105,-243.847"/>
-<polygon fill="black" stroke="black" points="361.194,-247.186 370.11,-241.463 359.571,-240.376 361.194,-247.186"/>
+<!-- AS1764&#45;&gt;AS174 -->
+<g id="edge7" class="edge"><title>AS1764&#45;&gt;AS174</title>
+<path fill="none" stroke="black" stroke-width="0.75" d="M182.298,-243.51C195.08,-220.904 219.512,-181.114 247.484,-153 249.985,-150.487 252.745,-148.051 255.606,-145.739"/>
+<polygon fill="black" stroke="black" stroke-width="0.75" points="257.907,-148.389 263.804,-139.587 253.705,-142.79 257.907,-148.389"/>
 </g>
 <!-- AS209 -->
-<g id="node12" class="node"><title>AS209</title>
-<g id="a_node12"><a xlink:href="/asn/209" xlink:title="AS209 ~ CenturyLink Communications, LLC [US]">
-<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-342" rx="35.194" ry="18"/>
-<text text-anchor="middle" x="402.424" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS209</text>
+<g id="node9" class="node"><title>AS209</title>
+<g id="a_node9"><a xlink:href="/asn/209" xlink:title="AS209 ~ CenturyLink Communications, LLC [US]">
+<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-450" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="402.424" y="-446.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS209</text>
 </a>
 </g>
 </g>
-<!-- AS3356&#45;&gt;AS209 -->
-<g id="edge11" class="edge"><title>AS3356&#45;&gt;AS209</title>
-<path fill="none" stroke="black" d="M308.979,-276.222C323.913,-287.091 344.527,-302.025 362.777,-315 365.988,-317.282 369.357,-319.661 372.711,-322.018"/>
-<polygon fill="black" stroke="black" points="370.723,-324.899 380.922,-327.77 374.74,-319.166 370.723,-324.899"/>
-</g>
 <!-- AS1299&#45;&gt;AS209 -->
-<g id="edge19" class="edge"><title>AS1299&#45;&gt;AS209</title>
-<path fill="none" stroke="black" d="M322.738,-360.752C334.533,-357.942 347.837,-354.771 360.105,-351.847"/>
-<polygon fill="black" stroke="black" points="361.194,-355.186 370.11,-349.463 359.571,-348.376 361.194,-355.186"/>
-</g>
-<!-- AS1299&#45;&gt;AS2914 -->
-<g id="edge18" class="edge"><title>AS1299&#45;&gt;AS2914</title>
-<path fill="none" stroke="black" d="M308.979,-384.222C323.913,-395.091 344.527,-410.025 362.777,-423 365.598,-425.005 368.541,-427.085 371.489,-429.159"/>
-<polygon fill="black" stroke="black" points="369.516,-432.05 379.714,-434.926 373.535,-426.319 369.516,-432.05"/>
+<g id="edge8" class="edge"><title>AS1299&#45;&gt;AS209</title>
+<path fill="none" stroke="black" d="M308.979,-384.222C323.913,-395.091 344.527,-410.025 362.777,-423 365.988,-425.282 369.357,-427.661 372.711,-430.018"/>
+<polygon fill="black" stroke="black" points="370.723,-432.899 380.922,-435.77 374.74,-427.166 370.723,-432.899"/>
 </g>
 <!-- AS7018 -->
-<g id="node17" class="node"><title>AS7018</title>
-<g id="a_node17"><a xlink:href="/asn/7018" xlink:title="AS7018 ~ ATT&#45;INTERNET4 [US]">
+<g id="node10" class="node"><title>AS7018</title>
+<g id="a_node10"><a xlink:href="/asn/7018" xlink:title="AS7018 ~ ATT&#45;INTERNET4 [US]">
 <ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-396" rx="39.7935" ry="18"/>
 <text text-anchor="middle" x="402.424" y="-392.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS7018</text>
 </a>
 </g>
 </g>
 <!-- AS1299&#45;&gt;AS7018 -->
-<g id="edge20" class="edge"><title>AS1299&#45;&gt;AS7018</title>
+<g id="edge9" class="edge"><title>AS1299&#45;&gt;AS7018</title>
 <path fill="none" stroke="black" d="M322.738,-377.248C333.609,-379.838 345.764,-382.735 357.206,-385.462"/>
 <polygon fill="black" stroke="black" points="356.49,-388.889 367.029,-387.803 358.112,-382.08 356.49,-388.889"/>
 </g>
-<!-- AS6939&#45;&gt;AS2497 -->
-<g id="edge15" class="edge"><title>AS6939&#45;&gt;AS2497</title>
-<path fill="none" stroke="black" d="M322.738,-161.248C333.609,-163.838 345.764,-166.735 357.206,-169.462"/>
-<polygon fill="black" stroke="black" points="356.49,-172.889 367.029,-171.803 358.112,-166.08 356.49,-172.889"/>
+<!-- AS2914 -->
+<g id="node11" class="node"><title>AS2914</title>
+<g id="a_node11"><a xlink:href="/asn/2914" xlink:title="AS2914 ~ NTT America, Inc. [US]">
+<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-342" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="402.424" y="-338.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS2914</text>
+</a>
+</g>
+</g>
+<!-- AS1299&#45;&gt;AS2914 -->
+<g id="edge10" class="edge"><title>AS1299&#45;&gt;AS2914</title>
+<path fill="none" stroke="black" d="M322.738,-360.752C333.609,-358.162 345.764,-355.265 357.206,-352.538"/>
+<polygon fill="black" stroke="black" points="358.112,-355.92 367.029,-350.197 356.49,-349.111 358.112,-355.92"/>
+</g>
+<!-- AS3356&#45;&gt;AS209 -->
+<g id="edge11" class="edge"><title>AS3356&#45;&gt;AS209</title>
+<path fill="none" stroke="black" d="M326.803,-450C336.508,-450 346.999,-450 356.962,-450"/>
+<polygon fill="black" stroke="black" points="357.098,-453.5 367.098,-450 357.098,-446.5 357.098,-453.5"/>
+</g>
+<!-- AS6453 -->
+<g id="node12" class="node"><title>AS6453</title>
+<g id="a_node12"><a xlink:href="/asn/6453" xlink:title="AS6453 ~ TATA COMMUNICATIONS (AMERICA) INC [US]">
+<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-504" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="402.424" y="-500.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS6453</text>
+</a>
+</g>
+</g>
+<!-- AS3356&#45;&gt;AS6453 -->
+<g id="edge12" class="edge"><title>AS3356&#45;&gt;AS6453</title>
+<path fill="none" stroke="black" d="M315.267,-462.934C330.261,-470.081 349.082,-479.052 365.306,-486.785"/>
+<polygon fill="black" stroke="black" points="363.976,-490.028 374.509,-491.171 366.988,-483.709 363.976,-490.028"/>
+</g>
+<!-- AS3257&#45;&gt;AS209 -->
+<g id="edge13" class="edge"><title>AS3257&#45;&gt;AS209</title>
+<path fill="none" stroke="black" d="M301.592,-304.913C309.485,-315.27 319.335,-328.992 326.777,-342 346.342,-376.194 337.713,-392.606 362.777,-423 364.912,-425.589 367.355,-428.041 369.951,-430.334"/>
+<polygon fill="black" stroke="black" points="368.029,-433.275 378.051,-436.712 372.36,-427.775 368.029,-433.275"/>
+</g>
+<!-- AS3257&#45;&gt;AS2914 -->
+<g id="edge17" class="edge"><title>AS3257&#45;&gt;AS2914</title>
+<path fill="none" stroke="black" d="M315.267,-300.934C330.261,-308.081 349.082,-317.052 365.306,-324.785"/>
+<polygon fill="black" stroke="black" points="363.976,-328.028 374.509,-329.171 366.988,-321.709 363.976,-328.028"/>
+</g>
+<!-- AS6762 -->
+<g id="node13" class="node"><title>AS6762</title>
+<g id="a_node13"><a xlink:href="/asn/6762" xlink:title="AS6762 ~ TELECOM ITALIA SPARKLE S.p.A. [IT]">
+<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-234" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="402.424" y="-230.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS6762</text>
+</a>
+</g>
+</g>
+<!-- AS3257&#45;&gt;AS6762 -->
+<g id="edge14" class="edge"><title>AS3257&#45;&gt;AS6762</title>
+<path fill="none" stroke="black" d="M315.267,-275.066C330.261,-267.919 349.082,-258.948 365.306,-251.215"/>
+<polygon fill="black" stroke="black" points="366.988,-254.291 374.509,-246.829 363.976,-247.972 366.988,-254.291"/>
+</g>
+<!-- AS701 -->
+<g id="node14" class="node"><title>AS701</title>
+<g id="a_node14"><a xlink:href="/asn/701" xlink:title="AS701 ~ UUNET [US]">
+<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-288" rx="35.194" ry="18"/>
+<text text-anchor="middle" x="402.424" y="-284.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS701</text>
+</a>
+</g>
+</g>
+<!-- AS3257&#45;&gt;AS701 -->
+<g id="edge15" class="edge"><title>AS3257&#45;&gt;AS701</title>
+<path fill="none" stroke="black" d="M326.803,-288C336.508,-288 346.999,-288 356.962,-288"/>
+<polygon fill="black" stroke="black" points="357.098,-291.5 367.098,-288 357.098,-284.5 357.098,-291.5"/>
+</g>
+<!-- AS2497 -->
+<g id="node15" class="node"><title>AS2497</title>
+<g id="a_node15"><a xlink:href="/asn/2497" xlink:title="AS2497 ~ Internet Initiative Japan Inc. [JP]">
+<ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-180" rx="39.7935" ry="18"/>
+<text text-anchor="middle" x="402.424" y="-176.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS2497</text>
+</a>
+</g>
+</g>
+<!-- AS3257&#45;&gt;AS2497 -->
+<g id="edge16" class="edge"><title>AS3257&#45;&gt;AS2497</title>
+<path fill="none" stroke="black" d="M311.725,-273.611C316.981,-269.852 322.313,-265.563 326.777,-261 346.95,-240.383 342.605,-227.617 362.777,-207 364.87,-204.861 367.154,-202.782 369.53,-200.79"/>
+<polygon fill="black" stroke="black" points="372.049,-203.268 377.83,-194.389 367.774,-197.725 372.049,-203.268"/>
 </g>
 <!-- AS6939&#45;&gt;AS2914 -->
-<g id="edge14" class="edge"><title>AS6939&#45;&gt;AS2914</title>
-<path fill="none" stroke="black" d="M313.728,-166.428C318.769,-170.181 323.505,-174.71 326.777,-180 384.218,-272.847 305.336,-330.153 362.777,-423 364.311,-425.48 366.167,-427.792 368.225,-429.936"/>
-<polygon fill="black" stroke="black" points="365.992,-432.632 375.827,-436.572 370.595,-427.359 365.992,-432.632"/>
+<g id="edge21" class="edge"><title>AS6939&#45;&gt;AS2914</title>
+<path fill="none" stroke="black" d="M311.725,-248.389C316.981,-252.148 322.313,-256.437 326.777,-261 346.95,-281.617 342.605,-294.383 362.777,-315 364.87,-317.139 367.154,-319.218 369.53,-321.21"/>
+<polygon fill="black" stroke="black" points="367.774,-324.275 377.83,-327.611 372.049,-318.732 367.774,-324.275"/>
+</g>
+<!-- AS6939&#45;&gt;AS6762 -->
+<g id="edge20" class="edge"><title>AS6939&#45;&gt;AS6762</title>
+<path fill="none" stroke="black" d="M326.803,-234C335.006,-234 343.77,-234 352.302,-234"/>
+<polygon fill="black" stroke="black" points="352.541,-237.5 362.541,-234 352.541,-230.5 352.541,-237.5"/>
+</g>
+<!-- AS6939&#45;&gt;AS2497 -->
+<g id="edge19" class="edge"><title>AS6939&#45;&gt;AS2497</title>
+<path fill="none" stroke="black" d="M315.267,-221.066C330.261,-213.919 349.082,-204.948 365.306,-197.215"/>
+<polygon fill="black" stroke="black" points="366.988,-200.291 374.509,-192.829 363.976,-193.972 366.988,-200.291"/>
 </g>
 <!-- AS3491 -->
-<g id="node15" class="node"><title>AS3491</title>
-<g id="a_node15"><a xlink:href="/asn/3491" xlink:title="AS3491 ~ PCCW Global, Inc. [US]">
+<g id="node16" class="node"><title>AS3491</title>
+<g id="a_node16"><a xlink:href="/asn/3491" xlink:title="AS3491 ~ PCCW Global, Inc. [US]">
 <ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-126" rx="39.7935" ry="18"/>
 <text text-anchor="middle" x="402.424" y="-122.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS3491</text>
 </a>
 </g>
 </g>
 <!-- AS6939&#45;&gt;AS3491 -->
-<g id="edge16" class="edge"><title>AS6939&#45;&gt;AS3491</title>
-<path fill="none" stroke="black" d="M322.738,-144.752C333.609,-142.162 345.764,-139.265 357.206,-136.538"/>
-<polygon fill="black" stroke="black" points="358.112,-139.92 367.029,-134.197 356.49,-133.111 358.112,-139.92"/>
+<g id="edge18" class="edge"><title>AS6939&#45;&gt;AS3491</title>
+<path fill="none" stroke="black" d="M311.725,-219.611C316.981,-215.852 322.313,-211.563 326.777,-207 346.95,-186.383 342.605,-173.617 362.777,-153 364.87,-150.861 367.154,-148.782 369.53,-146.79"/>
+<polygon fill="black" stroke="black" points="372.049,-149.268 377.83,-140.389 367.774,-143.725 372.049,-149.268"/>
 </g>
 <!-- AS1273 -->
-<g id="node16" class="node"><title>AS1273</title>
-<g id="a_node16"><a xlink:href="/asn/1273" xlink:title="AS1273 ~ Vodafone Group PLC [EU]">
+<g id="node17" class="node"><title>AS1273</title>
+<g id="a_node17"><a xlink:href="/asn/1273" xlink:title="AS1273 ~ Vodafone Group PLC [EU]">
 <ellipse fill="#ffffff" stroke="black" cx="402.424" cy="-72" rx="39.7935" ry="18"/>
 <text text-anchor="middle" x="402.424" y="-68.3" font-family="Times,serif" font-size="14.00" fill="#2c94b3">AS1273</text>
 </a>
 </g>
 </g>
 <!-- AS6939&#45;&gt;AS1273 -->
-<g id="edge17" class="edge"><title>AS6939&#45;&gt;AS1273</title>
-<path fill="none" stroke="black" d="M308.979,-137.778C323.913,-126.909 344.527,-111.975 362.777,-99 365.598,-96.9948 368.541,-94.9154 371.489,-92.8411"/>
-<polygon fill="black" stroke="black" points="373.535,-95.6812 379.714,-87.0744 369.516,-89.9497 373.535,-95.6812"/>
-</g>
-<!-- AS3257&#45;&gt;AS2497 -->
-<g id="edge22" class="edge"><title>AS3257&#45;&gt;AS2497</title>
-<path fill="none" stroke="black" d="M322.738,-198.752C333.609,-196.162 345.764,-193.265 357.206,-190.538"/>
-<polygon fill="black" stroke="black" points="358.112,-193.92 367.029,-188.197 356.49,-187.111 358.112,-193.92"/>
+<g id="edge22" class="edge"><title>AS6939&#45;&gt;AS1273</title>
+<path fill="none" stroke="black" d="M313.062,-220.118C318.138,-216.389 323.056,-211.984 326.777,-207 357.049,-166.458 332.506,-139.542 362.777,-99 364.522,-96.6636 366.529,-94.4546 368.693,-92.3828"/>
+<polygon fill="black" stroke="black" points="371.052,-94.9726 376.493,-85.8816 366.57,-89.5954 371.052,-94.9726"/>
 </g>
 <!-- AS6461 -->
 <g id="node18" class="node"><title>AS6461</title>
@@ -259,9 +264,9 @@
 </g>
 </g>
 <!-- AS8218&#45;&gt;AS6461 -->
-<g id="edge21" class="edge"><title>AS8218&#45;&gt;AS6461</title>
-<path fill="none" stroke="black" d="M315.267,-59.0657C330.261,-51.9189 349.082,-42.9481 365.306,-35.2154"/>
-<polygon fill="black" stroke="black" points="366.988,-38.291 374.509,-30.8288 363.976,-31.972 366.988,-38.291"/>
+<g id="edge23" class="edge"><title>AS8218&#45;&gt;AS6461</title>
+<path fill="none" stroke="black" d="M313.062,-166.118C318.138,-162.389 323.056,-157.984 326.777,-153 357.049,-112.458 332.506,-85.5419 362.777,-45 364.522,-42.6636 366.529,-40.4546 368.693,-38.3828"/>
+<polygon fill="black" stroke="black" points="371.052,-40.9726 376.493,-31.8816 366.57,-35.5954 371.052,-40.9726"/>
 </g>
 </g>
 </svg>
