@@ -57,6 +57,12 @@
     ],
     "ipv6_downstreams": [
         {
+            "asn": 12654,
+            "country_code": "EU",
+            "description": "Reseaux IP Europeens Network Coordination Centre (RIPE NCC)",
+            "name": "RIPE-NCC-RIS-AS"
+        },
+        {
             "asn": 47251,
             "country_code": "AT",
             "description": "VLBGIT Friesenecker e.U.",
@@ -67,12 +73,6 @@
             "country_code": "AT",
             "description": "schallert.com e.U.",
             "name": "SCHALLERT-AS"
-        },
-        {
-            "asn": 198288,
-            "country_code": "LI",
-            "description": "Newsnet AG",
-            "name": "newsnet"
         }
     ]
 }
