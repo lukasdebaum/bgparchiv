@@ -609,6 +609,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 23,
+            "country_code": "FR",
+            "description": "Equinix Internet Exchange Paris",
+            "ip": "195.42.144.0",
+            "name": "EE-Paris",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "195.42.144.0",
+                "prefix": "195.42.144.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "195.42.144.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "LU",
             "description": "G-Core Innovations S.a r.l.",
