@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "JAGGAER Austria GmbH",
+            "ip": "147.78.32.0",
+            "name": "AT-JAGGAER-20190117",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "147.78.32.0",
+                "prefix": "147.78.32.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "147.78.32.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "AT",
             "description": "AT JAGGAER DCv4",
