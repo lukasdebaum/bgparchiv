@@ -8593,6 +8593,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 18,
+            "country_code": "CH",
+            "description": "UPC Schweiz GmbH",
+            "ip": "62.2.0.0",
+            "name": "CH-UPC-981211",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "62.2.0.0",
+                "prefix": "62.2.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.2.0.0/18",
+            "roa_status": "None"
+        },
+        {
             "cidr": 17,
             "country_code": "CH",
             "description": "UPC Schweiz GmbH",
@@ -8654,6 +8670,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "62.2.36.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 18,
+            "country_code": "CH",
+            "description": "UPC Schweiz GmbH",
+            "ip": "62.2.64.0",
+            "name": "CH-UPC-981211",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "62.2.0.0",
+                "prefix": "62.2.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "62.2.64.0/18",
             "roa_status": "None"
         },
         {
@@ -14318,22 +14350,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "93.99.128.0/17",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "CZ",
-            "description": "TS Hydro spol. s r.o., Kanice",
-            "ip": "93.99.173.0",
-            "name": "CZ-TSHYDRO",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 16,
-                "ip": "93.99.0.0",
-                "prefix": "93.99.0.0/16",
-                "rir_name": "RIPE"
-            },
-            "prefix": "93.99.173.0/24",
             "roa_status": "None"
         },
         {
