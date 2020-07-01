@@ -779,7 +779,7 @@
         {
             "asn": 48793,
             "country_code": "ES",
-            "description": "DE-CIX Management GmbH",
+            "description": "DE-CIX Madrid Route Servers",
             "ipv4_address": "185.1.68.252",
             "ipv6_address": "2001:7f8:a0::be99:fc:1",
             "name": "DECIX-MAD-AS",
@@ -788,7 +788,7 @@
         {
             "asn": 48793,
             "country_code": "ES",
-            "description": "DE-CIX Management GmbH",
+            "description": "DE-CIX Madrid Route Servers",
             "ipv4_address": "185.1.68.253",
             "ipv6_address": "2001:7f8:a0::be99:fd:1",
             "name": "DECIX-MAD-AS",
@@ -802,6 +802,15 @@
             "ipv6_address": "2001:7f8:a0::bece:0:1",
             "name": "IECINET-AS",
             "speed": 1000
+        },
+        {
+            "asn": 49544,
+            "country_code": "NL",
+            "description": "i3D.net B.V",
+            "ipv4_address": "185.1.68.213",
+            "ipv6_address": "2001:7f8:a0::c188:0:1",
+            "name": "i3Dnet",
+            "speed": 10000
         },
         {
             "asn": 50129,
@@ -1371,7 +1380,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 141,
+    "members_count": 142,
     "name": "DE-CIX Madrid",
     "name_full": "Deutscher Commercial Internet Exchange Madrid",
     "policy_email": null,
