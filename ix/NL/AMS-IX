@@ -2421,7 +2421,7 @@
             "ipv4_address": "80.249.208.75",
             "ipv6_address": "2001:7f8:1::a501:3445:1",
             "name": "13445",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 13768,
@@ -7626,6 +7626,15 @@
             "speed": 1000
         },
         {
+            "asn": 61438,
+            "country_code": "AT",
+            "description": "ip-it consult GmbH",
+            "ipv4_address": "80.249.214.69",
+            "ipv6_address": "2001:7f8:1::a506:1438:1",
+            "name": "IP-IT-AS",
+            "speed": 100
+        },
+        {
             "asn": 61955,
             "country_code": "DE",
             "description": "ColocationIX GmbH",
@@ -7876,6 +7885,15 @@
             "ipv6_address": "2001:7f8:1:0:a500:13:6106:1",
             "name": "FIBERSTAR-AS-ID",
             "speed": 10000
+        },
+        {
+            "asn": 138322,
+            "country_code": "AF",
+            "description": "Afghan Wireless",
+            "ipv4_address": "80.249.214.75",
+            "ipv6_address": null,
+            "name": "AWCC-AS-AP",
+            "speed": 1000
         },
         {
             "asn": 196689,
@@ -8643,6 +8661,15 @@
             "speed": 0
         },
         {
+            "asn": 263482,
+            "country_code": "BR",
+            "description": "Megalink Servicos Ltda",
+            "ipv4_address": "80.249.214.76",
+            "ipv6_address": "2001:7f8:1:0:a500:26:3482:1",
+            "name": "Megalink Servicos Ltda",
+            "speed": 1000
+        },
+        {
             "asn": 263528,
             "country_code": "BR",
             "description": "VIACOM NEXT GENERATION COMUNICACAO LTDA",
@@ -8697,7 +8724,7 @@
             "speed": 1024
         }
     ],
-    "members_count": 857,
+    "members_count": 860,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
