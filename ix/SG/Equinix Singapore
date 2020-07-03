@@ -855,7 +855,7 @@
             "ipv4_address": "27.111.229.249",
             "ipv6_address": "2001:de8:4::1:122:1",
             "name": "BIGO-AS-AP",
-            "speed": 200000
+            "speed": 300000
         },
         {
             "asn": 10158,
@@ -1657,6 +1657,15 @@
             "ipv6_address": null,
             "name": "DALNET",
             "speed": 1000
+        },
+        {
+            "asn": 32261,
+            "country_code": "US",
+            "description": "subspace",
+            "ipv4_address": "27.111.229.183",
+            "ipv6_address": "2001:de8:4::3:2261:1",
+            "name": "SUBSPACE",
+            "speed": 10000
         },
         {
             "asn": 32590,
@@ -2655,7 +2664,7 @@
             "ipv4_address": "27.111.228.212",
             "ipv6_address": "2001:de8:4::5:8552:1",
             "name": "MULTIDATA-ID-AP",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 58599,
@@ -2746,6 +2755,15 @@
             "ipv6_address": "2001:de8:4::13:1207:1",
             "name": "SINET-KH",
             "speed": 10000
+        },
+        {
+            "asn": 59325,
+            "country_code": "PH",
+            "description": "IXSFORALL, INC.",
+            "ipv4_address": "27.111.230.32",
+            "ipv6_address": null,
+            "name": "IXS-AS-AP",
+            "speed": 1000
         },
         {
             "asn": 59605,
@@ -3531,7 +3549,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 323,
+    "members_count": 325,
     "name": "Equinix Singapore",
     "name_full": "Equinix Singapore Exchange",
     "policy_email": "peering@ap.equinix.com",
