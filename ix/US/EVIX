@@ -93,15 +93,6 @@
             "speed": 1000
         },
         {
-            "asn": 34681,
-            "country_code": "PL",
-            "description": "VOPIX POLAND",
-            "ipv4_address": "206.81.104.104",
-            "ipv6_address": "2602:fed2:fff:ffff::169",
-            "name": "VOPIX",
-            "speed": 100
-        },
-        {
             "asn": 34872,
             "country_code": "BE",
             "description": "Cedric Rossius",
@@ -534,15 +525,6 @@
             "speed": 100
         },
         {
-            "asn": 139328,
-            "country_code": "CN",
-            "description": "Zhanrui Tian",
-            "ipv4_address": "206.81.104.78",
-            "ipv6_address": "2602:fed2:fff:ffff::78",
-            "name": "HAIMANETWORK-AS-AP",
-            "speed": 1000
-        },
-        {
             "asn": 139589,
             "country_code": "CN",
             "description": "GTDev Network",
@@ -576,7 +558,7 @@
             "ipv4_address": null,
             "ipv6_address": "2602:fed2:fff:ffff:6::32",
             "name": "TOHU-OP-AP",
-            "speed": 30
+            "speed": 100
         },
         {
             "asn": 198408,
@@ -1351,9 +1333,18 @@
             "ipv6_address": "2602:fed2:fff:ffff::83",
             "name": "JnthnNet",
             "speed": 100
+        },
+        {
+            "asn": 398419,
+            "country_code": "US",
+            "description": "Tiny Tiny Computing",
+            "ipv4_address": "206.81.104.169",
+            "ipv6_address": "2602:fed2:fff:ffff::169",
+            "name": "TINYTINY",
+            "speed": 1000
         }
     ],
-    "members_count": 148,
+    "members_count": 147,
     "name": "EVIX",
     "name_full": "Experimental Virtual Internet Exchange",
     "policy_email": "peering@evix.org",
