@@ -771,6 +771,38 @@
         {
             "cidr": 24,
             "country_code": "US",
+            "description": "G-Core Labs S.A.",
+            "ip": "5.101.216.0",
+            "name": "LU-GCORELABS-20120626",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "5.101.208.0",
+                "prefix": "5.101.208.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.101.216.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "RU",
+            "description": "net for depo40.ru",
+            "ip": "5.101.218.0",
+            "name": "DEPO-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 20,
+                "ip": "5.101.208.0",
+                "prefix": "5.101.208.0/20",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.101.218.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "US",
             "description": "G-Core Labs Customer assignment",
             "ip": "5.188.0.0",
             "name": "GCL-CUSTOMER-US",
