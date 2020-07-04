@@ -162,7 +162,7 @@
             "ipv4_address": "185.232.60.20",
             "ipv6_address": null,
             "name": "DINET-AS",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 12722,
@@ -329,7 +329,7 @@
         {
             "asn": 31059,
             "country_code": "RU",
-            "description": "Avelacom Ltd.",
+            "description": "Avelacom Business Ltd.",
             "ipv4_address": "185.232.60.17",
             "ipv6_address": null,
             "name": "AVELACOM-AS",
@@ -1227,6 +1227,15 @@
             "speed": 10000
         },
         {
+            "asn": 201119,
+            "country_code": "RU",
+            "description": "Icewood LLC",
+            "ipv4_address": "185.232.60.190",
+            "ipv6_address": "2a0d:e180::60:190",
+            "name": "ICEWOOD",
+            "speed": 10000
+        },
+        {
             "asn": 202009,
             "country_code": "RU",
             "description": "Tieto Rus LLC",
@@ -1308,7 +1317,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 127,
+    "members_count": 128,
     "name": "Eurasia Peering IX",
     "name_full": "Eurasia Peering LLC",
     "policy_email": "support@eurasiapeering.ru",
