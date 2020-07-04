@@ -35,6 +35,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "xinon iptv lan201",
+            "ip": "46.151.201.0",
+            "name": "xinon-iptv-lan201",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "46.151.200.0",
+                "prefix": "46.151.200.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.151.201.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "XINON LARGE BUSINESS230",
             "ip": "91.227.230.0",
             "name": "XINON-LARGE-BUSINESS230",
