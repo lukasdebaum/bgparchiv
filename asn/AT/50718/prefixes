@@ -33,6 +33,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 23,
+            "country_code": "AT",
+            "description": "customer public 202",
+            "ip": "46.151.202.0",
+            "name": "customer-public-202",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "46.151.200.0",
+                "prefix": "46.151.200.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "46.151.202.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "XINON GmbH",
