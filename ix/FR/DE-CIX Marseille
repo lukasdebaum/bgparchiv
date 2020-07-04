@@ -266,7 +266,7 @@
         {
             "asn": 20717,
             "country_code": "FR",
-            "description": "DE-CIX Management GmbH",
+            "description": "DE-CIX Marseille Route Servers",
             "ipv4_address": "185.1.47.252",
             "ipv6_address": "2001:7f8:36::50ed:fc:1",
             "name": "DECIX-MRS-AS",
@@ -275,7 +275,7 @@
         {
             "asn": 20717,
             "country_code": "FR",
-            "description": "DE-CIX Management GmbH",
+            "description": "DE-CIX Marseille Route Servers",
             "ipv4_address": "185.1.47.253",
             "ipv6_address": "2001:7f8:36::50ed:fd:1",
             "name": "DECIX-MRS-AS",
@@ -669,6 +669,15 @@
             "speed": 1000
         },
         {
+            "asn": 61438,
+            "country_code": "AT",
+            "description": "ip-it consult GmbH",
+            "ipv4_address": "185.1.47.91",
+            "ipv6_address": "2001:7f8:36::effe:0:1",
+            "name": "IP-IT-AS",
+            "speed": 1000
+        },
+        {
             "asn": 62955,
             "country_code": "US",
             "description": "eBay, Inc",
@@ -750,7 +759,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 78,
+    "members_count": 79,
     "name": "DE-CIX Marseille",
     "name_full": "Deutscher Commercial Internet Exchange Marseille",
     "policy_email": null,
