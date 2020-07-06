@@ -4,18 +4,19 @@
     ],
     "asn": 8447,
     "country_code": "AT",
-    "description_full": [
-        "A1 Telekom Austria AG",
-        "Arsenal Obj 24",
-        "1030 Vienna",
-        "======================================================================",
-        "www.a1.net",
-        "Abuse issues abuse@A1.at",
-        "Operational issues noc@aon.at",
-        "Peering requests peering@aon.at",
-        "Looking glass https://ppp.a1.net/tools/lookingglass.sp",
-        "Other info https://as8447.peeringdb.com"
-    ],
+    "description_full": {
+        "0": "A1 Telekom Austria AG",
+        "1": "Arsenal Obj 24",
+        "13": "Abuse issues abuse@A1.at",
+        "2": "1030 Vienna",
+        "3": "======================================================================",
+        "4": "www.a1.net",
+        "5": "Abuse issues abuse@a1.at",
+        "6": "Operational issues noc@aon.at",
+        "7": "Peering requests peering@aon.at",
+        "8": "Looking glass https://ppp.a1.net/tools/lookingglass.sp",
+        "9": "Other info https://as8447.peeringdb.com"
+    },
     "description_short": "A1 Telekom Austria AG",
     "email_contacts": [
         "abuse@a1.at",
@@ -44,7 +45,7 @@
         "date_allocated": "1997-08-27 00:00:00",
         "rir_name": "RIPE"
     },
-    "traffic_estimation": "50-100 Gbps",
+    "traffic_estimation": "50-100Gbps",
     "traffic_ratio": "Balanced",
     "website": "http://www.a1.net/"
 }
