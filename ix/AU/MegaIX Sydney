@@ -111,6 +111,15 @@
             "speed": 10000
         },
         {
+            "asn": 4648,
+            "country_code": "NZ",
+            "description": "Global-Gateway Internet",
+            "ipv4_address": "103.26.69.84",
+            "ipv6_address": "2001:dea:0:10::154",
+            "name": "SPARK-NZ",
+            "speed": 10000
+        },
+        {
             "asn": 4764,
             "country_code": "AU",
             "description": "Aussie Broadband",
@@ -1371,15 +1380,6 @@
             "speed": 10000
         },
         {
-            "asn": 55555,
-            "country_code": "AU",
-            "description": "Delion Pty Ltd",
-            "ipv4_address": "103.26.68.43",
-            "ipv6_address": "2001:dea:0:10::2b",
-            "name": "DELION-AP",
-            "speed": 10000
-        },
-        {
             "asn": 55561,
             "country_code": "NZ",
             "description": "2talk Global IP Network",
@@ -2415,7 +2415,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 234,
+    "members_count": 233,
     "name": "MegaIX Sydney",
     "name_full": "Megaport MegaIX Sydney",
     "policy_email": "ix@megaport.com",
