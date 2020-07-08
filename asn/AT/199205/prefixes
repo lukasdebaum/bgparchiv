@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 22,
+            "country_code": "AT",
+            "description": "Huemer Data Center GmbH",
+            "ip": "185.119.160.0",
+            "name": "AT-HDC-20151001",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.119.160.0",
+                "prefix": "185.119.160.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.119.160.0/22",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "AT",
             "description": "Avenum Technologie GmbH",
