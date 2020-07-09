@@ -966,15 +966,6 @@
             "speed": 200000
         },
         {
-            "asn": 32934,
-            "country_code": "US",
-            "description": "Facebook, Inc.",
-            "ipv4_address": "178.18.226.131",
-            "ipv6_address": "2a03:5f80:4::226:131",
-            "name": "FACEBOOK",
-            "speed": 200000
-        },
-        {
             "asn": 34123,
             "country_code": "RU",
             "description": "Netorn LLC",
@@ -1153,6 +1144,15 @@
             "ipv6_address": "2a03:5f80:7::230:2",
             "name": "LANETUA-AS",
             "speed": 30000
+        },
+        {
+            "asn": 41009,
+            "country_code": "UA",
+            "description": "PP Vizit-Service",
+            "ipv4_address": "178.18.230.210",
+            "ipv6_address": "2a03:5f80:7::230:210",
+            "name": "VIZITNETUA-AS",
+            "speed": 1000
         },
         {
             "asn": 41018,
@@ -2622,7 +2622,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 223,
+    "members_count": 224,
     "name": "DATAIX",
     "name_full": "Global Network Managment Ltd",
     "policy_email": "noc@dataix.ru",
