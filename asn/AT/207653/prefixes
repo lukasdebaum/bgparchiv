@@ -1,4 +1,21 @@
 {
-    "ipv4_prefixes": [],
+    "ipv4_prefixes": [
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "Rechnungshof Osterreich",
+            "ip": "185.223.22.0",
+            "name": "RH-AUSTRIA-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.223.20.0",
+                "prefix": "185.223.20.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.223.22.0/24",
+            "roa_status": "None"
+        }
+    ],
     "ipv6_prefixes": []
 }
