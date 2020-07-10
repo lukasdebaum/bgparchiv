@@ -126,7 +126,16 @@
             "ipv4_address": "206.72.210.244",
             "ipv6_address": "2001:504:13::210:244",
             "name": "CORESITE",
-            "speed": 1000
+            "speed": 10000
+        },
+        {
+            "asn": 2734,
+            "country_code": "US",
+            "description": "CoreSite",
+            "ipv4_address": "206.72.211.115",
+            "ipv6_address": "2001:504:13::211:115",
+            "name": "CORESITE",
+            "speed": 10000
         },
         {
             "asn": 2906,
@@ -1884,15 +1893,6 @@
             "speed": 100000
         },
         {
-            "asn": 32743,
-            "country_code": "US",
-            "description": "U.S. COLO, LLC",
-            "ipv4_address": "206.72.211.115",
-            "ipv6_address": "2001:504:13::211:115",
-            "name": "USCOLO-ASN",
-            "speed": 10000
-        },
-        {
             "asn": 32787,
             "country_code": "US",
             "description": "Akamai Technologies, Inc.",
@@ -2901,7 +2901,7 @@
             "speed": 20000
         }
     ],
-    "members_count": 287,
+    "members_count": 286,
     "name": "CoreSite - Any2 California",
     "name_full": "CoreSite - Any2 Los Angeles",
     "policy_email": "any2@coresite.com",
