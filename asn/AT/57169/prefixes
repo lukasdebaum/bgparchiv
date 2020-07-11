@@ -193,22 +193,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 24,
-            "country_code": "HK",
-            "description": "EDIS Infrastructure in Hong Kong",
-            "ip": "151.236.20.0",
-            "name": "EDIS-HK",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 19,
-                "ip": "151.236.0.0",
-                "prefix": "151.236.0.0/19",
-                "rir_name": "RIPE"
-            },
-            "prefix": "151.236.20.0/24",
-            "roa_status": "None"
-        },
-        {
             "cidr": 23,
             "country_code": "CH",
             "description": "EDIS Infrastructure in Switzerland",
@@ -350,22 +334,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "151.236.9.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "HK",
-            "description": "EDIS Infrastructure in Hong Kong",
-            "ip": "158.255.208.0",
-            "name": "EDIS-HK",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 21,
-                "ip": "158.255.208.0",
-                "prefix": "158.255.208.0/21",
-                "rir_name": "RIPE"
-            },
-            "prefix": "158.255.208.0/24",
             "roa_status": "None"
         },
         {
@@ -722,22 +690,6 @@
         }
     ],
     "ipv6_prefixes": [
-        {
-            "cidr": 48,
-            "country_code": "HK",
-            "description": "EDIS IPv6 Infrastructure in Hong Kong",
-            "ip": "2a03:f80:852::",
-            "name": "EDIS-V6-HK",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 29,
-                "ip": "2a03:f80::",
-                "prefix": "2a03:f80::/29",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:f80:852::/48",
-            "roa_status": "None"
-        },
         {
             "cidr": 48,
             "country_code": "AT",
