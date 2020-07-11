@@ -833,7 +833,7 @@
         {
             "asn": 11404,
             "country_code": "US",
-            "description": "Wave Broadband",
+            "description": "AS-WAVE-1",
             "ipv4_address": "206.72.210.70",
             "ipv6_address": "2001:504:13::210:70",
             "name": "AS-WAVE-1",
@@ -2820,6 +2820,15 @@
             "speed": 10000
         },
         {
+            "asn": 199610,
+            "country_code": "DE",
+            "description": "marbis GmbH",
+            "ipv4_address": "206.72.210.189",
+            "ipv6_address": "2001:504:13::210:189",
+            "name": "MARBIS",
+            "speed": 10000
+        },
+        {
             "asn": 200981,
             "country_code": "GB",
             "description": "Oracle Svenska AB",
@@ -2901,7 +2910,7 @@
             "speed": 20000
         }
     ],
-    "members_count": 286,
+    "members_count": 287,
     "name": "CoreSite - Any2 California",
     "name_full": "CoreSite - Any2 Los Angeles",
     "policy_email": "any2@coresite.com",
