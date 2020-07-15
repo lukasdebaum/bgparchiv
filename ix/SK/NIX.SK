@@ -460,9 +460,18 @@
             "ipv6_address": "2001:7f8:91::2a:1",
             "name": "CENTRALNIC-ANYCAST-A",
             "speed": 1000
+        },
+        {
+            "asn": 200070,
+            "country_code": "CZ",
+            "description": "CZ.NIC, z.s.p.o.",
+            "ipv4_address": "194.30.187.38",
+            "ipv6_address": "2001:7f8:91::41:1",
+            "name": "CZNIC-AS2",
+            "speed": 10000
         }
     ],
-    "members_count": 46,
+    "members_count": 47,
     "name": "NIX.SK",
     "name_full": "Neutral Internet eXchange Slovakia",
     "policy_email": "ag@nix.cz",
