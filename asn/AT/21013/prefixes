@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "EasySolutions GmbH",
+            "ip": "109.70.238.0",
+            "name": "AT-EASYSOLUTIONS-20200622",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 24,
+                "ip": "109.70.238.0",
+                "prefix": "109.70.238.0/24",
+                "rir_name": "RIPE"
+            },
+            "prefix": "109.70.238.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "quattroSEC GmbH",
