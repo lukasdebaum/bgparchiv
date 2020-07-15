@@ -467,6 +467,22 @@
         {
             "cidr": 24,
             "country_code": "AT",
+            "description": "ORG FV29 RIPE",
+            "ip": "194.0.75.0",
+            "name": "ORG-FV29-RIPE",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 23,
+                "ip": "194.0.74.0",
+                "prefix": "194.0.74.0/23",
+                "rir_name": "RIPE"
+            },
+            "prefix": "194.0.75.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
             "description": "Austrian Airlines AG",
             "ip": "194.107.151.0",
             "name": "AUA-NET",
