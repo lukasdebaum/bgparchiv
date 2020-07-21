@@ -291,6 +291,15 @@
             "speed": 200
         },
         {
+            "asn": 2497,
+            "country_code": "JP",
+            "description": "Internet Initiative Japan Inc.",
+            "ipv4_address": "80.81.193.136",
+            "ipv6_address": "2001:7f8::9c1:0:1",
+            "name": "IIJ",
+            "speed": 10000
+        },
+        {
             "asn": 2603,
             "country_code": "NO",
             "description": "NORDUnet",
@@ -7527,15 +7536,6 @@
             "speed": 0
         },
         {
-            "asn": 51907,
-            "country_code": "RU",
-            "description": "Frontier Network LLC",
-            "ipv4_address": "80.81.196.85",
-            "ipv6_address": "2001:7f8::cac3:0:1",
-            "name": "FRONTIERNETWORK-AS",
-            "speed": 1000
-        },
-        {
             "asn": 52091,
             "country_code": "RU",
             "description": "Level-MSK Ltd.",
@@ -8289,6 +8289,15 @@
             "ipv4_address": "80.81.195.175",
             "ipv6_address": "2001:7f8::fa60:0:1",
             "name": "BIH-Global",
+            "speed": 10000
+        },
+        {
+            "asn": 64124,
+            "country_code": "CO",
+            "description": "EDGEUNO SAS",
+            "ipv4_address": "80.81.196.213",
+            "ipv6_address": "2001:7f8::1c1b:0:1",
+            "name": "EDGEUNO SAS",
             "speed": 10000
         },
         {
@@ -9408,7 +9417,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 899,
+    "members_count": 900,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
