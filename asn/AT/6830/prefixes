@@ -15345,6 +15345,22 @@
             },
             "prefix": "2a0d:ed80:300::/40",
             "roa_status": "None"
+        },
+        {
+            "cidr": 32,
+            "country_code": "CH",
+            "description": "Helbling Holding AG",
+            "ip": "2a0f:f0c0::",
+            "name": "CH-HELBLING-20191216",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a0f:f0c0::",
+                "prefix": "2a0f:f0c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0f:f0c0::/32",
+            "roa_status": "None"
         }
     ]
 }
