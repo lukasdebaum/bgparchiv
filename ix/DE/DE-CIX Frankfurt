@@ -1539,7 +1539,7 @@
             "ipv4_address": "80.81.192.87",
             "ipv6_address": "2001:7f8::2204:0:1",
             "name": "RCS-RDS",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 8717,
@@ -2665,6 +2665,15 @@
             "ipv6_address": "2001:7f8::32c8:0:1",
             "name": "LEON-AS",
             "speed": 4000
+        },
+        {
+            "asn": 13002,
+            "country_code": "GB",
+            "description": "ISIX Communications LLP",
+            "ipv4_address": "80.81.194.23",
+            "ipv6_address": "2001:7f8::32ca:0:1",
+            "name": "ISIX-AS",
+            "speed": 10000
         },
         {
             "asn": 13030,
@@ -9417,7 +9426,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 900,
+    "members_count": 901,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
