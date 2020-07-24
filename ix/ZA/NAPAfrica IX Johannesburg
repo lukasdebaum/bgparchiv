@@ -378,7 +378,7 @@
             "ipv4_address": "196.60.8.166",
             "ipv6_address": "2001:43f8:6d0::a",
             "name": "GOOGLE",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 15169,
@@ -685,6 +685,15 @@
             "ipv6_address": "2001:43f8:6d0::215",
             "name": "LIQUID-AS",
             "speed": 30000
+        },
+        {
+            "asn": 30999,
+            "country_code": "MU",
+            "description": "Emtel is GSM, 3G and ISP in Mauritius",
+            "ipv4_address": "196.60.10.53",
+            "ipv6_address": "2001:43f8:6d0::10:53",
+            "name": "EMTEL-AS-AP",
+            "speed": 20000
         },
         {
             "asn": 32398,
@@ -3618,7 +3627,7 @@
             "ipv4_address": "196.60.9.122",
             "ipv6_address": "2001:43f8:6d0::9:122",
             "name": "Aerocom-AS",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 328317,
@@ -4314,7 +4323,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 374,
+    "members_count": 375,
     "name": "NAPAfrica IX Johannesburg",
     "name_full": "NAPAfrica IX Johannesburg",
     "policy_email": "nap@teraco.co.za",
