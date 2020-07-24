@@ -454,6 +454,22 @@
             "cidr": 48,
             "country_code": "AT",
             "description": "DSL Netze",
+            "ip": "2a02:2b10:43c1::",
+            "name": "DSL-Pool",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a02:2b10::",
+                "prefix": "2a02:2b10::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a02:2b10:43c1::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "DSL Netze",
             "ip": "2a02:2b10:43fd::",
             "name": "DSL-Pool",
             "parent": {
