@@ -1467,7 +1467,7 @@
             "ipv4_address": "80.249.208.51",
             "ipv6_address": "2001:7f8:1::a500:8708:1",
             "name": "RCS-RDS",
-            "speed": 100000
+            "speed": 200000
         },
         {
             "asn": 8717,
@@ -2242,6 +2242,15 @@
             "ipv6_address": "2001:7f8:1::a501:2989:1",
             "name": "HWNG",
             "speed": 200000
+        },
+        {
+            "asn": 13002,
+            "country_code": "GB",
+            "description": "ISIX Communications LLP",
+            "ipv4_address": "80.249.210.10",
+            "ipv6_address": "2001:7f8:1::a501:3002:1",
+            "name": "ISIX-AS",
+            "speed": 1000
         },
         {
             "asn": 13030,
@@ -8661,7 +8670,7 @@
             "speed": 1024
         }
     ],
-    "members_count": 854,
+    "members_count": 855,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
