@@ -2799,7 +2799,7 @@
             "ipv4_address": "80.81.195.41",
             "ipv6_address": "2001:7f8::339d:0:1",
             "name": "UK2NET-AS",
-            "speed": 100000
+            "speed": 40000
         },
         {
             "asn": 13237,
@@ -4046,10 +4046,10 @@
         {
             "asn": 23764,
             "country_code": "HK",
-            "description": "China Telecom Global Limited",
+            "description": "CTGNet",
             "ipv4_address": "80.81.196.114",
             "ipv6_address": "2001:7f8::1026:0:3",
-            "name": "CTGI-CLOUD",
+            "name": "CTGNet",
             "speed": 10000
         },
         {
@@ -7437,6 +7437,15 @@
             "speed": 0
         },
         {
+            "asn": 51095,
+            "country_code": "",
+            "description": "RIPE NCC ASN block",
+            "ipv4_address": "80.81.196.213",
+            "ipv6_address": "2001:7f8::1c1b:0:1",
+            "name": "RIPE NCC ASN block",
+            "speed": 10000
+        },
+        {
             "asn": 51167,
             "country_code": "DE",
             "description": "Contabo GmbH",
@@ -7758,7 +7767,7 @@
             "ipv4_address": "80.81.193.96",
             "ipv6_address": null,
             "name": "TELEHOUSE-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 57344,
@@ -7767,7 +7776,7 @@
             "ipv4_address": "80.81.194.183",
             "ipv6_address": null,
             "name": "TELEHOUSE-AS",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 57463,
@@ -8301,15 +8310,6 @@
             "speed": 10000
         },
         {
-            "asn": 64124,
-            "country_code": "CO",
-            "description": "EDGEUNO SAS",
-            "ipv4_address": "80.81.196.213",
-            "ipv6_address": "2001:7f8::1c1b:0:1",
-            "name": "EDGEUNO SAS",
-            "speed": 10000
-        },
-        {
             "asn": 64271,
             "country_code": "US",
             "description": "rixCloud",
@@ -8371,6 +8371,15 @@
             "ipv6_address": "2001:7f8::2:1c52:0:1",
             "name": "AWCC-AS-AP",
             "speed": 1000
+        },
+        {
+            "asn": 138915,
+            "country_code": "HK",
+            "description": "Kaopu Cloud HK Limited",
+            "ipv4_address": "80.81.196.191",
+            "ipv6_address": "2001:7f8::2:1ea3:0:1",
+            "name": "KAOPU-HK",
+            "speed": 10000
         },
         {
             "asn": 139742,
@@ -9426,7 +9435,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 901,
+    "members_count": 902,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
