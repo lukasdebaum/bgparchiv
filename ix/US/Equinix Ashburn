@@ -345,6 +345,15 @@
             "speed": 30000
         },
         {
+            "asn": 4557,
+            "country_code": "US",
+            "description": "Rice University",
+            "ipv4_address": "206.126.238.199",
+            "ipv6_address": "2001:504:0:2::4557:1",
+            "name": "SOUTHEAST-TEXAS-GIGAPOP",
+            "speed": 20000
+        },
+        {
             "asn": 4637,
             "country_code": "HK",
             "description": "Telstra Global",
@@ -415,15 +424,6 @@
             "ipv6_address": "2001:504:0:2::5650:2",
             "name": "FRONTIER-FRTR",
             "speed": 100000
-        },
-        {
-            "asn": 5769,
-            "country_code": "CA",
-            "description": "Videotron Telecom Ltee",
-            "ipv4_address": "206.126.236.76",
-            "ipv6_address": "2001:504:0:2::5769:1",
-            "name": "VIDEOTRON",
-            "speed": 20000
         },
         {
             "asn": 6059,
@@ -1704,15 +1704,6 @@
             "speed": 200000
         },
         {
-            "asn": 21371,
-            "country_code": "GB",
-            "description": "EQUINIX (SERVICES) LIMITED",
-            "ipv4_address": "206.126.237.29",
-            "ipv6_address": "2001:504:0:2:0:2:1371:1",
-            "name": "EQUINIX-UK-ASN",
-            "speed": 1000
-        },
-        {
             "asn": 21808,
             "country_code": "US",
             "description": "Peerless Network Inc",
@@ -2241,15 +2232,6 @@
             "ipv4_address": "206.126.238.78",
             "ipv6_address": "2001:504:0:2:0:3:2425:2",
             "name": "SKB3-ARIN-BGP",
-            "speed": 10000
-        },
-        {
-            "asn": 32479,
-            "country_code": "US",
-            "description": "OPENBAND MULTIMEDIA, LLC",
-            "ipv4_address": "206.126.237.102",
-            "ipv6_address": null,
-            "name": "OPENBAND",
             "speed": 10000
         },
         {
@@ -3441,7 +3423,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 327,
+    "members_count": 325,
     "name": "Equinix Ashburn",
     "name_full": "Equinix Ashburn Exchange",
     "policy_email": "support@equinix.com",
