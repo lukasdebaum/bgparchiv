@@ -1428,6 +1428,22 @@
         },
         {
             "cidr": 48,
+            "country_code": "AT",
+            "description": "ANEXIA Internetdienstleistungs GmbH",
+            "ip": "2a00:11c0:43::",
+            "name": "AT-ANEXIA-20090805",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a00:11c0::",
+                "prefix": "2a00:11c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a00:11c0:43::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
             "country_code": "EU",
             "description": "ANX Infrastructure Networks",
             "ip": "2a00:11c0:47::",
