@@ -1227,13 +1227,22 @@
             "speed": 1000
         },
         {
+            "asn": 37119,
+            "country_code": "AO",
+            "description": "Unitel SA",
+            "ipv4_address": "198.32.242.66",
+            "ipv6_address": "2001:504:0:6:0:3:7119:1",
+            "name": "unitel-AS",
+            "speed": 10000
+        },
+        {
             "asn": 37468,
             "country_code": "AO",
             "description": "ANGOLA Cables",
-            "ipv4_address": "198.32.125.217",
-            "ipv6_address": "2001:478:124::1017",
+            "ipv4_address": "198.32.243.217",
+            "ipv6_address": "2001:504:0:6:0:3:7468:1",
             "name": "ANGOLA-CABLES",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 40356,
@@ -1623,7 +1632,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 144,
+    "members_count": 145,
     "name": "Equinix Miami IX",
     "name_full": "Equinix Internet Exchange Miami",
     "policy_email": "support@equinix.com",
