@@ -1305,7 +1305,7 @@
             "ipv4_address": "80.249.212.141",
             "ipv6_address": "2001:7f8:1::a500:8462:1",
             "name": "TARR1",
-            "speed": 5000
+            "speed": 10000
         },
         {
             "asn": 8468,
@@ -2871,7 +2871,7 @@
             "ipv4_address": "80.249.208.117",
             "ipv6_address": "2001:7f8:1::a501:6637:2",
             "name": "MTNNS-AS",
-            "speed": 40000
+            "speed": 50000
         },
         {
             "asn": 16839,
@@ -4082,7 +4082,7 @@
         {
             "asn": 29791,
             "country_code": "US",
-            "description": "Internap Corporation",
+            "description": "Internap Holding LLC",
             "ipv4_address": "80.249.209.187",
             "ipv6_address": "2001:7f8:1::a502:9791:1",
             "name": "VOXEL-DOT-NET",
@@ -7554,6 +7554,15 @@
             "speed": 10000
         },
         {
+            "asn": 61157,
+            "country_code": "DE",
+            "description": "PlusServer GmbH",
+            "ipv4_address": "80.249.214.89",
+            "ipv6_address": "2001:7f8:1::a506:1157:1",
+            "name": "PLUSSERVER-ASN1",
+            "speed": 10000
+        },
+        {
             "asn": 61200,
             "country_code": "NL",
             "description": "MediaMonks Multimedia Holding B.V.",
@@ -8688,7 +8697,7 @@
             "speed": 1024
         }
     ],
-    "members_count": 857,
+    "members_count": 858,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
