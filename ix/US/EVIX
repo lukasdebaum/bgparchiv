@@ -140,9 +140,18 @@
         {
             "asn": 41255,
             "country_code": "GB",
-            "description": "Alanyhq Networks Limited",
+            "description": "Alanyhq Networks",
             "ipv4_address": null,
             "ipv6_address": "2602:fed2:fff:ffff:6::23",
+            "name": "Alanyhq-Networks-AS",
+            "speed": 1000
+        },
+        {
+            "asn": 41255,
+            "country_code": "GB",
+            "description": "Alanyhq Networks",
+            "ipv4_address": null,
+            "ipv6_address": "2602:fed2:fff:ffff:6::3c",
             "name": "Alanyhq-Networks-AS",
             "speed": 1000
         },
@@ -930,15 +939,6 @@
             "speed": 250
         },
         {
-            "asn": 208907,
-            "country_code": "GB",
-            "description": "RISINGBRIDGE NETWORK",
-            "ipv4_address": "206.81.104.180",
-            "ipv6_address": "2602:fed2:fff:ffff::180",
-            "name": "RISINGBRIDGE",
-            "speed": 0
-        },
-        {
             "asn": 209022,
             "country_code": "GB",
             "description": "Tschajera Limited",
@@ -1299,7 +1299,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 142,
+    "members_count": 141,
     "name": "EVIX",
     "name_full": "Experimental Virtual Internet Exchange",
     "policy_email": "peering@evix.org",
