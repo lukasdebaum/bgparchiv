@@ -340,7 +340,7 @@
             "country_code": "US",
             "description": "subspace",
             "ipv4_address": "185.1.8.52",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:73::7e05:0:1",
             "name": "SUBSPACE",
             "speed": 30000
         },
@@ -437,7 +437,7 @@
         {
             "asn": 42695,
             "country_code": "SE",
-            "description": "City Network Hosting AB",
+            "description": "City Network International AB",
             "ipv4_address": "185.1.8.72",
             "ipv6_address": "2001:7f8:73::a6c7:0:1",
             "name": "CNHAB",
@@ -597,6 +597,15 @@
             "speed": 10000
         },
         {
+            "asn": 60849,
+            "country_code": "JO",
+            "description": "iLevant FZE",
+            "ipv4_address": "185.1.8.96",
+            "ipv6_address": "2001:7f8:73::edb1:0:1",
+            "name": "iLevant-as",
+            "speed": 1000
+        },
+        {
             "asn": 60924,
             "country_code": "AE",
             "description": "Orixcom DMCC",
@@ -750,7 +759,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 71,
+    "members_count": 72,
     "name": "UAE-IX",
     "name_full": "UAE-IX powered by DE-CIX",
     "policy_email": "sales@uae-ix.net",
