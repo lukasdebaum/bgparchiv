@@ -4529,6 +4529,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "UTA Telekom AG",
+            "ip": "81.189.27.0",
+            "name": "UTA-ADSL-NET3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "81.189.0.0",
+                "prefix": "81.189.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.189.27.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 22,
             "country_code": "AT",
             "description": "UTA Telekom AG",
