@@ -1566,16 +1566,7 @@
             "ipv4_address": "123.255.91.200",
             "ipv6_address": "2001:7fa:0:1::ca28:a1c8",
             "name": "ISC-HKG1",
-            "speed": 1000
-        },
-        {
-            "asn": 23709,
-            "country_code": "HK",
-            "description": "Internet Systems Consortium, Inc.",
-            "ipv4_address": "123.255.91.202",
-            "ipv6_address": "2001:7fa:0:1::ca28:a1ca",
-            "name": "ISC-HKG1",
-            "speed": 1000
+            "speed": 10000
         },
         {
             "asn": 23881,
@@ -2206,6 +2197,15 @@
             "ipv6_address": "2001:7fa:0:1::ca28:a05f",
             "name": "ansonnet-as-uk",
             "speed": 100000
+        },
+        {
+            "asn": 48024,
+            "country_code": "GB",
+            "description": "NEROCLOUD LTD",
+            "ipv4_address": "123.255.92.56",
+            "ipv6_address": "2001:7fa:0:1::ca28:a238",
+            "name": "NEROCLOUD",
+            "speed": 10000
         },
         {
             "asn": 49544,
@@ -3135,7 +3135,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 268,
+    "members_count": 269,
     "name": "HKIX",
     "name_full": "Hong Kong Internet Exchange",
     "policy_email": "info@hkix.net",
