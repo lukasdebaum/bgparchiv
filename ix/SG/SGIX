@@ -1279,9 +1279,18 @@
             "ipv6_address": "2001:de8:12:100::101",
             "name": "CENTRALNIC-ANYCAST-A",
             "speed": 1000
+        },
+        {
+            "asn": 202053,
+            "country_code": "FI",
+            "description": "UpCloud Ltd",
+            "ipv4_address": "103.16.102.177",
+            "ipv6_address": "2001:de8:12:100::177",
+            "name": "UPCLOUD",
+            "speed": 10000
         }
     ],
-    "members_count": 127,
+    "members_count": 128,
     "name": "SGIX",
     "name_full": "Singapore Internet Exchange",
     "policy_email": "ops@sgix.sg",
