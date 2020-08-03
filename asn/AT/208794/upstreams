@@ -3,6 +3,12 @@
     "ipv4_graph": "https://api.bgpview.io/assets/graphs/AS208794_IPv4.svg",
     "ipv4_upstreams": [
         {
+            "asn": 39912,
+            "country_code": "AT",
+            "description": "oja.at GmbH",
+            "name": "i3B-AS"
+        },
+        {
             "asn": 61438,
             "country_code": "AT",
             "description": "ip-it consult GmbH",
@@ -12,10 +18,10 @@
     "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS208794_IPv6.svg",
     "ipv6_upstreams": [
         {
-            "asn": 61438,
+            "asn": 39912,
             "country_code": "AT",
-            "description": "ip-it consult GmbH",
-            "name": "IP-IT-AS"
+            "description": "oja.at GmbH",
+            "name": "i3B-AS"
         }
     ]
 }
