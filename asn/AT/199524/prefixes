@@ -4739,6 +4739,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 48,
+            "country_code": "BR",
+            "description": "GCORE CUSTOMER ALLOCATION",
+            "ip": "2a03:90c0:184::",
+            "name": "GCORE-CUSTOMER-ALLOCATION",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:90c0::",
+                "prefix": "2a03:90c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:90c0:184::/48",
+            "roa_status": "None"
+        },
+        {
             "cidr": 44,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
