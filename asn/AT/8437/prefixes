@@ -625,54 +625,6 @@
             "roa_status": "None"
         },
         {
-            "cidr": 15,
-            "country_code": null,
-            "description": null,
-            "ip": "198.18.0.0",
-            "name": null,
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": null,
-                "ip": null,
-                "prefix": null,
-                "rir_name": null
-            },
-            "prefix": "198.18.0.0/15",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": null,
-            "description": null,
-            "ip": "198.51.100.0",
-            "name": null,
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": null,
-                "ip": null,
-                "prefix": null,
-                "rir_name": null
-            },
-            "prefix": "198.51.100.0/24",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": null,
-            "description": null,
-            "ip": "203.0.113.0",
-            "name": null,
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": null,
-                "ip": null,
-                "prefix": null,
-                "rir_name": null
-            },
-            "prefix": "203.0.113.0/24",
-            "roa_status": "None"
-        },
-        {
             "cidr": 17,
             "country_code": "AT",
             "description": "Network of Hutchison Drei Austria GmbH",
@@ -4510,6 +4462,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "81.189.24.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": "AT",
+            "description": "UTA Telekom AG",
+            "ip": "81.189.25.0",
+            "name": "UTA-ADSL-NET3",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 16,
+                "ip": "81.189.0.0",
+                "prefix": "81.189.0.0/16",
+                "rir_name": "RIPE"
+            },
+            "prefix": "81.189.25.0/24",
             "roa_status": "None"
         },
         {
