@@ -430,18 +430,18 @@
             "country_code": "KR",
             "description": "Kakao Corp",
             "ipv4_address": "192.145.251.135",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7fa:8::45",
             "name": "KAKAO-10158-AS-KR",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 10158,
             "country_code": "KR",
             "description": "Kakao Corp",
             "ipv4_address": "192.145.251.136",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7fa:8::46",
             "name": "KAKAO-10158-AS-KR",
-            "speed": 10000
+            "speed": 20000
         },
         {
             "asn": 10160,
@@ -640,6 +640,15 @@
             "ipv6_address": "2001:7fa:8::21",
             "name": "DENIC-ANYCAST-AS",
             "speed": 1000
+        },
+        {
+            "asn": 32261,
+            "country_code": "US",
+            "description": "subspace",
+            "ipv4_address": "192.145.251.170",
+            "ipv6_address": "2001:7fa:8::2b",
+            "name": "SUBSPACE",
+            "speed": 10000
         },
         {
             "asn": 36351,
@@ -930,7 +939,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 65,
+    "members_count": 66,
     "name": "KINX",
     "name_full": "Korean Internet Neutral Exchange",
     "policy_email": "network@kinx.net",
