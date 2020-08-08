@@ -1,6 +1,22 @@
 {
     "ipv4_prefixes": [
         {
+            "cidr": 23,
+            "country_code": "CN",
+            "description": "CECT-CHINACOMM COMMUNICATIONS Co.,Ltd.",
+            "ip": "124.68.252.0",
+            "name": "CHINACOMM",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 14,
+                "ip": "124.68.0.0",
+                "prefix": "124.68.0.0/14",
+                "rir_name": "APNIC"
+            },
+            "prefix": "124.68.252.0/23",
+            "roa_status": "None"
+        },
+        {
             "cidr": 24,
             "country_code": "MX",
             "description": "ANEXIA SOUTH AMERICA SOCIEDAD ANONIMA",
