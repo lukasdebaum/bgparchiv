@@ -562,6 +562,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "HK",
+            "description": "Shanghai Huajuan Information Technology Co., Ltd.",
+            "ip": "185.255.153.0",
+            "name": "Shanghai-Huajuan-Information-Technology-Co-Ltd",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 22,
+                "ip": "185.255.152.0",
+                "prefix": "185.255.152.0/22",
+                "rir_name": "RIPE"
+            },
+            "prefix": "185.255.153.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "US",
             "description": "Wargaming America Inc.",
             "ip": "192.108.254.0",
@@ -5056,6 +5072,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:2c0::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "LU",
+            "description": "G-Core Labs S.A.",
+            "ip": "2a03:90c0:2e0::",
+            "name": "LU-GCORELABS-20121207",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:90c0::",
+                "prefix": "2a03:90c0::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:90c0:2e0::/44",
             "roa_status": "None"
         },
         {
