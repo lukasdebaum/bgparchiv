@@ -297,7 +297,7 @@
             "ipv4_address": "195.66.224.161",
             "ipv6_address": "2001:7f8:4::a33:1",
             "name": "BELNET",
-            "speed": 20000
+            "speed": 30000
         },
         {
             "asn": 2635,
@@ -1394,6 +1394,15 @@
             "description": "Sure (Guernsey) Limited",
             "ipv4_address": "195.66.225.116",
             "ipv6_address": "2001:7f8:4::21e8:1",
+            "name": "SURE-International-Limited",
+            "speed": 20000
+        },
+        {
+            "asn": 8680,
+            "country_code": "GB",
+            "description": "Sure (Guernsey) Limited",
+            "ipv4_address": "195.66.227.188",
+            "ipv6_address": "2001:7f8:4::21e8:2",
             "name": "SURE-International-Limited",
             "speed": 20000
         },
@@ -7698,15 +7707,6 @@
             "speed": 10000
         },
         {
-            "asn": 268331,
-            "country_code": "BR",
-            "description": "LINK BARATO.COM TELECOMUNICACOES EIRELI",
-            "ipv4_address": "195.66.227.188",
-            "ipv6_address": "2001:7f8:4::4:182b:1",
-            "name": "LINK BARATO.COM TELECOMUNICACOES EIRELI",
-            "speed": 500
-        },
-        {
             "asn": 327756,
             "country_code": "TD",
             "description": "Airtel Tchad",
@@ -7770,7 +7770,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 780,
+    "members_count": 779,
     "name": "LINX LON1",
     "name_full": "London Internet Exchange Ltd.",
     "policy_email": "info@linx.net",
