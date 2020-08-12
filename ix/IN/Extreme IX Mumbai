@@ -156,15 +156,6 @@
             "speed": 6000
         },
         {
-            "asn": 17483,
-            "country_code": "IN",
-            "description": "CityOnline Services Ltd",
-            "ipv4_address": "103.77.108.247",
-            "ipv6_address": "2001:df2:1900:2::247",
-            "name": "CITYSERV-AS-AP",
-            "speed": 10000
-        },
-        {
             "asn": 17625,
             "country_code": "IN",
             "description": "BlazeNet's Network",
@@ -178,7 +169,7 @@
             "country_code": "IN",
             "description": "AS Number of Indusind Media and communication Ltd.",
             "ipv4_address": "103.77.108.84",
-            "ipv6_address": null,
+            "ipv6_address": "2001:df2:1900:2::84",
             "name": "IN2CABLE-AP",
             "speed": 20000
         },
@@ -468,7 +459,7 @@
             "ipv4_address": "103.77.108.108",
             "ipv6_address": "2001:df2:1900:2::108",
             "name": "LLNW-IN",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 55429,
@@ -477,7 +468,7 @@
             "ipv4_address": "103.77.108.131",
             "ipv6_address": "2001:df2:1900:2::131",
             "name": "LLNW-IN",
-            "speed": 20000
+            "speed": 100000
         },
         {
             "asn": 55814,
@@ -1227,15 +1218,6 @@
             "speed": 10000
         },
         {
-            "asn": 135780,
-            "country_code": "IN",
-            "description": "AirFiber Networks Pvt Ltd",
-            "ipv4_address": "103.77.108.104",
-            "ipv6_address": "2001:df2:1900:2::104",
-            "name": "AIRFIBER-AS",
-            "speed": 3000
-        },
-        {
             "asn": 135795,
             "country_code": "IN",
             "description": "Silicon Care Broadnet Pvt Ltd.",
@@ -1650,6 +1632,15 @@
             "speed": 1000
         },
         {
+            "asn": 140144,
+            "country_code": "IN",
+            "description": "Vcitynet Opc Pvt Ltd",
+            "ipv4_address": "103.77.108.93",
+            "ipv6_address": null,
+            "name": "VCITYNET-AS",
+            "speed": 1000
+        },
+        {
             "asn": 199524,
             "country_code": "AT",
             "description": "G-Core Labs S.A.",
@@ -1659,7 +1650,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 170,
+    "members_count": 169,
     "name": "Extreme IX Mumbai",
     "name_full": "ExtremeIX Mumbai",
     "policy_email": "ix@x3me.net",
