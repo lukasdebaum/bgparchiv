@@ -1538,6 +1538,22 @@
         },
         {
             "cidr": 24,
+            "country_code": "RU",
+            "description": "net for depo40.ru",
+            "ip": "5.189.201.0",
+            "name": "DEPO-NET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 21,
+                "ip": "5.189.200.0",
+                "prefix": "5.189.200.0/21",
+                "rir_name": "RIPE"
+            },
+            "prefix": "5.189.201.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
             "country_code": "US",
             "description": "G-Core Labs S.A.",
             "ip": "5.189.220.0",
@@ -5014,22 +5030,6 @@
             "cidr": 44,
             "country_code": "LU",
             "description": "G-Core Labs S.A.",
-            "ip": "2a03:90c0:290::",
-            "name": "LU-GCORELABS-20121207",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 32,
-                "ip": "2a03:90c0::",
-                "prefix": "2a03:90c0::/32",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a03:90c0:290::/44",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 44,
-            "country_code": "LU",
-            "description": "G-Core Labs S.A.",
             "ip": "2a03:90c0:2a0::",
             "name": "LU-GCORELABS-20121207",
             "parent": {
@@ -5456,6 +5456,22 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a03:90c0:f0::/44",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 44,
+            "country_code": "RU",
+            "description": "Huajuan Enterprise Solutions - Khabarovsk",
+            "ip": "2a0b:4340:500::",
+            "name": "HUAJUAN-KHV",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 29,
+                "ip": "2a0b:4340::",
+                "prefix": "2a0b:4340::/29",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a0b:4340:500::/44",
             "roa_status": "None"
         }
     ]
