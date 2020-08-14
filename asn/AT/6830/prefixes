@@ -7105,6 +7105,22 @@
             "roa_status": "None"
         },
         {
+            "cidr": 24,
+            "country_code": "US",
+            "description": "Amateur Radio Digital Communications",
+            "ip": "44.182.6.0",
+            "name": "AMPRNET",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 10,
+                "ip": "44.128.0.0",
+                "prefix": "44.128.0.0/10",
+                "rir_name": "ARIN"
+            },
+            "prefix": "44.182.6.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 15,
             "country_code": "CH",
             "description": "UPC Schweiz GmbH",
