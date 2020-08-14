@@ -47,22 +47,6 @@
             },
             "prefix": "185.121.177.0/24",
             "roa_status": "None"
-        },
-        {
-            "cidr": 24,
-            "country_code": "HR",
-            "description": "cd1562ff 685a 4a8a 9958 8f220172ed2a",
-            "ip": "185.242.212.0",
-            "name": "cd1562ff-685a-4a8a-9958-8f220172ed2a",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 22,
-                "ip": "185.242.212.0",
-                "prefix": "185.242.212.0/22",
-                "rir_name": "RIPE"
-            },
-            "prefix": "185.242.212.0/24",
-            "roa_status": "None"
         }
     ],
     "ipv6_prefixes": [
@@ -112,38 +96,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "2a05:dfc7:dfc7::/48",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 30,
-            "country_code": "NL",
-            "description": "FFF",
-            "ip": "2a06:9f40::",
-            "name": "FF",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 29,
-                "ip": "2a06:9f40::",
-                "prefix": "2a06:9f40::/29",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a06:9f40::/30",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 32,
-            "country_code": "EU",
-            "description": "TestNet",
-            "ip": "2a07:1c43::",
-            "name": "TestNet",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 29,
-                "ip": "2a07:1c40::",
-                "prefix": "2a07:1c40::/29",
-                "rir_name": "RIPE"
-            },
-            "prefix": "2a07:1c43::/32",
             "roa_status": "None"
         }
     ]
