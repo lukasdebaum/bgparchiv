@@ -759,15 +759,6 @@
             "speed": 100
         },
         {
-            "asn": 5563,
-            "country_code": "RU",
-            "description": "Ural Regional Net",
-            "ipv4_address": "80.81.193.190",
-            "ipv6_address": "2001:7f8::15bb:0:1",
-            "name": "URAL",
-            "speed": 5000
-        },
-        {
             "asn": 5578,
             "country_code": "SK",
             "description": "Bratislava, Slovak Republic",
@@ -8193,6 +8184,15 @@
             "speed": 10000
         },
         {
+            "asn": 61599,
+            "country_code": "BR",
+            "description": "EAI TELECOMUNICACOES LTDA",
+            "ipv4_address": "80.81.196.219",
+            "ipv6_address": "2001:7f8::f09f:0:1",
+            "name": "EAI TELECOMUNICACOES LTDA",
+            "speed": 10000
+        },
+        {
             "asn": 61832,
             "country_code": "BR",
             "description": "Fortel Fortaleza Telecomunicacoes Ltda",
@@ -9201,24 +9201,6 @@
             "speed": 1000
         },
         {
-            "asn": 207419,
-            "country_code": "DE",
-            "description": "hybris GmbH",
-            "ipv4_address": "80.81.196.150",
-            "ipv6_address": "2001:7f8::3:222c:0:4",
-            "name": "hybris",
-            "speed": 5000
-        },
-        {
-            "asn": 207419,
-            "country_code": "DE",
-            "description": "hybris GmbH",
-            "ipv4_address": "80.81.196.136",
-            "ipv6_address": "2001:7f8::3:222c:0:1",
-            "name": "hybris",
-            "speed": 5000
-        },
-        {
             "asn": 207534,
             "country_code": "GB",
             "description": "ORIS GLOBAL NETWORKS LTD",
@@ -9270,6 +9252,24 @@
             "ipv4_address": "80.81.196.47",
             "ipv6_address": "2001:7f8::3:31f8:0:1",
             "name": "KurpfalzTEL",
+            "speed": 5000
+        },
+        {
+            "asn": 212794,
+            "country_code": "DE",
+            "description": "SAP SE",
+            "ipv4_address": "80.81.196.150",
+            "ipv6_address": "2001:7f8::3:222c:0:4",
+            "name": "SAP_GARDENER",
+            "speed": 5000
+        },
+        {
+            "asn": 212794,
+            "country_code": "DE",
+            "description": "SAP SE",
+            "ipv4_address": "80.81.196.136",
+            "ipv6_address": "2001:7f8::3:222c:0:1",
+            "name": "SAP_GARDENER",
             "speed": 5000
         },
         {
@@ -9489,6 +9489,15 @@
             "speed": 1024
         },
         {
+            "asn": 328320,
+            "country_code": "ZA",
+            "description": "Kurlec Wireless (PTY) Ltd",
+            "ipv4_address": "80.81.196.231",
+            "ipv6_address": null,
+            "name": "Kurlec-AS",
+            "speed": 1000
+        },
+        {
             "asn": 396986,
             "country_code": "US",
             "description": "Bytedance Inc.",
@@ -9507,7 +9516,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 907,
+    "members_count": 908,
     "name": "DE-CIX Frankfurt",
     "name_full": "Deutscher Commercial Internet Exchange",
     "policy_email": "sales@de-cix.net",
