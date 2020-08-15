@@ -313,7 +313,7 @@
             "country_code": "AU",
             "description": "Asia Pacific Network Information Centre",
             "ipv4_address": "80.249.214.84",
-            "ipv6_address": null,
+            "ipv6_address": "2001:7f8:1::a500:2518:1",
             "name": "APNIC-AS-X-BLOCK",
             "speed": 10000
         },
@@ -766,15 +766,6 @@
             "ipv6_address": "2001:7f8:1::a500:5560:1",
             "name": "AS-BICS-INSTANT-PEERING",
             "speed": 100
-        },
-        {
-            "asn": 5563,
-            "country_code": "RU",
-            "description": "Ural Regional Net",
-            "ipv4_address": "80.249.212.108",
-            "ipv6_address": "2001:7f8:1::a500:5563:1",
-            "name": "URAL",
-            "speed": 2000
         },
         {
             "asn": 5568,
@@ -8715,7 +8706,7 @@
             "speed": 1000
         }
     ],
-    "members_count": 858,
+    "members_count": 857,
     "name": "AMS-IX",
     "name_full": "Amsterdam Internet Exchange",
     "policy_email": "info@ams-ix.net",
