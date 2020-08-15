@@ -366,15 +366,6 @@
             "asn": 23860,
             "country_code": "IN",
             "description": "Alliance Broadband Services Pvt. Ltd.",
-            "ipv4_address": "103.27.171.27",
-            "ipv6_address": "2401:7500:fff6::3d",
-            "name": "ALLIANCE-GATEWAY-AS-AP",
-            "speed": 10000
-        },
-        {
-            "asn": 23860,
-            "country_code": "IN",
-            "description": "Alliance Broadband Services Pvt. Ltd.",
             "ipv4_address": "103.27.170.14",
             "ipv6_address": "2401:7500:fff6::14",
             "name": "ALLIANCE-GATEWAY-AS-AP",
@@ -388,6 +379,15 @@
             "ipv6_address": "2401:7500:fff6::26",
             "name": "RAILTEL-AS-IN",
             "speed": 10000
+        },
+        {
+            "asn": 24482,
+            "country_code": "SG",
+            "description": "SG.GS",
+            "ipv4_address": "103.27.171.33",
+            "ipv6_address": "2401:7500:fff6::3d",
+            "name": "SGGS-AS-AP",
+            "speed": 1000
         },
         {
             "asn": 24554,
@@ -576,7 +576,7 @@
             "ipv4_address": "103.27.170.181",
             "ipv6_address": "2401:7500:fff6::181",
             "name": "SIKKANET-AS-AP",
-            "speed": 6000
+            "speed": 10000
         },
         {
             "asn": 47787,
@@ -2217,7 +2217,7 @@
             "speed": 10000
         }
     ],
-    "members_count": 232,
+    "members_count": 233,
     "name": "DE-CIX Mumbai",
     "name_full": "DE-CIX Mumbai",
     "policy_email": "operations@de-cix.in",
