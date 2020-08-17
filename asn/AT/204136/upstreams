@@ -24,6 +24,12 @@
     "ipv6_graph": "https://api.bgpview.io/assets/graphs/AS204136_IPv6.svg",
     "ipv6_upstreams": [
         {
+            "asn": 6939,
+            "country_code": "US",
+            "description": "Hurricane Electric LLC",
+            "name": "HURRICANE"
+        },
+        {
             "asn": 20473,
             "country_code": "US",
             "description": "Choopa, LLC",
@@ -34,12 +40,6 @@
             "country_code": "NL",
             "description": "NForce Entertainment B.V.",
             "name": "NFORCE"
-        },
-        {
-            "asn": 56655,
-            "country_code": "NO",
-            "description": "TerraHost AS",
-            "name": "TERRAHOST"
         },
         {
             "asn": 61138,
