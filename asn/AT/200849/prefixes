@@ -81,6 +81,38 @@
             },
             "prefix": "2a03:8d20:1182::/48",
             "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Martin Fassl trading as fassma.net e.U.",
+            "ip": "2a03:8d20:8000::",
+            "name": "AT-FASSMANET-20150319",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:8d20::",
+                "prefix": "2a03:8d20::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:8d20:8000::/48",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 48,
+            "country_code": "AT",
+            "description": "Martin Fassl trading as fassma.net e.U.",
+            "ip": "2a03:8d20::",
+            "name": "fassma_net-Server-NetV6",
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": 32,
+                "ip": "2a03:8d20::",
+                "prefix": "2a03:8d20::/32",
+                "rir_name": "RIPE"
+            },
+            "prefix": "2a03:8d20::/48",
+            "roa_status": "None"
         }
     ]
 }
