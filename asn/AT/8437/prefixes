@@ -609,6 +609,54 @@
             "roa_status": "None"
         },
         {
+            "cidr": 15,
+            "country_code": null,
+            "description": null,
+            "ip": "198.18.0.0",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "198.18.0.0/15",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": null,
+            "description": null,
+            "ip": "198.51.100.0",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "198.51.100.0/24",
+            "roa_status": "None"
+        },
+        {
+            "cidr": 24,
+            "country_code": null,
+            "description": null,
+            "ip": "203.0.113.0",
+            "name": null,
+            "parent": {
+                "allocation_status": "unknown",
+                "cidr": null,
+                "ip": null,
+                "prefix": null,
+                "rir_name": null
+            },
+            "prefix": "203.0.113.0/24",
+            "roa_status": "None"
+        },
+        {
             "cidr": 17,
             "country_code": "AT",
             "description": "Network of Hutchison Drei Austria GmbH",
@@ -2990,22 +3038,6 @@
                 "rir_name": "RIPE"
             },
             "prefix": "46.57.72.0/22",
-            "roa_status": "None"
-        },
-        {
-            "cidr": 23,
-            "country_code": "AT",
-            "description": "Network of Hutchison Drei Austria GmbH",
-            "ip": "46.57.78.0",
-            "name": "AT-ONE-POOL8",
-            "parent": {
-                "allocation_status": "unknown",
-                "cidr": 17,
-                "ip": "46.57.0.0",
-                "prefix": "46.57.0.0/17",
-                "rir_name": "RIPE"
-            },
-            "prefix": "46.57.78.0/23",
             "roa_status": "None"
         },
         {
